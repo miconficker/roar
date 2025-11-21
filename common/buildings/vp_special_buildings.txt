@@ -1,0 +1,137 @@
+##################
+# Borobudur Temple
+##################
+
+borobudur_temple_01 = {
+	# vanilla is borobudur_01
+
+	asset = {
+		type = pdxmesh
+		name = "building_special_borobudur_temple_mesh"
+	}
+
+	construction_time = very_slow_construction_time
+	cost_gold = 1000
+	type_icon = "icon_sea_borobudur.dds"
+
+	can_construct_potential = {
+		building_requirement_tribal = no
+	}
+	can_construct = {
+		scope:holder = {
+			culture = {
+				has_innovation = innovation_manorialism
+			}
+		}
+	}
+	is_enabled = {
+		custom_description = {
+			text = buddhas_of_bamian_trigger
+			scope:holder = {
+				religion = { is_in_family = rf_eastern }
+			}
+		}
+	}
+	show_disabled = yes
+
+	character_modifier = {
+		diplomacy_per_piety_level = 1
+		same_faith_opinion = 5
+	}
+
+	county_modifier = {
+		tax_mult = 0.05
+		development_growth_factor = 0.05
+		development_growth = 0.1
+	}
+
+	ai_value = {
+		base = 100
+	}
+
+	type = special
+
+	flag = travel_point_of_interest_religious
+}
+
+############
+# Angkor Wat
+############
+
+sea_angkor_wat_01 = {
+    # vanilla is angkor_wat_01
+
+	asset = {
+		type = pdxmesh
+		name = "wonder_angkorwat_01_mesh"
+	}
+
+	construction_time = very_slow_construction_time
+	type_icon = "icon_sea_angkor_wat.dds"
+
+	can_construct_potential = {
+		always = yes
+	}
+	show_disabled = yes
+
+	is_enabled = {
+		custom_description = {
+			text = angkor_wat_holder_requirement
+			scope:holder = {
+				OR = {
+					religion = religion:buddhism_religion
+					religion = religion:hinduism_religion
+				}
+			}
+		}
+	}
+
+	character_modifier = {
+		monthly_dynasty_prestige_mult = 0.05
+		monthly_county_control_growth_factor = 0.1
+		monthly_piety = 0.5
+		knight_effectiveness_mult = 0.1
+	}
+
+	county_modifier = {
+		tax_mult = 0.2
+		development_growth_factor = 0.3
+		development_growth = 0.2
+	}
+
+	province_modifier = {
+		monthly_income = 3
+		fort_level = 2
+	}
+
+	ai_value = {
+		base = 100
+	}
+
+	type = special
+
+	flag = travel_point_of_interest_religious
+}
+
+##############
+# Pura Besakih
+##############
+# crossed out stuff we might want to add to the overwrite of vanilla's version
+#pura_besakih_01 = {
+    # vanilla version is besakih_temple_01
+
+	#asset = {
+		#type = pdxmesh
+		#name = "building_special_prambanan_temple_mesh"
+	#}
+
+	#is_enabled = {
+		#custom_description = {
+			#text = buddhas_of_bamian_trigger
+			#scope:holder = {
+				#religion = { is_in_family = rf_eastern }
+			#}
+		#}
+	#}
+	#show_disabled = yes
+#}
