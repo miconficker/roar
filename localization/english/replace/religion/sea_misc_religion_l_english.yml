@@ -29,6 +29,10 @@
  tenet_rationalism_confucianism_name:0 "Four Books"
  tenet_unrelenting_faith_confucianism_name:0 "Rangyi"
 
+ # Holy Sites - Dharmic
+ holy_site_shikharj_name:0 "Shikharji"
+ holy_site_shikharj_effect_name:0 "From [holy_site|E] #weak ($holy_site_shikharj_name$)#!"
+
  # Holy Sites
  holy_site_tran_quoc_name:0 "Trấn Quốc"
  holy_site_tran_quoc_effect_name:0 "From [holy_site|E] #weak ($holy_site_tran_quoc_name$)#!"
@@ -289,8 +293,6 @@
  holy_site_nachijin_effect_name:0 "From [holy_site|E] #weak ($holy_site_nachijin_name$)#!"
  holy_site_nakhon_phanom_name:0 "Nakhon Phanom"
  holy_site_nakhon_phanom_effect_name:0 "From [holy_site|E] #weak ($holy_site_nakhon_phanom_name$)#!"
- holy_site_nalanda_name:0 "Nalanda"
- holy_site_nalanda_effect_name:0 "From [holy_site|E] #weak ($holy_site_nalanda_name$)#!"
  holy_site_namtso_name:0 "Namtso"
  holy_site_namtso_effect_name:0 "From [holy_site|E] #weak ($holy_site_namtso_name$)#!"
  holy_site_nanhanseong_name:0 "Nanhanseong"
@@ -377,8 +379,6 @@
  holy_site_seponh_effect_name:0 "From [holy_site|E] #weak ($holy_site_seponh_name$)#!"
  holy_site_sharada_peeth_name:0 "Sharada Peeth"
  holy_site_sharada_peeth_effect_name:0 "From [holy_site|E] #weak ($holy_site_sharada_peeth_name$)#!"
- holy_site_shikharji_name:0 "Shikharji"
- holy_site_shikharji_effect_name:0 "From [holy_site|E] #weak ($holy_site_shikharji_name$)#!"
  holy_site_shravana_belgola_name:0 "Shravana Belgola"
  holy_site_shravana_belgola_effect_name:0 "From [holy_site|E] #weak ($holy_site_shravana_belgola_name$)#!"
  holy_site_sibsongbanna_name:0 "Sibsongbanna"

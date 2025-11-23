@@ -326,7 +326,6 @@
 			}
 
 			localization = {
-
 				HighGodName = khurmazta_high_god_name
 				HighGodNamePossessive = khurmazta_high_god_name_possessive
 				FertilityGodName = khurmazta_fertility_god_name
