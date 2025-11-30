@@ -71509,193 +71509,6 @@ e_andong = {
 		}
     }
 
-    k_solon = {
-
-		d_16516 = {
-			c_16516 = {
-				b_16516 = {
-					province = 16516
-				}
-				b_16394 = {
-					province = 16394
-				}
-				b_16103 = {
-					province = 16103
-				}
-			}
-			c_15919 = {
-				b_15919 = {
-					province = 15919
-				}
-				b_16161 = {
-					province = 16161
-				}
-				b_15860 = {
-					province = 15860
-				}
-				b_15715 = {
-					province = 15715
-				}
-			}
-			c_15915 = {
-				b_15915 = {
-					province = 15915
-				}
-				b_15820 = {
-					province = 15820
-				}
-				b_15504 = {
-					province = 15504
-				}
-			}
-		}
-		d_15320 = {
-			c_15320 = {
-				b_15320 = {
-					province = 15320
-				}
-				b_15292 = {
-					province = 15292
-				}
-			}
-			c_15503 = {
-				b_15503 = {
-					province = 15503
-				}
-				b_15295 = {
-					province = 15295
-				}
-				b_15440 = {
-					province = 15440
-				}
-			}
-			c_15291 = {
-				b_15291 = {
-					province = 15291
-				}
-				b_16817 = {
-					province = 16817
-				}
-			}
-			c_15293 = {
-				b_15293 = {
-					province = 15293
-				}
-				b_17011 = {
-					province = 17011
-				}
-				b_16797 = {
-					province = 16797
-				}
-			}
-			c_16733 = {
-				b_16733 = {
-					province = 16733
-				}
-				b_17091 = {
-					province = 17091
-				}
-				b_15294 = {
-					province = 15294
-				}
-				b_15296 = {
-					province = 15296
-				}
-			}
-		}
-		d_15389 = {
-			c_15389 = {
-				b_15389 = {
-					province = 15389
-				}
-				b_15298 = {
-					province = 15298
-				}
-				b_15300 = {
-					province = 15300
-				}
-				b_15299 = {
-					province = 15299
-				}
-			}
-
-			c_15301 = {
-				b_15301 = {
-					province = 15301
-				}
-				b_15302 = {
-					province = 15302
-				}
-			}
-			c_16776 = {
-				b_16776 = {
-					province = 16776
-				}
-				b_15297 = {
-					province = 15297
-				}
-			}
-			c_16758 = {
-				b_16758 = {
-					province = 16758
-				}
-				b_17060 = {
-					province = 17060
-				}
-				b_16749 = {
-					province = 16749
-				}
-			}
-		}
-
-		d_15322 = {
-			c_15322 = {
-				b_15322 = {
-					province = 15322
-				}
-				b_15380 = {
-					province = 15380
-				}
-				b_15619 = {
-					province = 15619
-				}
-			}
-			c_15304 = {
-				b_15304 = {
-					province = 15304
-				}
-				b_15305 = {
-					province = 15305
-				}
-				b_17036 = {
-					province = 17036
-				}
-			}
-			c_15303 = {
-				b_15303 = {
-					province = 15303
-				}
-				b_16697 = {
-					province = 16697
-				}
-				b_16937 = {
-					province = 16937
-				}
-			}
-
-			c_16297 = {
-				b_16297 = {
-					province = 16297
-				}
-				b_16629 = {
-					province = 16629
-				}
-				b_16779 = {
-					province = 16779
-				}
-			}
-		}
-    }
 
     k_manchuwhatever = {
 
@@ -71913,287 +71726,6 @@ e_andong = {
 				}
 				b_17424 = {
 					province = 17424
-				}
-			}
-		}
-    }
-
-    k_heshui = {
-
-		d_15232 = {
-			c_15232 = {
-				b_15232 = {
-					province = 15232
-				}
-				b_15233 = {
-					province = 15233
-				}
-				b_15234 = {
-					province = 15234
-				}
-			}
-			c_17382 = {
-				b_17382 = {
-					province = 17382
-				}
-				b_17477 = {
-					province = 17477
-				}
-				b_15239 = {
-					province = 15239
-				}
-				b_15240 = {
-					province = 15240
-				}
-				b_17327 = {
-					province = 17327
-				}
-				b_17482 = {
-					province = 17482
-				}
-			}
-			c_17076 = {
-				b_17076 = {
-					province = 17076
-				}
-				b_17052 = {
-					province = 17052
-				}
-				b_17262 = {
-					province = 17262
-				}
-			}
-			c_17349 = {
-				b_17349 = {
-					province = 17349
-				}
-				b_17369 = {
-					province = 17369
-				}
-				b_17134 = {
-					province = 17134
-				}
-				b_17136 = {
-					province = 17136
-				}
-				b_17038 = {
-					province = 17038
-				}
-			}
-		}
-		d_15228 = {
-			c_15228 = {
-				b_15228 = {
-					province = 15228
-				}
-				b_15229 = {
-					province = 15229
-				}
-				b_15392 = {
-					province = 15392
-				}
-			}
-			c_15231 = {
-				b_15231 = {
-					province = 15231
-				}
-				b_15469 = {
-					province = 15469
-				}
-				b_15499 = {
-					province = 15499
-				}
-				b_15598 = {
-					province = 15598
-				}
-			}
-			c_16068 = {
-				b_16068 = {
-					province = 16068
-				}
-				b_15998 = {
-					province = 15998
-				}
-				b_15747 = {
-					province = 15747
-				}
-				b_15717 = {
-					province = 15717
-				}
-			}
-			c_15857 = {
-				b_15857 = {
-					province = 15857
-				}
-				b_15610 = {
-					province = 15610
-				}
-				b_15385 = {
-					province = 15385
-				}
-			}
-		}
-		d_15243 = {
-			c_15243 = {
-				b_15243 = {
-					province = 15243
-				}
-				b_15245 = {
-					province = 15245
-				}
-				b_15242 = {
-					province = 15242
-				}
-				b_17494 = {
-					province = 17494
-				}
-			}
-			c_15413 = {
-				b_15413 = {
-					province = 15413
-				}
-				b_15450 = {
-					province = 15450
-				}
-				b_15548 = {
-					province = 15548
-				}
-				b_15414 = {
-					province = 15414
-				}
-				b_15434 = {
-					province = 15434
-				}
-			}
-			c_15540 = {
-				b_15540 = {
-					province = 15540
-				}
-				b_15701 = {
-					province = 15701
-				}
-				b_15862 = {
-					province = 15862
-				}
-				b_15946 = {
-					province = 15946
-				}
-			}
-			c_15912 = {
-				b_15912 = {
-					province = 15912
-				}
-				b_15697 = {
-					province = 15697
-				}
-			}
-			c_15807 = {
-				b_15807 = {
-					province = 15807
-				}
-				b_15706 = {
-					province = 15706
-				}
-				b_15632 = {
-					province = 15632
-				}
-			}
-			c_15384 = {
-				b_15384 = {
-					province = 15384
-				}
-				b_15475 = {
-					province = 15475
-				}
-				b_15237 = {
-					province = 15237
-				}
-			}
-		}
-		d_16524 = {
-			c_16524 = {
-				b_16524 = {
-					province = 16524
-				}
-				b_16167 = {
-					province = 16167
-				}
-				b_16267 = {
-					province = 16267
-				}
-				b_16112 = {
-					province = 16112
-				}
-			}
-			c_15872 = {
-				b_15872 = {
-					province = 15872
-				}
-				b_15723 = {
-					province = 15723
-				}
-				b_15599 = {
-					province = 15599
-				}
-			}
-			c_15646 = {
-				b_15646 = {
-					province = 15646
-				}
-				b_15587 = {
-					province = 15587
-				}
-			}
-		}
-		d_17056 = {
-			c_17056 = {
-				b_17056 = {
-					province = 17056
-				}
-				b_17003 = {
-					province = 17003
-				}
-				b_16898 = {
-					province = 16898
-				}
-				b_16767 = {
-					province = 16767
-				}
-			}
-			c_16530 = {
-				b_16530 = {
-					province = 16530
-				}
-				b_16353 = {
-					province = 16353
-				}
-				b_16083 = {
-					province = 16083
-				}
-			}
-			c_16525 = {
-				b_16525 = {
-					province = 16525
-				}
-				b_16452 = {
-					province = 16452
-				}
-				b_16256 = {
-					province = 16256
-				}
-				b_16223 = {
-					province = 16223
-				}
-			}
-			c_16421 = {
-				b_16421 = {
-					province = 16421
-				}
-				b_16348 = {
-					province = 16348
-				}
-				b_16201 = {
-					province = 16201
 				}
 			}
 		}
@@ -72872,462 +72404,6 @@ e_andong = {
 		}
 	}
 
-	k_udege = {
-
-		d_16773 = {
-			c_16773 = {
-				b_16773 = {
-					province = 16773
-				}
-				b_16774 = {
-					province = 16774
-				}
-				b_16811 = {
-					province = 16811
-				}
-			}
-			c_16981 = {
-				b_16981 = {
-					province = 16981
-				}
-				b_17087 = {
-					province = 17087
-				}
-				b_17202 = {
-					province = 17202
-				}
-			}
-			c_17360 = {
-				b_17360 = {
-					province = 17360
-				}
-				b_17335 = {
-					province = 17335
-				}
-				b_17193 = {
-					province = 17193
-				}
-			}
-			c_16932 = {
-				b_16932 = {
-					province = 16932
-				}
-				b_16972 = {
-					province = 16972
-				}
-				b_16961 = {
-					province = 16961
-				}
-				b_16726 = {
-					province = 16726
-				}
-			}
-			c_17309 = {
-				b_17309 = {
-					province = 17309
-				}
-				b_17229 = {
-					province = 17229
-				}
-				b_17045 = {
-					province = 17045
-				}
-			}
-		}
-		d_16792 = {
-			c_16792 = {
-				b_16792 = {
-					province = 16792
-				}
-				b_17065 = {
-					province = 17065
-				}
-			}
-			c_16595 = {
-				b_16595 = {
-					province = 16595
-				}
-				b_16407 = {
-					province = 16407
-				}
-				b_16662 = {
-					province = 16662
-				}
-				b_16550 = {
-					province = 16550
-				}
-			}
-			c_16727 = {
-				b_16727 = {
-					province = 16727
-				}
-				b_16502 = {
-					province = 16502
-				}
-				b_16427 = {
-					province = 16427
-				}
-				b_16265 = {
-					province = 16265
-				}
-			}
-		}
-		d_15611 = {
-			c_15611 = {
-				b_15611 = {
-					province = 15611
-				}
-				b_15890 = {
-					province = 15890
-				}
-				b_15724 = {
-					province = 15724
-				}
-				b_15773 = {
-					province = 15773
-				}
-			}
-			c_15756 = {
-				b_15756 = {
-					province = 15756
-				}
-				b_15873 = {
-					province = 15873
-				}
-				b_16074 = {
-					province = 16074
-				}
-			}
-			c_15393 = {
-				b_15393 = {
-					province = 15393
-				}
-				b_15354 = {
-					province = 15354
-				}
-			}
-			c_15248 = {
-				b_15248 = {
-					province = 15248
-				}
-				b_17344 = {
-					province = 17344
-				}
-				b_15353 = {
-					province = 15353
-				}
-			}
-		}
-
-	}
-
-	k_amgun = {
-
-		d_15306 = {
-			c_15306 = {
-				b_15306 = {
-					province = 15306
-				}
-				b_15307 = {
-					province = 15307
-				}
-				b_15800 = {
-					province = 15800
-				}
-			}
-			c_17083 = {
-				b_17083 = {
-					province = 17083
-				}
-				b_15308 = {
-					province = 15308
-				}
-				b_15309 = {
-					province = 15309
-				}
-				b_17104 = {
-					province = 17104
-				}
-				b_15311 = {
-					province = 15311
-				}
-			}
-			c_15479 = {
-				b_15479 = {
-					province = 15479
-				}
-				b_15310 = {
-					province = 15310
-				}
-			}
-			c_15312 = {
-				b_15312 = {
-					province = 15312
-				}
-				b_15313 = {
-					province = 15313
-				}
-				b_17250 = {
-					province = 17250
-				}
-				b_17086 = {
-					province = 17086
-				}
-			}
-		}
-
-		d_sahaliyan = {
-			color = { 161 100 23 }
-
-			cultural_names = {
-				name_list_yamato = cn_karafuto
-				name_list_emishi = cn_karafuto
-				name_list_han = cn_kuye
-				name_list_ainu = cn_yankemosir
-				name_list_nivkh = cn_ygh_mif
-			}
-
-			capital = c_kusunkotan
-
-			c_kusunkotan = {
-				color = { 141 70 23 }
-
-				cultural_names = {
-					name_list_yamato = cn_kusunkotan
-					name_list_emishi = cn_kusunkotan
-					name_list_han = cn_guohuo
-				}
-
-				b_kusunkotan = {
-					province = 12817
-
-					cultural_names = {
-						name_list_yamato = cn_kusunkotan
-						name_list_emishi = cn_kusunkotan
-					}
-
-					color = { 141 70 23 }
-				}
-				b_kusunnay = {
-					province = 12816
-
-					cultural_names = {
-						name_list_yamato = cn_kushunnai
-						name_list_emishi = cn_kushunnai
-					}
-
-					color = { 141 70 23 }
-				}
-				b_pontukes = {
-					province = 12818
-
-					cultural_names = {
-						name_list_yamato = cn_honto
-						name_list_emishi = cn_honto
-						name_list_han = cn_guohuo
-					}
-
-					color = { 141 70 23 }
-				}
-				b_17358 = {
-					province = 17358
-				}
-				b_17180 = {
-					province = 17180
-				}
-			}
-			c_tarayka = {
-				color = { 232 145 86 }
-
-				cultural_names = {
-					name_list_yamato = cn_shisuka
-					name_list_emishi = cn_shisuka
-					name_list_han = cn_boluo
-				}
-
-				b_tarayka = {
-					province = 12810
-
-					cultural_names = {
-						name_list_yamato = cn_shisuka
-						name_list_emishi = cn_shisuka
-						name_list_han = cn_boluo
-					}
-
-					color = { 232 145 86 }
-				}
-				b_ketuni = {
-					province = 12812
-
-					cultural_names = {
-						name_list_yamato = cn_keton
-						name_list_emishi = cn_keton
-					}
-
-					color = { 232 145 86 }
-				}
-				b_15828 = {
-					province = 15828
-				}
-				b_15662 = {
-					province = 15662
-				}
-			}
-			c_15763 = {
-				b_15763 = {
-					province = 15763
-				}
-				b_15364 = {
-					province = 15364
-				}
-				b_eusutur = {
-					province = 12811
-
-					cultural_names = {
-						name_list_yamato = cn_esutoru
-						name_list_emishi = cn_esutoru
-					}
-
-					color = { 232 145 86 }
-				}
-				b_15984 = {
-					province = 15984
-				}
-			}
-			c_15458 = {
-				b_15458 = {
-					province = 15458
-				}
-				b_15355 = {
-					province = 15355
-				}
-				b_17413 = {
-					province = 17413
-				}
-			}
-		}
-
-		d_16693 = {
-
-			c_pogibi = {
-				color = { 93 46 15 }
-
-				cultural_names = {
-					name_list_yamato = cn_hokobe
-					name_list_emishi = cn_hokobe
-					name_list_han = cn_nanghaer
-				}
-				b_tym_sakhalin = {
-					province = 12815
-
-					cultural_names = {
-						name_list_yamato = cn_tsuimu
-						name_list_emishi = cn_tsuimu
-						name_list_han = cn_wulie
-					}
-
-					color = { 93 46 15 }
-				}
-				b_17004 = {
-					province = 17004
-				}
-				b_15314 = {
-					province = 15314
-				}
-				b_15359 = {
-					province = 15359
-				}
-			}
-			c_16802 = {
-				b_16802 = {
-					province = 16802
-				}
-				b_16998 = {
-					province = 16998
-				}
-
-				b_pogibi = {
-					province = 12814
-
-					cultural_names = {
-						name_list_yamato = cn_hokobe
-						name_list_emishi = cn_hokobe
-						name_list_han = cn_nanghaer
-					}
-
-					color = { 93 46 15 }
-				}
-			}
-			c_16693 = {
-				b_16693 = {
-					province = 16693
-				}
-
-				b_16563 = {
-					province = 16563
-				}
-				b_16416 = {
-					province = 16416
-				}
-				b_16304 = {
-					province = 16304
-				}
-				b_16219 = {
-					province = 16219
-				}
-			}
-			c_16872 = {
-				b_idoi = {
-					province = 12813
-
-					cultural_names = {
-						name_list_yamato = cn_otchishi
-						name_list_emishi = cn_otchishi
-						name_list_han = cn_yidui
-					}
-
-					color = { 93 46 15 }
-				}
-				b_16872 = {
-					province = 16872
-				}
-				b_16707 = {
-					province = 16707
-				}
-				b_16272 = {
-					province = 16272
-				}
-			}
-		}
-		d_16925 = {
-			c_16925 = {
-				b_16925 = {
-					province = 16925
-				}
-				b_16676 = {
-					province = 16676
-				}
-				b_16341 = {
-					province = 16341
-				}
-				b_16298 = {
-					province = 16298
-				}
-			}
-			c_16855 = {
-				b_16855 = {
-					province = 16855
-				}
-				b_16639 = {
-					province = 16639
-				}
-				b_16340 = {
-					province = 16340
-				}
-			}
-		}
-
-	}
 	k_luzhen = {
 		color = { 180 50 140 }
 
@@ -75066,6 +74142,930 @@ e_amur = {
 				}
 			}
 		}
+	}
+
+    k_heshui = {
+
+		d_15232 = {
+			c_15232 = {
+				b_15232 = {
+					province = 15232
+				}
+				b_15233 = {
+					province = 15233
+				}
+				b_15234 = {
+					province = 15234
+				}
+			}
+			c_17382 = {
+				b_17382 = {
+					province = 17382
+				}
+				b_17477 = {
+					province = 17477
+				}
+				b_15239 = {
+					province = 15239
+				}
+				b_15240 = {
+					province = 15240
+				}
+				b_17327 = {
+					province = 17327
+				}
+				b_17482 = {
+					province = 17482
+				}
+			}
+			c_17076 = {
+				b_17076 = {
+					province = 17076
+				}
+				b_17052 = {
+					province = 17052
+				}
+				b_17262 = {
+					province = 17262
+				}
+			}
+			c_17349 = {
+				b_17349 = {
+					province = 17349
+				}
+				b_17369 = {
+					province = 17369
+				}
+				b_17134 = {
+					province = 17134
+				}
+				b_17136 = {
+					province = 17136
+				}
+				b_17038 = {
+					province = 17038
+				}
+			}
+		}
+		d_15228 = {
+			c_15228 = {
+				b_15228 = {
+					province = 15228
+				}
+				b_15229 = {
+					province = 15229
+				}
+				b_15392 = {
+					province = 15392
+				}
+			}
+			c_15231 = {
+				b_15231 = {
+					province = 15231
+				}
+				b_15469 = {
+					province = 15469
+				}
+				b_15499 = {
+					province = 15499
+				}
+				b_15598 = {
+					province = 15598
+				}
+			}
+			c_16068 = {
+				b_16068 = {
+					province = 16068
+				}
+				b_15998 = {
+					province = 15998
+				}
+				b_15747 = {
+					province = 15747
+				}
+				b_15717 = {
+					province = 15717
+				}
+			}
+			c_15857 = {
+				b_15857 = {
+					province = 15857
+				}
+				b_15610 = {
+					province = 15610
+				}
+				b_15385 = {
+					province = 15385
+				}
+			}
+		}
+		d_15243 = {
+			c_15243 = {
+				b_15243 = {
+					province = 15243
+				}
+				b_15245 = {
+					province = 15245
+				}
+				b_15242 = {
+					province = 15242
+				}
+				b_17494 = {
+					province = 17494
+				}
+			}
+			c_15413 = {
+				b_15413 = {
+					province = 15413
+				}
+				b_15450 = {
+					province = 15450
+				}
+				b_15548 = {
+					province = 15548
+				}
+				b_15414 = {
+					province = 15414
+				}
+				b_15434 = {
+					province = 15434
+				}
+			}
+			c_15540 = {
+				b_15540 = {
+					province = 15540
+				}
+				b_15701 = {
+					province = 15701
+				}
+				b_15862 = {
+					province = 15862
+				}
+				b_15946 = {
+					province = 15946
+				}
+			}
+			c_15912 = {
+				b_15912 = {
+					province = 15912
+				}
+				b_15697 = {
+					province = 15697
+				}
+			}
+			c_15807 = {
+				b_15807 = {
+					province = 15807
+				}
+				b_15706 = {
+					province = 15706
+				}
+				b_15632 = {
+					province = 15632
+				}
+			}
+			c_15384 = {
+				b_15384 = {
+					province = 15384
+				}
+				b_15475 = {
+					province = 15475
+				}
+				b_15237 = {
+					province = 15237
+				}
+			}
+		}
+		d_16524 = {
+			c_16524 = {
+				b_16524 = {
+					province = 16524
+				}
+				b_16167 = {
+					province = 16167
+				}
+				b_16267 = {
+					province = 16267
+				}
+				b_16112 = {
+					province = 16112
+				}
+			}
+			c_15872 = {
+				b_15872 = {
+					province = 15872
+				}
+				b_15723 = {
+					province = 15723
+				}
+				b_15599 = {
+					province = 15599
+				}
+			}
+			c_15646 = {
+				b_15646 = {
+					province = 15646
+				}
+				b_15587 = {
+					province = 15587
+				}
+			}
+		}
+		d_17056 = {
+			c_17056 = {
+				b_17056 = {
+					province = 17056
+				}
+				b_17003 = {
+					province = 17003
+				}
+				b_16898 = {
+					province = 16898
+				}
+				b_16767 = {
+					province = 16767
+				}
+			}
+			c_16530 = {
+				b_16530 = {
+					province = 16530
+				}
+				b_16353 = {
+					province = 16353
+				}
+				b_16083 = {
+					province = 16083
+				}
+			}
+			c_16525 = {
+				b_16525 = {
+					province = 16525
+				}
+				b_16452 = {
+					province = 16452
+				}
+				b_16256 = {
+					province = 16256
+				}
+				b_16223 = {
+					province = 16223
+				}
+			}
+			c_16421 = {
+				b_16421 = {
+					province = 16421
+				}
+				b_16348 = {
+					province = 16348
+				}
+				b_16201 = {
+					province = 16201
+				}
+			}
+		}
+    }
+
+    k_solon = {
+
+		d_16516 = {
+			c_16516 = {
+				b_16516 = {
+					province = 16516
+				}
+				b_16394 = {
+					province = 16394
+				}
+				b_16103 = {
+					province = 16103
+				}
+			}
+			c_15919 = {
+				b_15919 = {
+					province = 15919
+				}
+				b_16161 = {
+					province = 16161
+				}
+				b_15860 = {
+					province = 15860
+				}
+				b_15715 = {
+					province = 15715
+				}
+			}
+			c_15915 = {
+				b_15915 = {
+					province = 15915
+				}
+				b_15820 = {
+					province = 15820
+				}
+				b_15504 = {
+					province = 15504
+				}
+			}
+		}
+		d_15320 = {
+			c_15320 = {
+				b_15320 = {
+					province = 15320
+				}
+				b_15292 = {
+					province = 15292
+				}
+			}
+			c_15503 = {
+				b_15503 = {
+					province = 15503
+				}
+				b_15295 = {
+					province = 15295
+				}
+				b_15440 = {
+					province = 15440
+				}
+			}
+			c_15291 = {
+				b_15291 = {
+					province = 15291
+				}
+				b_16817 = {
+					province = 16817
+				}
+			}
+			c_15293 = {
+				b_15293 = {
+					province = 15293
+				}
+				b_17011 = {
+					province = 17011
+				}
+				b_16797 = {
+					province = 16797
+				}
+			}
+			c_16733 = {
+				b_16733 = {
+					province = 16733
+				}
+				b_17091 = {
+					province = 17091
+				}
+				b_15294 = {
+					province = 15294
+				}
+				b_15296 = {
+					province = 15296
+				}
+			}
+		}
+		d_15389 = {
+			c_15389 = {
+				b_15389 = {
+					province = 15389
+				}
+				b_15298 = {
+					province = 15298
+				}
+				b_15300 = {
+					province = 15300
+				}
+				b_15299 = {
+					province = 15299
+				}
+			}
+
+			c_15301 = {
+				b_15301 = {
+					province = 15301
+				}
+				b_15302 = {
+					province = 15302
+				}
+			}
+			c_16776 = {
+				b_16776 = {
+					province = 16776
+				}
+				b_15297 = {
+					province = 15297
+				}
+			}
+			c_16758 = {
+				b_16758 = {
+					province = 16758
+				}
+				b_17060 = {
+					province = 17060
+				}
+				b_16749 = {
+					province = 16749
+				}
+			}
+		}
+
+		d_15322 = {
+			c_15322 = {
+				b_15322 = {
+					province = 15322
+				}
+				b_15380 = {
+					province = 15380
+				}
+				b_15619 = {
+					province = 15619
+				}
+			}
+			c_15304 = {
+				b_15304 = {
+					province = 15304
+				}
+				b_15305 = {
+					province = 15305
+				}
+				b_17036 = {
+					province = 17036
+				}
+			}
+			c_15303 = {
+				b_15303 = {
+					province = 15303
+				}
+				b_16697 = {
+					province = 16697
+				}
+				b_16937 = {
+					province = 16937
+				}
+			}
+
+			c_16297 = {
+				b_16297 = {
+					province = 16297
+				}
+				b_16629 = {
+					province = 16629
+				}
+				b_16779 = {
+					province = 16779
+				}
+			}
+		}
+    }
+	k_amgun = {
+
+		d_15306 = {
+			c_15306 = {
+				b_15306 = {
+					province = 15306
+				}
+				b_15307 = {
+					province = 15307
+				}
+				b_15800 = {
+					province = 15800
+				}
+			}
+			c_17083 = {
+				b_17083 = {
+					province = 17083
+				}
+				b_15308 = {
+					province = 15308
+				}
+				b_15309 = {
+					province = 15309
+				}
+				b_17104 = {
+					province = 17104
+				}
+				b_15311 = {
+					province = 15311
+				}
+			}
+			c_15479 = {
+				b_15479 = {
+					province = 15479
+				}
+				b_15310 = {
+					province = 15310
+				}
+			}
+			c_15312 = {
+				b_15312 = {
+					province = 15312
+				}
+				b_15313 = {
+					province = 15313
+				}
+				b_17250 = {
+					province = 17250
+				}
+				b_17086 = {
+					province = 17086
+				}
+			}
+		}
+
+		d_sahaliyan = {
+			color = { 161 100 23 }
+
+			cultural_names = {
+				name_list_yamato = cn_karafuto
+				name_list_emishi = cn_karafuto
+				name_list_han = cn_kuye
+				name_list_ainu = cn_yankemosir
+				name_list_nivkh = cn_ygh_mif
+			}
+
+			capital = c_kusunkotan
+
+			c_kusunkotan = {
+				color = { 141 70 23 }
+
+				cultural_names = {
+					name_list_yamato = cn_kusunkotan
+					name_list_emishi = cn_kusunkotan
+					name_list_han = cn_guohuo
+				}
+
+				b_kusunkotan = {
+					province = 12817
+
+					cultural_names = {
+						name_list_yamato = cn_kusunkotan
+						name_list_emishi = cn_kusunkotan
+					}
+
+					color = { 141 70 23 }
+				}
+				b_kusunnay = {
+					province = 12816
+
+					cultural_names = {
+						name_list_yamato = cn_kushunnai
+						name_list_emishi = cn_kushunnai
+					}
+
+					color = { 141 70 23 }
+				}
+				b_pontukes = {
+					province = 12818
+
+					cultural_names = {
+						name_list_yamato = cn_honto
+						name_list_emishi = cn_honto
+						name_list_han = cn_guohuo
+					}
+
+					color = { 141 70 23 }
+				}
+				b_17358 = {
+					province = 17358
+				}
+				b_17180 = {
+					province = 17180
+				}
+			}
+			c_tarayka = {
+				color = { 232 145 86 }
+
+				cultural_names = {
+					name_list_yamato = cn_shisuka
+					name_list_emishi = cn_shisuka
+					name_list_han = cn_boluo
+				}
+
+				b_tarayka = {
+					province = 12810
+
+					cultural_names = {
+						name_list_yamato = cn_shisuka
+						name_list_emishi = cn_shisuka
+						name_list_han = cn_boluo
+					}
+
+					color = { 232 145 86 }
+				}
+				b_ketuni = {
+					province = 12812
+
+					cultural_names = {
+						name_list_yamato = cn_keton
+						name_list_emishi = cn_keton
+					}
+
+					color = { 232 145 86 }
+				}
+				b_15828 = {
+					province = 15828
+				}
+				b_15662 = {
+					province = 15662
+				}
+			}
+			c_15763 = {
+				b_15763 = {
+					province = 15763
+				}
+				b_15364 = {
+					province = 15364
+				}
+				b_eusutur = {
+					province = 12811
+
+					cultural_names = {
+						name_list_yamato = cn_esutoru
+						name_list_emishi = cn_esutoru
+					}
+
+					color = { 232 145 86 }
+				}
+				b_15984 = {
+					province = 15984
+				}
+			}
+			c_15458 = {
+				b_15458 = {
+					province = 15458
+				}
+				b_15355 = {
+					province = 15355
+				}
+				b_17413 = {
+					province = 17413
+				}
+			}
+		}
+
+		d_16693 = {
+
+			c_pogibi = {
+				color = { 93 46 15 }
+
+				cultural_names = {
+					name_list_yamato = cn_hokobe
+					name_list_emishi = cn_hokobe
+					name_list_han = cn_nanghaer
+				}
+				b_tym_sakhalin = {
+					province = 12815
+
+					cultural_names = {
+						name_list_yamato = cn_tsuimu
+						name_list_emishi = cn_tsuimu
+						name_list_han = cn_wulie
+					}
+
+					color = { 93 46 15 }
+				}
+				b_17004 = {
+					province = 17004
+				}
+				b_15314 = {
+					province = 15314
+				}
+				b_15359 = {
+					province = 15359
+				}
+			}
+			c_16802 = {
+				b_16802 = {
+					province = 16802
+				}
+				b_16998 = {
+					province = 16998
+				}
+
+				b_pogibi = {
+					province = 12814
+
+					cultural_names = {
+						name_list_yamato = cn_hokobe
+						name_list_emishi = cn_hokobe
+						name_list_han = cn_nanghaer
+					}
+
+					color = { 93 46 15 }
+				}
+			}
+			c_16693 = {
+				b_16693 = {
+					province = 16693
+				}
+
+				b_16563 = {
+					province = 16563
+				}
+				b_16416 = {
+					province = 16416
+				}
+				b_16304 = {
+					province = 16304
+				}
+				b_16219 = {
+					province = 16219
+				}
+			}
+			c_16872 = {
+				b_idoi = {
+					province = 12813
+
+					cultural_names = {
+						name_list_yamato = cn_otchishi
+						name_list_emishi = cn_otchishi
+						name_list_han = cn_yidui
+					}
+
+					color = { 93 46 15 }
+				}
+				b_16872 = {
+					province = 16872
+				}
+				b_16707 = {
+					province = 16707
+				}
+				b_16272 = {
+					province = 16272
+				}
+			}
+		}
+		d_16925 = {
+			c_16925 = {
+				b_16925 = {
+					province = 16925
+				}
+				b_16676 = {
+					province = 16676
+				}
+				b_16341 = {
+					province = 16341
+				}
+				b_16298 = {
+					province = 16298
+				}
+			}
+			c_16855 = {
+				b_16855 = {
+					province = 16855
+				}
+				b_16639 = {
+					province = 16639
+				}
+				b_16340 = {
+					province = 16340
+				}
+			}
+		}
+
+	}
+	k_udege = {
+
+		d_16773 = {
+			c_16773 = {
+				b_16773 = {
+					province = 16773
+				}
+				b_16774 = {
+					province = 16774
+				}
+				b_16811 = {
+					province = 16811
+				}
+			}
+			c_16981 = {
+				b_16981 = {
+					province = 16981
+				}
+				b_17087 = {
+					province = 17087
+				}
+				b_17202 = {
+					province = 17202
+				}
+			}
+			c_17360 = {
+				b_17360 = {
+					province = 17360
+				}
+				b_17335 = {
+					province = 17335
+				}
+				b_17193 = {
+					province = 17193
+				}
+			}
+			c_16932 = {
+				b_16932 = {
+					province = 16932
+				}
+				b_16972 = {
+					province = 16972
+				}
+				b_16961 = {
+					province = 16961
+				}
+				b_16726 = {
+					province = 16726
+				}
+			}
+			c_17309 = {
+				b_17309 = {
+					province = 17309
+				}
+				b_17229 = {
+					province = 17229
+				}
+				b_17045 = {
+					province = 17045
+				}
+			}
+		}
+		d_16792 = {
+			c_16792 = {
+				b_16792 = {
+					province = 16792
+				}
+				b_17065 = {
+					province = 17065
+				}
+			}
+			c_16595 = {
+				b_16595 = {
+					province = 16595
+				}
+				b_16407 = {
+					province = 16407
+				}
+				b_16662 = {
+					province = 16662
+				}
+				b_16550 = {
+					province = 16550
+				}
+			}
+			c_16727 = {
+				b_16727 = {
+					province = 16727
+				}
+				b_16502 = {
+					province = 16502
+				}
+				b_16427 = {
+					province = 16427
+				}
+				b_16265 = {
+					province = 16265
+				}
+			}
+		}
+		d_15611 = {
+			c_15611 = {
+				b_15611 = {
+					province = 15611
+				}
+				b_15890 = {
+					province = 15890
+				}
+				b_15724 = {
+					province = 15724
+				}
+				b_15773 = {
+					province = 15773
+				}
+			}
+			c_15756 = {
+				b_15756 = {
+					province = 15756
+				}
+				b_15873 = {
+					province = 15873
+				}
+				b_16074 = {
+					province = 16074
+				}
+			}
+			c_15393 = {
+				b_15393 = {
+					province = 15393
+				}
+				b_15354 = {
+					province = 15354
+				}
+			}
+			c_15248 = {
+				b_15248 = {
+					province = 15248
+				}
+				b_17344 = {
+					province = 17344
+				}
+				b_15353 = {
+					province = 15353
+				}
+			}
+		}
+
 	}
 
 	k_aynumosir = {
