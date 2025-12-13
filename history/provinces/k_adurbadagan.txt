@@ -1,0 +1,364 @@
+# k_adurbadagan
+## d_azerbaijan ###################################
+### c_tabriz
+4537 = {	# Tabriz
+	culture = adhari
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	867.1.1 = {
+		buildings = {
+			watchtowers_01
+		}
+	}
+	870.1.1 = {
+		religion = ashari
+	}
+	1066.1.1 = {
+		buildings = {
+			watchtowers_01
+			#hunting_grounds_01
+			military_camps_01
+		}
+	}
+}
+4539 = {	# Ujan
+	holding = none
+}
+17535 = {	# Alvar
+	holding = none
+}
+17554 = {	# Heris
+	# Apparently famous for its rugs
+	holding = city_holding
+}
+4540 = {	# Ahar
+	# Ancient city
+	holding = castle_holding
+	special_building = rainbow_mountains_01
+}
+
+### c_bakran
+4536 = {	# Marand
+	culture = adhari
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	870.1.1 = {
+		religion = ashari
+	}
+}
+17595 = {	# Maghardavank
+	# Armenian monastery
+	holding = church_holding
+}
+17553 = {	# Tasuk
+	holding = none
+}
+17550 = {	# Parsk
+	holding = none
+}
+
+### c_dihnakhirjan
+17518 = {	# Hlakokhan
+	culture = adhari
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	867.1.1 = {
+		buildings = {
+			watchtowers_01
+		}
+	}
+	1000.1.1 = {
+		religion = ashari
+	}
+	1066.1.1 = {
+		buildings = {
+			watchtowers_01
+		}
+	}
+}
+4538 = {	# Dihnakhirjan
+	holding = none
+}
+
+
+## d_iraq-i-aram ###################################
+### c_maragha
+4545 = {	# Maragha AKA Maragheh
+	culture = adhari
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	870.1.1 = {
+		religion = ashari
+	}
+	1050.1.1 = {
+		culture = turkish
+		# turkish setup rework eventually I think
+		religion = maturidi
+	}
+}
+4003 = {	# Kursara
+	holding = none
+}
+4546 = {	# Leylan
+	holding = city_holding
+}
+4547 = {	# Khunaj
+	holding = none
+}
+
+### c_garrus
+4549 = {	# Shiz AKA Takab
+	culture = adhari
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	870.1.1 = {
+		religion = ashari
+	}
+	1060.1.1 = {
+		culture = persian
+	}
+	1178.1.1 = {
+		religion = maturidi
+	}
+}
+4548 = {	# Ar-Ran
+	holding = none
+}
+
+
+## d_ardabil ###################################
+### c_ardabil
+4543 = {	# Ardabil
+	culture = daylamite
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	950.1.1 = { religion = ashari }
+}
+15607 = {	# Miyaneh
+	holding = church_holding
+}
+17524 = {	# Nir
+	holding = none
+}
+
+### c_vilgich
+4542 = {	# Unar AKA Ounar AKA Unar
+	culture = daylamite
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	950.1.1 = {
+		religion = ashari
+	}
+}
+17560 = {	# Namin
+	holding = city_holding
+}
+
+### c_sarab
+17519 = {	# Kuaser
+	culture = adhari
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	950.1.1 = {
+		religion = ashari
+	}
+}
+17533 = {	# Bejand AKA Bijand
+	holding = none
+}
+4544 = {	# Sarat
+	holding = none
+}
+
+# Seems to not exist anymore?
+#4002 = {	# Khalkhal
+	#holding = city_holding
+#}
+
+
+## d_arasbaran ###################################
+### c_parspatunik
+17632 = {	# Vanystan
+	culture = adhari
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	1000.1.1 = {
+		religion = ashari
+	}
+}
+17602 = {	# Babak
+	holding = none
+}
+4541 = {	# Dizmar
+	holding = none
+}
+5792 = {	# Khomarlu AKA Nakorzan
+	holding = none
+}
+
+### c_ujorud
+5793 = {	# Barzand
+	culture = adhari
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	1000.1.1 = {
+		religion = ashari
+	}
+}
+5789 = {	# Varsan
+	holding = none
+}
+17647 = {	# Germi
+	holding = none
+}
+
+
+## d_persarmenia ###################################
+### c_urmiya
+4771 = {	# Urmiya
+	culture = kurdish
+	religion = kitebacilweism
+	holding = castle_holding
+
+	# History
+	1200.1.1 = {
+		religion = yazidi
+	}
+}
+15657 = {	# Kahriz
+	holding = none
+}
+4772 = {	# Salmas
+	# Ancient city of renown
+	holding = city_holding
+}
+5794 = {	# Gher
+	holding = none
+}
+17523 = {	# Gazrik
+	holding = none
+}
+
+### c_ushnuya
+4770 = {	# Ushnuya
+	culture = kurdish
+	religion = kitebacilweism
+	holding = castle_holding
+
+	# History
+	1200.1.1 = {
+		religion = yazidi
+	}	
+}
+15511 = {	# Shirakan
+	holding = none
+}
+15459 = {	# Silvaneh
+	holding = none
+}
+4769 = {	# Basawa
+	holding = none
+}
+
+### c_bailaqan
+4767 = {	# Bailaqan
+	culture = kurdish
+	religion = kitebacilweism
+	holding = castle_holding
+
+	# History
+	1050.1.1 = {
+		religion = ashari
+	}	
+}
+4766 = {	# Barza AKA Saqqez
+	holding = city_holding
+}
+4768 = {	# Darband-Qarabuli
+	holding = none
+}
+
+
+## d_bazgan ###################################
+### c_zuvand
+5791 = {	# Langarkanan
+	culture = daylamite
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	900.1.1 = { religion = zayidi }
+}
+17650 = {	# Badalan
+	holding = none
+}
+17599 = {	# Archavan
+	holding = none
+}
+
+### c_mugan
+5788 = {	# Gabarawan
+	culture = adhari
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	950.1.1 = {
+		religion = ashari
+	}
+}
+4535 = {	# Aparshahr
+	holding = none
+}
+17682 = {	# Arkavan
+	holding = city_holding
+}
+
+### c_paytakaran
+5790 = {	# Paytakaran
+	culture = adhari
+	religion = khurramism
+	holding = castle_holding
+
+	# History
+	950.1.1 = {
+		religion = ashari
+	}
+}
+5773 = {	# Salyan
+	holding = none
+}
+
+### c_talish
+# move to Daylam eventually
+4534 = {	# Talish AKA Astara
+	culture = daylamite
+	religion = afridunism
+	holding = castle_holding
+
+	# History
+	900.1.1 = { religion = zayidi }
+}
+17556 = {	# Dulab
+	holding = none
+}

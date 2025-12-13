@@ -1,0 +1,239 @@
+# k_kabulistan
+## d_kabul ###################################
+### c_kabul
+4504 = { # Kabul
+	# Misc
+	culture = afghan
+	religion = mahayana
+	holding = castle_holding
+
+	# History
+	1000.1.1 = {
+		religion = ashari
+	}
+}
+4503 = { # Sukawand
+	#holding = 
+}
+17910 = { # Kapisa
+	#holding = 
+}
+
+### c_bamian
+4343 = { # Bamiyan
+	# Misc
+	culture = afghan
+	religion = mahayana
+	holding = castle_holding
+	special_building_slot = buddhas_of_bamian_01
+
+	# History
+	769.1.1 = {
+		special_building = buddhas_of_bamian_01
+	}
+}
+4342 = { # Sakalkand
+	#holding = 
+}
+4344 = { # Parwan
+	# named shared with Parwan province ; town with such name said to have been settled by Alexander the Great
+	holding = city_holding
+}
+4345 = { # Panjhir
+	# Misc
+	holding = castle_holding
+	special_building_slot = pansjhir_mines_01
+
+	# History
+	1066.1.1 = {
+		special_building = pansjhir_mines_01
+	}
+}
+4346 = { # Jarbaya
+	#holding = 
+}
+
+### c_pashai
+17901 = { # Alishang
+	# Misc
+	culture = nuristani
+	religion = nuristani_pagan
+	holding = castle_holding
+
+	# History
+}
+17954 = { # Alingar
+	holding = none
+}
+
+### c_nagarahara
+4516 = { # 4515 - Nagarahara
+	# Misc
+	culture = gandhari
+	religion = shaivism
+	holding = castle_holding
+
+	# History
+}
+4508 = { # Lamghan
+	holding = none
+}
+
+
+## d_zabulistan ###################################
+### c_ghazna
+4500 = { # Ghazna
+	# Misc
+	culture = afghan
+	religion = mahayana
+
+	# History
+	1000.1.1 = {
+		religion = ashari
+	}
+	1178.1.1 = {
+		religion = maturidi
+	}
+}
+4501 = { # Gardiz AKA Gardez
+	# an ancient settlement with a diverse history
+	holding = city_holding
+}
+4502 = { # Istakh
+	#holding = 
+}
+4505 = { # Sharan AKA Sharana
+	# nowadays a town
+	#holding =
+}
+4506 = { # Moqor AKA Muqur
+	#holding =
+}
+
+### c_zamindawar
+4489 = { # Zamindawr
+	# Misc
+	culture = turco_hephthalite
+	religion = zun_pagan
+
+	# History
+	900.1.1 = {
+		culture = khalaj
+		religion = mahayana
+	}
+}
+4490 = { # Sarwan
+	#holding =
+}
+4491 = { # Bishang
+	#holding =
+}
+4492 = { # Durgas
+	#holding =
+}
+4493 = { # Bagnin
+	#holding =
+}
+
+### c_rukhaj
+4499 = { # Rukhaj
+	# Misc
+	culture = afghan
+	religion = zun_pagan
+
+	# History
+	900.1.1 = {
+		culture = khalaj
+		religion = mahayana
+	}
+}
+4494 = { # Rudan
+	#holding =
+}
+4495 = { # Panjway AKA Panjwayi
+	#holding =
+}
+4496 = { # Bakrawath
+	#holding =	
+}
+4498 = { # Qandahar
+	#holding =	
+}
+
+### c_zabulistan
+4507 = { # Jaldak
+	# Misc
+	culture = afghan
+	religion = zun_pagan
+
+	# History
+	900.1.1 = {
+		culture = khalaj
+		religion = mahayana
+	}
+}
+4509 = { # Mapan
+	#holding =
+}
+
+
+## d_chitral ###################################
+### c_chitral
+4515 = { # Chitral
+	# Misc
+	culture = nuristani
+	religion = nuristani_pagan
+	holding = tribal_holding
+
+	# History
+}
+7952 = { # Mastuj
+	holding = none
+}
+15047 = { # Yarkhun
+	holding = none
+}
+
+### c_kunar
+4514 = { # Kunar
+	# Misc
+	culture = nuristani
+	religion = nuristani_pagan
+	holding = castle_holding
+
+	# History
+}
+17860 = { # Pech
+	holding = none
+}
+
+
+## d_nuristan ###################################
+### c_kati
+18117 = { # Mandol
+	# Misc
+	culture = nuristani
+	religion = nuristani_pagan
+	holding = tribal_holding
+
+	# History
+}
+18109 = { # Parun
+	holding = none
+}
+18167 = { # Kamdesh
+	holding = none
+}
+
+### c_waygal
+18021 = { # Waygal
+	# Misc
+	culture = nuristani
+	religion = nuristani_pagan
+	holding = tribal_holding
+
+	# History
+}
+18063 = { # Nurgaram
+	holding = none
+}
