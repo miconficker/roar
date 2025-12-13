@@ -1,0 +1,623 @@
+# k_pontus
+## d_chaldia ###################################
+### c_trebizond
+678 = { 	# Trebizond
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+	1066.1.1 = {
+		buildings = {
+			common_tradeport_02
+			curtain_walls_01
+			#pastures_01
+		}
+	}
+}
+17986 = {	# Matzouka
+
+	# Misc
+	holding = none
+
+	# History
+}
+18031 = {	# Platana
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+5691 = {	# Koralla
+
+	# Misc
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		holding = castle_holding
+	}
+}
+18015 = {	# Susarmia
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+17965 = {	# Soumela
+
+	# Misc
+	holding = church_holding
+
+	# History
+	642.1.1 = {
+		special_building_slot = sumela_monastery_01
+		special_building = sumela_monastery_01
+	}
+}
+
+### c_chaldia
+17920 = {	# Tzantzakon
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+}
+17941 = {	# Ardasa
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+17949 = {	# Zigana
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_cerasus
+705 = { 	# Cerasus
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+}
+17959 = {	# Tripolis
+
+	# Misc
+	holding = none
+
+	# History
+	1066.1.1 = {
+		holding = city_holding
+	}
+}
+17970 = {	# Kotiora
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+18014 = {	# Petroma
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_polemonium
+18042 = {	# Limnia
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+}
+17969 = {	# Heneti
+
+	# Misc
+	holding = none
+
+	# History
+}
+5690 = {	# Polemonium
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+5689 = {	# Oinaion
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+
+
+## d_paphlagonia ###################################
+### c_paphlagonia AKA c_timonitis
+5581 = {	# Amastris
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+}
+5582 = {	# Aigialos
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+18140 = {	# Karamos
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+
+### c_cimiatene
+5585 = {	# Castamon
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+}
+5587 = {	# Ziporea
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+18037 = {	# Tachkeupru
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_pompeiopolis
+5584 = {	# Pampeiopolis
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+}
+751 = {	# 751 - Colussa
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+5583 = {	# 5583 - Ionopolis
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+
+
+## d_armeniac ###################################
+### c_helenopontus
+5590 = {	# Amaseia
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+}
+18011 = {	# Opatoria
+
+	# Misc
+	holding = none
+
+	# History
+}
+738 = { 	# Amisos
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+5589 = {	# Gadilon
+
+	# Misc
+	holding = church_holding
+
+	# History
+
+}
+18038 = {	# Phazemon
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_sinope
+739 = { 	# Sinope
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+}
+5588 = {	# Zagora
+
+	# Misc
+	holding = none
+
+	# History
+}
+18096 = {	# Stasichani
+
+	# Misc
+	holding = none
+
+	# History
+}
+18133 = {	# Karoussa
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+
+### c_zela
+5598 = {	# Comana Pontica
+
+	# Misc
+	culture = cappadocian
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+}
+5597 = {	# Zela
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+5596 = {	# Pteria
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_magnopolis
+5591 = {	# Magnopolis
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = none
+
+	# History
+}
+5592 = {	# Andrapa
+
+	# Misc
+	holding = none
+
+	# History
+}
+5595 = {	# Carissa
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_euchaita
+5594 = {	# Euchaita
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+}
+5586 = {	# Kandara
+
+	# Misc
+	#holding = 
+
+	# History
+}
+5593 = {	# Pimolisa
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+
+## d_sebasteia ###################################
+### c_sebasteia
+5602 = {	# 5602 - Sebasteia
+
+	# Misc
+	culture = cappadocian
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+	1100.1.1 = {
+		culture = turkmen
+		religion = maturidi
+	}
+}
+5603 = {	# 5603 - Malandra
+
+	# Misc
+	holding = none
+
+	# History	
+}
+5599 = {	# 5599 - Sebastopolis
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+5600 = {	# 5600 - Agranai
+
+	# Misc
+	holding = none
+
+	# History
+}
+5601 = {	# 5601 - Pedachtoe
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_azysia
+5604 = {	# 5604 - Karnalis
+
+	# Misc
+	culture = cappadocian
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+	1100.1.1 = {
+		culture = turkmen
+		religion = maturidi
+	}
+}
+5606 = {	# 5606 - Gauraina
+
+	# Misc
+	holding = none
+
+	# History	
+}
+5609 = {	# 5609 - Tanadaris
+
+	# Misc
+	holding = none
+
+	# History
+}
+5613 = {	# 5613 - Ariaratheia
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_ablastha
+735 = {	# 735 - Ablastha
+
+	# Misc
+	culture = cappadocian
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+	1100.1.1 = {
+		culture = turkmen
+		religion = maturidi
+	}
+}
+5607 = {	# 5607 - Dalanda
+
+	# Misc
+	holding = none
+
+	# History
+}
+5608 = {	# 5608 - Osdara
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_tephrice
+5705 = {	# Tephrice
+
+	# Misc
+	culture = cappadocian
+	religion = paulician
+
+	holding = castle_holding
+
+	# History
+	950.1.1 = {
+		religion = orthodox
+	}
+	1100.1.1 = {
+		culture = turkmen
+		religion = maturidi
+	}
+}
+5605 = {	# Euspena
+
+	# Misc
+	holding = none
+
+	# History
+}
+5706 = {	# Arguvan
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+
+## d_colonea ###################################
+### c_colonea
+706 = {	# Colonea
+
+	# Misc
+	culture = greek
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+}
+17907 = {	# Nicopolis
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+5701 = {	# Nicopolis_ARM
+
+	# Misc
+	holding = none
+
+	# History
+}
+5698 = {	# Neocaesara
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+5700 = {	# Hypseie
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_satala
+5703 = {	# Satala
+
+	# Misc
+	culture = cappadocian
+	religion = orthodox
+
+	holding = castle_holding
+
+	# History
+	1100.1.1 = {
+		culture = turkmen
+		religion = maturidi
+	}
+}
+5702 = {	# Kheranion
+
+	# Misc
+	holding = none
+
+	# History
+}
+5699 = {	# Sinoria
+
+	# Misc
+	holding = none
+
+	# History
+}
+5704 = {	# Kamisa
+
+	# Misc
+	holding = none
+
+	# History
+}
+17875 = {	# Hassis
+
+	# Misc
+	holding = none
+
+	# History
+}

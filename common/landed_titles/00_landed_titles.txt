@@ -12671,6 +12671,141 @@ e_byzantium = {
 			}
 		}
 
+		d_chaldia = {
+			color = { 189 125 30 }
+
+			capital = c_trebizond
+
+			c_trebizond = {
+				color = { 143 90 11 }
+
+				b_trebizond = {
+					province = 678
+
+					color = { 143 90 11 }
+
+					cultural_names = {
+						name_list_greek = cn_trapezous
+						name_list_turkish = cn_trabzon
+					}
+				}
+				b_matzouka = {
+					province = 17986
+
+					color = { 143 90 11 }
+				}
+				b_platana = {
+					province = 18031
+
+					color = { 143 90 11 }
+				}
+				b_koralla = {
+					province = 5691
+
+					color = { 143 90 11 }
+
+					cultural_names = {
+						name_list_turkish = cn_gorele
+					}
+				}
+				b_susarmia = {
+					province = 18015
+
+					color = { 143 90 11 }
+				}
+				b_soumela = {
+					province = 17965
+
+					color = { 143 90 11 }
+				}
+			}
+			c_chaldia = {
+				color = { 219 157 66 }
+
+				b_tzantzakon = {
+					province = 17920
+
+					color = { 219 157 66 }
+				}
+				b_ardasa = {
+					province = 17941
+
+					color = { 219 157 66 }
+				}
+				b_zigana = {
+					province = 17949
+
+					color = { 219 157 66 }
+				}
+			}
+			c_cerasus = {
+				color = { 230 138 64 }
+
+				cultural_names = {
+					name_list_greek = cn_kerasous
+					name_list_turkish = cn_giresun
+				}
+
+				b_cerasus = {
+					province = 705
+
+					color = { 230 138 64 }
+
+					cultural_names = {
+						name_list_greek = cn_kerasous
+						name_list_turkish = cn_giresun
+					}
+				}
+				b_tripolis = {
+					province = 17959
+
+					color = { 230 138 64 }
+				}
+				b_kotiora = {
+					province = 17970
+
+					color = { 230 138 64 }
+				}
+				b_petroma = {
+					province = 18014
+
+					color = { 230 138 64 }
+				}
+			}
+			c_polemonium = {
+				color = { 145 97 58 }
+
+				b_limnia = {
+					province = 18042
+
+					color = { 145 97 58 }
+				}
+				b_heneti = {
+					province = 17969
+
+					color = { 145 97 58 }
+				}
+				b_polemonium = {
+					province = 5690
+
+					color = { 145 97 58 }
+
+					cultural_names = {
+						name_list_turkish = cn_fatsa
+					}
+				}
+				b_oinaion = {
+					province = 5689
+
+					color = { 145 97 58 }
+
+					cultural_names = {
+						name_list_turkish = cn_unye
+					}
+				}
+			}
+		}
+
 		d_paphlagonia = {
 			color = { 205 127 158 }
 
@@ -12687,58 +12822,6 @@ e_byzantium = {
 					name_list_turkish = cn_paflagonya
 				}
 
-				b_paphlagonia = {
-					province = 751
-
-					color = { 205 127 158 }
-
-					cultural_names = {
-						name_list_turkish = cn_istifan
-					}
-				}
-				b_ionopolis = {
-					province = 5583
-
-					color = { 205 127 158 }
-
-					cultural_names = {
-						name_list_turkish = cn_inebolu
-					}
-				}
-				b_pompeiopolis = {
-					province = 5584
-
-					color = { 185 105 140 }
-
-					cultural_names = {
-						name_list_turkish = cn_taskopru
-					}
-				}
-			}
-			c_18037 = {
-				b_18037 = {
-					province = 18037
-				}
-				b_castamon = {
-					province = 5585
-
-					color = { 185 105 140 }
-
-					cultural_names = {
-						name_list_turkish = cn_kastamonu
-					}
-				}
-				b_ziporea = {
-					province = 5587
-
-					color = { 185 105 140 }
-
-					cultural_names = {
-						name_list_turkish = cn_aday
-					}
-				}
-			}
-			c_18140 = {
 				b_amastris = {
 					province = 5581
 
@@ -12759,9 +12842,72 @@ e_byzantium = {
 				}
 				b_karamos = {
 					province = 18140
+
+					color = { 205 127 158 }
 				}
 			}
+			c_pompeiopolis = {
+				color = { 171 121 141 }
 
+				cultural_names = {
+					name_list_turkish = cn_taskopru
+				}
+
+				b_pompeiopolis = {
+					province = 5584
+
+					color = { 171 121 141 }
+
+					cultural_names = {
+						name_list_turkish = cn_taskopru
+					}
+				}
+				b_colussa = {
+					province = 751
+
+					color = { 171 121 141 }
+
+					#cultural_names = {
+						#name_list_turkish = cn_istifan
+					#}
+				}
+				b_ionopolis = {
+					province = 5583
+
+					color = { 171 121 141 }
+
+					cultural_names = {
+						name_list_turkish = cn_inebolu
+					}
+				}
+			}
+			c_cimiatene = {
+				color = { 185 105 140 }
+
+				b_castamon = {
+					province = 5585
+
+					color = { 185 105 140 }
+
+					cultural_names = {
+						name_list_turkish = cn_kastamonu
+					}
+				}
+				b_tachkeupru = {
+					province = 18037
+
+					color = { 185 105 140 }
+				}
+				b_ziporea = {
+					province = 5587
+
+					color = { 185 105 140 }
+
+					cultural_names = {
+						name_list_turkish = cn_aday
+					}
+				}
+			}
 		}
 
 		d_armeniac = {
@@ -12775,6 +12921,47 @@ e_byzantium = {
 				cultural_names = {
 					name_list_turkish = cn_pervane
 				}
+
+				b_amaseia = {
+					province = 5590
+
+					color = { 150 130 180 }
+
+					cultural_names = {
+						name_list_turkish = cn_amasya
+					}
+				}
+				b_opatoria = {
+					province = 18011
+
+					color = { 150 130 180 }
+				}
+				b_amisos = {
+					province = 738
+
+					color = { 150 130 180 }
+
+					cultural_names = {
+						name_list_turkish = cn_samsun
+					}
+				}
+				b_gadilon = {
+					province = 5589
+
+					color = { 150 130 180 }
+
+					cultural_names = {
+						name_list_turkish = cn_bafra
+					}
+				}
+				b_phazemon = {
+					province = 18038
+
+					color = { 150 130 180 }
+				}
+			}
+			c_magnopolis = {
+				color = { 111 89 145 }
 
 				b_magnopolis = {
 					province = 5591
@@ -12805,7 +12992,7 @@ e_byzantium = {
 				}
 			}
 			c_sinope = {
-				color = { 210 140 210 }
+				color = { 156 94 84 }
 
 				cultural_names = {
 					name_list_turkish = cn_sinop
@@ -12814,7 +13001,7 @@ e_byzantium = {
 				b_sinope = {
 					province = 739
 
-					color = { 210 140 210 }
+					color = { 156 94 84 }
 
 					cultural_names = {
 						name_list_turkish = cn_sinop
@@ -12823,17 +13010,21 @@ e_byzantium = {
 				b_zagora = {
 					province = 5588
 
-					color = { 210 140 210 }
+					color = { 156 94 84 }
 
 					cultural_names = {
 						name_list_turkish = cn_cayagzi
 					}
 				}
-				b_18133 = {
-					province = 18133
-				}
-				b_18096 = {
+				b_stasichani = {
 					province = 18096
+
+					color = { 156 94 84 }
+				}
+				b_karoussa = {
+					province = 18133
+
+					color = { 156 94 84 }
 				}
 			}
 			c_euchaita = {
@@ -12843,37 +13034,31 @@ e_byzantium = {
 					name_list_turkish = cn_beyozu
 				}
 
-				b_18038 = {
-					province = 18038
-				}
-				b_amaseia = {
-					province = 5590
+				b_euchaita = {
+					province = 5594
 
-					color = { 150 130 180 }
+					color = { 195 100 165 }
 
 					cultural_names = {
-						name_list_turkish = cn_amasya
+						name_list_turkish = cn_beyozu
 					}
 				}
-				b_18011 = {
-					province = 18011
-				}
-				b_gadilon = {
-					province = 5589
+				b_kandara = {
+					province = 5586
 
-					color = { 150 130 180 }
+					color = { 195 100 165 }
 
 					cultural_names = {
-						name_list_turkish = cn_bafra
+						name_list_turkish = cn_candere
 					}
 				}
-				b_amisos = {
-					province = 738
+				b_pimolisa = {
+					province = 5593
 
-					color = { 150 130 180 }
+					color = { 195 100 165 }
 
 					cultural_names = {
-						name_list_turkish = cn_samsun
+						name_list_turkish = cn_osmancik
 					}
 				}
 			}
@@ -12905,45 +13090,10 @@ e_byzantium = {
 				b_pteria = {
 					province = 5596
 
-					color = { 195 100 165 }
+					color = { 195 135 145 }
 
 					cultural_names = {
 						name_list_turkish = cn_kerkenes_dag
-					}
-				}
-			}
-			c_pompeiopolis = {
-				color = { 185 105 140 }
-
-				cultural_names = {
-					name_list_turkish = cn_taskopru
-				}
-
-				b_kandara = {
-					province = 5586
-
-					color = { 185 105 140 }
-
-					cultural_names = {
-						name_list_turkish = cn_candere
-					}
-				}
-				b_euchaita = {
-					province = 5594
-
-					color = { 195 100 165 }
-
-					cultural_names = {
-						name_list_turkish = cn_beyozu
-					}
-				}
-				b_pimolisa = {
-					province = 5593
-
-					color = { 195 100 165 }
-
-					cultural_names = {
-						name_list_turkish = cn_osmancik
 					}
 				}
 			}
@@ -13009,28 +13159,6 @@ e_byzantium = {
 					cultural_names = {
 						name_list_turkish = cn_musalim_kalesi
 					}
-				}
-			}
-
-			c_17907 = {
-				b_tephrice = {
-					province = 5705
-
-					color = { 170 155 56 }
-				}
-				b_euspena = {
-					province = 5605
-
-					color = { 195 170 65 }
-
-					cultural_names = {
-						name_list_turkish = cn_kangal
-					}
-				}
-				b_arguvan = {
-					province = 5706
-
-					color = { 205 83 71 }
 				}
 			}
 			c_azysia = {
@@ -13108,116 +13236,33 @@ e_byzantium = {
 					}
 				}
 			}
-		}
+			c_tephrice = {
+				color = { 200 160 50 }
 
-		d_17941 = {
-			c_17941 = {
-				b_17941 = {
-					province = 17941
-				}
-				b_17949 = {
-					province = 17949
-				}
-				b_17920 = {
-					province = 17920
-				}
-			}
-			c_cerasus = {
-				color = { 169 139 36 }
+				b_tephrice = {
+					province = 5705
 
-				cultural_names = {
-					name_list_greek = cn_kerasous
-					name_list_turkish = cn_giresun
+					color = { 170 155 56 }
 				}
+				b_euspena = {
+					province = 5605
 
-				b_cerasus = {
-					province = 705
-
-					color = { 169 139 36 }
+					color = { 195 170 65 }
 
 					cultural_names = {
-						name_list_greek = cn_kerasous
-						name_list_turkish = cn_giresun
+						name_list_turkish = cn_kangal
 					}
 				}
-				b_18014 = {
-					province = 18014
-				}
-				b_17959 = {
-					province = 17959
-				}
-				b_17970 = {
-					province = 17970
-				}
-			}
-			c_18042 = {
-				b_18042 = {
-					province = 18042
-				}
-				b_oinaion = {
-					province = 5689
+				b_arguvan = {
+					province = 5706
 
-					color = { 169 139 36 }
-
-					cultural_names = {
-						name_list_turkish = cn_unye
-					}
-				}
-				b_polemonium = {
-					province = 5690
-
-					color = { 169 139 36 }
-
-					cultural_names = {
-						name_list_turkish = cn_fatsa
-					}
-				}
-				b_17969 = {
-					province = 17969
-				}
-			}
-			c_18031 = {
-				b_18031 = {
-					province = 18031
-				}
-				b_trebizond = {
-					province = 678
-
-					color = { 150 130 20 }
-
-					cultural_names = {
-						name_list_greek = cn_trapezous
-						name_list_turkish = cn_trabzon
-					}
-				}
-				b_koralla = {
-					province = 5691
-
-					color = { 169 139 36 }
-
-					cultural_names = {
-						name_list_turkish = cn_gorele
-					}
-				}
-				b_18015 = {
-					province = 18015
-				}
-				b_17965 = {
-					province = 17965
-				}
-				b_17986 = {
-					province = 17986
+					color = { 205 83 71 }
 				}
 			}
 		}
-		d_chaldia = {
+
+		d_colonea = {
 			color = { 150 130 20 }
-
-			capital = c_trebizond
-
-			cultural_names = {
-				name_list_greek = cn_khaldia
-			}
 
 			c_colonea = {
 				color = { 136 116 40 }
@@ -13237,10 +13282,24 @@ e_byzantium = {
 						name_list_turkish = cn_sebinkarahisar
 					}
 				}
-				b_17907 = {
+				b_nicopolis = {
 					province = 17907
-				}
 
+					color = { 136 116 40 }
+
+					cultural_names = {
+						name_list_turkish = cn_koyulhisar
+					}
+				}
+				b_nicopolis_ARM = {
+					province = 5701
+
+					color = { 136 116 40 }
+
+					cultural_names = {
+						name_list_turkish = cn_susheri
+					}
+				}
 				b_neocaesara = {
 					province = 5698
 
@@ -13255,15 +13314,6 @@ e_byzantium = {
 					province = 5700
 
 					color = { 136 116 40 }
-				}
-				b_nicopolis_ARM = {
-					province = 5701
-
-					color = { 136 116 40 }
-
-					cultural_names = {
-						name_list_turkish = cn_koyulhisar
-					}
 				}
 			}
 			c_satala = {
@@ -13282,18 +13332,6 @@ e_byzantium = {
 						name_list_turkish = cn_sadak
 					}
 				}
-				b_sinoria = {
-					province = 5699
-
-					color = { 136 116 40 }
-
-					cultural_names = {
-						name_list_turkish = cn_yaglidere
-					}
-				}
-				b_17875 = {
-					province = 17875
-				}
 				b_kheranion = {
 					province = 5702
 
@@ -13304,8 +13342,27 @@ e_byzantium = {
 
 					color = { 170 155 56 }
 				}
-			}
+				b_sinoria = {
+					province = 5699
 
+					color = { 170 155 56 }
+
+					cultural_names = {
+						name_list_turkish = cn_yaglidere
+					}
+				}
+				b_hassis = {
+					province = 17875
+
+					color = { 170 155 56 }
+				}
+			}
+		}
+
+		d_iberia_byzantine = {
+			color = { 122 118 108 }
+
+			capital = c_theodosiopolis
 		}
 	}
 
