@@ -61789,7 +61789,6 @@ e_rajastan = {
 
 					color = { 180 120 21 }
 				}
-
 			}
 			c_gurjaratra = {
 				color = { 140 120 41 }
@@ -61911,16 +61910,18 @@ e_rajastan = {
 					color = { 0 155 55 }
 				}
 			}
-			c_golaghmuli = {
+			c_swat = {
 				color = { 230 40 20 }
 
+				b_swat = {
+					province = 17867
+
+					color = { 230 40 20 }
+				}
 				b_golaghmuli = {
 					province = 7953
 
 					color = { 230 40 20 }
-				}
-				b_17867 = {
-					province = 17867
 				}
 			}
 			c_allai = {
@@ -61942,15 +61943,23 @@ e_rajastan = {
 					color = { 205 95 15 }
 				}
 			}
-			c_18051 = {
-				b_18051 = {
-					province = 18051
-				}
-				b_17911 = {
-					province = 17911
-				}
-				b_17766 = {
+			c_dir = {
+				color = { 251 143 52 }
+
+				b_dir = {
 					province = 17766
+
+					color = { 251 143 52 }
+				}
+				b_timargarha = {
+					province = 17911
+
+					color = { 251 143 52 }
+				}
+				b_bajaur = {
+					province = 18051
+
+					color = { 251 143 52 }
 				}
 			}
 		}
