@@ -1,0 +1,332 @@
+# k_iberia
+## d_tiflis ###################################
+### c_tbilisi
+5759 = {	# Tbilisi
+	# modern capital of Georgia and generally a very important settlment
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+	1066.1.1 = {
+		buildings = {
+			curtain_walls_01
+			cereal_fields_01
+		}
+	}
+}
+18146 = {	# Garisi AKA Tetritsqaro
+	# Georgian village
+	holding = city_holding
+}
+18111 = {	# Lomtagora
+	# agricultural region
+	holding = none
+}
+
+### c_somkhiti
+18071 = {	# Tsopi
+	# regional fortress
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+}
+5761 = {	# Bolnisi
+	# seat of bishops and archbishops
+	holding = church_holding
+}
+
+
+### d_kartli ###################################
+### c_shida_kartli
+5743 = {	# Uplistsikhe
+	# an ancient rock-hewn town with a fortress
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+	special_building = uplistsikhe_cave_city
+
+	# History
+}
+18243 = {	# Urbnisi
+	# an ancient settlment and a major religious centre
+	holding = church_holding
+}
+18213 = {	# Ateni_KARTLI
+	# a ciy secured by 3 fortresses
+	holding = none
+
+	# History
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+679 = { 	# Gori
+	# 7th century fortress, later also town settled by Armenians
+	holding = castle_holding
+}
+
+### c_ksani
+15094 = {	# Kvenipnevi
+	# fortress near Gori
+	culture = georgian
+	religion = mtielta
+	holding = castle_holding
+
+	# History
+	1000.1.1 = {
+		religion = georgian_orthodox
+	}
+}
+15095 = {	# Vanati
+	# Georgian village
+	holding = none
+}
+
+### c_dvaleti
+5752 = {	# Kasriskari
+	# Georgian fortress and Dval land
+	culture = dval
+	religion = mtielta
+	holding = tribal_holding
+
+	# History
+}
+15395 = {	# Kudaro
+	# ask Oneven
+	holding = none
+}
+15403 = {	# Edisa
+	# ask Oneven
+	holding = none
+}
+
+### c_samachablo
+15093 = {	# Achabeti Fortress
+	# not much info about it - ruins of an old fortress nowadays
+	culture = georgian
+	religion = mtielta
+	holding = castle_holding
+}
+5742 = {	# Tskhinvali
+	# small settlment, first chronicled in 1398
+	holding = city_holding
+}
+
+
+## d_kidekari ###################################
+### c_trialeti
+18145 = {	# Kidekari
+	# historical fortress of local nobility
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+}
+5758 = {	# Dmanisi
+	# Georgian town with a cathedral
+	holding = church_holding
+}
+
+### c_javakheti
+5738 = {	# Tmogvi AKA Tmkaberd
+	# Georgian fortress
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+}
+18183 = {	# Tori AKA Borjomi
+	# capital town of Tori region
+	holding = city_holding
+}
+18075 = {	# Dlivi
+	# village, site of battle
+	holding = none
+}
+
+
+## d_samtskhe ###################################
+### c_samtskhe
+5739 = {	# Akhaltsikhe AKA Lomsia
+	# Georgian town with well preserved fortifications
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+}
+18119 = {	# Kveli AKA Queli
+	# an important fortress. nowadays ruins
+	holding = castle_holding
+}
+
+### c_artaani
+5741 = {	# Artaani AKA Ardahan
+	# fortified city built by legendary Javakhos
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+}
+18057 = {	# Sartsebi
+	# ask Oneven
+	holding = none
+}
+18025 = {	# Tskarovstavi
+	# site of a 9th century monastery
+	holding = church_holding
+}
+17992 = {	# Dadasheni
+	# regional fortress
+	holding = castle_holding
+}
+
+
+### d_klarjeti ###################################
+### c_klarjeti
+18018 = {	# Klarjeti
+	# shares name with the region, fortress
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+}
+5740 = {	# Arthanuji AKA Artanuji
+	# an ancinet fortress and fortified trading town
+	holding = city_holding
+}
+18020 = {	# Parkhali
+	# 9th-10th century Georgian monastery
+	holding = church_holding
+}
+
+### c_shavsheti
+18070 = {	# Tbeti
+	# Georgian settlment
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+}
+18098 = {	# Tsepta
+	# ancient fortress
+	holding = none
+}
+
+### c_adjara
+18134 = {	# Keda
+	# Georgain town
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+}
+18159 = {	# Khula AKA Khulo
+	# merchant town
+	holding = city_holding
+}
+
+### c_nigali
+18061 = {	# Korideti
+	# ask Oneven
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+}
+18081 = {	# Nigali
+	# shares name with a valley
+	holding = none
+}
+
+
+### d_tao ###################################
+### c_kvemo_tao
+5736 = {	# Taoskari AKA Olur
+	# important regional fortress
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+}
+17956 = {	# Bana
+	# nowadays ruins, once a 7th century cathedral
+	holding = church_holding
+}
+680 = { 	# Oltisi AKA Oltu
+	# fortified settlment
+	holding = city_holding
+}
+
+### c_zemo_tao
+5737 = {	# Tortomi AKA Tortum
+	# fortress
+	culture = georgian
+	religion = georgian_orthodox
+	holding = castle_holding
+
+	# History
+}
+17963 = {	# Arsisi
+	# ask Oneven
+	holding = city_holding
+}
+17913 = {	# Idi
+	# ask Oneven
+	holding = none
+}
+17892 = {	# Bughatakuri
+	# valley with a fortress
+	holding = castle_holding
+}
+
+
+### d_speri ###################################
+### c_kvemo_speri
+5693 = {	# Hyspiratis AKA Speri AKA İspir
+	# settlment famous for gold mines
+	culture = armenian
+	religion = armenian_apostolic
+	holding = castle_holding
+	special_building = generic_gold_mines_01
+
+	# History
+}
+17897 = {	# Norakalaki AKA Pazaryolu
+	# settlment with a fortress
+	holding = castle_holding
+}
+17955 = {	# Otkhni
+	# ask Oneven
+	holding = none
+}
+5709 = {	# Vardenik
+	# ask Oneven
+	holding = none
+}
+
+### c_shua_speri
+5694 = {	# Baeberdon AKA Bayburt
+	# once a fortress and important trade post
+	culture = armenian
+	religion = armenian_apostolic
+	holding = castle_holding
+
+	# History
+}
+17852 = {	# Khart AKA Aydintepe
+	# ancient underground town
+	# ask Oneven
+	holding = city_holding
+}
