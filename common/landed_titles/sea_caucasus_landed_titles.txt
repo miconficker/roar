@@ -1,4 +1,24 @@
-﻿e_caucasia = {
+﻿@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+@never_primary_score = -1000
+
+# CAUCASUS
+
+d_greater_abazinia = {
+	color = { 145 0 0 }
+
+	cultural_names = {
+		name_list_abkhaz = cn_abazashta
+	}
+}
+
+d_kabardia = {
+	color = { 18 63 135 }
+}
+
+e_caucasia = {
+	color = { 99 46 11 }
 
 	k_syunik = {
 		color = { 150 110 153 }
@@ -14,173 +34,274 @@
 			}
 		}
 
-		d_17987 = {
-			c_17987 = {
-				b_17987 = {
-					province = 17987
-				}
-				b_parnes = {
-					province = 5783
+		d_syunik-baghk = {
+			color = { 166 43 196 }
 
-					color = { 182 44 78 }
-				}
-			}
-			c_khachen = {
-				color = { 182 44 78 }
+			capital = c_baghk
 
-				b_tovuz = {
-					province = 5780
+			c_baghk = {
+				color = { 162 22 196 }
 
-					color = { 182 44 78 }
-				}
-				b_shamkur = {
-					province = 5781
+				b_kapan = {
+					province = 671
 
-					color = { 182 44 78 }
+					color = { 162 22 196 }
 				}
-				b_gardman = {
-					province = 5782
+				b_baghaberd = {
+					province = 17666
 
-					color = { 182 44 78 }
+					color = { 162 22 196 }
 				}
-				b_17924 = {
-					province = 17924
-				}
-			}
-			c_18072 = {
-				b_18072 = {
-					province = 18072
-				}
-				b_kayan = {
-					province = 5762
+				b_agarak = {
+					province = 17671
 
-					color = { 205 160 160 }
+					color = { 162 22 196 }
 				}
 			}
-		}
-
-		d_17817 = {
-			c_17817 = {
-				b_17817 = {
-					province = 17817
-				}
-				b_17793 = {
-					province = 17793
-				}
-			}
-			c_17838 = {
-				b_17838 = {
-					province = 17838
-				}
-				b_17788 = {
-					province = 17788
-				}
-				b_gandzasar = {
-					province = 670
-
-					color = { 182 44 78 }
-				}
-			}
-			c_17739 = {
-				b_ktis = {
-					province = 5784
-
-					color = { 182 44 78 }
-				}
-				b_17739 = {
-					province = 17739
-				}
-				b_17794 = {
-					province = 17794
-				}
-			}
-			c_17716 = {
-				b_17716 = {
-					province = 17716
-				}
-				b_17743 = {
-					province = 17743
-				}
-			}
-		}
-		d_17825 = {
-			c_17825 = {
-				b_17825 = {
-					province = 17825
-				}
-				b_17859 = {
-					province = 17859
-				}
-			}
-			c_17853 = {
-				b_17853 = {
-					province = 17853
-				}
-				b_17918 = {
-					province = 17918
-				}
-			}
-			c_17977 = {
-				b_17724 = {
-					province = 17724
-				}
-				b_17767 = {
-					province = 17767
-				}
-				b_17807 = {
-					province = 17807
-				}
-			}
-		}
-		d_17665 = {
-			c_17665 = {
-				b_17665 = {
-					province = 17665
-				}
-				b_jugha = {
-					province = 5787
-
-					color = { 197 80 107 }
-				}
-			}
-			c_17729 = {
-				b_17729 = {
-					province = 17729
-				}
-				b_naxcivan = {
-					province = 5785
-
-					color = { 190 80 105 }
-				}
-			}
-		}
-		d_17712 = {
-			c_suenik = {
-				color = { 197 80 107 }
+			c_sisakan = {
+				# old c_suenik
+				color = { 121 34 143 }
 
 				b_goris = {
 					province = 5786
 
-					color = { 197 80 107 }
+					color = { 121 34 143 }
 				}
-				b_17712 = {
-					province = 17712
-				}
-				b_17732 = {
+				b_tatev = {
 					province = 17732
+
+					color = { 121 34 143 }
+				}
+				b_ernjak = {
+					province = 17712
+
+					color = { 121 34 143 }
 				}
 			}
-			c_17666 = {
-				b_17666 = {
-					province = 17666
-				}
-				b_17671 = {
-					province = 17671
-				}
-				b_kapan = {
-					province = 671
+		}
 
-					color = { 197 80 107 }
+		d_syunik-vayotsdzor = {
+			color = { 152 130 173 }
+
+			capital = c_vayotsdzor
+
+			c_vayotsdzor = {
+				color = { 117 104 130 }
+
+				b_hrasekaberd = {
+					province = 17807
+
+					color = { 117 104 130 }
+				}
+				b_kapolt = {
+					province = 17767
+
+					color = { 117 104 130 }
+				}
+				b_chahuk = {
+					province = 17724
+
+					color = { 117 104 130 }
+				}
+			}
+			c_gegharkunik = {
+				color = { 79 68 87 }
+
+				b_noraduz = {
+					province = 17859
+
+					color = { 79 68 87 }
+				}
+				b_kotavank = {
+					province = 17825
+
+					color = { 79 68 87 }
+				}
+			}
+			c_sotk = {
+				color = { 99 70 120 }
+
+				b_sotk = {
+					province = 17853
+				
+					color = { 99 70 120 }
+				}
+				b_tsapatagh = {
+					province = 17918
+
+					color = { 99 70 120 }
+				}
+			}
+		}
+
+		d_artsakh = {
+			color = { 105 28 97 }
+
+			capital = c_khachen
+
+			c_khachen = {
+				color = { 84 15 77 }
+
+				b_kachaghakaberd = {
+					province = 17838
+
+					color = { 84 15 77 }
+				}
+				b_gandzasar = {
+					province = 670
+
+					color = { 84 15 77 }
+				}
+				b_parsakank = {
+					province = 17788
+
+					color = { 84 15 77 }
+				}
+			}
+			c_vaykunik = {
+				color = { 97 33 90 }
+
+				b_vaykunik = {
+					province = 17817
+
+					color = { 97 33 90 }
+				}
+				b_shoghvaga = {
+					province = 17793
+
+					color = { 97 33 90 }
+				}
+			}
+			c_dizak = {
+				color = { 199 84 187 }
+
+				b_ktis = {
+					province = 5784
+
+					color = { 199 84 187 }
+				}
+				b_gishi = {
+					province = 17794
+
+					color = { 199 84 187 }
+				}
+				b_dzagedzor = {
+					province = 17739
+
+					color = { 199 84 187 }
+				}
+			}
+			c_sisakan-i-vostan = {
+				color = { 168 40 154 }
+
+				b_nakorjan = {
+					province = 17716
+
+					color = { 168 40 154 }
+				}
+				b_tagher = {
+					province = 17743
+
+					color = { 168 40 154 }
+				}
+			}
+		}
+
+		d_gardman = {
+			color = { 42 61 156 }
+
+			capital = c_gardman
+
+			cultural_names = {
+				name_list_armenian = cn_utik
+				name_list_avaric = cn_utik
+			}
+
+			c_gardman = {
+				color = { 26 42 122 }
+
+				b_gardman = {
+					province = 5782
+
+					color = { 26 42 122 }
+				}
+				b_tovuz = {
+					province = 5780
+
+					color = { 26 42 122 }
+				}
+				b_shamkur = {
+					province = 5781
+
+					color = { 26 42 122 }
+				}
+				b_koght = {
+					province = 17924
+
+					color = { 26 42 122 }
+				}
+			}
+			c_parnes = {
+				color = { 40 67 201 }
+
+				b_parnes = {
+					province = 5783
+
+					color = { 40 67 201 }
+				}
+				b_tuchkatak = {
+					province = 17987
+
+					color = { 40 67 201 }
+				}
+			}
+			c_aghve = {
+				color = { 67 84 168 }
+
+				b_kayan = {
+					province = 5762
+
+					color = { 67 84 168 }
+				}
+				b_koghbakar = {
+					province = 18072
+
+					color = { 67 84 168 }
+				}
+			}
+		}
+
+		d_nakhichevan = {
+			color = { 107 15 63 }
+
+			capital = c_nakhichevan
+
+			c_nakhichevan = {
+				color = { 156 19 90 }
+
+				b_naxcivan = {
+					province = 5785
+
+					color = { 156 19 90 }
+				}
+				b_maravan = {
+					province = 17729
+
+					color = { 156 19 90 }
+				}
+			}
+			c_goghtn = {
+				color = { 115 30 74 }
+
+				b_akulis = {
+					province = 17665
+
+					color = { 115 30 74 }
+				}
+				b_jugha = {
+					province = 5787
+
+					color = { 115 30 74 }
 				}
 			}
 		}
