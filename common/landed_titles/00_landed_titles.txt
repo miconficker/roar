@@ -26103,16 +26103,16 @@ e_caspian-pontic_steppe = {
 
 		d_16567 = {
 			c_16630 = {
-				b_16630 = {
+				b_theodoro = {
 					province = 16630
 				}
-				b_16646 = {
+				b_kalamita = {
 					province = 16646
 				}
 			}
 
 			c_16567 = {
-				b_16567 = {
+				b_phoros = {
 					province = 16567
 				}
 				b_chersonesus = {
@@ -26120,12 +26120,12 @@ e_caspian-pontic_steppe = {
 
 					color = { 124 52 63 }
 				}
-				b_16578 = {
+				b_gialita = {
 					province = 16578
 				}
 			}
 			c_16721 = {
-				b_16721 = {
+				b_sougdaia = {
 					province = 16721
 				}
 				b_theodosia = {
@@ -26133,7 +26133,7 @@ e_caspian-pontic_steppe = {
 
 					color = { 124 52 63 }
 				}
-				b_16709 = {
+				b_alouston = {
 					province = 16709
 				}
 			}
@@ -26154,10 +26154,10 @@ e_caspian-pontic_steppe = {
 						name_list_greek = cn_scythian_neapolis
 					}
 				}
-				b_16785 = {
+				b_sokhat = {
 					province = 16785
 				}
-				b_16700 = {
+				b_kyrk_or = {
 					province = 16700
 				}
 			}
@@ -26170,7 +26170,7 @@ e_caspian-pontic_steppe = {
 
 					color = { 124 52 63 }
 				}
-				b_16805 = {
+				b_kimmerikon = {
 					province = 16805
 
 					color = { 124 52 63 }
@@ -26205,7 +26205,7 @@ e_caspian-pontic_steppe = {
 
 					color = { 110 32 44 }
 				}
-				b_16895 = {
+				b_karagaji = {
 					province = 16895
 
 					color = { 110 32 44 }
@@ -26218,17 +26218,13 @@ e_caspian-pontic_steppe = {
 					name_list_greek = cn_scythian_neapolis
 				}
 
-				b_perekop = {
+				b_taphros = {
 					province = 5277
-
-					cultural_names = {
-						name_list_greek = cn_taphros
-					}
 
 					color = { 105 56 64 }
 				}
 
-				b_dzhankoi = {
+				b_oy_kich = {
 					province = 5331
 
 					color = { 105 56 64 }
@@ -26256,7 +26252,7 @@ e_caspian-pontic_steppe = {
 
 					color = { 66 55 10 }
 				}
-				b_16876 = {
+				b_phanagoria = {
 					province = 16876
 
 					color = { 66 55 10 }
@@ -26264,10 +26260,10 @@ e_caspian-pontic_steppe = {
 			}
 
 			c_16861 = {
-				b_16861 = {
+				b_tumnev = {
 					province = 16861
 				}
-				b_16935 = {
+				b_ach = {
 					province = 16935
 				}
 				b_kuban = {
@@ -26281,7 +26277,7 @@ e_caspian-pontic_steppe = {
 				}
 			}
 			c_16911 = {
-				b_16911 = {
+				b_cumaliy = {
 					province = 16911
 				}
 				b_16807 = {
@@ -80764,8 +80760,6 @@ e_permia = {
 	}
 }
 
-## goto here
-
 e_micronesia = {
 	k_micronesia = {
 
@@ -87049,221 +87043,182 @@ e_irian = {
 
 e_panyupayana = {
 
-	k_ruucuu = {
-		color = { 0 130 60 }
-
-		capital = c_ucinaa
-		can_be_named_after_dynasty = no
-
-		cultural_names = {
-			name_list_yamato = cn_ryukyu
-			name_list_emishi = cn_ryukyu
-		}
-
-		can_create = {
-		}
-
-		ai_primary_priority = {
-			if = {
-				limit = { culture = culture:japanese }
-				add = @correct_culture_primary_score
-			}
-		}
-
-		d_ruucuu = {
-			color = { 0 137 41 }
-
-			capital = c_ucinaa
-			can_be_named_after_dynasty = no
-
-			cultural_names = {
-				name_list_yamato = cn_ryukyu
-				name_list_emishi = cn_ryukyu
-			}
-
-			c_ucinaa = {
-				color = { 0 103 43 }
-				can_be_named_after_dynasty = no
-
-				cultural_names = {
-					name_list_yamato = cn_okinawa
-					name_list_emishi = cn_okinawa
-				}
-
-				b_simajiri = {
-					province = 10645
-
-					cultural_names = {
-						name_list_yamato = cn_shimajiri
-						name_list_emishi = cn_shimajiri
-					}
-
-					color = { 0 116 43 }
-				}
-				b_nakajan = {
-					province = 10646
-
-					cultural_names = {
-						name_list_yamato = cn_nakagami
-						name_list_emishi = cn_nakagami
-					}
-
-					color = { 0 77 30 }
-				}
-				b_kunjan_ucinaa = {
-					province = 10647
-
-					cultural_names = {
-						name_list_yamato = cn_kunigami
-						name_list_emishi = cn_kunigami
-					}
-
-					color = { 0 117 34 }
-				}
-			}
-
-			c_amami = {
-				color = { 0 159 45 }
-				can_be_named_after_dynasty = no
-
-				b_amami = {
-					province = 10643
-
-					color = { 0 142 55 }
-				}
-				b_17601 = {
-					province = 17601
-				}
-			}
-
-		}
-	}
 	k_mindanao = {
+		d_lupah_sug = {
+			color = { 217 224 117 }
 
-		d_sulu = {
+			c_PHI_sug = {
+				color = { 177 181 118 }
 
-
-			c_PHI_sulu = {
-				color = { 244 140 31 }
-
-				b_PHI_Matangal = {  #Basilan
+				b_PHI_Tagima = {  #Basilan
 					province = 11085
 
-					color = { 203 103 58 }
+					color = { 177 181 118 }
 				}
-				b_PHI_Sulug = { #Jolo
+				b_PHI_Maimbung = {
 					province = 11086
 
-					color = { 217 136 42 }
+					color = { 177 181 118 }
 				}
 				b_PHI_Pangutaran = {	#Pangutaran
 					province = 11087
 
-					color = { 231 113 23 }
+					color = { 177 181 118 }
 				}
-				b_PHI_Tawi_Tawi = { #Tawi-Tawi
+				b_PHI_Jawi_Jawi = {
 					province = 11088
 
-					color = { 245 162 2 }
+					color = { 177 181 118 }
 				}
 				b_BOR_Sibutu = {
 					province = 11157
 
-					color = { 0 140 181 }
+					color = { 177 181 118 }
 				}
 			}
 		}
 
-		d_17520 = {
-			c_17520 = {
-				b_17520 = {
-					province = 17520
-				}
-				b_PHI_Tukuran = {
-					province = 11082
+		d_samboangan = {
+			color = { 247 247 26 }
 
-					color = { 171 63 27 }
-				}
-				b_PHI_Kumalarang = {
+			c_dapitan = {
+				color = { 258 250 21 }
+
+				b_PHI_Dapitan = {
 					province = 11083
 
-					color = { 185 94 12 }
+					color = { 258 250 21 }
+				}
+				b_kumalarang = {
+					province = 17520
+
+					color = { 258 250 21 }
+				}
+				b_PHI_Layawan = {
+					province = 11082
+
+					color = { 258 250 21 }
 				}
 			}
-			c_PHI_zamboanga = { #Zamboanga peninsula
-				color = { 212 95 0 }
+			c_samboangan = {
+				color = { 247 247 26 }
 
-				b_PHI_Bolong = {
+				b_PHI_Samboangan = {
 					province = 11084
 
-					color = { 199 73 0 }
+					color = { 247 247 26 }
 				}
-				b_17499 = {
+				b_bakalan = {
 					province = 17499
+
+					color = { 247 247 26 }
 				}
-				b_17562 = {
+				b_kipit = {
 					province = 17562
+
+					color = { 247 247 26 }
 				}
 			}
-
 		}
-		d_17500 = {
-			c_17500 = {
+		d_lanao = {
+			color = { 54 80 33 }
 
-				b_17591 = {
-					province = 17591
-				}
+			c_masiu = {
+				color = { 54 80 33 }
 
-				b_17549 = {
-					province = 17549
-				}
-
-				b_17587 = {
+				b_masiu = {
 					province = 17587
+
+					color = { 54 80 33 }
 				}
-				b_17500 = {
+				b_banoi = {
+					province = 17591
+
+					color = { 54 80 33 }
+				}
+				b_bayabao = {
+					province = 17549
+
+					color = { 54 80 33 }
+				}
+				b_unayan = {
 					province = 17500
+
+					color = { 54 80 33 }
 				}
 			}
 		}
-		d_17290 = {
-			c_17290 = {
-				b_17290 = {
-					province = 17290
+		d_kotabatu = {
+			color = { 135 124 33 }
+
+			cultural_names = {
+				name_list_danao = cn_kutawatu
+			}
+
+			c_kotabatu = {
+				color = { 145 147 55 }
+
+				cultural_names = {
+					name_list_danao = cn_kutawatu
 				}
 
-				b_17453 = {
-					province = 17453
-				}
-			}
-			c_17284 = {
-				b_17284 = {
+				b_kotabatu = {
 					province = 17284
 				}
-				b_17249 = {
+				b_buayan = {
 					province = 17249
 				}
 			}
-			c_16931 = {
-				b_16931 = {
-					province = 16931
+			c_ilianen = {
+				color = { 135 164 85 }
+
+				b_kidapawan = {
+					province = 17290
+
+					color = { 135 164 85 }
 				}
-				b_16744 = {
-					province = 16744
-				}
-				b_17029 = {
-					province = 17029
-				}
-				b_16930 = {
-					province = 16930
+				b_kalalaw = {
+					province = 17453
+
+					color = { 135 164 85 }
 				}
 			}
-			c_16402 = {
-				b_16402 = {
-					province = 16402
+			c_tboli = {
+				color = { 50 75 80 }
+
+				b_buluan = {
+					province = 17029
+
+					color = { 50 75 80 }
 				}
-				b_16652 = {
+				b_marb_el = {
+					province = 16931
+
+					color = { 50 75 80 }
+				}
+				b_flomlok = {
+					province = 16744
+
+					color = { 50 75 80 }
+				}
+				b_lebak = {
+					province = 16930
+
+					color = { 50 75 80 }
+				}
+			}
+			c_sarangani = {
+				color = { 104 118 64 }
+
+				b_dinadasan = {
 					province = 16652
+
+					color = { 104 118 64 }
+				}
+				b_PHI_Lais = {
+					province = 16402
+
+					color = { 104 118 64 }
 				}
 			}
 		}
@@ -87271,90 +87226,140 @@ e_panyupayana = {
 
 	k_butuan = {
 
-		d_17761 = {
-			c_17761 = {
-				b_17761 = {
+		d_himologan = {
+			color = { 212 211 41 }
+
+			c_himologan = {
+				color = { 212 211 41 }
+
+				b_himologan = {
 					province = 17761
+
+					color = { 212 211 41 }
 				}
-				b_17703 = {
+				b_kabangalasan = {
 					province = 17703
+
+					color = { 212 211 41 }
 				}
 			}
-			c_17508 = {
-				b_17508 = {
-					province = 17508
-				}
-				b_17564 = {
-					province = 17564
-				}
-				b_PHI_Malaybalay = {
+			c_bukidnon = {
+				color = { 161 194 48 }
+
+				b_PHI_Kalasungay = {
 					province = 11077
 
-					color = { 170 112 25 }
+					color = { 161 194 48 }
 				}
+				b_ramulog = {
+					province = 17508
 
+					color = { 161 194 48 }
+				}
+				b_ag_ramag = {
+					province = 17564
+
+					color = { 161 194 48 }
+				}
 			}
 		}
-		d_15090 = {
-			c_15090 = {
-				b_15090 = {
-					province = 15090
-				}
-				b_15337 = {
-					province = 15337
-				}
-				b_17931 = {
+		d_kalagan = {
+			color = { 124 146 58 }
+
+			c_butuan = {
+				color = { 174 204 74 }
+
+				b_butuan = {
 					province = 17931
+
+					color = { 174 204 74 }
+				}
+				b_suligaw = {
+					province = 15090
+
+					color = { 174 204 74 }
+				}
+				b_dinagat = {
+					province = 15337
+
+					color = { 174 204 74 }
 				}
 			}
-			c_17810 = {
-				b_17810 = {
-					province = 17810
-				}
-				b_17691 = {
+			c_agusan = {
+				color = { 200 162 55 }
+
+				b_agusan = {
 					province = 17691
+
+					color = { 200 162 55 }
 				}
-				b_17660 = {
+				b_kulilay = {
+					province = 17810
+
+					color = { 200 162 55 }
+				}
+				b_linao = {
 					province = 17660
+
+					color = { 200 162 55 }
 				}
 
 			}
-			c_17850 = {
-				b_17850 = {
-					province = 17850
-				}
+			c_tandag = {
+				color = { 194 120 58 }
 
-				b_17588 = {
+				b_tandag = {
+					province = 17850
+
+					color = { 194 120 58 }
+				}
+				b_lianga = {
 					province = 17588
+
+					color = { 194 120 58 }
 				}
 			}
 		}
-		d_17030 = {
-			c_17030 = {
-				b_17030 = {
-					province = 17030
-				}
-				b_17510 = {
-					province = 17510
-				}
+		d_dabaw = {
+			color = { 190 140 23 }
 
-				b_17314 = {
-					province = 17314
-				}
+			c_dabaw = {
+				color = { 190 140 23 }
 
-			}
-			c_17375 = {
-				b_17375 = {
-					province = 17375
-				}
-				b_17332 = {
+				b_dabaw = {
 					province = 17332
-				}
 
-				b_17509 = {
+					color = { 190 140 23 }
+				}
+				b_samal = {
+					province = 17375
+
+					color = { 190 140 23 }
+				}
+				b_bisaya = {
 					province = 17509
-				}
 
+					color = { 190 140 23 }
+				}
+			}
+			c_nabunturan = {
+				color = { 178 164 58 }
+
+				b_mansaka = {
+					province = 17510
+
+					color = { 178 164 58 }
+				}
+				b_sigaboy = {
+					province = 17030
+
+					color = { 178 164 58 }
+				}
+				b_baganga = {
+					province = 17314
+
+					color = { 178 164 58 }
+				}
 			}
 		}
 	}
@@ -87372,26 +87377,25 @@ e_panyupayana = {
 			c_PHI_bool_and_cebu = {
 				color = { 161 25 27 }
 
-				b_PHI_Sugbu = { #Cebu
+				b_PHI_nahalin = { #Cebu
 					province = 11054
 
 					color = { 134 31 30 }
 				}
-				b_15576 = {
+				b_sugbu = {
 					province = 15576
 				}
-				b_15547 = {
+				b_manktan = {
 					province = 15547
 				}
-				b_PHI_Siaro = {
+				b_PHI_Sialo = {
 					province = 11055
 
 					color = { 181 2 6 }
 				}
 			}
-
 			c_15330 = {
-				b_15330 = {
+				b_panglao = {
 					province = 15330
 				}
 				b_PHI_Bool = {  #Bohol
@@ -87400,41 +87404,21 @@ e_panyupayana = {
 					color = { 120 38 56 }
 				}
 			}
-			c_PHI_tandaya = {   #Leyte
-				color = { 177 51 9 }
-
-				b_PHI_Baybay = {
-					province = 11052
-
-					color = { 136 34 29 }
-				}
-				b_PHI_Kankabatok = {	#Tacloban
-					province = 11051
-
-					color = { 150 54 18 }
-				}
-				b_PHI_Panamao = {   #Biliran
-					province = 11050
-
-					color = { 164 31 4 }
-				}
-			}
-
 			c_15415 = {
-				b_15415 = {
+				b_tayasan = {
 					province = 15415
 				}
-				b_PHI_Nabingkalan = {   #San Carlos
+				b_PHI_sigay = {
 					province = 11059
 
 					color = { 180 62 71 }
 				}
 			}
 			c_15088 = {
-				b_15088 = {
+				b_bais = {
 					province = 15088
 				}
-				b_PHI_Dananguet = { #Dumaguete
+				b_PHI_tanghay = { #Dumaguete
 					province = 11057
 
 					color = { 133 33 31 }
@@ -87445,234 +87429,17 @@ e_panyupayana = {
 					color = { 162 27 6 }
 				}
 			}
-			c_PHI_samar = {
-				color = { 193 65 59 }
-
-				b_PHI_Catarman = {
-					province = 11047
-
-					color = { 152 71 84 }
-				}
-				b_PHI_Borongan = {
-					province = 11049
-
-					color = { 180 50 55 }
-				}
-			}
 		}
-
-		d_PHI_maguindanao = {
-			color = { 227 84 60 }
-
-			capital = c_PHI_lanao
-
-			c_PHI_lanao = {
-				color = { 181 78 33 }
-
-				b_PHI_Tubok = { #Tubok
-					province = 11080
-
-					color = { 140 58 48 }
-				}
-				b_PHI_Masiu = {
-					province = 11079
-
-					color = { 154 77 38 }
-				}
-				b_PHI_Marahui = {
-					province = 11081
-
-					color = { 168 58 26 }
-				}
-				b_PHI_Tagoloan = {
-					province = 11076
-
-					color = { 182 88 12 }
-				}
-			}
-
-			c_PHI_cotabato = {
-				color = { 197 120 16 }
-
-				b_PHI_Bagua_Inged = {
-					province = 11092
-
-					color = { 156 82 38 }
-				}
-				b_PHI_Idalemen = {
-					province = 11078
-
-					color = { 184 96 10 }
-				}
-			}
-
-			c_PHI_maguindanao = {
-				color = { 228 164 0 }
-
-				b_PHI_Tamontaka = {
-					province = 11089
-
-					color = { 187 112 30 }
-				}
-				b_PHI_Lebak = {
-					province = 11090
-
-					color = { 201 153 14 }
-				}
-				b_PHI_Sapakan = {
-					province = 11091
-
-					color = { 215 137 0 }
-				}
-				b_PHI_Makar = {
-					province = 11095
-
-					color = { 229 198 0 }
-				}
-			}
-		}
-
-		d_PHI_butuan = {
-			color = { 245 65 0 }
-
-			capital = c_PHI_butuan
-
-			c_PHI_butuan = {
-				color = { 199 40 36 }
-
-				b_PHI_Butuan = {
-					province = 11075
-
-					color = { 158 54 72 }
-				}
-				b_PHI_Cabadbaran = {
-					province = 11069
-
-					color = { 172 49 43 }
-				}
-				b_PHI_Baganga = {
-					province = 11070
-
-					color = { 219 12 8 }
-				}
-				b_PHI_Agusan = {
-					province = 11074
-
-					color = { 200 45 12 }
-				}
-			}
-
-			c_PHI_calagan = {   #Surigao
-				color = { 215 75 16 }
-
-				b_PHI_Surigao = {
-					province = 11067
-
-					color = { 174 54 41 }
-				}
-				b_PHI_Dinagat = {   #Dinagat
-					province = 11065
-
-					color = { 188 79 27 }
-				}
-				b_PHI_Siargao = {   #Siargao
-					province = 11066
-
-					color = { 202 51 10 }
-				}
-				b_PHI_Tandag = {
-					province = 11068
-
-					color = { 216 96 0 }
-				}
-			}
-
-			c_PHI_mandaya = {
-				color = { 230 39 0 }
-
-				b_PHI_Magugpo = {
-					province = 11073
-
-					color = { 189 30 35 }
-				}
-				b_PHI_Mati = {
-					province = 11071
-
-					color = { 203 51 14 }
-				}
-				b_PHI_Kuambog = {
-					province = 11072
-
-					color = { 217 19 0 }
-				}
-			}
-
-			c_PHI_sarangani = {
-				color = { 246 109 0 }
-
-				b_PHI_Malita = {
-					province = 11094
-
-					color = { 205 75 33 }
-				}
-				b_PHI_Glan = {
-					province = 11096
-
-					color = { 219 111 15 }
-				}
-				b_PHI_Sarangani = {
-					province = 11097
-
-					color = { 233 85 0 }
-				}
-			}
-		}
-
 
 		d_PHI_tondo = {
 		   color = { 205 150 21 }
 
 			capital = c_PHI_tondo
 
-			c_PHI_tondo = {
-				color = { 225 202 19 }
-
-				b_PHI_Tondo = {
-					province = 11021
-
-					color = { 255 223 25 }
-				}
-				b_PHI_Kapampangan = {
-					province = 11020
-
-					color = { 216 231 17 }
-				}
-				b_PHI_Maynila = {   #Manilla
-					province = 11024
-
-					color = { 154 165 18 }
-				}
-				b_PHI_Binangonan = {
-					province = 11022
-
-					color = { 171 211 19 }
-				}
-			}
-
 			c_PHI_masbate = {
 				color = { 201 122 25 }
 
-				b_PHI_Masbate = {   #Masbate
-					province = 11035
-
-					color = { 255 149 22 }
-				}
-				b_PHI_Ticao = { #Ticao & Burias
-					province = 11034
-
-					color = { 213 148 32 }
-				}
-				b_PHI_Donblon = {   #Romblon
+				b_PHI_Lomlom = {   #Romblon
 					province = 11036
 
 					color = { 163 133 18 }
@@ -87685,19 +87452,19 @@ e_panyupayana = {
 			}
 
 			c_16015 = {
-				b_PHI_Irong_Irong = {
+				b_PHI_Pasi = {
 					province = 11062
 
 					color = { 89 47 62 }
 				}
-				b_16015 = {
+				b_batan = {
 					province = 16015
 				}
-
-				b_15969 = {
+				b_bambam = {
 					province = 15969
 				}
 			}
+
 			c_PHI_panay = {
 				color = { 130 47 61 }
 
@@ -87711,19 +87478,18 @@ e_panyupayana = {
 
 					color = { 131 32 34 }
 				}
-				b_15811 = {
+				b_oton = {
 					province = 15811
 				}
-				b_15684 = {
+				b_tigbawan = {
 					province = 15684
 				}
 			}
 
-
 			c_PHI_buglas = {	#Negros island
 				color = { 146 49 38 }
 
-				b_PHI_Binalbagan = {
+				b_PHI_Magsungay = {
 					province = 11060
 
 					color = { 105 44 50 }
@@ -87733,53 +87499,557 @@ e_panyupayana = {
 
 					color = { 186 106 76 }
 				}
-				b_15420 = {
+				b_PHI_Binalbagan = {
 					province = 15420
 				}
 			}
-
 		}
 
 		d_15594 = {
 			c_15594 = {
-				b_15594 = {
+				b_abuyog = {
 					province = 15594
 				}
-				b_15428 = {
+				b_limasawa = {
 					province = 15428
 				}
 			}
 			c_15867 = {
-				b_15867 = {
+				b_kankabatok = {
 					province = 15867
 				}
-				b_16037 = {
+				b_biliran = {
 					province = 16037
 				}
-				b_15741 = {
+				b_ormok = {
 					province = 15741
 				}
 			}
 			c_16195 = {
-				b_16195 = {
+				b_tubig = {
 					province = 16195
 				}
-				b_15970 = {
+				b_kalbiga = {
 					province = 15970
 				}
-				b_15789 = {
+				b_borongan = {
 					province = 15789
 				}
 			}
 			c_16194 = {
-				b_16194 = {
+				b_libunao = {
 					province = 16194
 				}
-				b_16417 = {
+				b_kataruman = {
 					province = 16417
 				}
-				b_16390 = {
+				b_palapag = {
 					province = 16390
+				}
+			}
+		}
+	}
+
+	k_lusung = {	#Luzon
+	   color = { 240 160 30 }
+
+		capital = c_PHI_tondo
+
+		d_17082 = {
+			c_17082 = {
+				b_17082 = {
+					province = 17082
+				}
+				b_17001 = {
+					province = 17001
+				}
+				b_17010 = {
+					province = 17010
+				}
+			}
+			c_16996 = {
+				b_16996 = {
+					province = 16996
+				}
+				b_16954 = {
+					province = 16954
+				}
+			}
+			c_16868 = {
+				b_16868 = {
+					province = 16868
+				}
+				b_16927 = {
+					province = 16927
+				}
+				b_16720 = {
+					province = 16720
+				}
+			}
+			c_PHI_kalilayan = { #Quezon
+				color = { 148 110 19 }
+
+				b_PHI_Pilila = {
+					province = 11023
+
+					color = { 184 90 22 }
+				}
+				b_PHI_Bondoc = {	#Bondoc Peninsula
+					province = 11026
+
+					color = { 149 147 24 }
+				}
+				b_PHI_Malindig = {  #Marinduque
+					province = 11033
+
+					color = { 131 88 15 }
+				}
+			}
+
+			c_16850 = {
+				b_16850 = {
+					province = 16850
+				}
+				b_16834 = {
+					province = 16834
+				}
+				b_16907 = {
+					province = 16907
+				}
+			}
+		}
+		d_17274 = {
+			c_17274 = {
+				b_botolan = {
+					province = 17274
+				}
+				b_masinlok = {
+					province = 17363
+				}
+			}
+			c_17081 = {
+				b_bataan = {
+					province = 17081
+				}
+				b_hubek = {
+					province = 17176
+				}
+			}
+			c_17289 = {
+				b_tarlak = {
+					province = 17289
+				}
+				b_kandaba = {
+					province = 17253
+				}
+				b_lubao = {
+					province = 17192
+				}
+			}
+			c_17409 = {
+				b_karanglan = {
+					province = 17409
+				}
+				b_pinagpanaan = {
+					province = 17326
+				}
+				b_pantabangan = {
+					province = 17299
+				}
+			}
+			c_17059 = {
+				b_taytay_tondo = {
+					province = 17059
+				}
+				b_tondo = {
+					province = 17126
+				}
+				b_binwangan = {
+					province = 17169
+				}
+				b_pulilan = {
+					province = 17225
+				}
+			}
+		}
+		d_16858 = {
+			c_16858 = {
+				b_lubang = {
+					province = 16858
+				}
+				b_PHI_paluan = {
+					province = 11038
+
+					color = { 136 77 24 }
+				}
+			}
+			c_16745 = {
+				b_minolo = {
+					province = 16745
+				}
+				b_PHI_nauhang = {
+					province = 11037
+
+					color = { 104 74 13 }
+				}
+			}
+			c_16556 = {
+				b_bongabong = {
+					province = 16556
+				}
+				b_mait_ph = {
+					province = 16226
+				}
+				b_PHI_ilin = {
+					province = 11040
+
+					color = { 143 118 16 }
+				}
+			}
+			c_PHI_ma-i = {  #Mindoro
+				color = { 196 131 18 }
+
+				b_PHI_mangarin = {
+					province = 11039
+
+					color = { 196 131 25 }
+				}
+				b_mamburaw = {
+					province = 16624
+				}
+			}
+
+		}
+		d_16716 = {
+			c_16716 = {
+				b_albay = {
+					province = 16716
+				}
+				b_donsol = {
+					province = 16625
+				}
+				b_sorsogon = {
+					province = 16510
+				}
+			}
+			c_16227 = {
+				b_mandaon = {
+					province = 16227
+				}
+				b_palanas = {
+					province = 16188
+				}
+			}
+			c_16890 = {
+				b_talolong = {
+					province = 16890
+				}
+				b_PHI_Daet = {
+					province = 11027
+
+					color = { 171 90 15 }
+				}
+			}
+			c_PHI_ibalong = {   #Bicol
+				color = { 255 112 22 }
+
+				b_PHI_Ibat = {  #Albay
+					province = 11029
+
+					color = { 233 130 24 }
+				}
+				b_PHI_Ibalon = {
+					province = 11028
+
+					color = { 255 96 20 }
+				}
+				b_PHI_Katanduan = { #Catanduanes
+					province = 11032
+
+					color = { 208 77 27 }
+				}
+				b_katanduan = {
+					province = 16835
+				}
+				b_kamalig = {
+					province = 16810
+				}
+			}
+		}
+		d_PHI_cagayan = {
+			color = { 247 113 25 }
+
+			capital = c_PHI_cagayan_valley
+
+			c_PHI_cagayan_valley = {
+				color = { 210 109 23 }
+
+				b_PHI_Cagayan = {
+					province = 11011
+
+					color = { 150 80 20 }
+				}
+				b_PHI_Ilongot = {
+					province = 11012
+
+					color = { 200 143 15 }
+				}
+			}
+
+			c_17127 = {
+				b_binangonan = {
+					province = 17127
+				}
+				b_PHI_Pulilu = {	#Polillo Islands
+					province = 11031
+
+					color = { 103 118 19 }
+				}
+				b_umiray = {
+					province = 17275
+				}
+			}
+		}
+
+		d_PHI_sandao = {
+			color = { 231 207 26 }
+
+			capital = c_PHI_taytay
+
+			c_PHI_taytay = {
+				color = { 252 143 20 }
+
+				b_PHI_Taytay = {	#Taytay
+					province = 11043
+
+					color = { 191 176 24 }
+				}
+				b_irawan = {
+					province = 15344
+				}
+				b_PHI_busuanga = {
+					province = 11041
+
+					color = { 255 163 13 }
+				}
+				b_PHI_Cuyo = {  #Cuyo
+					province = 11042
+
+					color = { 255 115 22 }
+				}
+			}
+			c_PHI_south_palawan = {
+				color = { 255 224 33 }
+
+				b_PHI_Aborlan = {
+					province = 11044
+
+					color = { 201 255 24 }
+				}
+				b_PHI_Ipolot = {
+					province = 11045
+
+					color = { 237 210 26 }
+				}
+				b_PHI_Balabak = {
+					province = 11046
+
+					color = { 179 218 35 }
+				}
+			}
+		}
+	}
+
+	k_amianan = {
+		color = { 79 66 0 }
+
+		d_PHI_ilocana = {
+			color = { 255 172 26 }
+
+			capital = c_PHI_pangasinan
+
+			c_PHI_laoag = { # Ilocano
+				color = { 129 66 0 }
+
+				b_PHI_pagudpud = {
+					province = 11003
+
+					color = { 230 255 36 }
+				}
+				b_PHI_laoag = {
+					province = 17646
+				}
+				b_PHI_Bigan = {
+					province = 11004
+
+					color = { 150 155 19 }
+				}
+			}
+
+			c_PHI_kandong = {
+				b_PHI_narbakan = {
+					province = 15653
+				}
+				b_PHI_kandong = {
+					province = 11005
+
+					color = { 245 200 32 }
+				}
+			}
+			c_17614 = {
+				b_17614 = {
+					province = 17614
+				}
+				b_15693 = {
+					province = 15693
+				}
+				b_15708 = {
+					province = 15708
+				}
+			}
+			c_PHI_igorot = {
+				color = { 221 178 28 }
+
+				b_PHI_Apayo = {
+					province = 11008
+
+					color = { 151 190 24 }
+				}
+				b_PHI_Kalinga = {
+					province = 11010
+
+					color = { 248 143 26 }
+				}
+				b_PHI_Benguet = {
+					province = 11014
+
+					color = { 165 232 36 }
+				}
+			}
+		}
+
+		d_pangasinan = {
+			color = { 150 124 40 }
+
+			c_15457 = {
+				b_lagawa = {
+					province = 15457
+				}
+				b_bugyas = {
+					province = 15379
+				}
+				b_kafagway = {
+					province = 15157
+				}
+			}
+			c_PHI_pangasinan = {
+				color = { 255 126 24 }
+
+				b_PHI_agoo = {
+					province = 11006
+
+					color = { 211 147 19 }
+				}
+				b_balawan = {
+					province = 15156
+				}
+			}
+			c_17446 = {
+				b_bolinao = {
+					province = 17446
+				}
+				b_lingayen = {
+					province = 17417
+				}
+				b_binalatongan = {
+					province = 17364
+				}
+				b_umingan = {
+					province = 17408
+				}
+			}
+		}
+
+		d_cagayan_valley = {
+			color = { 234 217 18 }
+
+			c_PHI_ivatan = {
+				color = { 176 194 33 }
+
+				b_PHI_Babuyan = {
+					province = 11001
+
+					color = { 157 145 24 }
+				}
+				b_PHI_Calayan = {
+					province = 11002
+
+					color = { 223 223 37 }
+				}
+			}
+
+			c_15169 = {
+				b_kawayan = {
+					province = 15169
+				}
+				b_karig = {
+					province = 15166
+				}
+				b_bayombong = {
+					province = 15163
+				}
+				b_kasibu = {
+					province = 15165
+				}
+				b_tuy = {
+					province = 15162
+				}
+			}
+			c_18323 = {
+				b_PHI_bolo = {
+					province = 18324
+				}
+				b_PHI_dupaningan = {
+					province = 18325
+				}
+				b_17606 = {
+					province = 17606
+				}
+			}
+			c_17621 = {
+				b_nasipin = {
+					province = 17621
+				}
+				b_malolokit = {
+					province = 11007
+
+					color = { 230 130 43 }
+				}
+				b_aparri = {
+					province = 11009
+
+					color = { 255 129 28 }
+				}
+				b_gatara = {
+					province = 17615
+				}
+			}
+			c_15505 = {
+				b_gamu = {
+					province = 15505
+				}
+				b_tubigarao = {
+					province = 15815
+				}
+			}
+			c_15176 = {
+				b_divilikan = {
+					province = 15176
+				}
+				b_PHI_kasiguran = {
+					province = 11015
+
+					color = { 208 93 17 }
 				}
 			}
 		}
@@ -87875,519 +88145,93 @@ e_panyupayana = {
 		}
 	}
 
-	k_lusung = {	#Luzon
-	   color = { 240 160 30 }
+	k_ruucuu = {
+		color = { 0 130 60 }
 
-		capital = c_PHI_tondo
+		capital = c_ucinaa
+		can_be_named_after_dynasty = no
 
-		d_17082 = {
-			c_17082 = {
-				b_17082 = {
-					province = 17082
-				}
-				b_17001 = {
-					province = 17001
-				}
-				b_17010 = {
-					province = 17010
-				}
-			}
-			c_16996 = {
-				b_16996 = {
-					province = 16996
-				}
-				b_16954 = {
-					province = 16954
-				}
-			}
-			c_16868 = {
-				b_16868 = {
-					province = 16868
-				}
-				b_16927 = {
-					province = 16927
-				}
-				b_16720 = {
-					province = 16720
-				}
-			}
-			c_PHI_kalilayan = { #Quezon
-				color = { 148 110 19 }
-
-				b_PHI_Pilila = {
-					province = 11023
-
-					color = { 184 90 22 }
-				}
-				b_PHI_Bondoc = {	#Bondoc Peninsula
-					province = 11026
-
-					color = { 149 147 24 }
-				}
-				b_PHI_Malindig = {  #Marinduque
-					province = 11033
-
-					color = { 131 88 15 }
-				}
-			}
-
-			c_16850 = {
-				b_16850 = {
-					province = 16850
-				}
-				b_16834 = {
-					province = 16834
-				}
-				b_16907 = {
-					province = 16907
-				}
-			}
+		cultural_names = {
+			name_list_yamato = cn_ryukyu
+			name_list_emishi = cn_ryukyu
 		}
-		d_17274 = {
-			c_17274 = {
-				b_17274 = {
-					province = 17274
-				}
-				b_17363 = {
-					province = 17363
-				}
-			}
-			c_17081 = {
-				b_17081 = {
-					province = 17081
-				}
-				b_17176 = {
-					province = 17176
-				}
-			}
-			c_17289 = {
-				b_17289 = {
-					province = 17289
-				}
-				b_17253 = {
-					province = 17253
-				}
-				b_17192 = {
-					province = 17192
-				}
-			}
-			c_17409 = {
-				b_17409 = {
-					province = 17409
-				}
-				b_17326 = {
-					province = 17326
-				}
-				b_17299 = {
-					province = 17299
-				}
-			}
-			c_17059 = {
-				b_17059 = {
-					province = 17059
-				}
-				b_17126 = {
-					province = 17126
-				}
-				b_17169 = {
-					province = 17169
-				}
-				b_17225 = {
-					province = 17225
-				}
-			}
+
+		can_create = {
 		}
-		d_16858 = {
-			c_16858 = {
-				b_16858 = {
-					province = 16858
-				}
-				b_PHI_Mamburao = {
-					province = 11038
 
-					color = { 136 77 24 }
-				}
-			}
-			c_16745 = {
-				b_16745 = {
-					province = 16745
-				}
-				b_PHI_Pinamalayan = {
-					province = 11037
-
-					color = { 104 74 13 }
-				}
-			}
-			c_16556 = {
-				b_16556 = {
-					province = 16556
-				}
-				b_16226 = {
-					province = 16226
-				}
-				b_PHI_Bongabong = {
-					province = 11040
-
-					color = { 143 118 16 }
-				}
-			}
-			c_PHI_ma-i = {  #Mindoro
-				color = { 196 131 18 }
-
-				b_PHI_Dongon = {
-					province = 11039
-
-					color = { 196 131 25 }
-				}
-				b_16624 = {
-					province = 16624
-				}
-			}
-
-		}
-		d_16716 = {
-			c_16716 = {
-				b_16716 = {
-					province = 16716
-				}
-				b_16625 = {
-					province = 16625
-				}
-				b_16510 = {
-					province = 16510
-				}
-			}
-			c_16227 = {
-				b_16227 = {
-					province = 16227
-				}
-				b_16188 = {
-					province = 16188
-				}
-			}
-			c_16890 = {
-				b_16890 = {
-					province = 16890
-				}
-				b_PHI_Daet = {
-					province = 11027
-
-					color = { 171 90 15 }
-				}
-			}
-			c_PHI_ibalong = {   #Bicol
-				color = { 255 112 22 }
-
-				b_PHI_Ibat = {  #Albay
-					province = 11029
-
-					color = { 233 130 24 }
-				}
-				b_PHI_Ibalon = {
-					province = 11028
-
-					color = { 255 96 20 }
-				}
-				b_PHI_Katanduan = { #Catanduanes
-					province = 11032
-
-					color = { 208 77 27 }
-				}
-				b_16835 = {
-					province = 16835
-				}
-				b_16810 = {
-					province = 16810
-				}
-			}
-		}
-		d_PHI_cagayan = {
-			color = { 247 113 25 }
-
-			capital = c_PHI_cagayan_valley
-
-			c_PHI_cagayan_valley = {
-				color = { 210 109 23 }
-
-				b_PHI_Cagayan = {
-					province = 11011
-
-					color = { 150 80 20 }
-				}
-				b_PHI_Ilongot = {
-					province = 11012
-
-					color = { 200 143 15 }
-				}
-			}
-
-			c_17127 = {
-				b_17127 = {
-					province = 17127
-				}
-				b_PHI_Pulilu = {	#Polillo Islands
-					province = 11031
-
-					color = { 103 118 19 }
-				}
-				b_17275 = {
-					province = 17275
-				}
-			}
-			c_PHI_kasiguranin = {
-				color = { 173 130 17 }
-
-				b_PHI_Kirino = {	#fictional renaming of "Quirino" to make it look less hispanized
-					province = 11013
-
-					color = { 130 129 17 }
-				}
+		ai_primary_priority = {
+			if = {
+				limit = { culture = culture:japanese }
+				add = @correct_culture_primary_score
 			}
 		}
 
-		d_PHI_sandao = {
-			color = { 231 207 26 }
+		d_ruucuu = {
+			color = { 0 137 41 }
 
-			capital = c_PHI_taytay
+			capital = c_ucinaa
+			can_be_named_after_dynasty = no
 
-			c_PHI_taytay = {
-				color = { 252 143 20 }
+			cultural_names = {
+				name_list_yamato = cn_ryukyu
+				name_list_emishi = cn_ryukyu
+			}
 
-				b_PHI_Taytay = {	#Taytay
-					province = 11043
+			c_ucinaa = {
+				color = { 0 103 43 }
+				can_be_named_after_dynasty = no
 
-					color = { 191 176 24 }
+				cultural_names = {
+					name_list_yamato = cn_okinawa
+					name_list_emishi = cn_okinawa
 				}
-				b_15344 = {
-					province = 15344
-				}
-				b_PHI_Jamayan = {
-					province = 11041
 
-					color = { 255 163 13 }
-				}
-				b_PHI_Cuyo = {  #Cuyo
-					province = 11042
+				b_simajiri = {
+					province = 10645
 
-					color = { 255 115 22 }
+					cultural_names = {
+						name_list_yamato = cn_shimajiri
+						name_list_emishi = cn_shimajiri
+					}
+
+					color = { 0 116 43 }
+				}
+				b_nakajan = {
+					province = 10646
+
+					cultural_names = {
+						name_list_yamato = cn_nakagami
+						name_list_emishi = cn_nakagami
+					}
+
+					color = { 0 77 30 }
+				}
+				b_kunjan_ucinaa = {
+					province = 10647
+
+					cultural_names = {
+						name_list_yamato = cn_kunigami
+						name_list_emishi = cn_kunigami
+					}
+
+					color = { 0 117 34 }
 				}
 			}
 
-			c_PHI_south_palawan = {
-				color = { 255 224 33 }
+			c_amami = {
+				color = { 0 159 45 }
+				can_be_named_after_dynasty = no
 
-				b_PHI_Tagbanwa = {  #Tagbanwa people
-					province = 11044
+				b_amami = {
+					province = 10643
 
-					color = { 201 255 24 }
+					color = { 0 142 55 }
 				}
-				b_PHI_Pala_wan = {  #Palawan/o people
-					province = 11045
-
-					color = { 237 210 26 }
-				}
-				b_PHI_Balabac = {
-					province = 11046
-
-					color = { 179 218 35 }
-				}
-			}
-		}
-	}
-
-	k_amianan = {
-		color = { 79 66 0 }
-
-		d_PHI_ilocana = {
-			color = { 255 172 26 }
-
-			capital = c_PHI_pangasinan
-
-			c_PHI_laoag = { # Ilocano
-				color = { 129 66 0 }
-
-				b_PHI_pagudpud = {
-					province = 11003
-
-					color = { 230 255 36 }
-				}
-				b_PHI_laoag = {
-					province = 17646
-				}
-				b_PHI_Bigan = {
-					province = 11004
-
-					color = { 150 155 19 }
+				b_17601 = {
+					province = 17601
 				}
 			}
 
-			c_PHI_kandong = {
-				b_PHI_narbakan = {
-					province = 15653
-				}
-				b_PHI_kandong = {
-					province = 11005
-
-					color = { 245 200 32 }
-				}
-			}
-			c_17614 = {
-				b_17614 = {
-					province = 17614
-				}
-				b_15693 = {
-					province = 15693
-				}
-				b_15708 = {
-					province = 15708
-				}
-			}
-			c_PHI_igorot = {
-				color = { 221 178 28 }
-
-				b_PHI_Apayo = {
-					province = 11008
-
-					color = { 151 190 24 }
-				}
-				b_PHI_Kalinga = {
-					province = 11010
-
-					color = { 248 143 26 }
-				}
-				b_PHI_Benguet = {
-					province = 11014
-
-					color = { 165 232 36 }
-				}
-			}
-		}
-
-		d_pangasinan = {
-			color = { 150 124 40 }
-
-			c_15457 = {
-				b_15457 = {
-					province = 15457
-				}
-				b_15379 = {
-					province = 15379
-				}
-
-				b_15157 = {
-					province = 15157
-				}
-			}
-			c_PHI_pangasinan = {
-				color = { 255 126 24 }
-
-				b_PHI_Binalatongan = {
-					province = 11006
-
-					color = { 211 147 19 }
-				}
-				b_15156 = {
-					province = 15156
-				}
-			}
-			c_17446 = {
-				b_17446 = {
-					province = 17446
-				}
-				b_17417 = {
-					province = 17417
-				}
-				b_17364 = {
-					province = 17364
-				}
-				b_17408 = {
-					province = 17408
-				}
-			}
-		}
-
-		d_cagayan_valley = {
-			color = { 234 217 18 }
-
-			c_PHI_ivatan = {
-				color = { 176 194 33 }
-
-				b_PHI_Babuyan = {
-					province = 11001
-
-					color = { 157 145 24 }
-				}
-				b_PHI_Calayan = {
-					province = 11002
-
-					color = { 223 223 37 }
-				}
-			}
-
-			c_15169 = {
-				b_15169 = {
-					province = 15169
-				}
-				b_15166 = {
-					province = 15166
-				}
-				b_15163 = {
-					province = 15163
-				}
-				b_15165 = {
-					province = 15165
-				}
-				b_15162 = {
-					province = 15162
-				}
-			}
-			c_18323 = {
-				b_18324 = {
-					province = 18324
-				}
-				b_18325 = {
-					province = 18325
-				}
-				b_17606 = {
-					province = 17606
-				}
-			}
-			c_17621 = {
-				b_17621 = {
-					province = 17621
-				}
-				b_PHI_Aparri = {
-					province = 11007
-
-					color = { 230 130 43 }
-				}
-				b_PHI_Engano = {
-					province = 11009
-
-					color = { 255 129 28 }
-				}
-				b_17615 = {
-					province = 17615
-				}
-			}
-			c_15505 = {
-				b_15505 = {
-					province = 15505
-				}
-				b_15815 = {
-					province = 15815
-				}
-			}
-			c_15176 = {
-				b_15176 = {
-					province = 15176
-				}
-				b_PHI_Tagalao = {
-					province = 11015
-
-					color = { 208 93 17 }
-				}
-			}
 		}
 	}
 }
