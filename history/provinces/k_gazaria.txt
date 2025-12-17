@@ -1,0 +1,357 @@
+# k_gazaria
+## d_tmutarakan ###################################
+### c_tmutarakan
+598 = { 	#  Tmutarakan
+	culture = khazar
+	religion = kabarism
+	holding = castle_holding
+
+	# History
+	990.1.1 = {
+		culture = russian
+		religion = orthodox
+	}
+	1178.1.1 = {
+		culture = greek
+	}
+}
+16876 = {	# Phanagoria AKA Matrega
+	holding = city_holding
+}
+
+### c_coparia
+5335 = {	# Copa - river name
+	culture = circassian
+	religion = circassian_pagan
+	holding = tribal_holding
+
+	# History
+	1000.1.1 = {
+		religion = circassian_christianity
+	}
+	1066.1.1 = {
+		holding = castle_holding		
+	}
+	1178.1.1 = {
+		religion = catholic #frankardashi		
+	}
+}
+16935 = {	# Ach
+	holding = none
+}
+16861 = {	# Tumnev
+	holding = none
+}
+
+### c_psije
+16807 = {	# Hamez
+	culture = circassian
+	religion = circassian_pagan
+	holding = tribal_holding
+	special_building_slot = tkhapsh_khajokh_01
+}
+16911 = {	# Cumaliy
+	holding = none
+}
+16794 = {	# Gojiyqal
+	holding = none
+}
+
+### c_grune
+5337 = {	# Chelbaska - river name
+	culture = circassian
+	religion = circassian_pagan
+	holding = tribal_holding
+
+	# History
+	1100.1.1 = {
+		culture = cuman
+		religion = tengri_pagan
+	}
+}
+16936 = {	# Temijibeqo
+	holding = none
+}
+16869 = {	# Almeli
+	holding = none
+}
+5336 = {	# Antxer
+	holding = none
+}
+
+
+## d_crimea ###################################
+### c_kalos_limen
+5276 = {	# Kerkinitis AKA Yevpatoria
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.1 = {
+		culture = cuman
+	}
+}
+559 = { 	# Kalos Limen AKA Chornomorske
+	holding = none
+}
+16895 = {	# Karagaji
+	holding = none
+}
+
+### c_perekop
+5277 = {	# Perekop
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.1 = {
+		culture = cuman
+	}
+}
+5331 = {	# Dzhankoi
+	holding = none
+}
+
+### c_kermenchik
+5330 = {	# Kermenchik AKA Kozlov - nowadays Simferopol
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.1 = {
+		culture = cuman
+	}
+}
+16785 = {	# Sokhat
+	holding = none
+}
+16700 = {	# Kyrk Or AKA Chufut-Kale
+	holding = none
+}
+
+### c_kerch
+562 = {	# Kerch
+	culture = greek
+	religion = orthodox
+	holding = castle_holding
+
+	# History
+	867.1.1 = {
+		buildings = {
+			common_tradeport_01
+		}
+	}
+	1066.1.1 = {
+		buildings = {
+			common_tradeport_01
+			military_camps_01
+		}
+	}
+}
+16805 = {	# Kimmerikon
+	holding = none
+}
+16841 = {	# Gerakliy AKA Heraklion
+	holding = none
+}
+
+
+## d_klimata ###################################
+### c_cherson
+560 = { 	# Chersonesus AKA Chorsun AKA Korsun
+	culture = greek
+	religion = orthodox
+	holding = castle_holding
+
+	# History
+	867.1.1 = {
+		buildings = {
+			common_tradeport_01
+		}
+	}
+	1066.1.1 = {
+		buildings = {
+			common_tradeport_01
+			military_camps_01
+		}
+	}
+}
+16567 = {	# Phoros AKA Foros
+	holding = none
+}
+16578 = {	# Gialita AKA Yalta
+	holding = city_holding
+
+	# History
+	1066.1.1 = {
+		buildings = {
+			common_tradeport_01
+		}
+	}
+}
+
+### c_theodosia
+16709 = {	# Alouston AKA Alusta
+	culture = greek
+	religion = orthodox
+	holding = castle_holding
+}
+561 = {	# Theodosia AKA Feodosia
+	holding = city_holding
+}
+16721 = {	# Sougdaia AKA Sudak
+	holding = church_holding
+}
+
+### c_theodoro
+16646 = {	# Kalamita AKA Inkerman
+	culture = crimean_gothic
+	religion = orthodox
+	holding = castle_holding
+}
+16630 = {	# Theodoro
+	holding = city_holding	# rump region
+}
+
+
+## d_azov ###################################
+### c_azov
+597 = { 	# Azov
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+	special_building_slot = tkhapsh_khajokh_01
+
+	# History
+	867.1.1 = {
+		buildings = {
+			common_tradeport_01
+		}
+	}
+	1000.1.1 = {
+		culture = cuman
+	}
+}
+17341 = {	# Chibir
+	holding = none
+}
+5339 = {	# Chamchev
+	holding = none
+}
+
+### c_khumar
+599 = { 	# Yaseni	# river name
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	1000.1.1 = {
+		culture = cuman
+	}
+}
+17223 = {	# Taro
+	holding = none
+}
+5338 = {	# Tikhon	# river name
+	holding = none
+}
+
+### c_manych
+5288 = {	# Manych	- river name
+	culture = bolghar
+	religion = tengri_pagan
+	holding = herder_holding
+
+	# History
+	1000.1.1 = {
+		culture = cuman
+	}
+	1178.1.1 = {
+		holding = nomad_holding
+	}
+}
+5340 = {	# Yergolyk
+	holding = none
+}
+
+
+## d_sarkel ###################################
+### c_sarkel
+607 = { 	# Sarkel
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	890.1.1 = {
+		culture = turkish
+	}
+	965.1.1 = {
+		culture = russian
+		holding = castle_holding
+	}
+	990.1.1 = {
+		religion = orthodox
+	}
+	1117.1.1 = {
+		culture = cuman
+		religion = tengri_pagan
+		holding = nomad_holding
+	}
+}
+17526 = {	# Tsimla
+	holding = none
+}
+
+### c_aksay_SARKEL
+5315 = {	# Aksay
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	890.1.1 = {
+		culture = turkish
+	}
+	1000.1.1 = {
+		culture = cuman
+	}
+}
+15115 = {	# Navarius
+	holding = none
+}
+
+### c_semikarakala
+5332 = {	# Semikarakary
+	# potential bolghar settlement
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	890.1.1 = {
+		culture = turkish
+	}
+	1000.1.1 = {
+		culture = cuman
+	}
+}
+17333 = {	# Karachalpak
+	holding = none
+}
+17440 = {	# Bagay
+	holding = none
+}
