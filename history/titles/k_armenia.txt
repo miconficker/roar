@@ -1,0 +1,104 @@
+﻿
+# Here for sake of vanilla + weirdness tied to Cilicia
+k_armenia = {
+	1199.1.1 = {
+		holder = 223000 #Levon I Rubenid
+	}
+	1219.5.2 = {
+		holder = 30998 #Zabel I Rubenid
+	}
+	1226.1.1 = {
+		holder = 31830 #Hethun I
+	}
+	1270.10.28 = {
+		holder = 461802 #Levon II
+	}
+	1289.1.1 = {
+		holder = 31857 #Hethum II
+	}
+	1293.1.1 = {
+		holder = 461801 #Thoros I
+	}
+	1294.1.1 = {
+		holder = 31857 #Hethum II
+	}
+	1296.1.1 = {
+		holder = 31860 #Smbat I
+	}
+	1298.1.1 = {
+		holder = 31879 #Gosdantin I
+	}
+	1299.1.1 = {
+		holder = 31857 #Hethum II
+	}
+	1305.1.1 = {
+		holder = 31878 #Levon III
+	}
+	1307.1.1 = {
+		holder = 461803 #Oshim I
+	}
+	1320.7.20 = {
+		holder = 461800 #Levon IV
+	}
+}
+
+k_old_armenia = {
+	# needs to get looked at
+	654.1.1 = {
+		liege = e_arabia
+		holder = 145996 # Thoros Rshtuni
+	}
+	655.1.1 = {
+		holder = 159871 # Hamazasp IV Mamikonian
+	}
+	661.1.1 = {
+		holder = 70452 # Grigor I Mamikonian
+	}
+	684.1.1 = {
+		holder = 70448 # Ashot II Bagratuni
+	}
+	690.1.1 = {
+		holder = 159571 # Nerseh Kamsarakan
+	}
+	693.8.29 = {
+		holder = 70447 # Smbat VI Bagratuni
+	}
+	726.1.1 = {
+		holder = 41500 # Ashot III 'the Blind' Bagratuni
+	}
+	745.1.1 = {
+		holder = 70451 # Grigor II Mamikonian
+	}
+	746.1.1 = {
+		holder = 41500 # Ashot III 'the Blind' Bagratuni
+	}
+	749.1.1 = {
+		holder = 70451 # Grigor II Mamikonian
+	}
+	750.1.1 = {
+		holder = 70450 # Mushel VI Mamikonian
+	}
+	754.1.1 = {
+		holder = 145998 # Sahak III Bagratuni
+	}
+	761.1.1 = {
+		holder = 41501 # Smbat VII Bagratuni
+	}
+	# Tatzates Andzevatsi 782–785
+	# Ashot IV should be 806-826
+	775.4.15 = {
+		holder = 41502 # Ashot IV 'Msaker'/'the Carnivorous' Bagratuni
+	}
+	830.1.1 = {
+		holder = 41530 # Bagrat II Bagratuni
+	}
+	# failed rebelion and mass imprisonment of Armenian nobles in Samarra
+	851.1.1 = {
+		# technically title should be destroyed here as Smbat did not receive title of Prince of Princes
+		holder = 41504 # Smbat VIII 'Ablabas'/'the Confessor' Bagratuni
+	}
+	862.1.1 = {
+		holder = 0
+	}
+	# Ashot V Bagratuni becomes Prince of Princes in 862
+}
