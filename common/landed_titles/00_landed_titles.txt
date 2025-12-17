@@ -17754,6 +17754,10 @@ e_scandinavia = {
 					province = 17995
 					color = { 220 160 70 }
 				}
+				b_17997 = {
+					# it got deleted for some reason
+					province = 17997
+				}
 			}
 		}
 
