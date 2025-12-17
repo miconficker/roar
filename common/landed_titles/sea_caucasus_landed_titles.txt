@@ -1306,7 +1306,7 @@ e_caucasia = {
 
 			capital = c_shida_kartli
 
-			c_kartli = {
+			c_shida_kartli = {
 				color = { 125 115 115 }
 
 				b_uplistsikhe = {

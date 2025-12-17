@@ -284,6 +284,38 @@ d_chigil = {
 	capital = c_naryn
 }
 
+d_indian_catholic_papacy = {
+	color = { 204 77 12 }
+
+	definite_form = yes
+	landless = yes
+
+	capital = c_kerala
+}
+
+d_circassian_patriarchate = {
+	color = { 288 65 51 }
+
+	definite_form = yes
+	landless = yes
+
+	capital = c_zikhopol
+}
+
+d_georgian_patriarchate = {
+	color = { 237 150 140 }
+	definite_form = yes
+	ruler_uses_title_name = no
+	landless = yes
+
+	capital = c_shida_kartli
+	ai_primary_priority = { add = @always_primary_score }
+
+	no_automatic_claims = no
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+}
+
 #### Fictional Roma ####
 d_laamp_roma_867 = {
 	color = { 100 100 100 }

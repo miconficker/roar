@@ -115,7 +115,7 @@ d_apostolic_church = {
 	ruler_uses_title_name = no
 	landless = yes
 
-	capital = c_hayk	#Etchmiadzin
+	capital = c_erevan	#Etchmiadzin
 
 	ai_primary_priority = {
 		add = @always_primary_score
@@ -1074,7 +1074,7 @@ e_slavia = {
 e_armenia = {
 	color = { 198 29 29 }
 
-	capital = c_hayk # Ani
+	capital = c_ani
 
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
