@@ -925,7 +925,7 @@ banu_sulaym_1 = {
 	religion = ashari
 	culture = avaric
 
-	630.1.1 = {
+	620.1.1 = {
 		birth = yes
 	}
 	700.1.1 = {
@@ -1067,11 +1067,8 @@ banu_sulaym_9 = {
 	culture = maghrebi
 	father = banu_sulaym_8
 
-	850.1.1 = {
+	870.1.1 = {
 		birth = yes
-	}
-	867.1.1 = {
-		employer = 163096
 	}
 	875.1.1 = {
 		employer = 163147

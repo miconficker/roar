@@ -35,7 +35,7 @@
 	religion = "mtielta"
 	father = 246205
 
-	635.1.1 = {
+	620.1.1 = {
 		birth = yes
 	}
 	680.1.1 = {
@@ -49,7 +49,7 @@
 	religion = "mtielta"
 	father = 246206
 
-	635.1.1 = {
+	640.1.1 = {
 		birth = yes
 	}
 	715.1.1 = {

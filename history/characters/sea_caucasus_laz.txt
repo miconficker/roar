@@ -122,7 +122,7 @@ laz_8 = { #Lazica Dynasty
 	religion = "orthodox"
 	culture = "laz"
 	father = laz_7
-	450.1.1 = {
+	470.1.1 = {
 		birth = yes
 		effect = {
 			learn_language = language_greek
@@ -298,19 +298,19 @@ laz_16 = { #Lazica Dynasty?
 	culture = "laz"
 	father = laz_15
 	trait = disloyal
-	630.1.1 = {
+	650.1.1 = {
 		birth = yes
 		effect = {
 			learn_language = language_greek
 		}
 	}
 	696.1.1 = {
-	religion = "ashari"
+		religion = "ashari"
 	}
 	718.1.1 = {
 		death = {
-		death_reason = death_execution
-		killer = 70502
+			death_reason = death_execution
+			killer = 70502
 		}
 	}
 }
@@ -321,7 +321,7 @@ laz_17 = { # Fictional Lazica descendant
 	religion = "orthodox"
 	culture = "laz"
 	father = laz_13
-	650.1.1 = {
+	670.1.1 = {
 		birth = yes
 		effect = {
 			learn_language = language_greek

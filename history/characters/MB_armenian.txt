@@ -860,7 +860,7 @@ MBgreek0002 = {
 	religion = "orthodox"
 	culture = "greek"
 	father = 70502
-	mother = MBgreek0001
+	#mother = MBgreek0001
 	705.1.1 = {
 		birth = yes
 	}
