@@ -486,9 +486,6 @@
 	}
 	1230.1.1 = { culture = mongol }
 }
-4433 = {	#Miyan-Rudan
-	holding = none
-}
 4434 = {	#Khaylam
 	holding = none
 }
@@ -587,17 +584,32 @@
 4428 = {	#Khokand
 	holding = castle_holding
 }
+4439 = {	#Marghinan
+	holding = city_holding
+}
+
+### c_uzgend
+4432 = {	#Uzgend
+	# Misc
+	culture = sogdian
+	religion = khurmazta
+	holding = castle_holding
+
+	# History
+	1050.1.1 = {
+		culture = tajik
+		religion = maturidi
+	}
+	1230.1.1 = { culture = mongol }
+}
 4430 = {	#Osh
 	holding = church_holding
 }
 4431 = {	#Naqad
 	holding = none
 }
-4432 = {	#Uzgend
-	holding = castle_holding
-}
-4439 = {	#Marghinan
-	holding = city_holding
+4433 = {	#Miyan-Rudan
+	holding = none
 }
 
 ### c_nasrabad
