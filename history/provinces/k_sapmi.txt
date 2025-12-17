@@ -1,19 +1,19 @@
-# k_sapmi
-## d_aarjetje ###################################
-### c_sjeltie
-430 = {	#Sjeltie (ï¿½sele)
+#k_sapmi
+##d_aarjetje ###################################
+###c_sjeltie
+430 = {	#Sjeltie (Åsele)
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-431 = {	#Gï¿½altoe (Kultsjï¿½n)
+431 = {	#Gåaltoe (Kultsjön)
 	holding = none
 }
 432 = {	#Vilhelmina = Volgsjo
 	holding = none
 }
 
-### c_ubmejeiednuo
+###c_ubmejeiednuo
 428 = {	#Uddjaur
 	culture = sami
 	religion = sami_pagan
@@ -29,21 +29,21 @@
 	holding = none
 }
 
-### c_pite
+###c_pite
 374 = {	#Luokta
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-427 = {	#ï¿½rjepluovve
+427 = {	#Árjepluovve
 	holding = none
 }
 377 = {	#Semisjaur
 	holding = none
 }
 
-### c_jahkamakke
-373 = {	#Jahkamakke = Jï¿½hkï¿½mï¿½hkke = Jokkmokk
+###c_jahkamakke
+373 = {	#Jahkamakke = Jåhkåmåhkke = Jokkmokk
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
@@ -52,61 +52,61 @@
 	holding = none
 }
 
-## d_vuovdisamieana ###################################
-### c_biton
-422 = {	#Biton = Piteï¿½
+##d_vuovdisamieana ###################################
+###c_biton
+422 = {	#Biton = Piteå
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-375 = {	#ï¿½rviesjï¿½vrrie = Arvidsjaur
+375 = {	#Árviesjávrrie = Arvidsjaur
 	holding = none
 }
-382 = {	#Ubmeje = Umeï¿½
+382 = {	#Ubmeje = Umeå
 	holding = none
 }
 
-### c_julevadno
-421 = {	#Julevu = Luleï¿½
+###c_julevadno
+421 = {	#Julevu = Luleå
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-423 = {	#Gï¿½lï¿½seatnu = Kalix
+423 = {	#Gáláseatnu = Kalix
 	holding = none
 }
-424 = {	#Duortnus = Torneï¿½ = Tornio
+424 = {	#Duortnus = Torneå = Tornio
 	holding = none
 }
 
-### c_kittila
+###c_kittila
 385 = {	#Kittal
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-387 = {	#Suï¿½digil = Sodankylï¿½
+387 = {	#Suádigil = Sodankylä
 	holding = none
 }
 8785 = {	#Roavvenjarga = Rovaniemi
 	holding = none
 }
 
-### c_torne
-8782 = {	#Vettï¿½nen = ï¿½ngesï¿½n
+###c_torne
+8782 = {	#Vettänen = Ängesån
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-8783 = {	#Ylikainuu = ï¿½verkalix
+8783 = {	#Ylikainuu = Överkalix
 	holding = none
 }
 8784 = {	#Kangos
 	holding = none
 }
 
-## d_duortnoseatnu ###################################
-### c_siggevara
+##d_duortnoseatnu ###################################
+###c_siggevara
 380 = {	#Siggevara
 	culture = sami
 	religion = sami_pagan
@@ -119,17 +119,17 @@
 	holding = none
 }
 
-### c_suondavara
+###c_suondavara
 384 = {	#Suondavara
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-392 = {	#Peldojï¿½vri
+392 = {	#Peldojävri
 	holding = none
 }
 
-### c_rounala
+###c_rounala
 393 = {	#Rounala = Trums
 	culture = sami
 	religion = sami_pagan
@@ -139,7 +139,7 @@
 	holding = none
 }
 
-### c_aviovara
+###c_aviovara
 397 = {	#Aviovara = Kollefjord
 	culture = sami
 	religion = sami_pagan
@@ -148,31 +148,31 @@
 394 = {	#Guovdageaidnu = Oksfjord
 	holding = none
 }
-395 = {	#Ieï¿½jï¿½vri = Rafsbotn
+395 = {	#Iešjávri = Rafsbotn
 	holding = none
 }
 
-### c_karasjohka
-396 = {	#Kï¿½rï¿½johka
+###c_karasjohka
+396 = {	#Kárášjohka
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-398 = {	#Laggujï¿½kka = Porsanger
+398 = {	#Laggujåkka = Porsanger
 	holding = none
 }
 399 = {	#Ohcejohka = Vargo = Vardo
 	holding = none
 }
 
-## d_giemajohka ###################################
-### c_peaccam = Kemi
+##d_giemajohka ###################################
+###c_peaccam = Kemi
 425 = {	#Giempa = Kemi
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-388 = {	#Kemijï¿½vri
+388 = {	#Kemijävri
 	holding = none
 }
 426 = {	#Iijoki
@@ -182,20 +182,20 @@
 	holding = none
 }
 
-### c_kitka
+###c_kitka
 419 = {	#Kitka
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-418 = {	#Koulajï¿½vri
+418 = {	#Koulajävri
 	holding = none
 }
-420 = {	#Maanselkï¿½
+420 = {	#Maanselkä
 	holding = none
 }
 
-### c_koutajoki
+###c_koutajoki
 454 = {	#Koutajoki
 	culture = sami
 	religion = sami_pagan
@@ -208,7 +208,7 @@
 	holding = none
 }
 
-### c_akkel	= Akkala
+###c_akkel	= Akkala
 409 = {	#Akkel = Babinsky
 	culture = sami
 	religion = sami_pagan
@@ -217,7 +217,7 @@
 		holding = castle_holding
 	}
 }
-407 = {	#b_cukksual = Cuï¿½kksuï¿½l = Ekostrovsky
+407 = {	#b_cukksual = Cu´kksuâl = Ekostrovsky
 	holding = none
 }
 8787 = {	#Kaddlhutt = Kandalaksha
@@ -227,36 +227,36 @@
 	}
 }
 
-### c_sombio
+###c_sombio
 390 = {	#Sombio
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-401 = {	#b_suonnjel = Suï¿½'nnjel = Priretjny
+401 = {	#b_suonnjel = Suõ'nnjel = Priretjny
 	holding = none
 }
-403 = {	#b_nuottjaurr = Nuï¿½ï¿½ttjï¿½uï¿½rr = Notozero
+403 = {	#b_nuottjaurr = Nuõ´ttjäu´rr = Notozero
 	holding = none
 }
-408 = {	#b_saarvesjaurr = Sï¿½ï¿½rvesjï¿½uï¿½rr = Girvasozero
+408 = {	#b_saarvesjaurr = Sââ´rvesjäu´rr = Girvasozero
 	holding = none
 }
 
-### c_inari
-391 = {	#Aanaarjï¿½vri = Enare Trï¿½sk
+###c_inari
+391 = {	#Aanaarjävri = Enare Träsk
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding
 }
-400 = {	#Peï¿½ccam = Petsamo = Pechengsky
+400 = {	#Peäccam = Petsamo = Pechengsky
 	holding = none
 }
 8788 = {	#Suenekele
 	holding = none
 }
 
-### c_skolt
+###c_skolt
 8789 = {	#Skolt
 	culture = sami
 	religion = sami_pagan
@@ -265,12 +265,12 @@
 404 = {	#Kiilt
 	holding = none
 }
-402 = {	#b_muetkk = Mueï¿½tkk = Motovsky
+402 = {	#b_muetkk = Mue´tkk = Motovsky
 	holding = none
 }
 
-## d_guoldat ###################################
-### c_ter
+##d_guoldat ###################################
+###c_ter
 417 = {	#Sosnevke = Sosnovka
 	culture = sami
 	religion = sami_pagan
@@ -289,7 +289,7 @@
 	holding = none
 }
 
-### c_jovvkuj
+###c_jovvkuj
 413 = {	#b_guoddemjavvr = Guoddemjavv'r = Kuroptevsky
 	culture = sami
 	religion = sami_pagan
@@ -305,7 +305,7 @@
 	holding = none
 }
 
-### c_east_kiilt = Kordok
+###c_east_kiilt = Kordok
 410 = {	#b_lujavvr = Lujavv'r = Lovozero
 	culture = sami
 	religion = sami_pagan
@@ -321,8 +321,8 @@
 	holding = none
 }
 
-### c_kintus
-414 = {	#Kintuï¿½ = Kamensky
+###c_kintus
+414 = {	#Kintuš = Kamensky
 	culture = sami
 	religion = sami_pagan
 	holding = tribal_holding

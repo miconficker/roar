@@ -505,6 +505,6 @@
 	holding = none
 }
 
-16254 = {	#Laukaa
+17995 = {	#Laukaa
 	holding = none
 }

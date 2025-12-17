@@ -1,0 +1,167 @@
+﻿#k_vychegda
+##d_vym
+###c_kedva
+15677 = {	#Kedva
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+15519 = {	#Shomvukva
+	holding = none
+}
+###c_jemdin
+12948 = {	#Jemdin
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+15517 = {	#Vetju
+	holding = none
+}
+###c_vesyva
+18267 = {	#Vesyva
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+18041 = {	#Söska
+	holding = church_holding
+}
+15521 = {	#Shoinaty
+	holding = none
+}
+##d_vychegda
+###c_vanvisdin
+17773 = {	#Vanvisdin
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+17401 = {	#Lökchim
+	holding = none
+}
+17800 = {	#Viser
+	holding = none
+}
+###c_syktyvkar
+17546 = {	#Syktyvkar
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+17197 = {	#Volsja
+	holding = none
+}
+16585 = {	#Uzhga
+	holding = none
+}
+###c_kulomdin
+17683 = {	#Kulömdin
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+17947 = {	#Völ
+	holding = none
+}
+17478 = {	#Nemdin
+	holding = none
+}
+17648 = {	#Pozhög
+	holding = none
+}
+##d_pyras
+###c_pyras
+17475 = {	#Pyras
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+17620 = {	#Urdoma
+	holding = none
+}
+17603 = {	#Sovdor
+	holding = none
+}
+###c_luza
+16756 = {	#Luza
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+16262 = {	#Loima
+	holding = none
+}
+16006 = {	#Abjachoi
+	holding = none
+}
+###c_jerin
+17854 = {	#Jerin
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+17942 = {	#Zövsört
+	holding = none
+}
+17687 = {	#Közhmudor
+	holding = none
+}
+###c_viled
+17467 = {	#Ilyinsk
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+17370 = {	#Selyana
+	holding = none
+}
+##d_mezen
+###c_mozyn
+16992 = {	#Mozyn
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+15889 = {	#Latjudin
+	holding = none
+}
+16093 = {	#Kyma
+	holding = none
+}
+16706 = {	#Pyoza
+	holding = none
+}
+###c_vu
+15515 = {	#Vu
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+15767 = {	#Jovködzh
+	holding = none
+}
+###c_pizhma
+16266 = {	#Pizhma
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+17254 = {	#Kosma
+	holding = none
+}
+###c_koslan
+15583 = {	#Koslan
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+15516 = {	#Us
+	holding = none
+}
+15699 = {	#Komys
+	holding = none
+}
+15566 = {	#Razgort
+	holding = none
+}

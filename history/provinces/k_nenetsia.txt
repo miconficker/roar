@@ -1,0 +1,154 @@
+﻿#k_nenetsia
+##d_pechora
+###c_myldin
+17693 = {	#Myldin
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+15527 = {	#Ichöt Bölvanaiz
+	holding = church_holding
+}
+17471 = {	#Unjadin
+	holding = none
+}
+###c_pidzh
+15526 = {	#Pidzh
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+15525 = {	#Kodach
+	holding = none
+}
+15539 = {	#Chugör
+	holding = none
+}
+###c_lyzha
+16818 = {	#Lyzha
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+15644 = {	#Lömty
+	holding = none
+}
+16094 = {	#Kozhva
+	holding = none
+}
+17119 = {	#Shelljabözh
+	holding = none
+}
+###c_pechora
+####b_pechora = {
+16840 = {	#Pechöra
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+16431 = {	#Jagbözh
+	holding = none
+}
+##d_izhma
+###c_ukva
+####b_ukva = {
+15522 = {	#Ukva
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+15557 = {	#Odesdino
+	holding = none
+}
+15523 = {	#Kemdin
+	holding = none
+}
+15641 = {	#Kartajol
+	holding = none
+}
+###c_izva
+16320 = {	#Izva
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+17129 = {	#Chilimdin
+	holding = none
+}
+16007 = {	#Mirsköj
+	holding = none
+}
+##d_ortina
+###c_ortina
+17576 = {	#Ortina
+	culture = nenets
+	religion = kuptyng
+	holding = tribal_holding
+}
+17512 = {	#Jörmidz
+	holding = none
+}
+17575 = {	#Saner Kharad
+	holding = none
+}
+###c_soima
+17573 = {	#Soima
+	culture = nenets
+	religion = kuptyng
+	holding = tribal_holding
+}
+17574 = {	#Sula
+	holding = none
+}
+##d_nenetsia
+###c_komatyvis
+17577 = {	#Komatyvis
+	culture = nenets
+	religion = kuptyng
+	holding = tribal_holding
+}
+17578 = {	#Horei-Ver
+	holding = none
+}
+###c_usva
+17513 = {	#Usva
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+17130 = {	#Kosju
+	holding = none
+}
+17521 = {	#Synjanyrd
+	holding = none
+}
+17664 = {	#Adzva
+	holding = none
+}
+17112 = {	#Inta
+	holding = none
+}
+###c_amderma
+17953 = {	#Amderma
+	culture = nenets
+	religion = kuptyng
+	holding = tribal_holding
+}
+17579 = {	#Hebidja-Pedara
+	holding = none
+}
+17580 = {	#Jur-To
+	holding = none
+}
+18322 = {	#Hebidja-Ja
+	holding = church_holding
+}
+###c_varkuta
+17582 = {	#Varkuta
+	culture = nenets
+	religion = kuptyng
+	holding = tribal_holding
+}
+17581 = {	#Hej-Jaha
+	holding = none
+}

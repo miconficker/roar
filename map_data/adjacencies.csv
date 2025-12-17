@@ -123,8 +123,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 5173;5175;river_large;8578;-1;-1;-1;-1;Tver-Kashin
 572;5176;river_large;1105;-1;-1;-1;-1;Yaroslavl-Mologa
 5247;5251;river_large;8580;-1;-1;-1;-1;Plyos-Kostroma
-584;585;river_large;1098;-1;-1;-1;-1;NizhnyNovgorod-Gorodets
-584;5235;river_large;8574;-1;-1;-1;-1;NizhnyNovgorod-Pavlovo
+16259;585;river_large;1098;-1;-1;-1;-1;Vasylovo-Gorodets
+584;16259;river_large;8574;-1;-1;-1;-1;NizhnyNovgorod-Vasylovo
 5253;580;river_large;1102;-1;-1;-1;-1;VaskinaPolyana-Ryazan
 5253;5228;river_large;1099;-1;-1;-1;-1;VaskinaPolyana-PereyaslavlRyazanski
 5238;5228;river_large;1099;-1;-1;-1;-1;Yegoryevsk-PereyaslavlRyazanski
@@ -147,15 +147,18 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 5257;5021;river_large;1057;-1;-1;-1;-1;Ladyzyn-Soroca
 5263;5189;river_large;1071;-1;-1;-1;-1;Cherkassy-Voin
 5274;557;river_large;8563;-1;-1;-1;-1;Dnipro-Khortytsia
-5269;558;river_large;1070;-1;-1;-1;-1;Kherson-Oleshye
+5269;16256;river_large;1070;-1;-1;-1;-1;Kherson-Kalanchak
 562;598;sea;8670;-1;-1;-1;-1;Kerch-Tmutarkan (Kerch strait)
 5291;595;river_large;8584;-1;-1;-1;-1;Siyahtepe-Sarysyn
-5290;607;river_large;1090;-1;-1;-1;-1;Golden Hills-Sarkel
+16255;607;river_large;1090;-1;-1;-1;-1;Tsimla-Sarkel
 596;597;river_large;8585;-1;-1;-1;-1;Tana-Azov
-604;620;river_large;1092;-1;-1;-1;-1;Khazaran-Itil
+604;620;sea;1062;-1;-1;-1;-1;Khazaran-Itil
 595;619;river_large;1093;-1;-1;-1;-1;Sarysyn-Saray
+5311;604;river_large;1092;-1;-1;-1;-1;Astrakhan-Khazaran
+15731;604;river_large;1092;-1;-1;-1;-1;Tumak-Khazaran
+558;542;sea;949;-1;-1;-1;-1;Oleshye-Olbia
 #VOLGA BULGARIA
-588;590;river_large;1097;-1;-1;-1;-1;Yoshkar-Ola-Cheboksary
+5394;16317;river_large;1097;-1;-1;-1;-1;Arda-Cykma
 614;611;river_large;8581;-1;-1;-1;-1;Ashli-Kazan
 614;610;river_large;1096;-1;-1;-1;-1;Ashli-Bolghar
 5411;609;river_large;8582;-1;-1;-1;-1;Banja-Sumar
@@ -164,6 +167,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 610;5397;river_large;8577;-1;-1;-1;-1;Bolghar-Kashan
 5408;5403;river_large;5510;-1;-1;-1;-1;Yar Calli-Elabuga
 886;5450;river_large;5511;-1;-1;-1;-1;Perm-Nytva
+5470;16317;river_large;1097;-1;-1;-1;-1;Jurny-Cykma
 #CANARIAS
 849;8713;sea;8622;-1;-1;-1;-1;GranCanaria-Tenerife
 849;8714;sea;8622;-1;-1;-1;-1;GranCanaria-Fuerteventura
