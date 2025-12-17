@@ -2025,6 +2025,8 @@ e_caucasia = {
 				}
 			}
 			c_nicopsia_new = {
+				color = { 65 5 5 }
+
 				b_nicopsia_new = {
 					province = 16080
 
@@ -3199,290 +3201,497 @@ e_caucasia = {
 					color = { 32 46 87 }
 				}
 			}
-			c_15495 = {
-				b_15495 = {
-					province = 15495
-				}
-				b_15536 = {
-					province = 15536
-				}
-			}
-			c_15125 = {
-				b_15125 = {
-					province = 15125
-				}
-				b_15119 = {
+			c_kakhib = {
+				color = { 26 60 163 }
+
+				b_qahib = {
 					province = 15119
 				}
+				b_mahlib = {
+					province = 15125
+				}
 			}
-			c_15121 = {
-				b_15121 = {
+			c_andia = {
+				color = { 14 31 82 }
+
+				b_andi = {
+					province = 15495
+
+					color = { 14 31 82 }
+				}
+				b_cirqata = {
+					province = 15536
+
+					color = { 14 31 82 }
+				}
+			}
+			c_andalal = {
+				color = { 57 83 163 }
+
+				b_gamsuk = {
 					province = 15121
+
+					color = { 57 83 163 }
 				}
-				b_18229 = {
+				b_arsa = {
 					province = 18229
+
+					color = { 57 83 163 }
 				}
 			}
 		}
+		d_didoeti = {
+			can_be_named_after_dynasty = no
 
-		d_18120 = {
-			c_18120 = {
-				b_18120 = {
-					province = 18120
+			color = { 79 42 84 }
+
+		 	capital = c_didoya
+
+			c_didoya = {
+				color = { 68 44 71 }
+
+				b_didoya = {
+					province = 18266
+
+					color = { 68 44 71 }
 				}
-				b_18156 = {
-					province = 18156
+				b_bezhta = {
+					province = 15111
+
+					color = { 68 44 71 }
+				}
+				b_hunzib = {
+					province = 18256
+
+					color = { 68 44 71 }
 				}
 			}
-			c_18141 = {
-				b_18141 = {
-					province = 18141
+			c_tindia = {
+				color = { 65 30 69 }
+
+				b_tindi = {
+					province = 15113
+
+					color = { 65 30 69 }
 				}
-				b_18178 = {
-					province = 18178
+				b_agvali = {
+					province = 15340
+
+					color = { 65 30 69 }
+				}
+			}
+			c_tavlinia = {
+				color = { 128 70 135 }
+
+				b_larata = {
+					province = 18220
+
+					color = { 128 70 135 }
+				}
+				b_hindib = {
+					province = 18225
+
+					color = { 128 70 135 }
 				}
 			}
 		}
+		d_kaitag = {
+			can_be_named_after_dynasty = no
 
-		d_18247 = {
-			c_18247 = {
-				b_derbent = {
-					province = 674
+			color = { 26 83 72 }
 
-					color = { 128 40 20 }
+		 	capital = c_kara-kaitag
+
+			c_kara-kaitag = {
+				color = { 20 82 70 }
+
+				b_zalaqi = {
+					province = 18254
+
+					color = { 20 82 70 }
 				}
-				b_18247 = {
-					province = 18247
+				b_mazalis = {
+					province = 18237
+
+					color = { 20 82 70 }
+				}
+			}
+			c_dargia = {
+				color = { 39 84 75 }
+
+				b_harbuk = {
+					province = 15127
+
+					color = { 39 84 75 }
+				}
+				b_lavasa = {
+					province = 15129
+
+					color = { 39 84 75 }
+				}
+				b_urakhi = {
+					province = 18245
+
+					color = { 39 84 75 }
 				}
 			}
 		}
-		d_18168 = {
-			c_18168 = {
-				b_18168 = {
-					province = 18168
-				}
-				b_18190 = {
-					province = 18190
-				}
-				b_18208 = {
-					province = 18208
-				}
-			}
-			c_18230 = {
-				b_18230 = {
-					province = 18230
-				}
-				b_18236 = {
-					province = 18236
-				}
+		d_kumukh = {
+			can_be_named_after_dynasty = no
+
+			color = { 17 65 95 }
+
+		 	capital = c_gazi-kumukh
+
+			c_gazi-kumukh = {
+				color = { 21 55 77 }
+
 				b_kumukh = {
 					province = 675
 
-					color = { 128 40 20 }
+					color = { 21 55 77 }
+				}
+				b_vacci = {
+					province = 18236
+
+					color = { 21 55 77 }
+				}
+				b_hestti = {
+					province = 18230
+
+					color = { 21 55 77 }
+				}
+			}
+			c_agul = {
+				color = { 13 75 115 }
+
+				b_aquldere = {
+					province = 18190
+
+					color = { 13 75 115 }
+				}
+				b_qusandere = {
+					province = 18208
+
+					color = { 13 75 115 }
+				}
+				b_kerendere = {
+					province = 18168
+
+					color = { 13 75 115 }
 				}
 			}
 		}
+		d_tsuketi = {
+			can_be_named_after_dynasty = no
 
-		d_18101 = {
-			c_18101 = {
-				b_18101 = {
-					province = 18101
+			color = { 57 17 144 }
+
+			capital = c_vanavats
+
+			c_vanavats = {
+				color = { 42 14 105 }
+
+				b_zex = {
+					province = 18178
+
+					color = { 42 14 105 }
 				}
-				b_18130 = {
-					province = 18130
+				b_gelmesh = {
+					province = 18141
+
+					color = { 42 14 105 }
 				}
 			}
-			c_18147 = {
-				b_18147 = {
+			c_mykhia = {
+				color = { 74 45 140 }
+
+				b_qined = {
+					province = 18120
+
+					color = { 74 45 140 }
+				}
+				b_mixla = {
+					province = 18156
+
+					color = { 74 45 140 }
+				}
+			}
+		}
+		d_lezgia = {
+			can_be_named_after_dynasty = no
+
+			color = { 80 30 200 }
+
+			capital = c_lezgia
+
+			c_lezgia = {
+				color = { 80 20 188 }
+
+				b_qebseh = {
 					province = 18147
+
+					color = { 77 25 194 }
 				}
-				b_18191 = {
+				b_kvarcaq = {
 					province = 18191
+
+					color = { 77 25 194 }
 				}
 			}
-			c_18203 = {
-				b_18203 = {
-					province = 18203
+			c_akhty = {
+				color = { 77 25 194 }
+
+				b_axsah = {
+					province = 18101
+
+					color = { 77 25 194 }
 				}
-				b_18226 = {
+				b_qurah = {
+					province = 18130
+
+					color = { 77 25 194 }
+				}
+			}
+			c_tabasaran = {
+				color = { 56 66 107 }
+
+				b_xucna = {
 					province = 18226
+
+					color = { 56 66 107 }
+				}
+				b_xiv = {
+					province = 18203
+
+					color = { 56 66 107 }
 				}
 			}
 		}
+		d_shavaran = {
+			can_be_named_after_dynasty = no
 
-		d_18107 = {
-			c_18107 = {
-				b_18107 = {
-					province = 18107
-				}
-				b_18169 = {
-					province = 18169
-				}
+			color = { 90 72 144 }
+
+		 	capital = c_kuba
+
+			c_kuba = {
+				color = { 109 95 150 }
+
 				b_kuba = {
 					province = 5341
 
-					color = { 128 40 20 }
+					color = { 109 95 150 }
+				}
+				b_khudat = {
+					province = 18169
+
+					color = { 109 95 150 }
+				}
+				b_kzar = {
+					province = 18107
+
+					color = { 109 95 150 }
 				}
 			}
-			c_18076 = {
-				b_18076 = {
-					province = 18076
-				}
-				b_18065 = {
-					province = 18065
-				}
-				b_18049 = {
-					province = 18049
-				}
-			}
-			c_18045 = {
-				b_18045 = {
-					province = 18045
-				}
-				b_18044 = {
+			c_shavaran = {
+				color = { 63 47 110 }
+
+				b_chiragkala = {
 					province = 18044
+
+					color = { 63 47 110 }
+				}
+				b_shabran = {
+					province = 18045
+
+					color = { 63 47 110 }
+				}
+			}
+			c_shahdagh = {
+				color = { 123 97 199 }
+
+				b_karat = {
+					province = 18065
+
+					color = { 123 97 199 }
+				}
+				b_ketsh = {
+					province = 18076
+
+					color = { 123 97 199 }
+				}
+				b_budug = {
+					province = 18049
+
+					color = { 123 97 199 }
 				}
 			}
 		}
+		d_derbent = {
+			can_be_named_after_dynasty = no
 
-		d_ciscaucasia = {
-			color = { 168 59 34 }
+			color = { 67 89 83 }
 
-			capital = c_derbent # Derbent
+			capital = c_derbent
 
 			c_derbent = {
-				color = { 128 40 20 }
+				color = { 17 44 99 }
+
+				b_derbent = {
+					province = 674
+
+					color = { 17 44 99 }
+				}
+				b_kesux = {
+					province = 18247
+
+					color = { 17 44 99 }
+				}
+			}
+		}
+		d_djindan = {
+			color = { 24 42 118 }
+
+			capital = c_tarki
+
+			c_tarki = {
+				color = { 13 33 117 }
+
+				cultural_names = {
+					name_list_dargin = cn_shandan
+				}
+
+				b_targu = {
+					province = 15433
+
+					color = { 13 33 117 }
+				}
+				b_gamri = {
+					province = 15131
+
+					color = { 13 33 117 }
+
+					cultural_names = {
+						name_list_khazar = cn_khamzin
+					}
+				}
+				b_ullu-izber = {
+					province = 15349
+
+					color = { 13 33 117 }
+
+					cultural_names = {
+						name_list_khazar = cn_varachan
+					}
+				}
+				b_harakuni = {
+					province = 15396
+
+					color = { 13 33 117 }
+				}
+			}
+			c_balanjar = {
+				color = { 47 70 168 }
 
 				b_balanjar = {
 					province = 5304
 
-					color = { 128 40 20 }
+					color = { 47 70 168 }
 				}
-				b_16142 = {
-					province = 16142
-				}
-				b_16025 = {
+				b_sicamatela = {
 					province = 16025
+
+					color = { 47 70 168 }
+				}
+				b_endirey = {
+					province = 16142
+
+					color = { 47 70 168 }
 				}
 			}
-			c_16277 = {
-				b_16277 = {
-					province = 16277
-				}
-				b_16138 = {
-					province = 16138
-				}
+			c_sambalut = {
+				color = { 26 38 89 }
+
 				b_sambalut = {
 					province = 5342
 
-					color = { 148 35 9 }
+					color = { 26 38 89 }
+				}
+				b_yakhsay = {
+					province = 16138
+
+					color = { 26 38 89 }
+				}
+				b_terkikala = {
+					province = 16277
+
+					color = { 26 38 89 }
 				}
 			}
-			c_15988 = {
-				b_15988 = {
+			c_aukh = {
+				color = { 34 45 114 }
+
+				b_gachalka = {
 					province = 15988
+
+					color = { 34 45 114 }
 				}
-				b_16058 = {
+				b_keshen = {
 					province = 16058
-				}
-			}
-			c_15131 = {
-				b_15131 = {
-					province = 15131
-				}
-				b_15396 = {
-					province = 15396
-				}
-				b_15433 = {
-					province = 15433
-				}
-				b_15349 = {
-					province = 15349
+
+					color = { 34 45 114 }
 				}
 			}
 		}
+		d_khunia = {
+			color = { 40 66 102 }
 
-		d_16349 = {
-			c_16349 = {
-				b_16349 = {
-					province = 16349
-				}
-				b_16284 = {
-					province = 16284
-				}
+			capital = c_terki
+
+			#c_samanderia = {
+				#color = { 69 107 163 }
+			#}
+			c_terki = {
+				color = { 25 51 87 }
+
 				b_samander = {
 					province = 5305
 
-					color = { 148 35 9 }
+					color = { 25 51 87 }
+
+					cultural_names = {
+						name_list_khazar = cn_samander
+					}
 				}
 				b_kizlyar = {
 					province = 5307
 
-					color = { 141 51 30 }
+					color = { 25 51 87 }
+				}
+				b_koktyubey = {
+					province = 16284
+
+					color = { 25 51 87 }
+				}
+				b_batkan = {
+					province = 16349
+
+					color = { 25 51 87 }
 				}
 			}
 			c_samiran = {
-				color = { 141 51 30 }
+				color = { 48 66 92 }
 
 				b_samiran = {
 					province = 5343
 
-					color = { 141 51 30 }
+					color = { 48 66 92 }
 				}
-				b_16401 = {
+				b_chubatla = {
 					province = 16401
-				}
-			}
-		}
 
-		d_18237 = {
-			c_18237 = {
-				b_18237 = {
-					province = 18237
-				}
-				b_18254 = {
-					province = 18254
-				}
-			}
-			c_18245 = {
-				b_18245 = {
-					province = 18245
-				}
-				b_15129 = {
-					province = 15129
-				}
-				b_15127 = {
-					province = 15127
-				}
-			}
-		}
-
-		d_18220 = {
-			c_18220 = {
-				b_18220 = {
-					province = 18220
-				}
-				b_18225 = {
-					province = 18225
-				}
-			}
-			c_15111 = {
-				b_15111 = {
-					province = 15111
-				}
-				b_18256 = {
-					province = 18256
-				}
-				b_18266 = {
-					province = 18266
-				}
-			}
-			c_15113 = {
-				b_15113 = {
-					province = 15113
-				}
-				b_15340 = {
-					province = 15340
+					color = { 48 66 92 }
 				}
 			}
 		}
