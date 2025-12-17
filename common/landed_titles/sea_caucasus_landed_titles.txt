@@ -2271,185 +2271,380 @@ e_caucasia = {
 			name_list_anglo_saxon = cn_new_england
 		}
 
-		d_16608 = {
-			c_16608 = {
-				b_16608 = {
-					province = 16608
-				}
-				b_16587 = {
-					province = 16587
-				}
+		d_khegayk = {
+			color = { 140 74 39 }
+
+			cultural_names = {
+				name_list_anglo_saxon = cn_new_essex
 			}
-			c_16813 = {
-				b_16813 = {
-					province = 16813
-				}
-				b_16705 = {
-					province = 16705
-				}
-				b_16668 = {
-					province = 16668
-				}
-			}
-			c_16722 = {
-				b_16722 = {
-					province = 16722
-				}
-				b_16684 = {
-					province = 16684
-				}
-			}
-		}
-		d_16663 = {
-			c_16663 = {
-				b_16663 = {
-					province = 16663
-				}
-				b_16740 = {
-					province = 16740
-				}
-			}
-			c_16562 = {
-				b_16562 = {
+
+			capital = c_zikhopol
+
+			c_zikhopol = {
+				color = { 112 71 49 }
+
+				b_heptala = {
 					province = 16562
+
+					color = { 112 71 49 }
+
+					cultural_names = {
+						name_list_anglo_saxon = cn_ncolchester
+					}
 				}
-				b_16515 = {
+				b_jiubgu = {
 					province = 16515
 				}
 			}
-			c_bata = {
+			c_khegayk = {
+				color = { 110 52 21 }
+
+				cultural_names = {
+					name_list_anglo_saxon = cn_noxford
+				}
+
+				b_bigur = {
+					province = 16740
+
+					color = { 110 52 21 }
+
+					cultural_names = {
+						name_list_anglo_saxon = cn_noxford
+					}
+				}
+				b_echex = {
+					province = 16663
+
+					color = { 110 52 21 }
+				}
+			}
+			c_zichia = {
+				# old c_bata
+				color = { 186 99 52 }
+
+				cultural_names = {
+					name_list_anglo_saxon = cn_new_london
+				}
 
 				b_bata = {
 					province = 5296
 
-					cultural_names = {
-						name_list_greek = cn_gorgippia
-					}
+					color = { 186 99 52 }
 
-					color = { 100 44 16 }
+					cultural_names = {
+						#name_list_greek = cn_gorgippia
+						name_list_anglo_saxon = cn_new_london
+					}
 				}
 			}
 		}
-		d_16031 = {
-			c_nicopsia = {
-				b_nicopsia = {
-					province = 600
+		d_zichia = {
+			color = { 40 81 44 }
 
-					color = { 255 255 255 }
+			capital = c_aghuchips
+
+			c_aghuchips = {
+				color = { 219 104 46 }
+
+				cultural_names = {
+					name_list_anglo_saxon = cn_nwinchester
 				}
-			}
-			c_16334 = {
-				b_16334 = {
+
+				b_bastehabl = {
 					province = 16334
+
+					color = { 219 104 46 }
+
+					cultural_names = {
+						name_list_anglo_saxon = cn_nwinchester
+					}
 				}
 				b_ulmi = {
 					province = 5298
 
+					color = { 100 44 16 }
+
 					cultural_names = {
 						name_list_greek = cn_torikos
 					}
-
-					color = { 100 44 16 }
 				}
-				b_16354 = {
+				b_topsida = {
 					province = 16354
+
+					color = { 219 104 46 }
 				}
 			}
-			c_16193 = {
-				b_16193 = {
-					province = 16193
-				}
-				b_16240 = {
+			c_tuahy = {
+				color = { 133 63 27 }
+
+				b_sache_zichia = {
 					province = 16240
+
+					color = { 133 63 27 }
 				}
-				b_16268 = {
+				b_kudepsyt = {
+					province = 16193
+
+					color = { 133 63 27 }
+				}
+				b_miguhabl = {
 					province = 16268
+
+					color = { 133 63 27 }
 				}
 			}
-			c_16165 = {
-				b_16165 = {
+			c_sadzy = {
+				color = { 128 77 51 }
+
+				b_candryps = {
 					province = 16165
+
+					color = { 128 77 51 }
 				}
-				b_16152 = {
+				b_aibga = {
 					province = 16152
+
+					color = { 128 77 51 }
+				}
+			}
+			c_tuapse = {
+				# old c_nicopsia
+				color = { 222 135 91 }
+
+				cultural_names = {
+					name_list_anglo_saxon = cn_nsalisbury
+				}
+
+				b_tuapse = {
+					# old b_nicosia
+					province = 600
+
+					color = { 222 135 91 }
+
+					cultural_names = {
+						name_list_anglo_saxon = cn_nsalisbury
+					}
 				}
 			}
 		}
-		d_16601 = {
-			c_16601 = {
-				b_16601 = {
-					province = 16601
-				}
-				b_betzini = {
-					province = 5301
+		d_eudusia = {
+			color = { 186 169 19 }
 
-					color = { 85 50 22 }
-				}
+			capital = c_siba
+
+			cultural_names = {
+				name_list_anglo_saxon = cn_nhereford
 			}
-			c_16293 = {
-				b_16293 = {
-					province = 16293
-				}
-				b_16412 = {
-					province = 16412
-				}
-			}
-			c_16729 = {
-				b_16729 = {
-					province = 16729
-				}
-				b_16657 = {
-					province = 16657
-				}
-			}
-			c_16449 = {
-				b_16449 = {
-					province = 16449
-				}
-				b_16616 = {
-					province = 16616
-				}
-			}
-			c_16833 = {
-				b_16833 = {
-					province = 16833
-				}
-				b_16701 = {
-					province = 16701
-				}
-			}
-			c_zichia = {
-				color = { 100 44 16 }
+
+			c_siba = {
+				color = { 148 135 18 }
 
 				cultural_names = {
-					name_list_greek = cn_gorgippia
+					name_list_anglo_saxon = cn_nhereford
 				}
 
-				b_zapaxi = {
-					province = 5297
+				b_psibedaxe = {
+					province = 16813
 
-					color = { 100 44 16 }
+					color = { 148 135 18 }
 				}
+				b_hapi = {
+					province = 16705
+
+					color = { 148 135 18 }
+				}
+				b_kozet = {
+					province = 16668
+
+					color = { 148 135 18 }
+				}
+			}
+			c_hatuqo = {
+				color = { 224 204 25 }
+
+				cultural_names = {
+					name_list_anglo_saxon = cn_nbedford
+				}
+
+				b_utash = {
+					province = 16722
+
+					color = { 224 204 25 }
+
+					cultural_names = {
+						name_list_anglo_saxon = cn_nbedford
+					}
+				}
+				b_atekume = {
+					province = 16684
+
+					color = { 224 204 25 }
+				}
+			}
+			c_janeqo = {
+				color = { 186 173 50 }
+
+				cultural_names = {
+					name_list_anglo_saxon = cn_nnottingham
+				}
+
+				b_afips = {
+					province = 16608
+
+					color = { 186 173 50 }
+
+					cultural_names = {
+						name_list_anglo_saxon = cn_nnottingham
+					}
+				}
+				b_themahe = {
+					province = 16587
+
+					color = { 186 173 50 }
+				}
+			}
+		}
+		d_papagia = {
+			color = { 181 132 42 }
+
+			capital = c_papagi
+
+			c_papagi = {
+				color = { 188 124 17 }
+
+				cultural_names = {
+					name_list_circassian = cn_papagh
+				}
+
+				b_zepsh = {
+					province = 16358
+
+					color = { 188 124 17 }
+				}
+				b_ouitx = {
+					province = 16411
+
+					color = { 188 124 17 }
+				}
+			}
+			c_abzakhia = {
+				color = { 187 112 45 }
+
+				cultural_names = {
+					name_list_circassian = cn_abzakh
+				}
+
 				b_papagia = {
 					province = 5289
 
-					color = { 66 55 10 }
+					color = { 187 112 45 }
+
+					cultural_names = {
+						name_list_circassian = cn_papagh
+					}
+				}
+				b_zapaxi = {
+					province = 5297
+
+					color = { 187 112 45 }
+
+					cultural_names = {
+						name_list_circassian = cn_sabe
+					}
 				}
 			}
-			c_16358 = {
-				b_16358 = {
-					province = 16358
+			c_brijeqo = {
+				color = { 185 123 60 }
+
+				b_lisehabl = {
+					province = 16657
+
+					color = { 185 123 60 }
 				}
-				b_16411 = {
-					province = 16411
+				b_birchabl = {
+					province = 16729
+
+					color = { 185 123 60 }
 				}
 			}
-			c_16546 = {
-				b_16546 = {
-					province = 16546
+			c_sapakhi = {
+				color = { 197 113 64 }
+
+				cultural_names = {
+					name_list_circassian = cn_sabe
+					name_list_abkhaz = cn_bagh
 				}
-				b_16594 = {
+
+				b_guzeripl = {
+					province = 16293
+
+					color = { 197 113 64 }
+				}
+				b_xacox = {
+					province = 16412
+
+					color = { 197 113 64 }
+
+					cultural_names = {
+						name_list_abkhaz = cn_bagh
+					}
+				}
+			}
+			c_miyequap = {
+				color = { 197 107 58 }
+
+				b_miyequap = {
 					province = 16594
+
+					color = { 197 107 58 }
+				}
+				b_daurhabl = {
+					province = 16546
+
+					color = { 197 107 58 }
+				}
+			}
+			c_labezhi = {
+				color = { 206 119 22 }
+
+				b_bereqay = {
+					province = 16449
+
+					color = { 206 119 22 }
+				}
+				b_ceterej = {
+					province = 16616
+
+					color = { 206 119 22 }
+				}
+			}
+			c_boletuqo = {
+				color = { 191 134 52 }
+
+				b_sithal = {
+					province = 16701
+
+					color = { 191 134 52 }
+				}
+				b_qojeub = {
+					province = 16833
+
+					color = { 191 134 52 }
+				}
+			}
+			c_temir = {
+				color = { 165 155 35 }
+
+				b_guripeqal = {
+					# old b_betzini
+					province = 5301
+
+					color = { 165 155 35 }
+				}
+				b_salbequ = {
+					province = 16601
+
+					color = { 165 155 35 }
 				}
 			}
 		}
@@ -2735,8 +2930,58 @@ e_caucasia = {
 	}
 
 	k_sarir_roa = {
+		color = { 50 63 98 }
 
-		color = { 12 2 123 }
+		can_be_named_after_dynasty = no
+
+		capital = c_khunzaq
+
+		d_khundzeti = {
+			can_be_named_after_dynasty = no
+
+			color = { 33 55 119 }
+
+			capital = c_khunzaq
+
+			c_khunzaq = {
+				color = { 32 46 87 }
+
+				b_xunzaq = {
+					province = 15117
+
+					color = { 32 46 87 }
+				}
+				b_lanub = {
+					province = 15405
+
+					color = { 32 46 87 }
+				}
+			}
+			c_15495 = {
+				b_15495 = {
+					province = 15495
+				}
+				b_15536 = {
+					province = 15536
+				}
+			}
+			c_15125 = {
+				b_15125 = {
+					province = 15125
+				}
+				b_15119 = {
+					province = 15119
+				}
+			}
+			c_15121 = {
+				b_15121 = {
+					province = 15121
+				}
+				b_18229 = {
+					province = 18229
+				}
+			}
+		}
 
 		d_18120 = {
 			c_18120 = {
@@ -2857,40 +3102,6 @@ e_caucasia = {
 				}
 			}
 		}
-		d_15495 = {
-			c_15495 = {
-				b_15495 = {
-					province = 15495
-				}
-				b_15536 = {
-					province = 15536
-				}
-			}
-			c_15117 = {
-				b_15117 = {
-					province = 15117
-				}
-				b_15405 = {
-					province = 15405
-				}
-			}
-			c_15125 = {
-				b_15125 = {
-					province = 15125
-				}
-				b_15119 = {
-					province = 15119
-				}
-			}
-			c_15121 = {
-				b_15121 = {
-					province = 15121
-				}
-				b_18229 = {
-					province = 18229
-				}
-			}
-		}
 
 		d_ciscaucasia = {
 			color = { 168 59 34 }
@@ -2912,7 +3123,6 @@ e_caucasia = {
 					province = 16025
 				}
 			}
-
 			c_16277 = {
 				b_16277 = {
 					province = 16277
@@ -2949,6 +3159,7 @@ e_caucasia = {
 				}
 			}
 		}
+
 		d_16349 = {
 			c_16349 = {
 				b_16349 = {
@@ -2981,6 +3192,7 @@ e_caucasia = {
 				}
 			}
 		}
+
 		d_18237 = {
 			c_18237 = {
 				b_18237 = {
@@ -3002,6 +3214,7 @@ e_caucasia = {
 				}
 			}
 		}
+
 		d_18220 = {
 			c_18220 = {
 				b_18220 = {
