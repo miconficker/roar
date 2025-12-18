@@ -3,7 +3,7 @@
 ### c_panjgur
 4471 = {	# Bannajbur
 	culture = sindhi #FP3, baloch migration fix
-	religion = ashari
+	religion = sindhi
 	holding = castle_holding
 
 	830.1.1 = {
@@ -35,7 +35,7 @@
 ### c_kiz
 4285 = {	# Kiz
 	culture = sindhi #FP3, baloch migration fix
-	religion = shaivism
+	religion = mazdayasna
 	holding = castle_holding
 
 	760.1.1 = {
@@ -117,7 +117,7 @@
 ### c_turan
 4479 = {	# Qusdar
 	culture = sindhi
-	religion = shaivism
+	religion = sindhi
 	holding = castle_holding
 
 	830.1.1 = {
