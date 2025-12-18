@@ -1,0 +1,1264 @@
+﻿k_caucasus = {
+	860.1.1 = {
+		holder = 163118
+		government = tribal_government
+	}
+	900.1.1 = {
+		holder = 183223
+	}
+	950.1.1 = {
+		holder = 900110
+	}
+	977.1.1 = {
+		holder = 41592  # Urdur Tsarazon
+	}
+	1029.1.1 = {
+		holder = 20662  # Durgulel 'the Great' Tsarazon
+		government = tribal_government
+	}
+	1088.1.1 = {
+		holder = durgulel_constantine	
+	}
+	1096.1.1 = {
+		holder = 93035  # Huddan Tsarazon
+	}
+	1100.1.1 = {
+		holder = durgulel_orosmik
+	}
+	1142.1.1 = {
+		holder = 41550  # Athom Bagratoni
+	}
+	1168.1.1 = {
+		holder = 216524  # Djadaron Bagratoni
+	}
+	1181.1.1 = {
+		holder = 466516  # David Soslan
+	}
+	1207.1.1 = {
+		holder = khasi_1  # semi-fictional Rhosmices Ovsia
+	}
+	#Mongol conquest and destruction of kingdom of Alania
+	1238.1.2 = {
+		liege = e_golden_horde
+	}
+	1238.1.2 = {
+		holder = 93037  # fictional Khankhusy
+	}
+	1241.1.1 = {
+		holder = khasi_2
+	}
+	1252.1.2 = {
+		holder = 93037  # fictional Khankhusy
+	}
+	1280.1.1 = {
+		holder = 93039 # placeholder
+	}
+	1313.1.1 = {
+		holder = 93047
+	}
+}
+
+k_alan_nomads = {
+	# Alan Nomads
+	40.1.1 = {
+		government = nomad_government
+		holder = 602164
+	}
+	80.1.1 = {
+		holder = 602165
+	}
+	160.1.1 = {
+		holder = 602166
+	}
+	170.1.1 = {
+		holder = 602167
+	}
+	240.1.1 = {
+		holder = 602168
+	}
+	310.1.1 = {
+		holder = 602168_brother
+	}
+	320.1.1 = {
+		holder = 602169
+	}
+	350.1.1 = {
+		holder = 602170
+	}
+	380.1.1 = {
+		holder = 602170_brother1
+	}
+	390.1.1 = {
+		holder = 602170_brother2
+	}
+	400.1.1 = {
+		holder = 602171
+	}
+	410.1.1 = {
+		holder = 602172
+	}
+	470.1.1 = {
+		holder = 602173
+	}
+	530.1.1 = {
+		holder = 246205
+	}
+	554.1.1 = {
+		holder = 602173
+	}
+	555.1.1 = {
+		holder = 246228
+	}
+	620.1.1 = {
+		holder = 246205
+	}
+	650.1.1 = {
+		holder = 246206
+	}
+	680.1.1 = {
+		holder = 246217
+	}
+	# vague time of Alans fully settling
+	715.1.1 = {
+		holder = 0
+	}
+}
+
+d_alania = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 5 }
+
+	80.1.1 = {
+		liege = k_caucasus
+		holder = 602165_brother2
+	}
+	130.1.1 = {
+		holder = 602165_brother3
+	}
+	134.1.1 = {
+		holder = 602165_brother
+	}
+	151.1.1 = {
+		holder = 602165
+	}
+	170.1.1 = {
+		holder = 602167
+	}
+	240.1.1 = {
+		holder = 602168
+	}
+	310.1.1 = {
+		holder = 602168_brother
+	}
+	320.1.1 = {
+		holder = 602169
+	}
+	350.1.1 = {
+		holder = 602170
+	}
+	380.1.1 = {
+		holder = 602170_brother1
+	}
+	390.1.1 = {
+		holder = 602170_brother2
+	}
+	400.1.1 = {
+		holder = 602171
+	}
+	410.1.1 = {
+		holder = 602172
+	}
+	470.1.1 = {
+		holder = 602173
+	}
+	530.1.1 = {
+		holder = 246205
+	}
+	554.1.1 = {
+		holder = 602173
+	}
+	555.1.1 = {
+		holder = 246228
+	}
+	620.1.1 = {
+		holder = 246205
+	}	
+	650.1.1 = {
+		holder = 246206
+	}
+	680.1.1 = {
+		holder = 246217
+	}
+	715.1.1 = {
+		holder = 246207
+	}
+	#Alans tributaries to Khazars
+	736.1.1 = {
+		holder = 146205	#Buriberdi Zmbalani
+
+		government = tribal_government
+	}
+	777.1.1 = {
+		holder = 146206
+	}
+	805.1.1 = {
+		holder = 146209
+	}
+	860.1.1 = {
+		liege = k_caucasus
+		holder = 163118
+	}
+	900.1.1 = {
+		holder = 183223
+	}
+	950.1.1 = {
+		holder = 900110
+	}
+	#Khazars pwned by Svyatoslav of the Rus
+	#Alans become independent from Khazars around that period
+	977.1.1 = {
+		holder = 41592  # Urdur Tsarazon
+	}
+	1029.1.1 = {
+		holder = 20662  # Durgulel 'the Great' Tsarazon
+		government = tribal_government
+	}
+	1088.1.1 = {
+		holder = 41594	
+		liege = k_caucasus
+	}
+	1096.1.1 = {
+		holder = 93035  # Huddan Tsarazon
+	}
+	1100.1.1 = {
+		holder = durgulel_orosmik
+	}
+	1142.1.1 = {
+		holder = 93035  # Huddan Tsarazon
+	}
+	1148.1.1 = {
+		holder = 228060
+	}
+	1178.1.1 = {
+		holder = 93036
+	}
+	1181.1.1 = {
+		holder = 466516
+	}
+	1207.1.1 = {
+		holder = khasi_1
+	}
+	#Mongol conquest and destruction of kingdom of Alania
+	1238.1.2 = {
+		liege = e_golden_horde
+	}
+	1238.1.2 = {
+		holder = 93037	#fictional Khankhusy
+	}
+	1280.1.1 = {
+		holder = 93039
+	}
+	1313.1.1 = {
+		holder = 93047
+	}
+}
+
+c_osuria = {
+	100.1.1 = {
+		liege = d_alania
+	}
+	100.1.1 = {
+		holder = osuria_nakh1 #fictional rulers to represent the nakh presence
+	}
+	400.1.1 = {
+		holder = osuria_nakh2
+	}
+	600.1.1 = {
+		holder = osuria_nakh3
+	}
+}
+
+c_nartsana = {
+	100.1.1 = {
+		liege = d_alania
+	}
+	100.1.1 = {
+		holder = kaesag_circ1 #fictional rulers to represent the nakh and post-maeotian presence
+	}
+	400.1.1 = {
+		holder = osuria_nakh2
+	}
+	600.1.1 = {
+		holder = osuria_nakh3
+	}
+	#
+	850.1.1 = {
+		# placeholder vassals - dynn_TsA_rasantA_
+		holder = 183231
+		liege = d_alania
+	}
+	894.1.1 = {
+		holder = 183232
+	}
+	908.1.1 = {
+		holder = 183233
+	}
+	# fill in with Alan history
+	1148.1.1 = {
+		holder = tawlu_1
+		liege = d_alania
+	}
+	1207.1.1 = {
+		holder = khasi_1
+	}
+}
+
+c_malkaria = {
+	100.1.1 = {
+		liege = d_alania
+	}
+	#
+	860.1.1 = {
+		holder = alan_marshan_1_bridge
+		liege = d_alania
+	}
+	900.1.1 = {
+		holder = alan_marshan_2
+	}
+	912.1.1 = {
+		holder = alan_marshan_2_alternative
+	}
+	918.1.1 = {
+		holder = alan_marshan_3
+	}
+	973.1.1 = {
+		holder = alan_marshan_4
+	}
+	1030.1.1 = {
+		holder = alan_marshan_5
+	}
+	1090.1.1 = {
+		holder = alan_marshan_6
+	}
+	1108.1.1 = {
+		holder = alan_marshan_6_alternative
+	}
+	1111.1.1 = {
+		holder = alan_marshan_7
+	}
+	1163.1.1 = {
+		holder = alan_marshan_8
+	}
+	# fill in with Alan history
+	1207.1.1 = {
+		holder = khasi_1
+	}
+}
+
+
+d_kassogia = {
+	867.1.1 = { change_development_level = 1 }
+	1066.1.1 = { change_development_level = 3 }
+
+	100.1.1 = {
+		liege = k_caucasus
+		holder = 0
+	}
+	1000.1.1 = {
+		government = tribal_government
+		holder = circassian_rededya
+		liege = 0
+	}
+	1029.1.1 = {
+		holder = 0
+		liege = k_caucasus
+	}
+	1070.1.1 = {
+		liege = 0
+		holder = kabardey_1
+	}
+	1120.1.1 = {
+		holder = kabardey_2
+	}
+	1150.1.1 = {
+		holder = kabardey_3
+	}
+}
+
+c_maghas = {
+	867.1.1 = { change_development_level = 4 }
+	1066.1.1 = { change_development_level = 7 }
+
+	100.1.1 = {
+		holder = skhimar_circ1 #fictional rulers to represent the proto-kassogian/post-maeotian presence
+		liege = k_caucasus
+	}
+	400.1.1 = {
+		holder = skhimar_circ2
+	}
+	600.1.1 = {
+		holder = skhimar_circ3
+	}
+	#
+	860.1.1 = {
+		holder = 163118
+	}
+	900.1.1 = {
+		government = tribal_government
+		holder = 183223
+	}
+	950.1.1 = {
+		holder = 900110
+	}
+	# Khazars pwned by Svyatoslav of the Rus - Alans become independent from Khazars around that period
+	977.1.1 = {
+		holder = 41592  # Urdur Tsarazon
+	}
+	1000.1.1 = {
+		holder = circassian_rededya
+	}
+	1021.1.1 = {
+		holder = 41592  # Urdur Tsarazon
+	}
+	1029.1.1 = {
+		holder = 20662  # Durgulel 'the Great' Tsarazon
+		government = tribal_government
+	}
+	1088.1.1 = {
+		holder = durgulel_constantine	
+	}
+	1096.1.1 = {
+		holder = 93035  # Huddan Tsarazon
+	}
+	1100.1.1 = {
+		holder = durgulel_orosmik
+	}
+	1142.1.1 = {
+		holder = 41550  # Athom Bagratoni
+	}
+	1168.1.1 = {
+		holder = 216524  # Djadaron Bagratoni
+	}
+	1181.1.1 = {
+		holder = 466516  # David Soslan
+	}
+	1207.1.1 = {
+		holder = khasi_1  #semi-fictional Rhosmices Ovsia
+	}
+	#Mongol conquest and destruction of kingdom of Alania
+	1238.1.2 = {
+		liege = e_golden_horde
+	}
+	1238.1.2 = {
+		holder = 93037  #fictional Khankhusy
+	}
+	1241.1.1 = {
+		holder = khasi_2
+	}
+	1252.1.2 = {
+		holder = 93037  #fictional Khankhusy
+	}
+	1280.1.1 = {
+		holder = 93039
+	}
+	1313.1.1 = {
+		holder = 93047
+	}
+}
+
+c_skhimar = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 5 }
+
+	100.1.1 = {
+		holder = skhimar_circ1 #fictional rulers to represent the proto-kassogian/post-maeotian presence
+		liege = k_caucasus
+	}
+	400.1.1 = {
+		holder = skhimar_circ2
+	}
+	600.1.1 = {
+		holder = skhimar_circ3
+	}
+	863.1.1 = {
+		government = nomad_government
+		liege = e_caspian-pontic_steppe
+		holder = chetqal_1
+	}
+	930.1.1 = {
+		holder = chetqal_2
+	}
+	1050.1.1 = {
+		government = tribal_government
+		holder = kaesag_circ6
+		liege = k_caucasus
+	}
+	1160.1.1 = {
+		holder = lau_15 #abazin migration
+	}
+}
+
+c_labeshkhua = {
+	850.1.1 = {
+		government = tribal_government
+		holder = circassian_generic_39
+		liege = e_caspian-pontic_steppe
+	}
+	930.1.1 = {
+		holder = circassian_generic_40
+	}
+	973.1.1 = {
+		holder = circassian_generic_40_son
+	}
+	1050.1.1 = {
+		government = tribal_government
+		holder = circassian_generic_41
+		liege = k_caucasus
+	}
+	1090.1.1 = {
+		holder = habekir_1
+		liege = 0
+	}
+	1150.1.1 = {
+		holder = habekir_2
+	}
+	1200.1.1 = {
+		holder = habekir_3
+	}
+}
+
+c_abazinia = {
+	100.1.1 = {
+		government = anarchist_government
+		holder = kaesag_circ1 #fictional rulers to represent the proto-kassogian/post-maeotian presence
+	}
+	400.1.1 = {
+		holder = kaesag_circ2
+	}
+	600.1.1 = {
+		holder = kaesag_circ3
+	}
+	800.1.1 = {
+		government = tribal_government
+	}
+	840.1.1 = {
+		# placeholder vassals - dynn_BekkuyzartA_
+		holder = 183245
+		liege = k_caucasus
+	}
+	869.1.1 = {
+		holder = 183246
+	}
+	891.1.1 = {
+		holder = 183223
+	}
+	930.1.1 = {
+		holder = circassian_generic_43
+		liege = k_caucasus
+	}
+	1050.1.1 = {
+		holder = circassian_generic_44
+	}
+	1090.1.1 = {
+		holder = habekir_1
+	}
+	1150.1.1 = {
+		liege = 0
+		holder = abazin_ancestor_1
+	}
+	1163.1.1 = {
+		holder = abazin_1
+	}
+}
+
+c_uerp = {
+	850.1.1 = {
+		government = anarchist_government
+		holder = circassian_generic_45
+		liege = e_caspian-pontic_steppe
+	}
+	930.1.1 = {
+		holder = circassian_generic_46
+	}
+	1050.1.1 = {
+		holder = circassian_generic_47
+		liege = 0
+	}
+	1070.1.1 = {
+		government = tribal_government
+		holder = uerp_1
+	}
+	1090.1.1 = {
+		holder = uerp_2
+	}
+	1140.1.1 = {
+		holder = uerp_3
+	}
+	1160.1.1 = {
+		holder = uerp_4
+		liege = d_kassogia
+	}
+}
+
+
+# d_karabulakia
+c_zhulat = {
+	867.1.1 = { change_development_level = 2 }
+	1066.1.1 = { change_development_level = 4 }
+
+	100.1.1 = {
+		liege = k_caucasus
+		holder = zhulat_nakh1 #fictional rulers to represent the nakh presence
+	}
+	400.1.1 = {
+		holder = zhulat_nakh2
+	}
+	600.1.1 = {
+		holder = zhulat_nakh3
+	}
+	865.1.1 = {
+		holder = zhulat_nakh4
+	}
+	900.1.1 = {
+		holder = zhulat_nakh4_a
+	}
+	936.1.1 = {
+		holder = zhulat_nakh5
+	}
+	975.1.1 = {
+		holder = zhulat_nakh5_a
+	}
+	1030.1.1 = {
+		holder = zhulat_nakh6
+	}
+	#
+	1178.1.1 = {
+		holder = zhulat_generic_1
+	}
+}
+
+c_orga = {
+	867.1.1 = { change_development_level = 1 }
+	1066.1.1 = { change_development_level = 3 }
+
+	830.1.1 = {
+		holder = nakhchi_001
+		liege = d_chechnya
+	}
+	858.1.1 = {
+		holder = nakhchi_002
+	}
+	898.1.1 = {
+		holder = nakhchi_003
+	}
+	939.1.1 = {
+		holder = nakhchi_004
+	}
+	975.1.1 = {
+		holder = nakhchi_005
+	}
+	1001.1.1 = {
+		holder = nakhchi_006
+	}
+	1050.1.1 = {
+		holder = nakhchi_007
+	}
+	1090.1.1 = {
+		holder = nakhchi_008
+	}
+	1120.1.1 = {
+		holder = khasi_1_father
+		liege = d_chechnya
+	}
+	1160.1.2 = {
+		holder = khasi_1
+	}
+	1178.1.1 = {
+		liege = d_chechnya
+		holder = khasi_3
+	}
+	1238.1.1 = {
+		holder = khasi_3
+	}
+	1252.1.1 = {
+		holder = khasi_5
+	}
+	1290.1.1 = {
+		holder = khasi_6
+	}
+	1350.1.1 = {
+	    holder = khasi_7		
+	}
+}
+
+
+d_osseti = {
+	100.1.1 = {
+		liege = k_caucasus
+		holder = 0
+	}
+}
+
+c_digoria = {
+	867.1.1 = { change_development_level = 2 }
+	1066.1.1 = { change_development_level = 4 }
+
+	850.1.1 = {
+		# placeholder vassals - dynn_A_lbegatA_
+		holder = 183226
+		liege = k_caucasus
+	}
+	865.1.1 = {
+		holder = 183227
+	}
+	893.1.1 = {
+		holder = 183229
+	}
+	912.1.1 = {
+		holder = sea_aelbegatae_01
+	}
+	#
+	1108.1.1 = {
+		holder = 9959    #Davit Bagratoni
+		liege = k_caucasus
+	}
+	# fill in with Alan history
+	1178.1.1 = {
+		liege = k_caucasus
+		holder = digoria_generic_1
+	}
+}
+
+c_darialani = {
+	867.1.1 = { change_development_level = 2 }
+	1066.1.1 = { change_development_level = 4 }
+
+	100.1.1 = {
+		liege = k_caucasus
+		holder = zhulat_nakh1 #fictional rulers to represent the nakh presence
+	}
+	400.1.1 = {
+		holder = zhulat_nakh2
+	}
+	600.1.1 = {
+		holder = zhulat_nakh3
+	}
+	#
+	850.1.1 = {
+		# placeholder vassals - dynn_MagkA_tA_
+		holder = 183238
+		liege = k_caucasus
+	}
+	888.1.1 = {
+		holder = 183239
+	}
+	912.1.1 = {
+		holder = 183240
+	}
+	935.1.1 = {
+		holder = sea_magkaetae_01
+		liege = k_caucasus
+	}
+	# fill in with Alan history
+	1108.1.1 = {
+		holder = 9959    #Davit Bagratoni
+		liege = k_caucasus
+	}
+	# fill in with Alan history
+	1178.1.1 = {
+		holder = darialani_generic_1
+	}
+}
+
+
+### Chechens #################################
+d_chechnya = {
+	867.1.1 = { change_development_level = 1 }
+	1066.1.1 = { change_development_level = 3 }
+
+	121.1.1 = {
+		government = tribal_government
+		liege = 0
+		succession_laws = { tribal_elective_succession_law }
+	}
+	830.1.1 = {
+		holder = nakhchi_001
+	}
+	858.1.1 = {
+		holder = nakhchi_002
+	}
+	898.1.1 = {
+		holder = nakhchi_003
+	}
+	939.1.1 = {
+		holder = nakhchi_004
+	}
+	975.1.1 = {
+		holder = nakhchi_005
+	}
+	1001.1.1 = {
+		holder = nakhchi_006
+	}
+	1050.1.1 = {
+		holder = nakhchi_007
+	}
+	1090.1.1 = {
+		succession_laws = { confederate_partition_succession_law }
+		liege = 0
+		holder = khasi_1
+	}
+	1238.1.1 = {
+		holder = khasi_3
+	}
+	1252.1.1 = {
+		holder = khasi_5
+	}
+	1290.1.1 = {
+		holder = khasi_6
+	}
+	1350.1.1 = {
+	    holder = khasi_7		
+	}
+}
+
+c_dzurdzukia = {
+	867.1.1 = { change_development_level = 2 }
+	1066.1.1 = { change_development_level = 4 }
+
+	121.1.1 = {
+		government = tribal_government
+		succession_laws = { tribal_elective_succession_law }
+	}
+	830.1.1 = {
+		holder = nakhchi_001
+	}
+	858.1.1 = {
+		holder = nakhchi_002
+	}
+	898.1.1 = {
+		holder = nakhchi_003
+	}
+	939.1.1 = {
+		holder = nakhchi_004
+	}
+	975.1.1 = {
+		holder = nakhchi_005
+	}
+	1001.1.1 = {
+		holder = nakhchi_006
+	}
+	1050.1.1 = {
+		holder = nakhchi_007
+	}
+}
+
+c_simsir = {
+	830.1.1 = {
+		liege = d_chechnya
+		government = tribal_government
+		holder = nakhchi_001
+	}
+	860.1.1 = {
+		liege = d_chechnya
+		holder = ichkeri_nakh
+	}
+	940.1.1 = {
+		holder = nokhchmakhkakhoy_nakh
+	}
+	980.1.1 = {
+		holder = ichkherela_nakh
+	}
+	1040.1.1 = {
+		holder = orgaela_nakh
+	}
+	1178.1.1 = {
+		holder = khasi_2
+	}
+}
+
+c_melkhista = {
+	121.1.1 = {
+		government = tribal_government
+	}
+	830.1.1 = {
+		liege = d_chechnya
+		holder = nakhchi_001
+	}
+	858.1.1 = {
+		liege = d_chechnya
+		holder = nakhchi_002
+	}
+	866.1.1 = {
+		holder = shato_nakh
+	}
+	940.1.1 = {
+		holder = shubuti_nakh
+	}
+	1000.1.1 = {
+		holder = shatoyela_nakh
+	}
+	1067.1.1 = {
+		holder = tshan_nakh
+	}
+	1178.1.1 = {
+		holder = botur_1
+	}
+}
+
+c_kisteti = {
+	121.1.1 = {
+		government = tribal_government
+	}
+	830.1.1 = {
+		liege = d_chechnya
+		holder = nakhchi_001
+	}
+	860.1.1 = {
+		liege = d_chechnya
+		holder = pangaz_nakh
+	}
+	940.1.1 = {
+		holder = kist_nakh
+	}
+	980.1.1 = {
+		holder = pangazela_nakh
+	}
+	1040.1.1 = {
+		holder = kistela_nakh
+	}
+}
+
+
+### Chetqal #################################
+d_chetqal = {
+	867.1.1 = { change_development_level = 0 }
+	1066.1.1 = { change_development_level = 0 }
+	240.1.1 = {
+		holder = 602168
+	}
+	310.1.1 = {
+		holder = 602169
+	}
+	350.1.1 = {
+		holder = 602170
+	}
+	380.1.1 = {
+		holder = 602171
+	}
+	410.1.1 = {
+		holder = 602172
+	}
+	470.1.1 = {
+		holder = 602173
+	}
+	530.1.1 = {
+		holder = 246205
+	}
+	554.1.1 = {
+		holder = 602173
+	}
+	555.1.1 = {
+		holder = 246228
+	}
+	620.1.1 = {
+		holder = 246205
+	}
+	650.1.1 = {
+		holder = 246206
+	}
+	680.1.1 = {
+		holder = 246217
+	}
+	715.1.1 = {
+		holder = 246207
+	}
+	715.1.2 = {
+		holder = 0
+	}
+}
+
+c_chetqal = {
+	867.1.1 = { change_development_level = 0 }
+	1066.1.1 = { change_development_level = 0 }
+
+	# Alan Nomads
+	40.1.1 = {
+		government = nomad_government
+		holder = 602164
+	}
+	80.1.1 = {
+		holder = 602165
+	}
+	130.1.1 = {
+		holder = 602166
+	}
+	240.1.1 = {
+		holder = 602168
+	}
+	310.1.1 = {
+		holder = 602169
+	}
+	350.1.1 = {
+		holder = 602170
+	}
+	380.1.1 = {
+		holder = 602171
+	}
+	410.1.1 = {
+		holder = 602172
+	}
+	470.1.1 = {
+		holder = 602173
+	}
+	530.1.1 = {
+		holder = 246205
+	}
+	554.1.1 = {
+		holder = 602173
+	}
+	555.1.1 = {
+		holder = 246228
+	}
+	620.1.1 = {
+		holder = 246205
+	}
+	650.1.1 = {
+		holder = 246206
+	}
+	680.1.1 = {
+		holder = 246217
+	}
+	715.1.1 = {
+		holder = 246207
+	}
+
+	822.1.1= {
+		liege = e_caspian-pontic_steppe
+		government = nomad_government
+	}
+	829.1.1 = {
+		holder = 74021
+	}
+	831.1.1 = {
+		holder = 74022
+	}
+	847.1.1 = {
+		holder = 74023
+	}
+	856.1.1 = {
+		holder = 74024
+	}
+	863.1.1 = {
+		holder = chetqal_1
+	}
+	930.1.1 = {
+		holder = chetqal_2
+	}
+	#Cumans
+	1066.1.1 = {
+		liege = 0
+		holder = chetqal_3
+	}
+	1150.1.1 = {
+		holder = chetqal_4
+		liege = d_azov
+	}
+	1200.1.1 = {
+		holder = 34883
+	}
+	1210.1.1 = {
+		holder = 34884
+	}
+	1238.1.1 = {
+		holder = 34892
+	}
+	1270.1.1 = {
+		holder = 34893
+	}
+	1300.1.1 = {
+		holder = 34894
+	}
+	1315.1.1 = {
+		holder = 34895
+	}
+}
+
+c_terek_alania = {
+	867.1.1 = { change_development_level = 0 }
+	1066.1.1 = { change_development_level = 0 }
+
+	# Alan Nomads
+	40.1.1 = {
+		government = nomad_government
+		holder = 602164
+	}
+	80.1.1 = {
+		holder = 602165
+	}
+	130.1.1 = {
+		holder = 602166
+	}
+	170.1.1 = {
+		holder = 602167
+	}
+	240.1.1 = {
+		holder = 602168
+	}
+	310.1.1 = {
+		holder = 602169
+	}
+	350.1.1 = {
+		holder = 602170
+	}
+	380.1.1 = {
+		holder = 602171
+	}
+	410.1.1 = {
+		holder = 602172
+	}
+	470.1.1 = {
+		holder = 602173
+	}
+	530.1.1 = {
+		holder = 246205
+	}
+	554.1.1 = {
+		holder = 602173
+	}
+	555.1.1 = {
+		holder = 246228
+	}
+	620.1.1 = {
+		holder = 246205
+	}
+	650.1.1 = {
+		holder = 246206
+	}
+	680.1.1 = {
+		holder = 246217
+	}
+	715.1.1 = {
+		holder = 246207
+	}
+
+	741.1.1 = {
+		holder = 146205	#Buriberdi Zmbalani
+		liege = e_caspian-pontic_steppe
+		government = tribal_government
+	}
+
+	850.1.1 = {
+		government = nomad_government
+		holder = sabir_4
+		liege = d_khunia
+	}
+	930.1.1 = {
+		holder = sabir_5
+	}
+	1050.1.1 = {
+		holder = sabir_6
+	}
+	1178.1.1 = {
+		holder = kumyk_1
+	}
+}
+
+c_yegorlyk = {
+	867.1.1 = { change_development_level = 0 }
+	1066.1.1 = { change_development_level = 0 }
+
+	850.1.1 = {
+		liege = d_azov
+		holder = sea_bolghar_herder_1
+		government = herder_government
+	}
+	925.1.1 = {
+		holder = sea_bolghar_herder_2
+	}
+	
+	#Cumans
+	1066.1.1 = {
+		liege = 0
+		holder = roa_cuman0009
+	}
+	1089.1.1 = {
+		holder = 228059
+	}
+	1110.1.1 = {
+		holder = 479240
+	}
+	1150.1.1 = {
+		holder = 34882
+	}
+	1170.1.1 = {
+		liege = d_azov
+	}
+	1180.1.1 = {
+		holder = 34883
+	}
+	1210.1.1 = {
+		holder = 34884
+	}
+	1238.1.1 = {
+		holder = 34892
+	}
+	1270.1.1 = {
+		holder = 34893
+	}
+	1300.1.1 = {
+		holder = 34894
+	}
+	1315.1.1 = {
+		holder = 34895
+	}
+}
+
+c_arzgir = {
+	867.1.1 = { change_development_level = 0 }
+	1066.1.1 = { change_development_level = 0 }
+
+	850.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = sea_khazar_herder_3
+		government = herder_government
+	}
+	925.1.1 = {
+		holder = sea_khazar_herder_4
+	}
+
+	#Cumans
+	1066.1.1 = {
+		liege = 0
+		holder = roa_cuman0008
+	}
+	1089.1.1 = {
+		holder = 228059
+	}
+	1110.1.1 = {
+		holder = 479240
+	}
+	1150.1.1 = {
+		holder = 34882
+	}
+	1170.1.1 = {
+		liege = d_azov
+	}
+	1180.1.1 = {
+		holder = 34883
+	}
+	1210.1.1 = {
+		holder = 34884
+	}
+	1238.1.1 = {
+		holder = 34892
+	}
+	1270.1.1 = {
+		holder = 34893
+	}
+	1300.1.1 = {
+		holder = 34894
+	}
+	1315.1.1 = {
+		holder = 34895
+	}
+}

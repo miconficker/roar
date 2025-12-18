@@ -1,0 +1,1476 @@
+﻿
+k_kabulistan = {
+	867.1.1 = {	change_development_level = 5 }
+	1066.1.1 = { change_development_level = 8 }
+	1178.1.1 = { change_development_level = 24 }
+
+	687.1.1 = {
+		liege = 0
+		holder = 188717 # Khorasan Tegin Shah
+	}
+	740.1.1 = {
+		holder = 188718 # Phrom Kesar Nandin of Kabul Shahi
+	}
+	745.1.1 = {
+		holder = 188565 # Bo-Fuzun Nandin of Kabul Shahi
+	}
+
+	866.1.1 = {
+		holder = 175060 # Kallar Shahi
+	}
+	936.1.1 = {
+		holder = 261033
+	}
+	961.1.1 = {
+		holder = 170303 #Took Ghazna from Lawiks
+		government = clan_government
+	}
+	975.1.1 = {
+		holder = 170304
+	}
+	977.1.1 = {
+		holder = 144123 # Sabuktigin
+	}
+	997.8.1 = {
+		holder = 144124 # Ismail
+	}
+	998.3.1 = {
+		holder = 144125 # Mahmud
+	}
+	1031.1.1 = {
+		holder = 144127 # Musud
+	}
+	1040.1.17 = {
+		holder = 144126 # Muhammad
+	}
+	1041.3.19 = {
+		holder = 144128 # Mawdud
+	}
+	1050.1.1 = {
+		holder = 144129 # Masud
+	}
+	1050.6.1 = {
+		holder = 144130 # Ali
+	}
+	1050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	1053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	1059.1.1 = {
+		holder = 144133 # Ibrahim
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_language = language_iranian
+					if = {
+						limit = { NOT = { knows_court_language_of = this } }
+						learn_court_language_of = this
+					}
+				}
+			}
+		}
+	}
+	1099.1.1 = {
+		holder = 144134 # Masud II
+	}
+	1115.1.1 = {
+		holder = 144135 # Shirzad
+	}
+	1115.6.1 = {
+		holder = 144136 # Arlsan Shah
+	}
+	1118.1.1 = {
+		holder = 0 # Ghaznavid vassalage under Seljuks
+	}
+
+	1157.1.1 = {
+		holder = 144138 # Khusraw Shah
+	}
+	1160.1.1 = {
+		holder = 144139 # Khusraw Malik
+	}
+	1173.1.1 = {
+		holder = 144141 # Ghiyath Ghurid
+	}
+	1186.1.1 = {
+		liege = e_rajastan
+	}
+	1203.1.1 = {
+		holder = 144142 # Mu'izz
+	}
+	1206.3.15 = {
+		holder = 170302
+		liege = 0
+	}
+	1216.2.15 = {
+		holder = 0
+	}
+}
+
+
+d_kabul = {
+	687.1.1 = {
+		liege = k_kabulistan
+		holder = 188717 # Khorasan Tegin Shah
+	}
+	740.1.1 = {
+		holder = 188718 # Phrom Kesar Nandin of Kabul Shahi
+	}
+	745.1.1 = {
+		holder = 188565 # Bo-Fuzun Nandin of Kabul Shahi
+	}
+
+	866.1.1 = {
+		holder = 175060 # Kallar Shahi
+	}
+	936.1.1 = {
+		holder = 261033
+	}
+	961.1.1 = {
+		holder = 170303 #Took Ghazna from Lawiks
+		government = clan_government
+	}
+	975.1.1 = {
+		holder = 170304
+	}
+	977.1.1 = {
+		holder = 144123 # Sabuktigin
+	}
+	997.8.1 = {
+		holder = 144124 # Ismail
+	}
+	998.3.1 = {
+		holder = 144125 # Mahmud
+	}
+	1030.5.3 = {
+		holder = 144126 # Muhammad
+	}
+	1031.1.1 = {
+		holder = 144127 # Musud
+	}
+	1040.1.17 = {
+		holder = 144126 # Muhammad
+	}
+	1041.3.19 = {
+		holder = 144128 # Mawdud
+	}
+	1050.1.1 = {
+		holder = 144129 # Masud
+	}
+	1050.6.1 = {
+		holder = 144130 # Ali
+	}
+	1050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	1053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	1059.1.1 = {
+		holder = 144133 # Ibrahim
+	}
+	1099.1.1 = {
+		holder = 144134 # Masud II
+	}
+	1115.1.1 = {
+		holder = 144135 # Shirzad
+	}
+	1115.6.1 = {
+		holder = 144136 # Arlsan Shah
+	}
+	1118.1.1 = {
+		liege = k_persia # Seljuk vassalage
+		holder = 144137 # Bahram Shah
+	}
+	1152.1.1 = {
+		holder = 144138 # Khusraw Shah
+	}
+	1157.5.8 = {
+		liege = 0 # end of the Seljuk Turks
+	}
+	1160.1.1 = {
+		holder = 144139 # Khusraw Malik
+	}
+	1173.1.1 = {
+		liege = k_kabulistan
+		holder = 144142 # Mu'izz Ghurid
+	}
+	1203.1.1 = {
+		liege = e_rajastan
+	}
+	1206.3.15 = {
+		holder = 170302
+		liege = k_kabulistan
+	}
+	1216.2.15 = {
+		holder = 0
+		liege = 0
+	}
+}
+
+
+c_kabul = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 12 }
+	1178.1.1 = { change_development_level = 14 }
+
+	750.1.1 = {
+		liege = d_kabul
+		holder = 188565 # Surendravirkramaditya Nandin of Kabul Shahi
+	}
+
+	866.1.1 = {
+		holder = 175060 # Kallar Shahi
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	936.1.1 = {
+		holder = 261033
+	}
+	961.1.1 = {
+		holder = 170303 #Took Ghazna from Lawiks
+	}
+	975.1.1 = {
+		holder = 170304
+	}
+	977.1.1 = {
+		holder = 144123 # Sabuktigin
+	}
+	997.8.1 = {
+		holder = 144124 # Ismail
+	}
+	998.3.1 = {
+		holder = 144125 # Mahmud
+	}
+	1030.5.3 = {
+		holder = 144126 # Muhammad
+	}
+	1031.1.1 = {
+		holder = 144127 # Musud
+	}
+	1040.1.17 = {
+		holder = 144126 # Muhammad
+	}
+	1041.3.19 = {
+		holder = 144128 # Mawdud
+	}
+	1050.1.1 = {
+		holder = 144129 # Masud
+	}
+	1050.6.1 = {
+		holder = 144130 # Ali
+	}
+	1050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	1053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	1059.1.1 = {
+		holder = 144133
+	}
+	1099.1.1 = {
+		holder = 144134
+	}
+	1115.1.1 = {
+		holder = 144135
+	}
+	1115.6.1 = {
+		holder = 144136
+	}
+	1118.1.1 = {
+		holder = 144137
+	}
+	1152.1.1 = {
+		holder = 144138
+	}
+	1160.1.1 = {
+		holder = 144139
+	}
+	1173.1.1 = {
+		holder = 144142
+	}
+	1206.3.15 = {
+		holder = 170302
+	}
+	1216.2.15 = {
+		holder = 93052
+		liege = k_persia
+	}
+	1220.1.1 = {
+		holder = 194302
+	}
+}
+
+c_bamian = {
+	# The Hephthalites conquered Bamiyan in the 5th century AD
+	# Bamiyan said to be converted by Bistam, lord of Warwaliz in the mid-700s
+	750.1.1 = {
+		holder = RICE_bamian_001 # Mithravakhsha of Bamian
+		liege = k_transoxiana
+	}
+	792.6.5 = {
+		holder = RICE_bamian_006 # placeholder Sher Bamiyan buddhist ruler
+	}
+	794.1.1 = {
+		# Al-Hasan appointed as ruler of Bamiyan after Al-Fadl ibn Yahya campaign in Kabul (792-793 AD)
+		holder = RICE_bamian_003 # Al-Hasan ibn Abu Harb Muhammad
+	}
+	828.5.8 = {
+		holder = RICE_bamian_007 # placeholder Sher Bamiyan buddhist ruler
+	}
+	861.2.3 = {
+		holder = RICE_bamian_008 # placeholder Sher Bamiyan buddhist ruler
+		liege = 0
+	}
+	871.1.1 = {
+		# According to Tarikh-e-Sistan, Bamiyan was captured and its idol-temple was plundered by Saffarids
+		liege = k_makran
+	}
+
+	936.1.1 = {
+		holder = 261322
+		liege = d_kabul
+	}
+	977.1.1 = {
+		liege = "d_sistan"
+	}
+	977.1.1 = {
+		holder = 144123
+	}
+	997.8.1 = {
+		holder = 144124
+	}
+	998.1.1 = {
+		holder = 144125
+	}
+	1030.1.1 = {
+		holder = 144126
+	}
+	1031.1.1 = {
+		holder = 144127
+	}
+	1041.1.1 = {
+		holder = 144128
+	}
+	1050.1.1 = {
+		holder = 144129
+	}
+	1050.6.1 = {
+		holder = 144130
+	}
+	1050.9.1 = {
+		holder = 144131
+	}
+	1053.1.1 = {
+		holder = 144132
+	}
+	1059.1.1 = {
+		holder = 144133
+	}
+	1099.1.1 = {
+		holder = 144134
+	}
+	1100.1.1 = {
+		liege = "d_merv"
+		holder = 93139
+	}
+	1140.1.1 = {
+		holder = 93140
+	}
+	1149.1.1 = {
+		holder = 93150
+	}
+	1163.1.1 = {
+		holder = 93147 # Shams ad-Din Muhammad of Bamiyan
+	}
+	1180.1.1 = {
+		holder = 93151
+	}
+	1186.1.1 = {
+		liege = d_sistan
+		holder = 144141
+	}
+	1203.1.1 = {
+		holder = 144142
+	}
+	1206.3.15 = {
+		liege = d_kabul
+		holder = 170302
+	}
+	1212.1.1 = {
+		liege = "k_transoxiana"
+		holder = 93053
+	}
+	1220.2.1 = {
+		liege = e_mongol_empire
+		holder = 125501
+	}
+	1227.12.2 = {
+		holder = 93062
+	}
+	1242.1.1 = {
+		holder = 93064
+	}
+	1246.1.1 = {
+		holder = 93065
+	}
+	1252.1.1 = {
+		holder = 93064
+	}
+	1253.1.1 = {
+		holder = 93066
+	}
+	1260.1.1 = {
+		holder = 93068
+	}
+	1266.1.1 = {
+		holder = 93066
+	}
+	1266.9.1 = {
+		holder = 93070
+	}
+	1271.1.1 = {
+		holder = 93072
+	}
+	1272.1.1 = {
+		holder = 93074
+	}
+	1282.1.1 = {
+		holder = 93075
+	}
+	1307.1.1 = {
+		holder = 93076
+	}
+	1308.1.1 = {
+		holder = 93078
+	}
+	1309.1.1 = {
+		holder = 93079
+	}
+	1310.1.1 = {
+		holder = 93080
+	}
+	1318.1.1 = {
+		holder = 93079
+	}
+	1326.1.1 = {
+		holder = 93081
+	}
+	1329.1.1 = {
+		holder = 93082
+	}
+	1330.1.1 = {
+		holder = 93083
+	}
+	1334.1.1 = {
+		holder = 93084
+	}
+	1335.1.1 = {
+		holder = 93086
+	}
+}
+
+b_panjhir = {
+	750.1.1 = {
+		holder = RICE_bamian_001 # Mithravakhsha of Bamian
+	}
+	792.6.5 = {
+		holder = RICE_bamian_006 # placeholder Sher Bamiyan buddhist ruler
+	}
+	828.5.8 = {
+		holder = RICE_bamian_007 # placeholder Sher Bamiyan buddhist ruler
+	}
+	861.2.3 = {
+		holder = RICE_bamian_008 # placeholder Sher Bamiyan buddhist ruler
+	}
+}
+
+c_nagarahara = {
+	750.1.1 = {
+		liege = d_kabul
+		holder = 188565 # Surendravirkramaditya Nandin of Kabul Shahi
+	}
+
+	866.1.1 = {
+		holder = 175060 # Kallar Shahi
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	936.1.1 = {
+		holder = 261033
+	}
+	990.1.1 = {
+		holder = 144123 # Sabuktigin
+	}
+	997.8.1 = {
+		holder = 144124 # Ismail
+	}
+	998.3.1 = {
+		holder = 144125 # Mahmud
+	}
+	1030.5.3 = {
+		holder = 144126 # Muhammad
+	}
+	1031.1.1 = {
+		holder = 144127 # Musud
+	}
+	1040.1.17 = {
+		holder = 144126 # Muhammad
+	}
+	1041.3.19 = {
+		holder = 144128 # Mawdud
+	}
+	1050.1.1 = {
+		holder = 144129 # Masud
+	}
+	1050.6.1 = {
+		holder = 144130 # Ali
+	}
+	1050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	1053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	1059.1.1 = {
+		holder = 144133
+	}
+	1099.1.1 = {
+		holder = 144134
+	}
+	1115.1.1 = {
+		holder = 144135
+	}
+	1115.6.1 = {
+		holder = 144136
+	}
+	1118.1.1 = {
+		holder = 144137
+	}
+	1152.1.1 = {
+		holder = 144138
+	}
+	1160.1.1 = {
+		holder = 144139
+	}
+	1173.1.1 = {
+		holder = 144142
+	}
+	1206.3.15 = {
+		holder = 170302
+	}
+	1216.2.15 = {
+		holder = 93052
+		liege = k_persia
+	}
+	1220.1.1 = {
+		holder = 194302
+	}
+}
+
+
+c_pashai = {
+	867.1.1 = {	change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+	1178.1.1 = { change_development_level = 8 }
+
+	750.1.1 = {
+		liege = d_kabul
+		holder = 188565 # Surendravirkramaditya Nandin of Kabul Shahi
+	}
+
+	866.1.1 = {
+		holder = 175060 # Kallar Shahi
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	936.1.1 = {
+		holder = 261033
+	}
+	961.1.1 = {
+		holder = 170303 #Took Ghazna from Lawiks
+	}
+	975.1.1 = {
+		holder = 170304
+	}
+	977.1.1 = {
+		holder = 144123 # Sabuktigin
+	}
+	997.8.1 = {
+		holder = 144124 # Ismail
+	}
+	998.3.1 = {
+		holder = 144125 # Mahmud
+	}
+	1030.5.3 = {
+		holder = 144126 # Muhammad
+	}
+	1031.1.1 = {
+		holder = 144127 # Musud
+	}
+	1040.1.17 = {
+		holder = 144126 # Muhammad
+	}
+	1041.3.19 = {
+		holder = 144128 # Mawdud
+	}
+	1050.1.1 = {
+		holder = 144129 # Masud
+	}
+	1050.6.1 = {
+		holder = 144130 # Ali
+	}
+	1050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	1053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	1059.1.1 = {
+		holder = 144133
+	}
+	1099.1.1 = {
+		holder = 144134
+	}
+	1115.1.1 = {
+		holder = 144135
+	}
+	1115.6.1 = {
+		holder = 144136
+	}
+	1118.1.1 = {
+		holder = 144137
+	}
+	1152.1.1 = {
+		holder = 144138
+	}
+	1160.1.1 = {
+		holder = 144139
+	}
+	1173.1.1 = {
+		holder = 144142
+	}
+	1206.3.15 = {
+		holder = 170302
+	}
+	1216.2.15 = {
+		holder = 93052
+		liege = k_persia
+	}
+	1220.1.1 = {
+		holder = 194302
+	}
+}
+
+
+c_kati = {
+	867.1.1 = {	change_development_level = 1 }
+	1066.1.1 = { change_development_level = 2 }
+	1178.1.1 = { change_development_level = 5 }
+
+	867.1.1 = {
+		liege = d_kabul
+		holder = roa_nuristani05
+	}
+	936.1.1 = {
+		holder = roa_nuristani06
+	}
+	1066.1.1 = {
+		liege = 0
+		holder = roa_nuristani07
+	}
+	1178.1.1 = {
+		holder = roa_nuristani08
+	}
+}
+
+
+c_waygal = {
+	867.1.1 = {	change_development_level = 1 }
+	1066.1.1 = { change_development_level = 2 }
+	1178.1.1 = { change_development_level = 5 }
+
+	867.1.1 = {
+		liege = d_kabul
+		holder = roa_nuristani09
+	}
+	936.1.1 = {
+		holder = roa_nuristani10
+	}
+	1066.1.1 = {
+		liege = 0
+		holder = roa_nuristani11
+	}
+	1178.1.1 = {
+		holder = roa_nuristani12
+	}
+}
+
+
+c_chitral = {
+	867.1.1 = {	change_development_level = 1 }
+	1066.1.1 = { change_development_level = 2 }
+	1178.1.1 = { change_development_level = 5 }
+
+	867.1.1 = {
+		liege = d_kabul
+		holder = RICE_pamir_misc_001
+	}
+	936.1.1 = {
+		holder = roa_chitral_nuristani_01
+	}
+	1066.1.1 = {
+		liege = 0
+		holder = RICE_pamir_misc_002
+	}
+	1178.1.1 = {
+		holder = RICE_pamir_misc_003
+	}
+}
+
+
+c_kunar = {
+	867.1.1 = {	change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+	1178.1.1 = { change_development_level = 8 }
+
+	750.1.1 = {
+		liege = d_kabul
+		holder = 188565 # Surendravirkramaditya Nandin of Kabul Shahi
+	}
+
+	866.1.1 = {
+		holder = 175060 # Kallar Shahi
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	936.1.1= {
+		holder=261033
+		liege = 0
+	}
+
+	990.1.1 = {
+		holder = 144123 # Sabuktigin
+	}
+	997.8.1 = {
+		holder = 144124 # Ismail
+	}
+	998.3.1 = {
+		holder = 144125 # Mahmud
+	}
+	1030.5.3 = {
+		holder = 144126 # Muhammad
+	}
+	1031.1.1 = {
+		holder = 144127 # Musud
+	}
+	1040.1.17 = {
+		holder = 144126 # Muhammad
+	}
+	1041.3.19 = {
+		holder = 144128 # Mawdud
+	}
+	1050.1.1 = {
+		holder = 144129 # Masud
+	}
+	1050.6.1 = {
+		holder = 144130 # Ali
+	}
+	1050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	1053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	1059.1.1 = {
+		holder = 144133
+	}
+	1099.1.1 = {
+		holder = 144134
+	}
+	1115.1.1 = {
+		holder = 144135
+	}
+	1115.6.1 = {
+		holder = 144136
+	}
+	1118.1.1 = {
+		holder = 144137
+	}
+	1152.1.1 = {
+		holder = 144138
+	}
+	1160.1.1 = {
+		holder = 144139
+	}
+	1173.1.1 = {
+		holder = 144142
+	}
+	1206.3.15 = {
+		holder = 170302
+	}
+	1216.2.15 = {
+		holder = 93052
+		liege = k_persia
+	}
+	1220.1.1 = {
+		holder = 194302
+	}
+}
+
+
+d_zabulistan = {
+	680.1.1 = {
+		liege = 0
+		holder = 188701 # Zunbil founder
+	}
+	687.1.1 = {
+		holder = 188702
+	}
+	725.1.1 = {
+		holder = 188703
+	}
+	738.1.1 = {
+		holder = 188628
+	}
+	770.1.1 = {
+		holder = 188705
+	}
+	780.1.1 = {
+		holder = 188707
+	}
+	815.1.1 = {
+		holder = 188708
+	}
+	850.1.1 = {
+		holder = 188711 # Kabak Zunbil
+	}
+	865.1.1 = {
+		holder = 188712 # Firuz Zunbil
+	}
+	870.1.1 = {
+		holder = 0 #Destroyed by the Saffarids
+	}
+
+	977.1.1 = {
+		liege = k_kabulistan
+		holder = 144123 # Sabuktigin Ghaznavid
+	}
+	997.8.1 = {
+		holder = 144124 # Ismail
+	}
+	998.1.1 = {
+		holder = 144125 # Mahmud
+	}
+	1030.1.1 = {
+		holder = 144126 # Muhammad
+	}
+	1031.1.1 = {
+		holder = 144127 # Musud
+	}
+	1041.1.1 = {
+		holder = 144128 # Mawdud
+	}
+	1050.1.1 = {
+		holder = 144129 # Masud
+	}
+	1050.6.1 = {
+		holder = 144130 # Ali
+	}
+	1050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	1053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	1059.1.1 = {
+		holder = 144133 # Ibrahim
+	}
+	1099.1.1 = {
+		holder = 144134 # Masud II
+	}
+	1115.1.1 = {
+		holder = 144135 # Shirzad
+	}
+	1115.6.1 = {
+		holder = 144136 # Arlsan Shah
+	}
+	1118.1.1 = {
+		liege = k_persia # Seljuk vassalage
+		holder = 144137 # Bahram Shah
+	}
+	1152.1.1 = {
+		holder = 144138 # Khusraw Shah
+	}
+	1157.5.8 = {
+		liege = 0 # end of the Seljuk Turks
+	}
+	1160.1.1 = {
+		holder = 144139 # Khusraw Malik
+	}
+	1170.1.1 = {
+		liege = 0
+		holder = 144141 # Ghiyath Ghurid
+	}
+	1173.1.1 = {
+		liege = k_kabulistan
+	}
+	1186.1.1 = {
+		liege = k_sindh
+	}
+	1203.1.1 = {
+		holder = 144142
+		liege = e_rajastan
+	}
+	1206.3.15 = {
+		holder = 144143
+		liege = 0
+	}
+	#Khwazerim
+	#Kartids
+	1212.1.1 = {
+		liege = "k_persia"
+		holder = 93153
+	}
+
+
+	1221.1.1 = {
+		liege = e_mongol_empire
+	}
+	1227.12.2 = {
+		liege = "e_ilkhanate"
+	}
+	1245.1.1 = {
+		holder = 93154
+
+	}
+	1277.1.1 = {
+		holder = 93155
+	}
+	1295.1.1 = {
+		holder = 93156
+	}
+	1308.1.1 = {
+		holder = 93157
+	}
+	1330.1.1 = {
+		holder = 93158
+	}
+	1332.1.1 = {
+		liege = 0
+		holder = 93159
+	}
+}
+
+c_ghazna = {
+	867.1.1 = {	change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 34 }
+
+	680.1.1 = {
+		liege = d_sistan
+		holder = 188701 # Zunbil founder
+	}
+	687.1.1 = {
+		holder = 188702
+	}
+	725.1.1 = {
+		holder = 188703
+	}
+	738.1.1 = {
+		holder = 188628
+	}
+	770.1.1 = {
+		holder = 188705
+	}
+	780.1.1 = {
+		holder = 188707
+	}
+	815.1.1 = {
+		holder = 188708
+	}
+	850.1.1 = {
+		holder = 188711 # Kabak Zunbil
+	}
+
+	866.1.1 = {
+		liege = d_kabul
+		holder = extra_afghanis_1 #Abu Mansur Aflah, actually held the town of Gardiz, but since he's a rare historically attested vassal in this region, I upgraded him to a count
+	}
+
+	936.1.1 = { #A bit early, but for lack of a better candidate
+		liege = 0
+		holder = 1231301
+	}
+
+	961.1.1 = {
+		holder = 170303 #Took Ghazna from Lawiks
+	}
+	975.1.1 = {
+		holder = 170304
+	}
+	977.1.1 = {
+		holder = 144123
+	}
+	997.8.1 = {
+		holder = 144124
+	}
+	998.1.1 = {
+		holder = 144125
+	}
+	1030.1.1 = {
+		holder = 144126
+	}
+	1031.1.1 = {
+		holder = 144127
+	}
+	1041.1.1 = {
+		holder = 144128
+	}
+	1050.1.1 = {
+		holder = 144129
+	}
+	1050.6.1 = {
+		holder = 144130
+	}
+	1050.9.1 = {
+		holder = 144131
+	}
+	1053.1.1 = {
+		holder = 144132
+	}
+	1059.1.1 = {
+		holder = 144133
+	}
+	1099.1.1 = {
+		holder = 144134
+	}
+	1115.1.1 = {
+		holder = 144135
+	}
+	1115.6.1 = {
+		holder = 144136
+	}
+	1118.1.1 = {
+		holder = 144137
+	}
+	1152.1.1 = {
+		holder = 144138
+	}
+	1160.1.1 = {
+		holder = 144139
+	}
+	1173.1.1 = {
+		holder = 144142
+	}
+	1206.3.15 = {
+		holder = 170302
+	}
+	1216.2.15 = {
+		holder = 93052
+		liege = k_persia
+	}
+	1220.1.1 = {
+		holder = 194302
+	}
+}
+
+c_zamindawar = {
+	867.1.1 = {	change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+	1178.1.1 = { change_development_level = 8 }
+
+	680.1.1 = {
+		liege = d_sistan
+		holder = 188701 # Zunbil founder
+	}
+	687.1.1 = {
+		holder = 188702
+	}
+	725.1.1 = {
+		holder = 188703
+	}
+	738.1.1 = {
+		holder = 188628
+	}
+	770.1.1 = {
+		holder = 188705
+	}
+	780.1.1 = {
+		holder = 188707
+	}
+	815.1.1 = {
+		holder = 188708
+	}
+	850.1.1 = {
+		holder = 188711 # Kabak Zunbil
+	}
+	865.1.1 = {
+		holder = 188712 # Firuz Zunbil
+	}
+
+	870.1.1 = {
+		liege = k_makran #taken by Ya'qub Saffarid
+		holder = extra_afghanis_6
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+
+	936.1.1 = { #?
+		holder = 1235960 # Tahir Tamimi, governor of Bust under Ahmad
+	}
+
+	961.1.1 = {
+		holder = 170303 #Took Ghazna from Lawiks
+	}
+	975.1.1 = {
+		holder = 170304
+	}
+	977.1.1 = {
+		holder = 144123
+	}
+	997.8.1 = {
+		holder = 144124
+	}
+	998.1.1 = {
+		holder = 144125
+	}
+	1030.1.1 = {
+		holder = 144126
+	}
+	1031.1.1 = {
+		holder = 144127
+	}
+	1041.1.1 = {
+		holder = 144128
+	}
+	1050.1.1 = {
+		holder = 144129
+	}
+	1050.6.1 = {
+		holder = 144130
+	}
+	1050.9.1 = {
+		holder = 144131
+	}
+	1053.1.1 = {
+		holder = 144132
+	}
+	1059.1.1 = {
+		holder = 144133
+	}
+	1066.1.1 = {
+		liege = k_kabulistan
+		holder = 20690
+	}
+	1099.1.1 = {
+		holder = 144134
+	}
+	1115.1.1 = {
+		holder = 144135
+	}
+	1115.6.1 = {
+		holder = 144136
+	}
+	1118.1.1 = {
+		holder = 144137
+	}
+	1152.1.1 = {
+		holder = 144138
+	}
+	1160.1.1 = {
+		holder = 144139
+	}
+	1173.1.1 = {
+		holder = 144142
+	}
+	1175.1.1 = {
+		holder = timrani_1 # Real person, placeholder in the absence of historical title holders
+		liege = d_kabul
+	}
+	1206.3.15 = {
+		holder = 170302
+	}
+	1216.2.15 = {
+		holder = 93052
+		liege = k_persia
+	}
+	1220.1.1 = {
+		holder = 194302
+	}
+}
+
+c_rukhaj = {
+	680.1.1 = {
+		liege = d_sistan
+		holder = 188701 # Zunbil founder
+	}
+	687.1.1 = {
+		holder = 188702
+	}
+	725.1.1 = {
+		holder = 188703
+	}
+	738.1.1 = {
+		holder = 188628
+	}
+	770.1.1 = {
+		holder = 188705
+	}
+	780.1.1 = {
+		holder = 188707
+	}
+	815.1.1 = {
+		holder = 188708
+	}
+	850.1.1 = {
+		holder = 188711 # Kabak Zunbil
+	}
+	865.1.1 = {
+		holder = 188712 # Firuz Zunbil
+	}
+
+	870.1.1 = {
+		liege = k_makran #taken by Ya'qub Saffarid
+		holder = extra_afghanis_6
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+
+	936.1.1 = { #?
+		holder = 1235960 # Tahir Tamimi, governor of Bust under Ahmad
+	}
+
+	961.1.1 = {
+		holder = 170303 #Took Ghazna from Lawiks
+	}
+	975.1.1 = {
+		holder = 170304
+	}
+	977.1.1 = {
+		holder = 144123
+	}
+	997.8.1 = {
+		holder = 144124
+	}
+	998.1.1 = {
+		holder = 144125
+	}
+	1030.1.1 = {
+		holder = 144126
+	}
+	1031.1.1 = {
+		holder = 144127
+	}
+	1041.1.1 = {
+		holder = 144128
+	}
+	1050.1.1 = {
+		holder = 144129
+	}
+	1050.6.1 = {
+		holder = 144130
+	}
+	1050.9.1 = {
+		holder = 144131
+	}
+	1053.1.1 = {
+		holder = 144132
+	}
+	1059.1.1 = {
+		holder = 144133
+	}
+	1066.1.1 = {
+		holder = 20690
+	}
+	1099.1.1 = {
+		holder = 144134
+	}
+	1115.1.1 = {
+		holder = 144135
+	}
+	1115.6.1 = {
+		holder = 144136
+	}
+	1118.1.1 = {
+		holder = 144137
+	}
+	1152.1.1 = {
+		holder = 144138
+	}
+	1160.1.1 = {
+		holder = 144139
+	}
+	1173.1.1 = {
+		holder = 144142
+	}
+	1175.1.1 = {
+		holder = timrani_1 # Real person, placeholder in the absence of historical title holders
+		liege = d_kabul
+	}
+	1206.3.15 = {
+		holder = 170302
+	}
+	1216.2.15 = {
+		holder = 93052
+		liege = k_persia
+	}
+	1220.1.1 = {
+		holder = 194302
+	}
+}
+
+c_zabulistan = {
+	680.1.1 = {
+		liege = d_zabulistan
+		holder = 188701 # Zunbil founder
+	}
+	687.1.1 = {
+		holder = 188702
+	}
+	725.1.1 = {
+		holder = 188703
+	}
+	738.1.1 = {
+		holder = 188628
+	}
+	770.1.1 = {
+		holder = 188705
+	}
+	780.1.1 = {
+		holder = 188707
+	}
+	815.1.1 = {
+		holder = 188708
+	}
+	850.1.1 = {
+		holder = 188711 # Kabak Zunbil
+	}
+	865.1.1 = {
+		holder = 188712 # Firuz Zunbil
+	}
+
+	870.1.1 = {
+		liege = d_kabul
+		holder = extra_afghanis_1 #Abu Mansur Aflah, actually held the town of Gardiz, but since he's a rare historically attested vassal in this region, I upgraded him to a count
+	}
+
+	936.1.1 = { #A bit early, but for lack of a better candidate
+		liege = 0
+		holder = 1231301
+	}
+
+	977.1.1 = {
+		holder = 144123 # Sabuktigin Ghaznavid
+	}
+	997.8.1 = {
+		holder = 144124 # Ismail
+	}
+	998.1.1 = {
+		holder = 144125 # Mahmud
+	}
+	1030.1.1 = {
+		holder = 144126 # Muhammad
+	}
+	1031.1.1 = {
+		holder = 144127 # Musud
+	}
+	1041.1.1 = {
+		holder = 144128 # Mawdud
+	}
+	1050.1.1 = {
+		holder = 144129 # Masud
+	}
+	1050.6.1 = {
+		holder = 144130 # Ali
+	}
+	1050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	1053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	1059.1.1 = {
+		holder = extra_ghaznavids_6 #Majdud, not attested, but seems resonable
+		liege = k_kabulistan
+	}
+	1099.1.1 = {
+		holder = 144134 # Masud II
+	}
+	1115.1.1 = {
+		holder = 144135 # Shirzad
+	}
+	1115.6.1 = {
+		holder = 144136 # Arlsan Shah
+	}
+	1118.1.1 = {
+		liege = k_persia # Seljuk vassalage
+		holder = 144137 # Bahram Shah
+	}
+	1152.1.1 = {
+		holder = 144138 # Khusraw Shah
+	}
+	1157.5.8 = {
+		liege = 0 # end of the Seljuk Turks
+	}
+	1160.1.1 = {
+		holder = 144139 # Khusraw Malik
+	}
+	1170.1.1 = {
+		liege = 0
+		holder = 144141 # Ghiyath Ghurid
+	}
+	1173.1.1 = {
+		holder = 144142 # Mu'izz Ghurid
+	}
+	1175.1.1 = {
+		holder = timrani_1 # Real person, placeholder in the absence of historical title holders
+		liege = d_kabul
+	}
+	1186.1.1 = {
+		liege = k_sindh
+	}
+	1203.1.1 = {
+		holder = 144142
+		liege = e_rajastan
+	}
+	1206.3.15 = {
+		holder = 144143
+		liege = 0
+	}
+	#Khwazerim
+	#Kartids
+	1212.1.1 = {
+		liege = "k_persia"
+		holder = 93153
+	}
+
+
+	1221.1.1 = {
+		liege = e_mongol_empire
+	}
+	1227.12.2 = {
+		liege = "e_ilkhanate"
+	}
+	1245.1.1 = {
+		holder = 93154
+
+	}
+	1277.1.1 = {
+		holder = 93155
+	}
+	1295.1.1 = {
+		holder = 93156
+	}
+	1308.1.1 = {
+		holder = 93157
+	}
+	1330.1.1 = {
+		holder = 93158
+	}
+	1332.1.1 = {
+		liege = 0
+		holder = 93159
+	}
+}
