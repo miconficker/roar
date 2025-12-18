@@ -22,7 +22,7 @@ EEE_mieclaw_of_mazovia = {
 # Legendary characters and placeholders
 EEE_lechowicz_1 = {
 	# one of legendary sons of Krak I ; murdered by his brother
-	name = "Krak"
+	name = Krak
 	dynasty = 9124
 	religion = slavic_pagan
 	culture = polish
@@ -39,7 +39,6 @@ EEE_lechowicz_1 = {
 }
 
 EEE_Mazowszan_progenitor = {
-	name = "MaL_ogost"
 	dynasty = 2001006	# Mazowszanie
 	religion = slavic_pagan
 	culture = polish
@@ -51,7 +50,7 @@ EEE_Mazowszan_progenitor = {
 	}
 }
 EEE_Mazowszan_bridge = {
-	name = "MasL_aw"
+	name = MasL_aw
 	dynasty = 2001006	# Mazowszanie
 	religion = slavic_pagan
 	culture = polish
@@ -65,7 +64,7 @@ EEE_Mazowszan_bridge = {
 }
 
 EEE_chelmno_placeholder = {
-	name = "MS_cigniew"
+	name = MS_cigniew
 	religion = slavic_pagan
 	culture = polish
 
