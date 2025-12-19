@@ -23977,12 +23977,12 @@ e_russia = {	#Kievan Rus
 			c_vodi = {
 				color = { 112 220 112 }
 
-				b_koporye = {
-					province = 168
-					color = { 112 220 112 }
-				}
 				b_yama = {
 					province = 167
+					color = { 112 220 112 }
+				}
+				b_koporye = {
+					province = 168
 					color = { 112 220 112 }
 				}
 			}
