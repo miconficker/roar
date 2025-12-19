@@ -27349,19 +27349,19 @@ e_volga-ural = {
 					# old b_usman
 					province = 5352
 
-					color = { 26 52 24 }
+					color = { 14 52 32 }
 				}
 				b_morsha = {
 					# old b_lipetsk
 					province = 5351
 
-					color = { 26 52 24 }
+					color = { 14 52 32 }
 				}
 				b_sjava = {
 					# old b_tuluchezeva
 					province = 5374
 
-					color = { 26 52 24 }
+					color = { 14 52 32 }
 				}
 			}
 		}
@@ -27438,7 +27438,7 @@ e_volga-ural = {
 				b_yulovo = {
 					province = 5367
 
-					color = { 50 40 76 }
+					color = { 75 36 57 }
 
 					cultural_names = {
 						name_list_bolghar = cn_burtas
@@ -27457,12 +27457,12 @@ e_volga-ural = {
 				b_barysh = {
 					province = 5366
 
-					color = { 50 40 76 }
+					color = { 75 36 57 }
 				}
 				b_inza = {
 					province = 5368
 
-					color = { 50 40 76 }
+					color = { 75 36 57 }
 
 					cultural_names = {
 						name_list_mordvin = cn_insaravar
@@ -27498,12 +27498,12 @@ e_volga-ural = {
 					}
 				}
 				b_penza = {
-					province = 17018
+					province = 17170
 
 					color = { 35 78 60 }
 				}
 				b_shemysheyka = {
-					province = 17170
+					province = 17018
 
 					color = { 35 78 60 }
 				}

@@ -1,16 +1,5 @@
 # k_mordvinia
 ## d_mordvinia ###################################
-### c_lachyk-uba
-5359 = {	#Lachyk-Uba
-	# Can be found on maps of Khazaria
-	culture = mordvin
-	religion = erzya_pagan
-	holding = tribal_holding
-}
-5360 = {	#Sergach
-	holding = none
-}
-
 ### c_sarov
 5362 = {	#Sarov
 	culture = mordvin
@@ -21,6 +10,17 @@
 	holding = none
 }
 16276 = {	#Dalneye Konstantinovo
+	holding = none
+}
+
+### c_lachyk-uba
+5359 = {	#Lachyk-Uba
+	# Can be found on maps of Khazaria
+	culture = mordvin
+	religion = erzya_pagan
+	holding = tribal_holding
+}
+5360 = {	#Sergach
 	holding = none
 }
 
@@ -110,11 +110,11 @@
 	}
 }
 5369 = {	#Hanbalik
-	#Present on some old maps from the XIVth
+	# Present on some old maps from the XIVth
 	holding = none
-	#holding = city_holding
 }
-5370 = {	#Uza	#fictional, based on river of the same name
+5370 = {	#Uza
+	# fictional, based on river of the same name
 	holding = none
 }
 
@@ -143,7 +143,7 @@
 }
 
 ### c_serdosk
-5384 = {	#Serdosk	AKA Serdobsk
+5384 = {	#Serdosk AKA Serdobsk
 	culture = chuvash
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -154,10 +154,10 @@
 		religion = ashari
 	}
 }
-17018 = {	#Penza
+17018 = {	#Shemysheyka
 	holding = none
 }
-17170 = {	#Shemysheyka
+17170 = {	#Penza
 	holding = none
 }
 
@@ -173,10 +173,12 @@
 		religion = tengri_pagan
 	}
 }
-5508 = {	#Peschanka	#fictional, based on river of the same name
+5508 = {	#Peschanka
+	# fictional, based on river of the same name
 	holding = none
 }
-5410 = {	#Tersa	#fictional, based on river of the same name
+5410 = {	#Tersa
+	# fictional, based on river of the same name
 	holding = none
 }
 
@@ -193,18 +195,19 @@
 	}
 }
 5391 = {	#Treliaka
-	#Can be found in atlas of Russian Empire from the XIXth century, in the province of Saratov
+	# Can be found in atlas of Russian Empire from the XIXth century, in the province of Saratov
 	holding = none
 }
 5392 = {	#Alchanka
-	#Can be found in atlas of Russian Empire from the XIXth century, in the province of Saratov
+	# Can be found in atlas of Russian Empire from the XIXth century, in the province of Saratov
 	holding = none
 }
 
 
 ## d_khopyor  ###################################
 ### c_khopyor
-593 = {		#Khopyor	#based on river of the same name
+593 = {		#Khopyor
+	# based on river of the same name
 	culture = alanobolghar
 	religion = tengri_pagan
 	holding = tribal_holding
@@ -216,10 +219,11 @@
 	}
 }
 5380 = {	#Bychok
-	#Can be found in atlas of Russian Empire from the XIXth century, in the province of Saratov
+	# Can be found in atlas of Russian Empire from the XIXth century, in the province of Saratov
 	holding = none
 }
-5381 = {	#Kriucha	#fictional, based on river of the same name
+5381 = {	#Kriucha
+	# fictional, based on river of the same name
 	holding = none
 }
 
@@ -250,7 +254,7 @@
 }
 
 ### c_balachev
-5377 = {	#Balachev	AKA Balachov
+5377 = {	#Balachev AKA Balachov
 	culture = chuvash
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -276,7 +280,7 @@
 
 ### c_durovka
 5388 = {	#Durovka
-	#small town, mostly placeholder
+	# small town, mostly placeholder
 	culture = chuvash
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -293,10 +297,11 @@
 		holding = nomad_holding
 	}
 }
-5389 = {	#Kolychev	#fictional, based on river of the same name
+5389 = {	#Kolychev
+	# fictional, based on river of the same name
 	holding = none
 }
 5498 = {	#Repnoye
-	#small town, mostly placeholder
+	# small town, mostly placeholder
 	holding = none
 }
