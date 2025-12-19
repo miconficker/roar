@@ -1,0 +1,135 @@
+﻿#Darada
+darada_king_1 = {
+	name = "Acalamangala"
+	dynasty = kashmiri_darada_dynasty
+	religion = "vajrayana"
+	culture = "nuristani"
+	1000.1.1 = {
+		birth = yes
+	}
+	1060.1.1 = {
+		death = yes
+	}
+}
+
+darada_king_2 = {
+	name = "Vidhyadhara"
+	dynasty = kashmiri_darada_dynasty
+	religion = "vajrayana"
+	culture = "nuristani"
+	father = darada_king_1
+	1030.1.1 = {
+		birth = yes
+	}
+	1110.1.1 = {
+		death = yes
+	}
+}
+
+roa_chitral_nuristani_01 = {
+	name = "Dipak"
+	religion = nuristani_pagan
+	culture = nuristani
+	845.1.1 = {
+		birth = yes
+	}
+	892.1.1 = {
+		death = yes
+	}
+}
+
+roa_nuristani05 = {
+	name = "Kshemendra"
+	religion = nuristani_pagan
+	culture = nuristani
+	831.1.1 = {
+		birth = yes
+	}
+	878.1.1 = {
+		death = yes
+	}
+}
+
+roa_nuristani06 = {
+	name = "Trilokinath"
+	religion = nuristani_pagan
+	culture = nuristani
+	905.1.1 = {
+		birth = yes
+	}
+	959.1.1 = {
+		death = yes
+	}
+}
+
+roa_nuristani07 = {
+	name = "Tejbahadur"
+	religion = nuristani_pagan
+	culture = nuristani
+	1030.1.1 = {
+		birth = yes
+	}
+	1084.1.1 = {
+		death = yes
+	}
+}
+
+roa_nuristani08 = {
+	name = "Giridhari"
+	religion = nuristani_pagan
+	culture = nuristani
+	1143.1.1 = {
+		birth = yes
+	}
+	1195.1.1 = {
+		death = yes
+	}
+}
+
+roa_nuristani09 = {
+	name = "Gulhana"
+	religion = nuristani_pagan
+	culture = nuristani
+	828.1.1 = {
+		birth = yes
+	}
+	875.1.1 = {
+		death = yes
+	}
+}
+
+roa_nuristani10 = {
+	name = "Somnath"
+	religion = nuristani_pagan
+	culture = nuristani
+	896.1.1 = {
+		birth = yes
+	}
+	952.1.1 = {
+		death = yes
+	}
+}
+
+roa_nuristani11 = {
+	name = "Kanaka"
+	religion = nuristani_pagan
+	culture = nuristani
+	1039.1.1 = {
+		birth = yes
+	}
+	1072.1.1 = {
+		death = yes
+	}
+}
+
+roa_nuristani12 = {
+	name = "Tribhuvanagupta"
+	religion = nuristani_pagan
+	culture = nuristani
+	1151.1.1 = {
+		birth = yes
+	}
+	1208.1.1 = {
+		death = yes
+	}
+}

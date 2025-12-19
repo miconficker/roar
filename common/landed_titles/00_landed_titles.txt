@@ -6,6 +6,64 @@
 # EMPIRES
 
 # special titles
+
+# If adding another hegemon title, you need to also update e.g. NeighboringHegemonTitle/DefinitiveName custom loc, save_tribute_mission_target_scope_effect, small/adequate/excessive_gold_tribute_value, etc to support Hegemonic Tributaries
+
+h_roman_empire = {
+	color = { 167 10 0 }
+
+	capital = c_roma # Rome
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+}
+
+h_eastern_roman_empire = {
+	color = { 150 35 165 }
+
+	capital = c_byzantion # Constantinople
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+}
+
+h_dar_al_islam = {
+	color = { 20 160 30 }
+	definite_form = yes
+	#ruler_uses_title_name = no
+	no_automatic_claims = yes
+	always_follows_primary_heir = yes
+	destroy_if_invalid_heir = yes
+	can_be_named_after_dynasty = no
+	can_use_nomadic_naming = no
+	
+	capital = c_mecca
+
+	can_create = {
+		has_global_variable = created_dar_al_islam
+	}
+	can_destroy = {
+	}
+}
+
+h_india = {		# Titular, created by special decision only if entire India is united
+	color = { 255 110 0 }
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+}
+
 k_papal_state = {
 	color = { 255 249 198 }
 	definite_form = yes
@@ -202,25 +260,6 @@ k_mediterranean_sea = { # FP2
 	color = { 180 0 0 }
 
 	capital = c_cagliari
-}
-
-h_dar_al_islam = {
-	color = { 20 160 30 }
-	definite_form = yes
-	#ruler_uses_title_name = no
-	no_automatic_claims = yes
-	always_follows_primary_heir = yes
-	destroy_if_invalid_heir = yes
-	can_be_named_after_dynasty = no
-	can_use_nomadic_naming = no
-
-	capital = c_mecca
-
-	can_create = {
-		has_global_variable = created_dar_al_islam
-	}
-	can_destroy = {
-	}
 }
 
 d_sunni = {
@@ -594,6 +633,17 @@ e_kara_khitai = { #aka Western Liao / Great Liao
 	}
 }
 
+e_jin = { #aka Great Jin / Jin dynasty
+	#It's the Jurchens
+	color = { 210 175 50 }
+	can_use_nomadic_naming = no
+
+	capital = c_LIAO_linhuang
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+}
 
 e_timurids = {
 	color = { 120 20 20 }
@@ -1095,6 +1145,21 @@ e_majapahit = {
 	color = { 250 234 15 }
 
 	capital = c_JAV_janggala # Janggala
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+}
+
+e_ruucuu = {
+	color = { 131 150 136 }
+
+	cultural_names = {
+		name_list_yamato = cn_ryukyu
+		name_list_emishi = cn_ryukyu
+	}
+
+	capital = c_ucinaa
 
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
@@ -7893,30 +7958,6 @@ e_germany = {
 	}
 }
 
-h_roman_empire = {
-	color = { 167 10 0 }
-
-	capital = c_roma # Rome
-	definite_form = yes
-	can_be_named_after_dynasty = no
-
-	can_create = {
-		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
-	}
-}
-
-h_eastern_roman_empire = {
-	color = { 150 35 165 }
-
-	capital = c_byzantion # Constantinople
-	definite_form = yes
-	can_be_named_after_dynasty = no
-
-	can_create = {
-		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
-	}
-}
-
 e_illyria = {
 	color = { 180 35 0 }
 
@@ -7933,6 +7974,24 @@ e_anatolia = {
 	color = { 180 60 40 }
 
 	capital = c_nikaea
+}
+
+e_oriens = {
+	color = { 140 120 75 }
+
+	capital = c_antiocheia
+}
+
+e_aegyptus = {
+	color = { 20 240 80 }
+
+	capital = c_alexandria
+}
+
+e_africa = {
+	color = { 65 100 170 }
+
+	capital = c_tunis
 }
 
 e_byzantium = {
@@ -13366,6 +13425,12 @@ e_byzantium = {
 		}
 	}
 
+	#k_armenia = {	# moved to sea_caucasus_landed_titles
+	#}
+
+	#k_georgia = {	# moved to sea_caucasus_landed_titles
+	#}
+
 	k_sicily = {
 		color = { 180 160 80 }
 
@@ -13872,6 +13937,12 @@ e_byzantium = {
 			}
 		}
 	}
+
+	#k_armenian_principality = {	# moved to sea_caucasus_landed_titles
+	#}
+
+	#k_old_armenia = {	# moved to sea_caucasus_landed_titles
+	#}
 }
 
 e_italy = {
@@ -24872,19 +24943,21 @@ e_russia = {	#Kievan Rus
 					color = { 10 150 10 }
 				}
 			}
-			c_16280 = {
-				b_16280 = {
-					province = 16280
-				}
+			c_sudogda = {
+				color = { 50 100 50 }
+
 				b_sudogda = {
 					province = 5237
 
-					color = { 67 174 67 }
+					color = { 50 100 50 }
+				}
+				b_sobinka = {
+					province = 16280
+
+					color = { 50 100 50 }
 				}
 			}
-
 		}
-
 		d_ryazan = {
 			color = { 75 110 41 }
 
@@ -24907,7 +24980,6 @@ e_russia = {	#Kievan Rus
 					color = { 60 95 25 }
 				}
 			}
-
 			c_ryazan = {
 				color = { 60 95 25 }
 
@@ -24927,38 +24999,40 @@ e_russia = {	#Kievan Rus
 					color = { 60 95 25 }
 				}
 			}
-			c_15258 = {
-				b_15258 = {
-					province = 15258
-				}
+			c_pronsk = {
+				color = { 26 150 24 }
+
 				b_pronsk = {
 					province = 577
 
-					color = { 101 110 45 }
+					color = { 26 150 24 }
+				}
+				b_dankov = {
+					province = 15258
+
+					color = { 26 150 24 }
 				}
 			}
-			c_15493 = {
-				b_15493 = {
-					province = 15493
-				}
+			c_meshchera = {
+				color = { 100 150 80 }
+
 				b_gorodets-meshchyorsky = {
 					province = 5233
 
-					color = { 100 130 50 }
+					color = { 100 150 80 }
+				}
+				b_erakhtur = {
+					province = 15493
+
+					color = { 100 150 80 }
 				}
 			}
 		}
-		d_16541 = {
-			c_16541 = {
-				b_16541 = {
-					province = 16541
-				}
-				b_starodub-on-the-klyazma = {
-					province = 583
+		d_murom = {
+			color = { 60 190 0 }
 
-					color = { 67 174 67 }
-				}
-			}
+			capital = c_murom
+
 			c_murom = {
 				color = { 100 130 50 }
 
@@ -24975,7 +25049,25 @@ e_russia = {	#Kievan Rus
 				b_vacha = {
 					province = 16294
 
+					cultural_names = {
+						name_list_russian = cn_starodub-votsky
+					}
+
 					color = { 100 130 50 }
+				}
+			}
+			c_yaropolk = {
+				color = { 30 146 0 }
+
+				b_yaropolk_zalessky = {
+					province = 16541
+
+					color = { 30 146 0 }
+				}
+				b_starodub-on-the-klyazma = {
+					province = 583
+
+					color = { 30 146 0 }
 				}
 			}
 		}
@@ -25061,19 +25153,27 @@ e_russia = {	#Kievan Rus
 					color = { 10 105 60 }
 				}
 			}
-			c_16638 = {
-				b_16638 = {
+			c_vasylovo = {
+				color = { 1 95 35 }
+
+				b_vasylovo = {
 					province = 16638
+
+					color = { 1 95 35 }
 				}
 				b_kineshma = {
 					province = 5246
 
-					color = { 6 145 75 }
+					color = { 1 95 35 }
 				}
 			}
-			c_17203 = {
-				b_17203 = {
+			c_unzha = {
+				color = { 10 105 60 }
+
+				b_unzha = {
 					province = 17203
+
+					color = { 10 105 60 }
 				}
 				b_manturovo = {
 					province = 5250
@@ -25349,11 +25449,21 @@ e_caspian-pontic_steppe = {
 					color = { 130 70 0 }
 				}
 			}
-			c_15727 = {
+			c_kharka = {
+				color = { 180 180 90 }
+
+				cultural_names = {
+					name_list_russian = cn_donets
+				}
+
 				b_kharka = {
 					province = 565
 
 					color = { 180 180 90 }
+
+					cultural_names = {
+						name_list_russian = cn_donets
+					}
 				}
 				b_bohodukhiv = {
 					province = 5283
@@ -25361,17 +25471,23 @@ e_caspian-pontic_steppe = {
 					color = { 180 180 90 }
 				}
 			}
-			c_15959 = {
-				b_15959 = {
-					province = 15959
-				}
-				b_15727 = {
+			c_sharukan = {
+				color = { 190 160 50 }
+
+				b_sharukan = {
 					province = 15727
+
+					color = { 190 160 50 }
 				}
 				b_volcha = {
 					province = 5323
 
-					color = { 150 100 20 }
+					color = { 190 160 50 }
+				}
+				b_valuiki = {
+					province = 15959
+
+					color = { 190 160 50 }
 				}
 			}
 		}
@@ -64197,6 +64313,67 @@ e_rajastan = {
 					color = { 240 120 35 }
 				}
 			}
+			c_sharda = {
+				color = { 202 179 43 }
+
+				b_sharda = {
+					province = 17776
+
+					color = { 202 179 43 }
+				}
+				b_minimarg = {
+					province = 9025
+
+					color = { 202 179 43 }
+				}
+			}
+			c_poonch = {
+				color = { 220 132 10 }
+
+				b_loharkot = {
+					province = 17484
+
+					color = { 220 132 10 }
+				}
+				b_rawalakot = {
+					province = 17536
+
+					color = { 220 132 10 }
+				}
+			}
+			c_awantipora = {
+				color = { 242 123 78 }
+
+				b_awantipora = {
+					province = 17529
+
+					color = { 242 123 78 }
+				}
+				b_anantnang = {
+					province = 17540
+
+					color = { 242 123 78 }
+				}
+			}
+			c_kishtwar = {
+				color = { 240 121 50 }
+
+				b_kishtwar = {
+					province = 17286
+
+					color = { 240 121 50 }
+				}
+				b_doda = {
+					province = 17452
+
+					color = { 240 121 50 }
+				}
+				b_marwah = {
+					province = 17563
+
+					color = { 240 121 50 }
+				}
+			}
 			c_astore = {
 				color = { 195 120 5 }
 
@@ -64211,79 +64388,32 @@ e_rajastan = {
 					color = { 195 120 5 }
 				}
 			}
-			c_17540 = {
-				b_17540 = {
-					province = 17540
-				}
-				b_17529 = {
-					province = 17529
-				}
-			}
-			c_17484 = {
-				b_17484 = {
-					province = 17484
-				}
-				b_17536 = {
-					province = 17536
-				}
-			}
-			c_17563 = {
-				b_17563 = {
-					province = 17563
-				}
-				b_17452 = {
-					province = 17452
-				}
-				b_17286 = {
-					province = 17286
-				}
-			}
-			c_17776 = {
-				b_17776 = {
-					province = 17776
-				}
-				b_minimarg = {
-					province = 9025
-
-					color = { 195 120 5 }
-				}
-			}
 		}
-
-		d_pamir = {
+		d_gilgit = {
+			# old d_pamir
 			color = { 250 60 20 }
 
 			capital = c_gilgit
 
 			c_gilgit = {
-				color = { 250 60 20 }
+				color = { 230 70 50 }
 
 				b_gilgit = {
 					province = 1351
 
-					color = { 250 60 20 }
+					color = { 230 70 50 }
+				}
+				b_danyore = {
+					province = 18270
+
+					color = { 230 70 50 }
 				}
 				b_naltar = {
 					province = 7955
 
-					color = { 210 40 35 }
-				}
-				b_18270 = {
-					province = 18270
+					color = { 230 70 50 }
 				}
 			}
-
-			c_15050 = {
-				b_15050 = {
-					province = 15050
-				}
-				b_baltit = {
-					province = 7956
-
-					color = { 250 60 20 }
-				}
-			}
-
 			c_yasin = {
 				color = { 210 40 35 }
 
@@ -64295,10 +64425,26 @@ e_rajastan = {
 				b_kalam_TARIM = {
 					province = 7951
 
-					color = { 230 40 20 }
+					color = { 210 40 35 }
 				}
-				b_15048 = {
+				b_ghizer = {
 					province = 15048
+
+					color = { 210 40 35 }
+				}
+			}
+			c_hunza = {
+				color = { 250 60 20 }
+
+				b_baltit = {
+					province = 7956
+
+					color = { 250 60 20 }
+				}
+				b_nagar = {
+					province = 15050
+
+					color = { 250 60 20 }
 				}
 			}
 		}
@@ -65084,8 +65230,10 @@ e_bengal = {
 
 					color = { 35 200 100 }
 				}
-				b_16414 = {
+				b_kohima = {
 					province = 16414
+
+					color = { 35 200 100 }
 				}
 			}
 		}

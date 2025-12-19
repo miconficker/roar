@@ -1,0 +1,156 @@
+﻿# k_kashmir
+## d_kasmira
+### c_kasmira
+1161 = {	# Srinagara
+	# Misc
+	culture = kashmiri
+	religion = shaivism
+
+	holding = castle_holding
+
+	# History
+	900.1.1 = {
+		religion = trika_shaivism
+	}
+}
+3446 = {	# Parihasapura
+	holding = city_holding
+}
+3445 = {	# Amaresvara
+	holding = church_holding
+}
+
+### c_sharda
+17776 = {	# Sharda
+	# Misc
+	culture = kashmiri
+	religion = trika_shaivism
+
+	holding = castle_holding
+
+	special_building_slot = sharada_peeth_01
+	special_building = sharada_peeth_01
+
+	# History
+}
+9025 = {	# Minimarg
+	holding = church_holding
+}
+
+### c_poonch
+17484 = {	# Loharkot
+	# Misc
+	culture = kashmiri
+	religion = shaivism
+
+	holding = castle_holding
+
+	# History
+	900.1.1 = {
+		religion = trika_shaivism
+	}
+}
+17536 = {	# Rawalakot
+	holding = none
+}
+
+### c_awantipora
+17529 = {	# Awantipora
+	# Misc
+	culture = kashmiri
+	religion = shaivism
+
+	holding = castle_holding
+
+	# History
+	900.1.1 = {
+		religion = trika_shaivism
+	}
+}
+17540 = {	# Anantnang
+	holding = none
+}
+
+### c_kishtwar
+17286 = {	# Kishtwar
+	# Misc
+	culture = kashmiri
+	religion = shaivism
+
+	holding = tribal_holding
+
+	# History
+	900.1.1 = {
+		religion = trika_shaivism
+	}
+}
+17452 = {	# Doda
+	holding = none
+}
+17563 = {	# Marwah
+	holding = none
+}
+
+### c_astore
+9024 = {	# Astore
+	# Misc
+	culture = nuristani
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+7950 = {	# Chilas
+	holding = none
+}
+
+
+## d_gilgit
+### c_gilgit
+1351 = {	# Gilgit
+	# Misc
+	culture = nuristani
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+18270 = {	# Danyore
+	holding = none
+}
+7955 = {	# Naltar
+	holding = none
+}
+
+### c_yasin
+7954 = {	# Yasin
+	# Misc
+	culture = burusho
+	religion = nuristani_pagan
+
+	holding = castle_holding
+
+	# History
+}
+7951 = {	# Mastuj
+	holding = none
+}
+15048 = {	# Ghizer
+	holding = none
+}
+
+### c_hunza
+7956 = {	# Baltit
+	# Misc
+	culture = burusho
+	religion = nuristani_pagan
+
+	holding = castle_holding
+
+	# History
+}
+15050 = {	# Nagar
+	holding = city_holding
+}
