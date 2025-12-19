@@ -91,20 +91,6 @@
 	holding = none
 }
 
-### c_astore
-9024 = {	# Astore
-	# Misc
-	culture = nuristani
-	religion = vajrayana
-
-	holding = castle_holding
-
-	# History
-}
-7950 = {	# Chilas
-	holding = none
-}
-
 
 ## d_gilgit
 ### c_gilgit
@@ -124,6 +110,20 @@
 	holding = none
 }
 
+### c_hunza
+7956 = {	# Baltit
+	# Misc
+	culture = burusho
+	religion = nuristani_pagan
+
+	holding = castle_holding
+
+	# History
+}
+15050 = {	# Nagar
+	holding = city_holding
+}
+
 ### c_yasin
 7954 = {	# Yasin
 	# Misc
@@ -141,16 +141,16 @@
 	holding = none
 }
 
-### c_hunza
-7956 = {	# Baltit
+### c_astore
+9024 = {	# Astore
 	# Misc
-	culture = burusho
-	religion = nuristani_pagan
+	culture = nuristani
+	religion = vajrayana
 
 	holding = castle_holding
 
 	# History
 }
-15050 = {	# Nagar
-	holding = city_holding
+7950 = {	# Chilas
+	holding = none
 }
