@@ -23447,8 +23447,10 @@ e_russia = {	#Kievan Rus
 
 					color = { 4 110 38 }
 				}
-				b_khobmyshl = {
+				b_khotmyshl = {
 					province = 16113
+
+					color = { 4 110 38 }
 				}
 			}
 			c_voin = {
@@ -23975,13 +23977,25 @@ e_russia = {	#Kievan Rus
 			c_vodi = {
 				color = { 112 220 112 }
 
+				b_koporye = {
+					province = 168
+					color = { 112 220 112 }
+				}
+				b_yama = {
+					province = 167
+					color = { 112 220 112 }
+				}
+			}
+			c_izhora = {
+				color = { 154 214 96 }
+
 				b_nyen = {
 					province = 169
-					color = { 113 0 0 }
+					color = { 154 214 96 }
 				}
 				b_noteborg = {
 					province = 170
-					color = { 113 0 0 }
+					color = { 154 214 96 }
 
 					cultural_names = {
 						name_list_swedish = cn_noteborg_SWENORSE
@@ -23994,14 +24008,6 @@ e_russia = {	#Kievan Rus
 						name_list_bavarian = cn_schlusselburg
 						name_list_russian = cn_oreshek
 					}
-				}
-				b_koporye = {
-					province = 168
-					color = { 113 0 0 }
-				}
-				b_yama = {
-					province = 167
-					color = { 113 0 0 }
 				}
 			}
 		}
