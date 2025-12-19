@@ -25027,7 +25027,7 @@ e_russia = {	#Kievan Rus
 			}
 		}
 		d_murom = {
-			color = { 120 160 70 }
+			color = { 60 190 0 }
 
 			capital = c_murom
 
