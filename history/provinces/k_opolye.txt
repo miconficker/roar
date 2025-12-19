@@ -1,0 +1,400 @@
+# k_opolye
+## d_opolye ###################################
+### c_yaroslavl
+572 = {		#Yaroslavl
+	culture = merya
+	religion = mari_pagan
+	holding = tribal_holding
+
+	# History
+	1010.1.1 = {
+		holding = castle_holding
+	}
+	1050.1.1 = {
+		culture = russian
+		religion = orthodox
+	}
+}
+574 = {		#Rostov
+	holding = tribal_holding
+
+	# History
+	989.1.1 = {
+		holding = castle_holding
+	}
+}
+571 = {		#Uglich
+	holding = none
+
+	# History
+	1150.1.1 = {
+		holding = city_holding
+	}
+}
+5176 = {	#Mologa
+	holding = none
+
+	# History
+	1100.1.1 = {
+		holding = church_holding
+	}
+}
+
+### c_vladimir
+582 = {		#Vladimir
+	culture = merya
+	religion = mari_pagan
+	holding = tribal_holding
+
+	# History
+	1108.1.1 = {
+		holding = castle_holding
+		religion = orthodox
+		culture = russian
+	}
+}
+5236 = {	#Volochok
+	holding = none
+}
+570 = {		#Dmitrov
+	holding = none
+
+	# History
+	1154.1.1 = {
+		holding = church_holding
+	}
+}
+
+### c_suzdal
+5239 = {	#Suzdal
+	culture = merya
+	religion = mari_pagan
+	holding = tribal_holding
+
+	# History
+	1024.1.1 = {
+		holding = castle_holding
+	}
+	1066.1.1 = {
+		buildings = {
+			curtain_walls_01
+			hunting_grounds_01
+			#military_camps_01
+		}
+	}
+	1150.1.1 = {
+		culture = russian
+		religion = orthodox
+	}
+}
+5240 = {	#Yuryev
+	holding = none
+
+	# History
+	1152.1.1 = {
+		holding = city_holding
+	}
+}
+573 = {		#Pereyaslavl Zalessky
+	holding = none
+
+	# History
+	1152.1.1 = {
+		holding = church_holding
+	}
+}
+5241 = {	#Ivanovo
+	holding = none
+}
+5242 = {	#Gavrilovskoye
+	holding = none
+}
+
+### c_tver
+5173 = {	#Tver
+	culture = merya
+	religion = mari_pagan
+	holding = tribal_holding
+
+	# History
+	1135.1.1 = {
+		culture = russian
+		religion = orthodox
+		holding = castle_holding
+	}
+}
+5174 = {	#Volok Lamsky
+	holding = none
+
+	# History
+	1050.1.1 = {
+		holding = church_holding
+	}
+}
+5243 = {	#Klin
+	holding = none
+}
+5175 = {	#Kashin
+	holding = none
+
+	# History
+	1238.1.1 = {
+		holding = city_holding
+	}
+}
+
+### c_moskva
+575 = {		#Moskva
+	culture = meshchera
+	religion = erzya_pagan
+	holding = tribal_holding
+
+	# History
+	1100.1.1 = {
+		culture = russian
+		religion = orthodox
+		holding = castle_holding
+	}
+}
+5238 = {	#Yegoryevsk
+	holding = none
+}
+5244 = {	#Naro-Fominsk
+	holding = none
+}
+5245 = {	#Serpukhov
+	holding = none
+}
+
+### c_sudogda
+5237 = {	#Sudogda
+	culture = meshchera
+	religion = erzya_pagan
+	holding = tribal_holding
+}
+16280 = {	#Sobinka
+	holding = none
+}
+
+
+## d_ryazan ###################################
+### c_ryazan
+580 = {		#Ryazan
+	culture = meshchera
+	religion = erzya_pagan
+	holding = tribal_holding
+
+	# History
+	1096.1.1 = {
+		culture = russian
+		religion = orthodox
+		holding = castle_holding
+	}
+}
+5228 = {	#Pereyaslavl Ryazanski
+	holding = none
+
+	# History
+	1086.1.1 = {
+		holding = city_holding
+	}
+	1237.1.1 = {
+		holding = castle_holding
+	}
+}
+5229 = {	#Rostislavl
+	holding = none
+
+	# History
+	1153.1.1 = {
+		holding = church_holding
+	}
+}
+
+### c_kolomna
+578 = {		#Kolomna
+	culture = meshchera
+	religion = erzya_pagan
+	holding = tribal_holding
+
+	# History
+	1140.1.1 = {
+		holding = castle_holding
+	}
+}
+5253 = {	#Vaskina Polyana
+	holding = none
+}
+5230 = {	#Klepiki
+	holding = none
+}
+
+### c_pronsk
+577 = {		#Pronsk
+	culture = meshchera
+	religion = erzya_pagan
+	holding = tribal_holding
+
+	# History
+	1129.1.1 = {
+		culture = russian
+		religion = orthodox
+		holding = castle_holding
+	}
+}
+15258 = {	#Dankov
+	holding = none
+}
+
+### c_meshchera
+5233 = {	#Gorodets-meshchyorsky
+	culture = meshchera
+	religion = erzya_pagan
+	holding = tribal_holding
+
+	# History
+	1152.1.1 = {
+		holding = castle_holding
+	}
+}
+15493 = {	#Erakhtur
+	holding = none
+}
+
+
+## d_murom ###################################
+### c_murom
+581 = {		#Murom
+	culture = muroma
+	religion = erzya_pagan
+	holding = tribal_holding
+
+	# History
+	988.1.1 = {
+		holding = castle_holding
+	}
+	1150.1.1 = {
+		culture = russian
+		religion = orthodox
+	}
+}
+5234 = {	#Vyksa
+	holding = none
+}
+16294 = {	#Vacha
+	holding = none
+}
+
+### c_yaropolk
+16541 = {	#Yaropolk Zalessky
+	culture = muroma
+	religion = erzya_pagan
+	holding = tribal_holding
+
+	# History
+	1135.1.1 = {
+		culture = russian
+		religion = orthodox
+		holding = castle_holding
+	}
+}
+583 = {		#Starodub-on-the-Klyazma
+	holding = none
+
+	# History
+	1150.1.1 = {
+		holding = city_holding
+	}
+}
+
+## d_nizhny_novgorod ###################################
+### c_nizhny_novgorod
+584 = {		#Nizhny Novgorod
+	culture = muroma
+	religion = erzya_pagan
+	holding = tribal_holding
+}
+5235 = {	#Pavlovo
+	holding = none
+}
+
+### c_gorodets
+585 = {		#Gorodets
+	culture = mari
+	religion = mari_pagan
+	holding = tribal_holding
+
+	# History
+	1152.1.1 = {
+		holding = castle_holding
+	}
+}
+5256 = {	#Makariev
+	holding = none
+}
+
+### c_plyos
+5247 = {	#Plyos
+	culture = merya
+	religion = mari_pagan
+	holding = tribal_holding
+
+	# History
+	1141.1.1 = {
+		holding = castle_holding
+	}
+}
+5248 = {	#Shuya
+	holding = none
+}
+5249 = {	#Sol Vilikaya
+	holding = none
+}
+
+### c_kostroma
+5251 = {	#Kostroma
+	culture = merya
+	religion = mari_pagan
+	holding = tribal_holding
+
+	# History
+	1152.1.1 = {
+		holding = castle_holding
+	}
+}
+586 = {		#Galich Mersky
+	holding = none
+
+	# History
+	1159.1.1 = {
+		holding = church_holding
+	}
+}
+5252 = {	#Chukhloma
+	holding = none
+}
+
+### c_vasylovo
+16638 = {	#Vasylovo
+	culture = merya
+	religion = mari_pagan
+	holding = tribal_holding
+
+	# History
+	1150.1.1 = {
+		holding = castle_holding
+	}
+}
+5246 = {	#Yuryevets
+	holding = none
+}
+
+### c_unzha
+17203 = {	#Unzha
+	culture = merya
+	religion = mari_pagan
+	holding = tribal_holding
+}
+5250 = {	#Manturovo
+	holding = none
+}

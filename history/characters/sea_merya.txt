@@ -1,0 +1,73 @@
+﻿plyos_867 = {
+	name = "Pakstyan"
+	religion = mari_pagan
+	culture = merya
+
+	842.1.1 = {
+		birth = yes
+	}
+	894.1.1 = {
+		death = yes
+	}
+}
+plyos_936 = {
+	name = "Matyo"
+	religion = mari_pagan
+	culture = merya
+
+	902.1.1 = {
+		birth = yes
+	}
+	956.1.1 = {
+		death = yes
+	}
+}
+plyos_1066 = {
+	name = "Mikhail"
+	religion = "orthodox"
+	culture = merya
+
+	1030.1.1 = {
+		birth = yes
+	}
+	1080.1.1 = {
+		death = yes
+	}
+}
+romanov_1066 = {
+	name = "Alexei"
+	religion = "orthodox"
+	culture = merya
+
+	1029.1.1 = {
+		birth = yes
+	}
+	1081.1.1 = {
+		death = yes
+	}
+}
+unzha_867 = {
+	name = "Nuyanza"
+	religion = mari_pagan
+	culture = merya
+
+	840.1.1 = {
+		birth = yes
+	}
+	909.1.1 = {
+		death = yes
+	}
+}
+unzha_936 = {
+	name = "Pivtsay"
+	religion = mari_pagan
+	culture = merya
+	father = unzha_867
+
+	890.1.1 = {
+		birth = yes
+	}
+	943.1.1 = {
+		death = yes
+	}
+}
