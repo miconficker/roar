@@ -67686,11 +67686,6 @@ e_deccan = {
 			c_kandy = { #Malaya Rata
 				color = { 150 135 100 }
 
-				b_malaya_rata = { #Samantakuta
-					province = 3288
-
-					color = { 150 135 100 }
-				}
 				b_senkadagalapura = {
 					province = 3278
 
@@ -67698,6 +67693,11 @@ e_deccan = {
 				}
 				b_matale = {
 					province = 3279
+
+					color = { 150 135 100 }
+				}
+				b_malaya_rata = { #Samantakuta
+					province = 3288
 
 					color = { 150 135 100 }
 				}
