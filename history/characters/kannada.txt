@@ -304,55 +304,7 @@
 		death = yes
 	}
 }
-rashtrakuta001 = {# Sankha
-	name = "Sankha"
-	female = yes
-	dynasty = 1043003 # Supposedly Ratta
-	religion = "digambara"
-	culture = "kannada"
-	father = 175030
-	mother = rashtrakuta003
-	834.1.1 = {
-		birth = yes
-	}
-	850.1.1 = {
-		add_spouse = 175070
-	}
-	894.1.1 = {
-		death = yes
-	}
-}
-rashtrakuta002 = {# Revakanimmadi
-	name = "Revakanimmadi"
-	female = yes
-	dynasty = 1043003
-	religion = "digambara"
-	culture = "kannada"
-	father = 175030
-	mother = rashtrakuta003
-	820.1.1 = {
-		birth = yes
-	}
-	840.1.1 = {
-		add_spouse = 74692
-	}
-	880.1.1 = {
-		death = yes
-	}
-}
-rashtrakuta003 = { # Asagavve
-	name = "Asagavve"
-	female = yes
-	religion = "digambara"
-	culture = "kannada"
 
-	805.1.1 = {
-		birth = yes
-	}
-	880.1.1 = {
-		death = yes
-	}
-}
 74419 = {
 	name = "Tribhuvana"
 	dynasty = 1043003
@@ -5460,20 +5412,6 @@ chalukya_queen_2 = {
 		death = yes
 	}
 }
-261119 = {
-	name = "Sharva"
-	dynasty = 1062550
-	religion = digambara
-	culture = kannada
-	900.1.1 = {
-		birth = yes
-	}
-	948.1.1 = {
-		death = yes
-	}
-}
-
-
 
 #Cholas of Nidugal
 
