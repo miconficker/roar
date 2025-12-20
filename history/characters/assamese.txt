@@ -1,4 +1,5 @@
 ﻿# Kamarupi culture in RoA
+### Varman Dynasty
 190054 = {
 	name = "Pushyavarman"
 	dynasty = 1044003
@@ -168,6 +169,7 @@
 	}
 }
 
+### Mlechchha Dynasty
 #Mlecchas (same deal with culture and naming conventions, also linking in missing characters that I've added)
 190039 = {
 	name = "Salasthamba"
@@ -298,6 +300,8 @@
 		death = yes
 	}
 }
+
+### Pala Dynasty of Kamarupa
 190075 = {
 	name = "Brahmapala"
 	dynasty = 1044000
