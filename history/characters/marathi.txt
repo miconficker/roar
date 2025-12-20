@@ -2121,6 +2121,8 @@
 		death = yes
 	}
 }
+
+# Chanda Dynasty
 #191323 = {
 	# moved to sea_india_gond
 #}
