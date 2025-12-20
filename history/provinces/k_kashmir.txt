@@ -91,20 +91,6 @@
 	holding = none
 }
 
-### c_astore
-9024 = {	# Astore
-	# Misc
-	culture = nuristani
-	religion = vajrayana
-
-	holding = castle_holding
-
-	# History
-}
-7950 = {	# Chilas
-	holding = none
-}
-
 
 ## d_gilgit
 ### c_gilgit
@@ -153,4 +139,18 @@
 }
 15050 = {	# Nagar
 	holding = city_holding
+}
+
+### c_astore
+9024 = {	# Astore
+	# Misc
+	culture = nuristani
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+7950 = {	# Chilas
+	holding = none
 }

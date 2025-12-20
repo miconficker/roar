@@ -23711,40 +23711,80 @@ e_russia = {	#Kievan Rus
 
 			cultural_names = {
 				name_list_mordvin = cn_voronej
+				name_list_moksha = cn_voronej
 				name_list_merya = cn_voronej
 				name_list_meshchera = cn_voronej
 				name_list_mari = cn_voronej
 				name_list_muroma = cn_voronej
 			}
 
-			c_karatayak = {
+			c_voronezh = {
+				color = { 26 42 34 }
+
+				cultural_names = {
+					name_list_mordvin = cn_voronej
+					name_list_moksha = cn_voronej
+					name_list_merya = cn_voronej
+					name_list_meshchera = cn_voronej
+					name_list_mari = cn_voronej
+					name_list_muroma = cn_voronej
+				}
+
+				b_voronezh = {
+					province = 5285
+
+					color = { 60 75 40 }
+
+					cultural_names = {
+						name_list_mordvin = cn_voronej
+						name_list_moksha = cn_voronej
+						name_list_merya = cn_voronej
+						name_list_meshchera = cn_voronej
+						name_list_mari = cn_voronej
+						name_list_muroma = cn_voronej
+					}
+				}
+				b_zadonsk = {
+					province = 5286
+
+					color = { 60 75 40 }
+				}
+				b_lipetsk = {
+					province = 5350
+
+					color = { 60 75 40 }
+				}
+			}
+			c_khorysdan = {
 				color = { 56 42 24 }
 
-				b_karatayak = {
+				b_khorysdan = {
 					province = 5371
 
 					color = { 56 42 24 }
 				}
-				b_pavlovsk = {
+				b_plavitza = {
 					province = 5373
 
 					color = { 56 42 24 }
 
 					cultural_names = {
 						name_list_mordvin = cn_varakavir
+						name_list_moksha = cn_varakavir
 						name_list_merya = cn_varakavir
 						name_list_meshchera = cn_varakavir
 						name_list_mari = cn_varakavir
 						name_list_muroma = cn_varakavir
 					}
 				}
-				b_babrov = {
+				b_usman = {
 					province = 5372
 
 					color = { 56 42 24 }
 
 					cultural_names = {
 						name_list_mordvin = cn_tundokev
+						name_list_moksha = cn_tundokev
 						name_list_merya = cn_tundokev
 						name_list_meshchera = cn_tundokev
 						name_list_mari = cn_tundokev
@@ -23764,33 +23804,6 @@ e_russia = {	#Kievan Rus
 					province = 5284
 
 					color = { 66 62 44 }
-				}
-			}
-			c_khursa = {
-				color = { 60 75 40 }
-
-				b_khursa = {
-					province = 5286
-
-					color = { 60 75 40 }
-				}
-				b_khorysdan = {
-					province = 5285
-
-					color = { 60 75 40 }
-				}
-				b_voronezh = {
-					province = 5350
-
-					color = { 60 75 40 }
-
-					cultural_names = {
-						name_list_mordvin = cn_voronej
-						name_list_merya = cn_voronej
-						name_list_meshchera = cn_voronej
-						name_list_mari = cn_voronej
-						name_list_muroma = cn_voronej
-					}
 				}
 			}
 		}
@@ -24809,6 +24822,7 @@ e_russia = {	#Kievan Rus
 					name_list_meshchera = cn_timerovo
 					name_list_muroma = cn_timerovo
 					name_list_mordvin = cn_timerovo
+					name_list_moksha = cn_timerovo
 					name_list_mari = cn_timerovo
 				}
 
@@ -24826,6 +24840,7 @@ e_russia = {	#Kievan Rus
 						name_list_meshchera = cn_timerovo
 						name_list_muroma = cn_timerovo
 						name_list_mordvin = cn_timerovo
+						name_list_moksha = cn_timerovo
 						name_list_mari = cn_timerovo
 					}
 				}
@@ -24839,6 +24854,7 @@ e_russia = {	#Kievan Rus
 						name_list_meshchera = cn_sarskoye_gorodishche
 						name_list_muroma = cn_sarskoye_gorodishche
 						name_list_mordvin = cn_sarskoye_gorodishche
+						name_list_moksha = cn_sarskoye_gorodishche
 						name_list_mari = cn_sarskoye_gorodishche
 					}
 				}
@@ -27157,7 +27173,7 @@ e_volga-ural = {
 
 					color = { 44 44 65 }
 				}
-				b_alatyr = {
+				b_tigesh = {
 					province = 5365
 
 					color = { 44 44 65 }
@@ -27169,42 +27185,24 @@ e_volga-ural = {
 	k_mordvinia = {
 		color = { 38 66 71 }
 
-		capital = c_cheboksary
+		capital = c_narovchat
 
 		d_mordvinia = {
 			color = { 26 46 50 }
 
-			c_lachyk-uba = {
-				color = { 36 36 50 }
+			capital = c_sarov
 
-				b_lachyk-uba = {
-					province = 5359
-
-					color = { 36 36 50 }
-				}
-				b_morchansk = {
-					province = 5360
-
-					color = { 36 36 50 }
-
-					cultural_names = {
-						name_list_mordvin = cn_tumolaj
-						name_list_merya = cn_tumolaj
-						name_list_meshchera = cn_tumolaj
-						name_list_mari = cn_tumolaj
-						name_list_muroma = cn_tumolaj
-					}
-				}
-			}
-			c_rakcha = {
+			c_sarov = {
 				color = { 25 30 78 }
 
-				b_rakcha = {
+				b_sarov = {
+					# old b_rakcha
 					province = 5362
 
 					color = { 25 30 78 }
 				}
-				b_chatzk = {
+				b_arzamas = {
+					# old b_chatzk
 					province = 5361
 
 					color = { 25 30 78 }
@@ -27215,25 +27213,184 @@ e_volga-ural = {
 					color = { 25 30 78 }
 				}
 			}
-			c_15573 = {
-				b_15573 = {
-					province = 15573
+			c_lachyk-uba = {
+				color = { 36 36 50 }
+
+				b_lachyk-uba = {
+					province = 5359
+
+					color = { 36 36 50 }
 				}
-				b_kachma = {
+				b_sergach = {
+					province = 5360
+
+					color = { 36 36 50 }
+				}
+			}
+			c_alatyr = {
+				color = { 57 79 87 }
+
+				b_alatyr = {
+					# old b_kachma
 					province = 5385
+
+					color = { 57 79 87 }
+				}
+				b_atemar = {
+					province = 15573
+
+					color = { 57 79 87 }
+				}
+			}
+		}
+		d_moksha = {
+			color = { 45 80 101 }
+
+			capital = c_narovchat
+
+			c_narovchat = {
+				color = { 14 52 32 }
+
+				cultural_names = {
+					name_list_mordvin = cn_nuridzhan
+					name_list_moksha = cn_nuridzhan
+					name_list_merya = cn_nuridzhan
+					name_list_meshchera = cn_nuridzhan
+					name_list_mari = cn_nuridzhan
+					name_list_muroma = cn_nuridzhan
+				}
+
+				b_narovchat = {
+					province = 5353
+
+					color = { 14 52 32 }
+
+					cultural_names = {
+						name_list_mordvin = cn_nuridzhan
+						name_list_moksha = cn_nuridzhan
+						name_list_merya = cn_nuridzhan
+						name_list_meshchera = cn_nuridzhan
+						name_list_mari = cn_nuridzhan
+						name_list_muroma = cn_nuridzhan
+					}
+				}
+				b_kirsanov = {
+					province = 5354
+
+					color = { 14 52 32 }
+
+					cultural_names = {
+						name_list_mordvin = cn_vernakuzo
+						name_list_moksha = cn_vernakuzo
+						name_list_merya = cn_vernakuzo
+						name_list_meshchera = cn_vernakuzo
+						name_list_mari = cn_vernakuzo
+						name_list_muroma = cn_vernakuzo
+					}
+				}
+			}
+			c_vyazhli = {
+				color = { 0 35 15 }
+
+				b_vyazhli = {
+					# old b_matya
+					province = 5356
+
+					color = { 0 35 15 }
+				}
+				b_kersha = {
+					province = 5355
+
+					color = { 0 35 15 }
+				}
+			}
+			c_saran = {
+				color = { 0 35 25 }
+
+				b_saran = {
+					province = 5383
+
+					color = { 0 35 25 }
+				}
+				b_mokshan = {
+					province = 5387
+
+					color = { 0 35 25 }
+				}
+				b_insar = {
+					# old b_vorona
+					province = 5386
 
 					color = { 0 35 25 }
 				}
 			}
+			c_temnikov = {
+				# old c_kozlov
+				color = { 11 60 49 }
+
+				cultural_names = {
+					name_list_mordvin = cn_chopolt
+					name_list_moksha = cn_chopolt
+					name_list_merya = cn_chopolt
+					name_list_meshchera = cn_chopolt
+					name_list_mari = cn_chopolt
+					name_list_muroma = cn_chopolt
+				}
+
+				b_temnikov = {
+					# old b_oranienburg
+					province = 5358
+
+					color = { 11 60 49 }
+
+					cultural_names = {
+						name_list_mordvin = cn_chopolt
+						name_list_moksha = cn_chopolt
+						name_list_merya = cn_chopolt
+						name_list_meshchera = cn_chopolt
+						name_list_mari = cn_chopolt
+						name_list_muroma = cn_chopolt
+					}
+				}
+				b_lashma = {
+					# old b_kozlov
+					province = 5357
+
+					color = { 11 60 49 }
+				}
+				b_kadom = {
+					province = 15398
+
+					color = { 11 60 49 }
+				}
+			}
+			c_tambov = {
+				color = { 20 50 40 }
+
+				b_tambov = {
+					province = 5352
+
+					color = { 20 50 40 }
+				}
+				b_morsha = {
+					# old b_lipetsk
+					province = 5351
+
+					color = { 20 50 40 }
+				}
+				b_sjava = {
+					# old b_tuluchezeva
+					province = 5374
+
+					color = { 20 50 40 }
+				}
+			}
 		}
-		d_chuvashia = {
+		d_burtasia = {
+			# old d_chuvashia
 			color = { 50 40 76 }
 
 			capital = c_saratov
-
-			cultural_names = {
-				name_list_turkish = cn_burtasia
-			}
 
 			c_saratov = {
 				color = { 71 31 61 }
@@ -27244,10 +27401,12 @@ e_volga-ural = {
 					name_list_turkish = cn_saratau
 					name_list_cuman = cn_saratau
 					name_list_mordvin = cn_saratau
+					name_list_moksha = cn_saratau
 					name_list_merya = cn_saratau
 					name_list_meshchera = cn_saratau
 					name_list_mari = cn_saratau
 					name_list_muroma = cn_saratau
+					name_list_chuvash = cn_saratau
 				}
 
 				b_saratov = {
@@ -27261,10 +27420,12 @@ e_volga-ural = {
 						name_list_turkish = cn_saratau
 						name_list_cuman = cn_saratau
 						name_list_mordvin = cn_saratau
+						name_list_moksha = cn_saratau
 						name_list_merya = cn_saratau
 						name_list_meshchera = cn_saratau
 						name_list_mari = cn_saratau
 						name_list_muroma = cn_saratau
+						name_list_chuvash = cn_saratau
 					}
 				}
 				b_hanbalik = {
@@ -27278,11 +27439,55 @@ e_volga-ural = {
 					color = { 71 31 61 }
 				}
 			}
+			c_yulovo = {
+				# old c_penza
+				color = { 75 36 57 }
+
+				b_yulovo = {
+					province = 5367
+
+					color = { 75 36 57 }
+
+					cultural_names = {
+						name_list_bolghar = cn_burtas
+						name_list_khazar = cn_burtas
+						name_list_turkish = cn_burtas
+						name_list_cuman = cn_burtas
+						name_list_mordvin = cn_burtas
+						name_list_moksha = cn_burtas
+						name_list_merya = cn_burtas
+						name_list_meshchera = cn_burtas
+						name_list_mari = cn_burtas
+						name_list_muroma = cn_burtas
+						name_list_chuvash = cn_burtas
+					}
+				}
+				b_barysh = {
+					province = 5366
+
+					color = { 75 36 57 }
+				}
+				b_inza = {
+					province = 5368
+
+					color = { 75 36 57 }
+
+					cultural_names = {
+						name_list_mordvin = cn_insaravar
+						name_list_moksha = cn_insaravar
+						name_list_merya = cn_insaravar
+						name_list_meshchera = cn_insaravar
+						name_list_mari = cn_insaravar
+						name_list_muroma = cn_insaravar
+					}
+				}
+			}
 			c_serdosk = {
 				color = { 35 78 60 }
 
 				cultural_names = {
 					name_list_mordvin = cn_sedvel
+					name_list_moksha = cn_sedvel
 					name_list_merya = cn_sedvel
 					name_list_meshchera = cn_sedvel
 					name_list_mari = cn_sedvel
@@ -27296,6 +27501,7 @@ e_volga-ural = {
 
 					cultural_names = {
 						name_list_mordvin = cn_sedvel
+						name_list_moksha = cn_sedvel
 						name_list_merya = cn_sedvel
 						name_list_meshchera = cn_sedvel
 						name_list_mari = cn_sedvel
@@ -27304,44 +27510,13 @@ e_volga-ural = {
 				}
 				b_penza = {
 					province = 17170
+
+					color = { 35 78 60 }
 				}
 				b_shemysheyka = {
 					province = 17018
-				}
-			}
-			c_penza = {
-				color = { 50 40 76 }
 
-				cultural_names = {
-					name_list_turkish = cn_burtas
-				}
-
-				b_barysh = {
-					province = 5366
-
-					color = { 50 40 76 }
-
-					cultural_names = {
-						name_list_turkish = cn_burtas
-					}
-				}
-				b_yulovo = {
-					province = 5367
-
-					color = { 50 40 76 }
-				}
-				b_inza = {
-					province = 5368
-
-					color = { 50 40 76 }
-
-					cultural_names = {
-						name_list_mordvin = cn_insaravar
-						name_list_merya = cn_insaravar
-						name_list_meshchera = cn_insaravar
-						name_list_mari = cn_insaravar
-						name_list_muroma = cn_insaravar
-					}
+					color = { 35 78 60 }
 				}
 			}
 			c_atkarsk = {
@@ -27368,6 +27543,7 @@ e_volga-ural = {
 
 				cultural_names = {
 					name_list_mordvin = cn_sijabije
+					name_list_moksha = cn_sijabije
 					name_list_merya = cn_sijabije
 					name_list_meshchera = cn_sijabije
 					name_list_mari = cn_sijabije
@@ -27381,6 +27557,7 @@ e_volga-ural = {
 
 					cultural_names = {
 						name_list_mordvin = cn_sijabije
+						name_list_moksha = cn_sijabije
 						name_list_merya = cn_sijabije
 						name_list_meshchera = cn_sijabije
 						name_list_mari = cn_sijabije
@@ -27399,7 +27576,6 @@ e_volga-ural = {
 				}
 			}
 		}
-
 		d_khopyor = {
 			color = { 46 52 24 }
 
@@ -27424,39 +27600,24 @@ e_volga-ural = {
 					color = { 74 70 33 }
 				}
 			}
-			c_durovka = {
-				color = { 35 60 60 }
-
-				b_durovka = {
-					province = 5388
-
-					color = { 35 60 60 }
-				}
-				b_kolychev = {
-					province = 5389
-
-					color = { 35 60 60 }
-				}
-				b_repnoye = {
-					province = 5498
-
-					color = { 35 60 60 }
-				}
-			}
-			c_tuluchezeva = {
+			c_vorona = {
+				# old c_tuluchezeva
 				color = { 40 58 40 }
 
-				b_lejlotka = {
-					province = 5375
-
-					color = { 40 58 40 }
-				}
-				b_trotskhoper = {
+				b_vorona = {
+					# old b_trotskhoper
 					province = 5376
 
 					color = { 40 58 40 }
 				}
-				b_manina = {
+				b_rakcha = {
+					# old b_lejlotka
+					province = 5375
+
+					color = { 40 58 40 }
+				}
+				b_tuluchezeva = {
+					# old b_manina
 					province = 5382
 
 					color = { 40 58 40 }
@@ -27481,130 +27642,23 @@ e_volga-ural = {
 					color = { 95 70 59 }
 				}
 			}
-		}
+			c_durovka = {
+				color = { 35 60 60 }
 
-		d_saran = {
-			color = { 0 25 15 }
+				b_durovka = {
+					province = 5388
 
-			capital = c_saran
-
-			c_saran = {
-				color = { 0 35 25 }
-
-				b_saran = {
-					province = 5383
-
-					color = { 0 35 25 }
+					color = { 35 60 60 }
 				}
-				b_vorona = {
-					province = 5386
+				b_kolychev = {
+					province = 5389
 
-					color = { 0 35 25 }
+					color = { 35 60 60 }
 				}
-				b_kirsanov = {
-					province = 5387
+				b_repnoye = {
+					province = 5498
 
-					color = { 0 35 25 }
-
-					cultural_names = {
-						name_list_mordvin = cn_vernakuzo
-						name_list_merya = cn_vernakuzo
-						name_list_meshchera = cn_vernakuzo
-						name_list_mari = cn_vernakuzo
-						name_list_muroma = cn_vernakuzo
-					}
-				}
-			}
-			c_kozlov = {
-				color = { 11 60 49 }
-
-				cultural_names = {
-					name_list_mordvin = cn_sirevel_e
-					name_list_merya = cn_sirevel_e
-					name_list_meshchera = cn_sirevel_e
-					name_list_mari = cn_sirevel_e
-					name_list_muroma = cn_sirevel_e
-				}
-
-				b_kozlov = {
-					province = 5357
-
-					color = { 11 60 49 }
-
-					cultural_names = {
-						name_list_mordvin = cn_sirevel_e
-						name_list_merya = cn_sirevel_e
-						name_list_meshchera = cn_sirevel_e
-						name_list_mari = cn_sirevel_e
-						name_list_muroma = cn_sirevel_e
-					}
-				}
-				b_oranienburg = {
-					province = 5358
-
-					color = { 11 60 49 }
-				}
-				b_kadom = {
-					province = 15398
-
-					color = { 11 60 49 }
-				}
-			}
-
-			c_tambov = {
-				color = { 14 52 32 }
-
-				b_tambov = {
-					province = 5353
-
-					color = { 14 52 32 }
-				}
-				b_szava = {
-					province = 5354
-
-					color = { 14 52 32 }
-				}
-			}
-
-			c_voronezh = {
-				color = { 26 42 34 }
-
-				cultural_names = {
-					name_list_mordvin = cn_voronej
-					name_list_merya = cn_voronej
-					name_list_meshchera = cn_voronej
-					name_list_mari = cn_voronej
-					name_list_muroma = cn_voronej
-				}
-
-				b_usman = {
-					province = 5352
-
-					color = { 26 52 24 }
-				}
-				b_lipetsk = {
-					province = 5351
-
-					color = { 26 52 24 }
-				}
-				b_tuluchezeva = {
-					province = 5374
-
-					color = { 26 52 24 }
-				}
-			}
-			c_matya = {
-				color = { 0 35 15 }
-
-				b_matya = {
-					province = 5356
-
-					color = { 0 35 15 }
-				}
-				b_plavitza = {
-					province = 5355
-
-					color = { 0 35 15 }
+					color = { 35 60 60 }
 				}
 			}
 		}
@@ -64386,20 +64440,6 @@ e_rajastan = {
 					color = { 240 121 50 }
 				}
 			}
-			c_astore = {
-				color = { 195 120 5 }
-
-				b_astore = {
-					province = 9024
-
-					color = { 195 120 5 }
-				}
-				b_chilas = {
-					province = 7950
-
-					color = { 195 120 5 }
-				}
-			}
 		}
 		d_gilgit = {
 			# old d_pamir
@@ -64457,6 +64497,20 @@ e_rajastan = {
 					province = 15050
 
 					color = { 250 60 20 }
+				}
+			}
+			c_astore = {
+				color = { 195 120 5 }
+
+				b_astore = {
+					province = 9024
+
+					color = { 195 120 5 }
+				}
+				b_chilas = {
+					province = 7950
+
+					color = { 195 120 5 }
 				}
 			}
 		}
