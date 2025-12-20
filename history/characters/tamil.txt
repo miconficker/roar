@@ -736,7 +736,7 @@ additional_cholas_4 = {
 	religion = "shaivism"
 	culture = "tamil"
 	father = 189102
-	mother = chola_daughters_2
+	mother = chola_daughters_1
 	1025.1.1 = {
 		birth = yes
 	}
@@ -763,7 +763,7 @@ chola_daughters_4 = {
 	religion = "shaivism"
 	culture = "tamil"
 	father = 189105
-	# mother = chola_daughters_2
+	mother = chola_daughters_2
 	1055.1.1 = {
 		birth = yes
 	}
@@ -779,7 +779,7 @@ chola_daughters_5 = {
 	religion = "shaivism"
 	culture = "tamil"
 	father = 189105
-	# mother = chola_daughters_2
+	mother = chola_daughters_2
 	1058.1.1 = {
 		birth = yes
 	}
@@ -1906,22 +1906,6 @@ chola_vassal_4 = {
 		birth = yes
 	}
 	1198.1.1 = {
-		death = yes
-	}
-}
-
-pallava001 = {
-	name = "Nripathunga"
-	dynasty = 1043007
-	religion = "shaivism"
-	culture = "tamil"
-	father = 175070
-	mother = rashtrakuta001
-
-	852.1.1 = {
-		birth = yes
-	}
-	900.1.1 = {
 		death = yes
 	}
 }

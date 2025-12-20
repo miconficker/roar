@@ -1,4 +1,5 @@
-﻿# Kamarupi in RoA
+﻿# Kamarupi culture in RoA
+### Varman Dynasty
 190054 = {
 	name = "Pushyavarman"
 	dynasty = 1044003
@@ -168,6 +169,7 @@
 	}
 }
 
+### Mlechchha Dynasty
 #Mlecchas (same deal with culture and naming conventions, also linking in missing characters that I've added)
 190039 = {
 	name = "Salasthamba"
@@ -298,6 +300,8 @@
 		death = yes
 	}
 }
+
+### Pala Dynasty of Kamarupa
 190075 = {
 	name = "Brahmapala"
 	dynasty = 1044000
@@ -533,6 +537,7 @@
 	dynasty = 1044005	#Vaidyadeva
 	religion = "vajrayana"
 	culture = "assamese"
+	stewardship = 8
 	father = 191564
 	1158.1.1 = {
 		birth = yes
@@ -843,20 +848,37 @@
 }
 
 # 191587 - moved to Kachari
+
 # 191588 - moved to Kachari
+
 # 191589 - moved to Kachari
+
 # 191590 - moved to Kachari
+
 # 191591 - moved to Kachari
+
 # 191592 - moved to Kachari
+
 # 191593 - moved to Kachari
+
 # 191594 - moved to Kachari
+
 # 191595 - moved to Kachari
+
 # 191596 - moved to Kachari
+
 # 191597 - moved to Kachari
+
 # 191598 - moved to Kachari
+
 # 191599 - moved to Kachari
+
 # 191600 - moved to Kachari
+
 # 191601 - moved to Kachari
+
 # 191602 - moved to Kachari
+
 # 191603 - moved to Kachari
+
 # 191604 - moved to Kachari
