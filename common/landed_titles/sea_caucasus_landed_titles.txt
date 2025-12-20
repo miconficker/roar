@@ -2823,12 +2823,18 @@ e_caucasia = {
 
 				b_bzhakhue = {
 					province = 16218
+
+					color = { 176 72 33 }
 				}
 				b_qalecih = {
 					province = 16283
+
+					color = { 176 72 33 }
 				}
 				b_nalsik = {
 					province = 16141
+
+					color = { 176 72 33 }
 				}
 			}
 			c_tsatybaerzond = {
