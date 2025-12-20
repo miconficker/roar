@@ -1,162 +1,8 @@
-# 914 - Mandla
-914 = {	# 914 - Mandla
-	culture = kaushali
-	religion = vaishnavism
-
-	holding = city_holding
-
-	# History
-}
-
-# 915 - Banjar
-915 = {	# 915 - Banjar
-	culture = kaushali
-	religion = vaishnavism
-
-	holding = church_holding
-
-	# History
-}
-
-# 916 - Bohani
-916 = {	# 916 - Bohani
-	culture = kaushali
-	religion = vaishnavism
-
-	holding = none
-
-	# History
-}
-
-# 917 - Barman
-917 = {	# 917 - Barman
-	culture = kaushali
-	religion = svetambara
-
-	holding = city_holding
-
-	# History
-	1066.1.1 = {
-		religion = vaishnavism
-	}
-}
-
-# 918 - Hoshangabad
-918 = {	# 918 - Hoshangabad
-	culture = kaushali
-	religion = svetambara
-
-	holding = none
-
-	# History
-	1066.1.1 = {
-		religion = vaishnavism
-	}
-}
-
-# 919 - Handia
-919 = {	# 919 - Handia
-	culture = kaushali
-	religion = svetambara
-
-	holding = none
-
-	# History
-	1066.1.1 = {
-		religion = vaishnavism
-	}
-}
-
-# 921 - Savarinarayana
-921 = {	# 921 - Savarinarayana
-	culture = kaushali
-	religion = vaishnavism
-
-	holding = church_holding
-
-	# History
-	1066.1.1 = {
-		religion = srikula_shaktism
-	}
-}
-
-# 922 - Pali
-922 = {	# 922 - Pali
-	culture = kaushali
-	religion = vaishnavism
-
-	holding = none #city_holding
-
-	# History
-	1066.1.1 = {
-		religion = srikula_shaktism
-	}
-}
-
-# 923 - Amarkantak
-923 = {	# 923 - Amarkantak
-	culture = kaushali
-	religion = vaishnavism
-
-	holding = none
-
-	# History
-}
-
-# 924 - Moti_Mahal
-924 = {	# 924 - Moti_Mahal
-	culture = kaushali
-	religion = vaishnavism
-
-	holding = none
-
-	# History
-}
-
-# 925 - Bahoriband
-925 = {	# 925 - Bahoriband
-	culture = kaushali
-	religion = mahayana
-
-	holding = church_holding
-
-	# History
-}
-
-# 926 - Soubhagyapura
-926 = {	# 926 - Soubhagyapura
-	culture = kaushali
-	religion = mahayana
-
-	holding = none
-
-	# History
-}
-
-1164 = {	# 1164 - Chauragarh
-	culture = gond
-	religion = koyapunem
-
-	holding = tribal_holding
-
-	# History
-}
-
-# 1165 - Bandhugadha
-1165 = {	# 1165 - Bandhugadha
-	culture = kaushali
-	religion = vaishnavism
-
-	holding = tribal_holding
-
-	# History
-	1066.1.1 = {
-		holding = castle_holding
-	}
-}
-
-# 1271 - Tripuri
-1271 = {	# 1271 - Tripuri
+# k_gondwana
+## d_dahala ###################################
+### c_tripuri
+1271 = { 	# Tripuri AKA Tewar
+	# ancient city-state and the capital of Kalachuris between the 8th–13th centuries
 	culture = gond
 	religion = koyapunem
 
@@ -165,27 +11,144 @@
 	# History
 	1066.1.1 = {
 		holding = castle_holding
-		religion = vaishnavism
 	}
 }
+914 = { 	# Mandla
+	# Situated in a loop of the Narmada River ; once a capital of the Gondwana Kingdom with a palace and a fort
+	holding = city_holding
 
-1272 = {	# Ratanpur
+	# History
+}
+915 = { 	# Banjar
+	# village in Jabalpur
+	holding = church_holding
+
+	# History
+}
+916 = { 	# Bohani
+	# village in Gadarwara, in Jabalpur
+	holding = none
+
+	# History
+}
+924 = { 	# Moti Mahal
+	# District in Mandla region
+	holding = none
+
+	# History
+}
+
+### c_chauragarh
+1164 = { 	# Chauragarh
+	culture = gond
+	religion = koyapunem
+
+	holding = tribal_holding
+
+	# History
+}
+917 = { 	# Barman
+	holding = city_holding
+
+	# History
+}
+918 = { 	# Hoshangabad
+	holding = none
+
+	# History
+}
+919 = { 	# Handia
+	holding = none
+
+	# History
+}
+
+### c_kiranapura
+1270 = {	# Kiranapura
+	culture = gond
+	religion = koyapunem
+
+	holding = tribal_holding
+
+	# History
+}
+7932 = {	# Lanjika
+	holding = none
+
+	# History
+}
+7933 = {	# Mungeli
+	holding = none
+
+	# History
+}
+7934 = {	# Nandgram
+	holding = none
+
+	# History
+}
+
+
+## d_ratanpur
+### c_ratanpur
+1272 = {	# Ratanpur AKA Ratnapura
+	# capital of the Kalachuris of Ratnapura ; located in Chhattisgarh state
 	culture = gond
 	religion = kalikula_shaktism
 
 	holding = castle_holding
 
 	# History
-	1066.1.1 = {
-		religion = kalikula_shaktism
-	}
+}
+921 = { 	# Savarinarayana
+	# locally known as Sabari or Sauri temple ; constructed in-between 650-699 AD
+	holding = church_holding
+
+	# History
+}
+922 = { 	# Pali
+	# small village and a site of a large stone temple from 9/10th century
+	holding = none
+
+	# History
 }
 
-1277 = {	# Tummana
+### c_tummana
+1277 = { 	# Tummana
 	culture = kurukh
 	religion = sarnaism
 
 	holding = tribal_holding
+
+	# History
+}
+923 = { 	# Amarkantak
+	holding = none
+
+	# History
+}
+
+### c_bandhugadha
+1165 = { 	# Bandhugadha
+	# region needs more research ; might have been a site of 11th century fort
+	culture = kaushali		# should have Gond minority though
+	religion = svetambara
+
+	holding = tribal_holding
+
+	# History
+	1066.1.1 = {
+		holding = castle_holding
+	}
+}
+925 = { 	# Bahoriband
+	# village and a site of Jain temple with a Kalchuri period inscription
+	holding = church_holding
+
+	# History
+}
+926 = { 	# Soubhagyapura
+	holding = none
 
 	# History
 }

@@ -229,31 +229,6 @@
 	# History
 }
 
-### c_kiranapura
-1270 = {	# Kiranapura
-	culture = gond
-	religion = koyapunem
-
-	holding = tribal_holding
-
-	# History
-}
-7932 = {	# Lanjika
-	holding = none
-
-	# History
-}
-7933 = {	# Mungeli
-	holding = none
-
-	# History
-}
-7934 = {	# Nandgram
-	holding = none
-
-	# History
-}
-
 
 ## d_kalinga
 ### c_kalinganagar

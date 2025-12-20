@@ -1,65 +1,147 @@
 ﻿l_english:
- hindustani:0 "Bharatiya"
- hindustani_prefix:0 "Bharata"
- hindustani_collective_noun:0 "Bharatiyas"
+ ######## Various reworks and additions to India's cultural setup ########
 
+ #### Munda
+ munda_group:0 "Munda"
+ munda_group_collective_noun:0 "Mundas"
+ munda:0 "Munda"
+ munda_collective_noun:1 "Mundas"
+ munda_prefix:0 "Munda"
+
+
+ #### Dravidian
+ khond:0 "Khond"
+ khond_collective_noun:1 "Kurukhs"
+ khond_prefix:0 "Khond"
+
+ kurukh:0 "Kurukh"
+ kurukh_collective_noun:1 "Kurukhs"
+ kurukh_prefix:0 "Kurukh"
+
+ malayali:0 "Malaiya"
+ malayali_collective_noun:1 "Malaiyas"
+ malayali_prefix:0 "Malaiya"
+
+
+ #### Indo-Aryan
+ # Awadhi - Eastern Hindi language spoken in Awadh region of Uttar Pradesh
+ awadhi:0 "Awadhi"
+ awadhi_collective_noun:0 "Awadhis"
+ awadhi_prefix:0 "Awadhi"
+
+ # Gaudiya - renamed to represent the early stages of Bengali identity tied to Kingdom of Gauda
  bengali:0 "Gaudiya"
  bengali_prefix:0 "Gaudiya"
  bengali_collective_noun:1 "Gaudiyas"
-
- oriya:0 "Odiya"
- oriya_prefix:0 "Odiya"
- oriya_collective_noun:1 "Odiyas"
-
+ # Bengali - name used for later persianised populations of Bengal region as "Bangālah" is a Persian word
  bengali_proper:0 "Bengali"
  bengali_proper_prefix:0 "Bengali"
  bengali_proper_collective_noun:0 "Bengalis"
 
+ # Bhil/Bheel - various indigenous groups inhabiting western India, including parts of Rajasthan and Madhya Pradesh
+ bhil:0 "Bhil"
+ bhil_collective_noun:0 "Bhils"
+ bhil_prefix:0 "Bhil"
+
+ # Brajji/Braj - Western Hindi language spoken in the Braj region in Western Uttar Pradesh
+ brajji:0 "Brajji"
+ brajji_collective_noun:0 "Brajjis"
+ brajji_prefix:0 "Brajji"
+
+ ## Rajasthani group of languages are spoken in Rajasthan, Malwa and bordering regions
+ # Dhundhari/Jaipuri - Rajasthani language spoken in Dhundhar region
+ dhundari:0 "Dhundari"
+ dhundari_collective_noun:1 "Dhundaris"
+ dhundari_prefix:0 "Dhundari"
+
+ # Gandhari - ancient Indo-Aryan people that inhabited Peshawar and Swat valleys ; also name of the Dardic language used by them
+ gandhari:0 "Gandhari"
+ gandhari_collective_noun:0 "Gandharis"
+ gandhari_prefix:0 "Gandhari"
+
+ # Gurjarati - to represent early Gujarati
  gujarati:0 "Gurjaratri"
  gujarati_prefix:0 "Gurjara"
  gujarati_collective_noun:0 "Gurjaratris"
-
+ # Gujarati - to represent more persianised Gujarati society
  gujarati_proper:0 "Gujarati"
  gujarati_proper_prefix:0 "Gujarati"
  gujarati_proper_collective_noun:0 "Gujaratis"
 
- marathi:0 "Maharashtri"
- marathi_prefix:0 "Maharashtri"
- marathi_collective_noun:0 "Maharashtris"
+ # Kannauji - Western Hindi language related to Hindi/Urdu ; spoken in Kannauj region of Uttar Pradesh
 
+ # Kaushali - RN in RoA it is a catch-for-all term to represent common ancestor of Eastern Hindi languages
+ kaushali:0 "Kaushali"
+ kaushali_collective_noun:0 "Kaushali"
+ kaushali_prefix:0 "Kaushali"
+
+ # Kashika - based on Kasi kingdom ; to represent the earlier for of Bhojpuri
+ kashika:0 "Kashika"
+ kashika_collective_noun:0 "Kashikas"
+ kashika_prefix:0 "Kashika"
+
+ # Magadhi - Bihari language native to the Magadh region of the eastern Indian states of Bihar and Jharkhand
+ magadhi:0 "Magadhi"
+ magadhi_collective_noun:0 "Magadhis"
+ magadhi_prefix:0 "Magadhi"
+
+ # Maharashtri - language of medieval India that split into Marathi and Konkani around 1000 AD ; seems like better to jsut keep it vanilla
+
+ # Maithili - Bihari language native to the Mithila region of the eastern Indian states of Bihar and Jharkhand
+ maithili:0 "Maithili"
+ maithili_collective_noun:0 "Maithilis"
+ maithili_prefix:0 "Maithili"
+
+ ## Rajasthani group of languages are spoken in Rajasthan, Malwa and bordering regions
+ # Marwari - 
+ rajput:0 "Marwari"
+ rajput_collective_noun:1 "Marwari"
+ rajput_prefix:0 "Marwari"
+
+ # Mewari - Rajasthani language spoken in the Indian state of Rajasthan, as well as the neighbouring states of Gujarat and Haryana
+ mewari:0 "Mewari"
+ mewari_collective_noun:1 "Mewaris"
+ mewari_prefix:0 "Mewari"
+
+ # Multani - represents Saraiki language speakers of Multan region
+ multani:0 "Multani"
+ multani_collective_noun:0 "Multanis"
+ multani_prefix:0 "Multani"
+
+ # Odiya is more accurate spelling than Oriya
+ oriya:0 "Odiya"
+ oriya_prefix:0 "Odiya"
+ oriya_collective_noun:1 "Odiyas"
+
+ # Madraka - name of an ancient Indo-Aryan tribe that would shape into Punjabi people
  punjabi:0 "Madraka"
  punjabi_prefix:0 "Madra"
  punjabi_collective_noun:0 "Madrakas"
-
+ # Punjabi - name Punjabi is of Persian origin
  punjabi_proper:0 "Punjabi"
  punjabi_proper_prefix:0 "Punjabi"
  punjabi_proper_collective_noun:0 "Punjabis"
 
- marathi_proper:0 "Marathi"
- marathi_proper_prefix:0 "Marathi"
- marathi_proper_collective_noun:0 "Marathis"
 
- gaudiya:0 "Gaudiya"
- gaudiya_prefix:0 "Gaudiya"
- gaudiya_collective_noun:0 "Gaudiyas"
+ #### Unused
+ #avadhi:0 "Kaushali"
+ #avadhi_prefix:0 "Kaushali"
+ #avadhi_collective_noun:0 "Kaushalis"
 
- bundeli:0 "Bundeli"
- bundeli_prefix:0 "Bundeli"
- bundeli_collective_noun:0 "Bundelis"
+ #bundeli:0 "Bundeli"
+ #bundeli_prefix:0 "Bundeli"
+ #bundeli_collective_noun:0 "Bundelis"
 
- avadhi:0 "Kaushali"
- avadhi_prefix:0 "Kaushali"
- avadhi_collective_noun:0 "Kaushalis"
+ ## Bharatiya - can't find info on what that means
+ #hindustani:0 "Bharatiya"
+ #hindustani_prefix:0 "Bharata"
+ #hindustani_collective_noun:0 "Bharatiyas"
 
- bihari:0 "Magadhi"
- bihari_prefix:0 "Magadhi"
- bihari_collective_noun:0 "Magadhis"
-
- malayali:0 "Malaiya"
- malayali_prefix:0 "Malaiya"
- malayali_collective_noun:0 "Malaiyas"
-
- language_sinhalese:0 "Sinhala"
+ # Madhyadeshi - Madhyadesha or the "middle country" was one of the five sub-divisions of ancient India
+  # Soraya added this as replacement of Kannuji but it makes more sense to just rename Kannuji
+ #madhyadeshi:0 "Madhyadeshi"
+ #madhyadeshi_collective_noun:0 "Madhyadeshi"
+ #madhyadeshi_prefix:0 "Madhyadeshi"
 
  #nepali:0 "Pahari"
  #nepali_prefix:0 "Pahari"

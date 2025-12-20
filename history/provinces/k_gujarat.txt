@@ -145,7 +145,7 @@
 1291 = {	# 1291 - Mohadavasaka
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = saura
 
 	# History
@@ -443,7 +443,7 @@
 3373 = {	# 3373 - Idar
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = digambara
 
 	# History
@@ -454,7 +454,7 @@
 3374 = {	# 3374 - Jhalod
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = yapaniya
 
 	# History

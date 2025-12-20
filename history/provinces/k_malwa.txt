@@ -13,7 +13,7 @@
 1148 = {	# 1148 - Dasapura
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = svetambara
 
 	# History
@@ -240,19 +240,15 @@
 1298 = {	# 1298 - Chanderi
 
 	# Misc
-	culture = brajji
-	religion = smartism
+	culture = malvi
+	religion = smartism		# needs to have large svetambara minority too
 	holding = castle_holding
-
+	special_building_slot = khajuraho_01
 
 	# History
-	867.1.1 = {
-		special_building_slot = khajuraho_01
-	}
 	1000.1.1 = {
 		special_building = khajuraho_01
 	}
-
 }
 
 # 1299 - Candhoba
@@ -462,7 +458,7 @@
 3328 = {	# 3328 - Dharmrajeshwar
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = svetambara
 
 	holding = church_holding
@@ -475,7 +471,7 @@
 3329 = {	# 3328 - 3329 - Vatapadraka
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = svetambara
 
 	holding = city_holding
@@ -521,7 +517,7 @@
 3333 = {	# 3333 - Champaner
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = digambara
 
 	# History

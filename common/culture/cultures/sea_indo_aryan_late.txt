@@ -2,7 +2,7 @@
 	# Hindustani
 	color = hindustani
 	created = 1206.1.1
-	parents = { madhyadeshi persian }
+	parents = { hindustani persian }
 
 	ethos = ethos_bureaucratic
 	heritage = heritage_indo_aryan
@@ -105,7 +105,7 @@ gujarati_proper = {
 
 	ethos = ethos_egalitarian
 	heritage = heritage_indo_aryan
-	language = language_rajasthani
+	language = language_gujarati
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 
@@ -117,72 +117,6 @@ gujarati_proper = {
 	}
 
 	name_list = name_list_gujarati
-
-	coa_gfx = { indo_aryan_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-	house_coa_frame = house_frame_17
-
-	ethnicities = {
-		10 = indian
-	}
-}
-
-marathi_proper = {
-	# Marathi
-	color = { 233 0 8 }
-
-	created = 1347.1.1
-	parents = { marathi persian }
-
-	ethos = ethos_stoic
-	heritage = heritage_indo_aryan
-	language = language_marathi
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-
-	traditions = {
-		tradition_hill_dwellers
-		tradition_stalwart_defenders
-		tradition_agrarian
-		tradition_religion_blending
-	}
-
-	name_list = name_list_marathi
-
-	coa_gfx = { indo_aryan_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-	house_coa_frame = house_frame_17
-
-	ethnicities = {
-		10 = indian
-	}
-}
-
-deccani = {
-	# Deccani
-	color = { 249 0 7 }
-
-	created = 1347.1.1
-	parents = { hindustani_proper }
-
-	ethos = ethos_stoic
-	heritage = heritage_indo_aryan
-	language = language_sauraseni
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-
-	traditions = {
-		tradition_hill_dwellers
-		tradition_ruling_caste
-		tradition_religion_blending
-		tradition_philosopher_culture
-	}
-
-	name_list = name_list_hindustani
 
 	coa_gfx = { indo_aryan_group_coa_gfx }
 	building_gfx = { indian_building_gfx }

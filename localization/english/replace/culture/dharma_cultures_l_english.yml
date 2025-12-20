@@ -1,91 +1,5 @@
 ﻿l_english:
 
- #Dravidian
-
- kurukh:0 "Kurukh"
- kurukh_collective_noun:1 "Kurukhs"
- kurukh_prefix:0 "Khond"
-
- khond:0 "Khond"
- khond_collective_noun:1 "Kurukhs"
- khond_prefix:0 "Khond"
-
- #Indo-Aryan
-
- deccani:0 "Deccani"
- deccani_collective_noun:0 "Deccanis"
- deccani_prefix:0 "Deccani"
-
- magadhi:0 "Magadhi"
- magadhi_collective_noun:0 "Magadhis"
- magadhi_prefix:0 "Magadhi"
-
- maithili:0 "Maithili"
- maithili_collective_noun:0 "Maithilis"
- maithili_prefix:0 "Maithili"
-
- kashika:0 "Kashika"
- kashika_collective_noun:0 "Kashikas"
- kashika_prefix:0 "Kashika"
-
- brajji:0 "Brajji"
- brajji_collective_noun:0 "Brajjis"
- brajji_prefix:0 "Brajji"
-
- madhyadeshi:0 "Madhyadeshi"
- madhyadeshi_collective_noun:0 "Madhyadeshi"
- madhyadeshi_prefix:0 "Madhyadeshi"
-
- kaushali:0 "Kaushali"
- kaushali_collective_noun:0 "Kaushali"
- kaushali_prefix:0 "Kaushali"
-
- awadhi:0 "Awadhi"
- awadhi_collective_noun:0 "Awadhis"
- awadhi_prefix:0 "Awadhi"
-
- bhil:0 "Bhil"
- bhil_collective_noun:0 "Bhils"
- bhil_prefix:0 "Bhil"
-
- rajput:0 "Dhundari"
- rajput_collective_noun:1 "Dhundaris"
- rajput_prefix:0 "Dhundari"
-
- mewari:0 "Mewari"
- mewari_collective_noun:1 "Mewaris"
- mewari_prefix:0 "Mewari"
-
- marwari:0 "Marwari"
- marwari_collective_noun:1 "Marwari"
- marwari_prefix:0 "Marwari"
-
- pahari:0 "Pahari"
- pahari_collective_noun:1 "Paharis"
- pahari_prefix:0 "Pahari"
-
- kamarupi:0 "Kamarupi"
- kamarupi_collective_noun:0 "Kamarupis"
- kamarupi_prefix:0 "Kamarupi"
-
- assamese:0 "$kamarupi$"
- assamese_collective_noun:0 "$kamarupi_collective_noun$"
- assamese_prefix:0 "$kamarupi_prefix$"
-
- assamese_proper:0 "$kamarupi$"
- assamese_proper_collective_noun:0 "$kamarupi_collective_noun$"
- assamese_proper_prefix:0 "$kamarupi_prefix$"
-
- gandhari:0 "Gandhari"
- gandhari_collective_noun:0 "Gandharis"
- gandhari_prefix:0 "Gandhari"
-
- multani:0 "Multani"
- multani_collective_noun:0 "Multanis"
- multani_prefix:0 "Multani"
-
-# New Burman Cultures
-
 # New Tibetan Cultures
  tani:0 "Tani"
  tani_collective_noun:0 "Tani"
@@ -106,12 +20,6 @@
  newar:0 "Newar"
  newar_collective_noun:0 "Newari"
  newar_prefix:0 "Newaro"
-
-# Munda Culture Group
- munda_group:0 "Munda"
- munda_group_collective_noun:0 "Mundas"
- munda:0 "Munda"
- munda_collective_noun:1 "Mundas"
 
 # Hybrid Cultures
 

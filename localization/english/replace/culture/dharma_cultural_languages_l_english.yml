@@ -6,10 +6,11 @@
   # Indo-Arayan Languages
     language_sauraseni_name:1 "Shauraseni"
     language_marathi_name:0 "Marathi"
-    language_magadhan_name:1 "Magadhi"
+    language_magadhan_name:1 "Māgadhan"
     language_pahari_name:0 "Pahari"
     language_vrachada_name:0 "Vrachada"
-    language_rajasthani_name:0 "Gurjar"
+    language_rajasthani_name:0 "Rajasthani"
+    language_gujarati_name:0 "Gujarati"
     language_sinhalese_name:0 "Sinhalese"
     language_kashmiri_name:0 "Kashmiri"
     language_sanskrit_name:0 "Sanskrit"

@@ -2,7 +2,7 @@
 1130 = {	# 1130 - Mandavyapura
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -26,29 +26,18 @@
 1174 = {	# 1174 - Candravati
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 	terrain = desert
 
 	# History
 }
 
-# 1176 - Medantaka
-1176 = {	# 1176 - Medantaka
-
-	# Misc
-	culture = rajput
-	religion = svetambara
-
-	# History
-
-}
-
 # 1294 - Satyapura
 1294 = {	# 1294 - Satyapura
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = digambara
 
 	# History
@@ -59,7 +48,7 @@
 1300 = {	# 1300 - Kota
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = svetambara
 
 	# History
@@ -90,7 +79,7 @@
 1304 = {	# 1304 - Ludrava
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -114,7 +103,7 @@
 1346 = {	# 1346 - Shakambhari
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = svetambara
 
 	# History
@@ -125,7 +114,7 @@
 1349 = {	# 1349 - Vikramapura
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = saura
 
 	# History
@@ -136,7 +125,7 @@
 1350 = {	# 1350 - Reni
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = vaishnavism
 
 	# History
@@ -147,7 +136,7 @@
 1353 = {	# 1353 - Harshnath
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = saura
 
 	# History
@@ -167,7 +156,7 @@
 1354 = {	# 1354 - Nagauda
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = saura
 
 	# History
@@ -178,7 +167,7 @@
 1355 = {	# 1355 - Ranthambore
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = svetambara
 
 	# History
@@ -191,7 +180,7 @@
 3338 = {	# 3338 - Sheopur
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -235,7 +224,7 @@
 3342 = {	# 3342 - Naddula
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = svetambara
 
 	# History
@@ -246,7 +235,7 @@
 3343 = {	# 3343 - Ranakpur
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	holding = church_holding
@@ -259,7 +248,7 @@
 3344 = {	# 3344 - Gangapur
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -270,7 +259,7 @@
 3345 = {	# 3345 - Bhilwara
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	holding = none
@@ -286,7 +275,7 @@
 3346 = {	# 3346 - Mandrael
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -297,7 +286,7 @@
 3347 = {	# 3347 - Ajayameru
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = svetambara
 
 	# History
@@ -308,7 +297,7 @@
 3348 = {	# 3348 - Dhanop
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -319,7 +308,7 @@
 3349 = {	# 3349 - Pushkar
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -330,7 +319,7 @@
 3385 = {	# 3385 - Kasara
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = digambara
 
 	# History
@@ -341,7 +330,7 @@
 3386 = {	# 3386 - Kiratakupa
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = digambara
 
 	holding = none
@@ -354,7 +343,7 @@
 3387 = {	# 3387 - Jaisalmer
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = digambara
 
 	# History
@@ -365,7 +354,7 @@
 3388 = {	# 3388 - Phalavardhika
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = digambara
 
 	# History
@@ -376,7 +365,7 @@
 3389 = {	# 3389 - Juna_Barmer
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = digambara
 
 	holding = church_holding
@@ -389,7 +378,7 @@
 3476 = {	# 3476 - Kolayat
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = digambara
 
 	# History
@@ -400,7 +389,7 @@
 3477 = {	# 3477 - Dadrewa
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = kalikula_shaktism
 
 	# History
@@ -411,7 +400,7 @@
 3478 = {	# 3478 - Ladnu
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -422,7 +411,7 @@
 3479 = {	# 3479 - Kuchaman
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -433,7 +422,7 @@
 3480 = {	# 3480 - Makrana
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -444,7 +433,7 @@
 3481 = {	# 3481 - Vairata
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = saura
 
 	# History
@@ -455,7 +444,7 @@
 3482 = {	# 3482 - Sanganer
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = saura
 
 	# History
@@ -466,7 +455,7 @@
 3483 = {	# 3483 - Amer
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = saura
 
 	# History
@@ -477,7 +466,7 @@
 3484 = {	# 3484 - Osian
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -488,7 +477,7 @@
 3485 = {	# 3485 - Sanderaka
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -499,29 +488,34 @@
 3486 = {	# 3486 - Siwana
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
 
 }
 
-# 3487 - Purnatallakapura
-3487 = {	# 3487 - Purnatallakapura
-
+### c_medantaka
+1176 = {	# Medantaka
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
-	# History
+	holding = castle_holding
 
+	# History
+}
+3487 = {	# Purnatallakapura
+	#holding =
+
+	# History
 }
 
 # 3488 - Jalor
 3488 = {	# 3488 - Jalor
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 	terrain = desert
 
@@ -533,7 +527,7 @@
 3489 = {	# 3489 - Bhillamala
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	holding = church_holding
@@ -546,7 +540,7 @@
 3490 = {	# 3490 - Achalgarh
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -557,7 +551,7 @@
 3491 = {	# 3491 - Eklingji
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -568,7 +562,7 @@
 3492 = {	# 3492 - Nagahrada
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -579,7 +573,7 @@
 3493 = {	# 3493 - Rishabhdeo
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -590,7 +584,7 @@
 3494 = {	# 3494 - Jagadamba
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -601,7 +595,7 @@
 3495 = {	# 3495 - Rampura
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -612,7 +606,7 @@
 3496 = {	# 3496 - Baroli
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -623,7 +617,7 @@
 3497 = {	# 3497 - Bhainsrorgarh
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -634,7 +628,7 @@
 3498 = {	# 3498 - Ramgarh
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -645,7 +639,7 @@
 3499 = {	# 3499 - Bundi
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History
@@ -656,7 +650,7 @@
 3968 = {	# 3968 - Sakarai
 
 	# Misc
-	culture = rajput
+	culture = dhundari
 	religion = vaishnavism
 
 	# History
@@ -670,7 +664,7 @@
 3969 = {	# 3969 - Khaluvana
 
 	# Misc
-	culture = marwari
+	culture = rajput
 	religion = svetambara
 
 	# History

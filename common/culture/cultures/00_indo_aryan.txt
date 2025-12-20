@@ -123,16 +123,43 @@ hindustani = {
 	ethnicities = {
 		10 = indian
 	}
+
+	color = { 200 40 20 }
+
+	ethos = ethos_courtly
+	heritage = heritage_indo_aryan
+	language = language_sauraseni
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+
+	traditions = {
+		tradition_city_keepers
+		tradition_culture_blending
+		tradition_religion_blending
+		tradition_hereditary_hierarchy
+	}
+
+	name_list = name_list_hindustani
+
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+
+	ethnicities = {
+		10 = indian
+	}
 }
 
 gujarati = {
 	# Gurjaratri
-	color = { 102 51 51 }
+	color = gujarati
 	#these are percentage { 0.4 0.2 0.2 }
 
 	ethos = ethos_egalitarian
 	heritage = heritage_indo_aryan
-	language = language_rajasthani
+	language = language_gujarati
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 
@@ -189,9 +216,9 @@ punjabi = {
 	}
 }
 
-rajput = { # Indo-Aryan
-	# Renamed to Dhundari - needs rework
-	color = rajput
+rajput = {
+	# Renamed to Marwari
+	color = { 170 30 40 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_indo_aryan
@@ -201,13 +228,10 @@ rajput = { # Indo-Aryan
 
 	traditions = {
 		tradition_warrior_culture
-		tradition_dryland_dwellers
 		tradition_mystical_ancestors
-		tradition_hereditary_hierarchy
-		tradition_castle_keepers
-
-		#tradition_quarrelsome - vanilla
-		#tradition_khadga_puja - vanilla
+		tradition_dryland_dwellers
+		tradition_desert_nomads
+		tradition_caravaneers
 	}
 
 	name_list = name_list_rajput

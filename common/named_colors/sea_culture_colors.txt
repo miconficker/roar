@@ -30,7 +30,7 @@
 	bauzi = { 213 104 0 }
 	bayirku = { 33 33 33 }
 	be = { 52 139 219 }
-	bhil = { 200 130 130 }
+	bhil = { 100 90 70 }
 	biak = { 95 161 3 }
 	bidayuh = { 119 187 54 }
 	bilic = { 106 84 128 }
@@ -252,6 +252,9 @@
 	tush = { 198 110 1 }
 	udi = { 99 76 80 }
 
+	# Indian colours
+	gujarati = { 102 51 51 }
+
 	# Mon-Khmer colours
 	bnam  = { 150 130 190 }
 	chong = { 160 210 220 }
@@ -288,4 +291,5 @@
 	#muism_old = { 88 18 153 }
 	#bugaism_old = { 41 177 86 }
 	#satsana_phi_auh = { 71 32 70 }
+	#unused_brajji = { 200 80 20 }
 }

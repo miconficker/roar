@@ -1065,86 +1065,8 @@
 		death = yes
 	}
 }
-#######################################
-# Baland Dynasty
-#######################################
-191482 = {# Patel
-	name = "Patel"	#Fictional
-	dynasty = 1044350 #Baland
-	religion = "shaivism"
-	culture = "kaushali"
-	700.1.1 = {
-		birth = yes
-	}
-	780.1.1 = {
-		death = yes
-	}
-}
-191483 = {# Mukhia
-	name = "Mukhia"	#Fictional
-	dynasty = 1044350 #Baland
-	religion = "shaivism"
-	culture = "kaushali"
-	father = 191482
-	720.1.1 = {
-		birth = yes
-	}
-	810.1.1 = {
-		death = yes
-	}
-}
-191484 = {# Mahji
-	name = "Mahji"	#Fictional
-	dynasty = 1044350 #Baland
-	religion = "shaivism"
-	culture = "kaushali"
-	father = 191483
-	750.1.1 = {
-		birth = yes
-	}
-	830.1.1 = {
-		death = yes
-	}
-}
-191485 = {# Mukhia
-	name = "Mukhia"	#Fictional
-	dynasty = 1044350 #Baland
-	religion = "shaivism"
-	culture = "kaushali"
-	father = 191484
-	800.1.1 = {
-		birth = yes
-	}
-	860.1.1 = {
-		death = yes
-	}
-}
-191486 = {# Mahji
-	name = "Mahji"	#Fictional
-	dynasty = 1044350 #Baland
-	religion = "shaivism"
-	culture = "kaushali"
-	father = 191485
-	820.1.1 = {
-		birth = yes
-	}
-	880.1.1 = {
-		death = yes
-	}
-}
-191487 = {# Patel
-	name = "Patel"	#Fictional
-	dynasty = 1044350 #Baland
-	religion = "shaivism"
-	culture = "kaushali"
-	father = 191486
-	840.1.1 = {
-		birth = yes
-	}
-	920.1.1 = {
-		death = yes
-	}
-}
+
+
 #######################################
 # Rajkaushali Dynasty
 #######################################
