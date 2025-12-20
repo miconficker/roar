@@ -1,0 +1,290 @@
+﻿# k_lhomon
+## d_bumthang
+### c_bumthang
+9145 = {	# Bumthang
+	culture = lhomon #Monpa
+	religion = lamaism
+
+	holding = tribal_holding
+
+	# History
+}
+9146 = {	# Lhuentse
+	holding = city_holding
+}
+9179 = {	# Kurtoed
+	holding = church_holding
+}
+
+### c_kurmaed
+9149 = {	# Kurmaed
+	culture = lhomon #Monpa
+	religion = old_bon
+	
+	holding = tribal_holding
+	
+	# History
+}
+9148 = {	# Pemagatsel
+	holding = city_holding
+}
+9147 = {	# Mongar
+	holding = church_holding
+}
+
+### c_trongsa
+9143 = {	# Trongsa
+	culture = lhomon #Monpa
+	religion = lamaism
+
+	holding = tribal_holding
+
+	# History
+}
+9144 = {	# Zhemgang
+	holding = city_holding
+
+	# History
+}
+
+
+## d_paro
+### c_paro
+9137 = {	# Paro
+	culture = lhomon #Lepcha
+	religion = lamaism
+
+	holding = tribal_holding
+	
+	# History
+}
+9138 = {	# Thimpu
+	holding = city_holding
+}
+9139 = {	# Daga
+	holding = none
+}
+9142 = {	# Sarpang
+	holding = none
+}
+
+### c_punakha
+9140 = {	# Punakha
+	culture = lhomon #Lepcha
+	religion = lamaism
+
+	holding = tribal_holding
+	
+	# History
+}
+9141 = {	# Gasa
+	holding = city_holding
+}
+
+### c_daramdin
+9129 = {	# Daramdin
+	culture = kirati
+	religion = yumaism
+
+	holding = tribal_holding
+
+	# History
+}
+9128 = {	# Darjeeling
+	holding = city_holding
+
+	# History
+}
+
+### c_chungthang
+9133 = {	# Chungthang
+	culture = lhomon #Lepcha
+	religion = lamaism
+
+	holding = tribal_holding
+
+	# History
+}
+9134 = {	# Kalimpong
+	holding = city_holding
+
+	# History
+}
+9135 = {	# Dromo
+	holding = tribal_holding
+
+	# History
+}
+
+
+## d_monyul
+### c_tawang
+9154 = {	# Tawang
+	# Misc
+	culture = lhomon #Monpa
+	religion = lamaism
+	
+	holding = tribal_holding
+	
+	# History
+}
+9155 = {	# Morshing
+	holding = church_holding
+}
+9156 = {	# Sepla
+	holding = city_holding
+}
+
+### c_cona
+9150 = {	# Cona (b_cona_tibet)
+	# Misc
+	culture = lhomon #Monpa
+	religion = old_bon
+	
+	holding = tribal_holding
+	
+	# History
+}
+9151 = {	# Nariyong
+	holding = church_holding
+}
+
+### c_lhunze
+9152 = {	# Lhunze
+	# Misc
+	culture = lhomon #Monpa
+	religion = old_bon
+	
+	holding = tribal_holding
+	
+	# History
+}
+9153 = {	# Yumai
+	holding = church_holding
+}
+
+
+## d_lhoyul
+### c_itanagar
+9157 = {	# Itanagar
+	culture = tani
+	religion = donyipoloism
+
+	holding = tribal_holding
+	
+	# History
+}
+9158 = {	# Ziro
+	holding = city_holding
+}
+9159 = {	# Daporijo
+	holding = church_holding
+}
+
+### c_along
+9160 = {	# Along
+	culture = tani
+	religion = donyipoloism
+
+	holding = tribal_holding
+
+	# History
+}
+9161 = {	# Mechuka
+	holding = church_holding
+}
+9162 = {	# Tuting
+	holding = none
+}
+
+### c_mainling
+9170 = {	# Mainling
+	culture = lhomon #Lhoba
+	religion = old_bon
+	
+	holding = tribal_holding
+	
+	# History
+}
+9169 = {	# Wolong AKA Welang
+	holding = church_holding
+}
+
+### c_pemako
+9172 = {	# Medog
+	culture = tani
+	religion = lamaism
+	
+	holding = tribal_holding
+	
+	# History
+}
+9171 = {	# Bokthang
+	holding = church_holding
+}
+
+
+## d_dzayul
+### c_rima
+9175 = {	# Rima
+	culture = tani
+	religion = donyipoloism
+	
+	holding = tribal_holding
+	
+	# History
+}
+9173 = {	# Dzayul
+	holding = none #nomad
+}
+9174 = {	# Zayu
+	holding = none #nomad
+}
+
+### c_golag
+9176 = {	# Golag
+	culture = tani
+	religion = donyipoloism
+	
+	holding = tribal_holding
+	
+	# History
+}
+9177 = {	# Cawarong
+	holding = city_holding
+}
+9178 = {	# Goyu
+	holding = church_holding
+}
+
+### c_roing
+9165 = {	# Roing
+	culture = tani 
+	religion = donyipoloism
+	
+	holding = tribal_holding
+	
+	# History
+}
+9164 = {	# Anini
+	holding = church_holding
+}
+9163 = {	# Yingkiong
+	holding = city_holding
+}
+
+### c_tezu
+9166 = {	# Tezu
+	culture = tani
+	religion = donyipoloism
+
+	holding = tribal_holding
+	
+	# History
+}
+9167 = {	# Kibithu
+	holding = church_holding
+}
+9168 = {	# Hawai
+	holding = city_holding
+}

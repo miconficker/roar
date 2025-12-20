@@ -1,0 +1,188 @@
+### c_udayagiri
+1122 = {	# 1122 - Udayagiri
+	culture = telugu
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 1123 - Vengipura
+1123 = {	# 1123 - Vengipura
+	culture = telugu
+	religion = shaivism
+
+	holding = castle_holding
+
+	# History
+}
+
+# 1207 - Amaravati
+1207 = {	# 1207 - Amaravati
+	culture = telugu
+	religion = svetambara
+
+	special_building_slot = amaravati_stupa_01
+	special_building = amaravati_stupa_01
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 1221 - Vijayawada
+1221 = {	# 1221 - Vijayawada
+	culture = telugu
+	religion = svetambara
+
+	holding = city_holding
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 1222 - Rajamahendravaram
+1222 = {	# 1222 - Rajamahendravaram
+	culture = telugu
+	religion = shaivism
+
+	# History
+}
+
+# 1253 - Nilagiri
+1253 = {	# 1253 - Nilagiri
+	culture = telugu
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 1415 - Pithapuram
+1415 = {	# 1415 - Pithapuram
+	culture = telugu
+	religion = shrautism
+
+	# History
+}
+
+# 7839 - Pondugala
+7839 = {	# 1207 - Amaravati
+	culture = telugu
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7840 - Ittagi
+7840 = {	# 1122 - Udayagiri
+	culture = telugu
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7841 - Sriparvata
+7841 = {	# 1122 - Udayagiri
+	culture = telugu
+	religion = svetambara
+
+	special_building_slot = mallikarjuna_temple_01
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7842 - Addanki
+7842 = {	# 1207 - Amaravati
+	culture = telugu
+	religion = svetambara
+	terrain = jungle
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7843 - Mudivemu
+7843 = {	# 1122 - Udayagiri
+	culture = telugu
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+7844 = {	# 1122 - Udayagiri
+	culture = telugu
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+7845 = {	# 1122 - Udayagiri
+	culture = telugu
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+7846 = {	# 1122 - Udayagiri
+	culture = telugu
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+7911 = {	# 1123 - Vengipura
+	culture = telugu
+	religion = shaivism
+
+	holding = church_holding
+
+	# History
+}
+
+7912 = {	# 1123 - Vengipura
+	culture = telugu
+	religion = shaivism
+
+	holding = castle_holding
+	special_building_slot = kollur_mines_01
+
+	# History
+}
+
+7916 = {	# 1415 - Pithapuram
+	culture = telugu
+	religion = shaivism
+
+	# History
+}

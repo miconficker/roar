@@ -1,0 +1,482 @@
+﻿# k_bengal AKA Gaudiya
+## d_gauda
+### c_laksmanavati
+1151 = {	# 1151 - Laksmanavati
+
+	# Misc
+	culture = bengali
+	religion = vajrayana
+
+	holding = castle_holding
+	buildings = { castle_04 }
+
+	# History
+}
+837 = {	# 837 - Gaur
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+838 = {	# 838 - Hazrat_Pandua
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+839 = {	# 839 - Rampur_Boalia
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_kotivarsa
+840 = {	# 840 - Ramavati
+
+	# Misc
+	culture = bengali
+	religion = kalikula_shaktism
+
+	holding = castle_holding
+
+	# History
+}
+841 = {	# 841 - Devkot
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+1153 = {	# 1153 - Kotivarsa
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+
+### c_gauda
+1243 = {	# 1243 - Karnasubarna
+
+	# Misc
+	culture = bengali
+	religion = mahayana
+
+	holding = castle_holding
+
+	# History
+}
+842 = {	# 842 - Raktamrittika
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+843 = {	# 843 - Agmahl
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+## d_nadia
+### c_nabadwipa
+1323 = {	# 1323 - Nabadwipa
+
+	# Misc
+	culture = bengali
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+855 = {	# 855 - Attahasa
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+856 = {	# 856 - Santipura
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+
+### c_saptagrama
+1233 = {	# 1233 - Saptagrama
+
+	# Misc
+	culture = bengali
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+857 = {	# 857 - Pandua
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+858 = {	# 858 - Kumarhati
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_vijayapura
+1239 = {	# 1239 - Vijayapura
+
+	# Misc
+	culture = bengali
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+859 = {	# 859 - Visnupura
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+860 = {	# 860 - Umardan
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_radha
+1242 = {	# 1242 - Lakhnor
+
+	# Misc
+	culture = bengali
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+844 = {	# 844 - Kalyaneshwari
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+845 = {	# 845 - Gopbhum
+
+	# Misc
+	holding = none
+
+	# History
+}
+913 = {	# 913 - Kashipur
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+## d_suhma
+### c_mallabhum
+1238 = {	# 1238 - Mallabhum
+
+	# Misc
+	culture = bengali
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+866 = {	# 866 - Baghmundi
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_tamralipti
+1235 = {	# 1235 - Tamralipti
+
+	# Misc
+	culture = bengali
+	religion = kalikula_shaktism
+
+	holding = castle_holding
+
+	# History
+}
+862 = {	# 862 - Sagardwip
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+863 = {	# 863 - Chatrabhog
+
+	# Misc
+	holding = none
+
+	# History
+}
+864 = {	# 864 - Chandraketugarh
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_midnapore
+1232 = {	# 1232 - Midnapore
+
+	# Misc
+	culture = oriya
+	religion = kalikula_shaktism
+
+	holding = castle_holding
+
+	# History
+}
+865 = {	# 865 - Dantan
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+## d_vanga
+### c_bikrampur
+1319 = {	# 1319 - Bikrampur
+
+	# Misc
+	culture = bengali
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+833 = {	# 833 - Ekdala
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+1240 = {	# 1240 - Fathabad
+
+	# Misc
+	holding = none
+
+	# History
+}
+834 = {	# 834 - Chandpur
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+
+### c_candradvipa
+1236 = {	# 1236 - Candradvipa
+
+	# Misc
+	culture = bengali
+	religion = kalikula_shaktism
+
+	holding = castle_holding
+
+	# History
+}
+835 = {	# 835 - Bagerhat
+
+	# Misc
+	holding = none
+
+	# History
+}
+836 = {	# 836 - Ishwaripur
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_karmanta
+1131 = {	# 1131 - Karmanta
+
+	# Misc
+	culture = tripuri
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+831 = {	# 831 - Tripura
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+832 = {	# 832 - Mainamati
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+9657 = {	# 9657 - Udaipur
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_samatata
+1318 = {	# 1318 - Samatata
+
+	# Misc
+	culture = bengali
+	religion = theravada
+
+	holding = castle_holding
+
+	# History
+}
+829 = {	# 829 - Candranatha
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+830 = {	# 830 - Pattikera
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+
+## d_varendra
+### c_pundravardhana
+1381 = {	# 1381 - Pundravardhana
+
+	# Misc
+	culture = bengali
+	religion = kalikula_shaktism
+
+	holding = castle_holding
+
+	# History
+}
+846 = {	# 846 - Mahasthangarh
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+847 = {	# 847 - Ghoraghat
+
+	# Misc
+	holding = none
+
+	# History
+	1066.1.1 = {
+		holding = city_holding
+	}
+}
+
+### c_suvarnagram
+1324 = {	# 1324 - Suvarnagram
+
+	# Misc
+	culture = bengali
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+850 = {	# 850 - Bokainagar
+
+	# Misc
+	holding = city_holding
+
+	# History
+}
+851 = {	# 851 - Dhakeshwari_Jatiya_Mandir / Dhakeshwari Jatiya Mandir
+
+	# Misc
+	holding = church_holding
+
+	# History
+}
+852 = {	# 852 - Nasirabad
+
+	# Misc
+	holding = none
+
+	# History
+}
+
+### c_madhupur
+1325 = {	# 1325 - Madhupur
+
+	# Misc
+	culture = bengali
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+861 = {	# 861 - Pabna
+
+	# Misc
+	holding = none
+
+	# History
+}
+848 = {	# 848 - Somapur
+
+	# Misc
+	holding = city_holding
+
+	# History
+	867.1.1 = {
+		special_building = generic_university
+	}
+}

@@ -1,0 +1,722 @@
+# 1112 - Madurai
+1112 = {	# 1112 - Madurai
+
+	# Misc
+	culture = tamil
+	religion = yapaniya
+
+	special_building_slot = madurai_temple_01
+	special_building = madurai_temple_01
+
+	# History
+	1066.1.1 = {
+		religion = shaivism
+	}
+}
+
+# 1114 - Mahoyadapuram
+1114 = {	# 1114 - Mahoyadapuram
+
+	# Misc
+	culture = malayali
+	religion = shrautism
+
+	# History
+}
+
+# 1115 - Cholamandalam
+1115 = {	# 1115 - Cholamandalam
+
+	# Misc
+	culture = tamil
+	religion = shaivism
+
+	# History
+	867.1.1 = {
+		holding = castle_holding
+		buildings = { castle_04 }
+		special_building_slot = brihadeeswarar_temple_01
+	}
+	1066.1.1 = {
+		special_building = brihadeeswarar_temple_01
+		religion = shaivism
+	}
+}
+
+# 1116 - Tenkasi
+1116 = {	# 1116 - Tenkasi
+
+	# Misc
+	culture = tamil
+	religion = vaishnavism
+
+	# History
+}
+
+# 1117 - Qalqut
+1117 = {	# 1117 - Qalqut
+
+	# Misc
+	culture = malayali
+	religion = vaishnavism
+
+	# History
+}
+
+# 1119 - Kanchipuram
+1119 = {	# 1119 - Kanchipuram
+
+	# Misc
+	culture = tamil
+	religion = yapaniya
+	special_building_slot = kailasanathar_temple_01
+	special_building = kailasanathar_temple_01
+
+	# History
+	1066.1.1 = {
+		religion = srikula_shaktism
+	}
+}
+
+# 1120 - Tagadur
+1120 = {	# 1120 - Tagadur
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = svetambara
+	}
+}
+
+# 1199 - Penugonda
+1199 = {	# 1199 - Penugonda
+
+	# Misc
+	culture = kannada
+	religion = srikula_shaktism
+
+	# History
+}
+
+# 1200 - Kanara
+1200 = {	# 1200 - Kanara
+
+	# Misc
+	culture = kannada
+	religion = yapaniya
+
+	# History
+}
+
+# 1201 - Kongu
+1201 = {	# 1201 - Kongu
+
+	# Misc
+	culture = tamil
+	religion = shaivism
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = shaivism
+	}
+}
+
+# 1204 - Nellore
+1204 = {	# 1204 - Nellore
+
+	# Misc
+	culture = telugu
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = shaivism
+	}
+}
+
+# 1214 - Tirunelveli
+1214 = {	# 1214 - Tirunelveli
+
+	# Misc
+	culture = tamil
+	religion = vaishnavism
+
+	# History
+}
+
+# 1219 - Potapi
+1219 = {	# 1219 - Potapi
+	# Misc
+	culture = telugu
+	religion = svetambara
+	terrain = hills
+	special_building_slot = venkateswara_temple_01
+	special_building = venkateswara_temple_01
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+###c_maldives
+1360 = {	# Mahal
+
+	# Misc
+	culture = sinhala
+	religion = theravada
+
+	holding = castle_holding
+
+	# History
+}
+8712 = {	# Thiladhunmathi
+	holding = church_holding
+}
+
+# 1413 - Venadu
+1413 = {	# 1413 - Venadu
+
+	# Misc
+	culture = tamil
+	religion = vaishnavism
+
+	# History
+}
+
+# 7797 - Mangalur
+7797 = {	# 1117 - Qalqut
+
+	# Misc
+	culture = malayali
+	religion = vaishnavism
+
+	# History
+}
+
+# 7798 - Kannanur
+7798 = {	# 1117 - Qalqut
+
+	# Misc
+	culture = malayali
+	religion = vaishnavism
+
+	# History
+}
+
+# 7799 - Malappuram
+7799 = {	# 1114 - Mahoyadapuram
+
+	# Misc
+	culture = malayali
+	religion = vaishnavism
+
+	# History
+}
+
+# 7800 - Palakkad
+7800 = {	# 1114 - Mahoyadapuram
+
+	# Misc
+	culture = malayali
+	religion = vaishnavism
+
+	# History
+}
+
+# 7801 - Kunjakari
+7801 = {	# 1114 - Mahoyadapuram
+
+	# Misc
+	culture = tamil
+	religion = vaishnavism
+
+	# History
+}
+
+# 7802 - Kottayam
+7802 = {	# 1114 - Mahoyadapuram
+
+	# Misc
+	culture = malayali
+	religion = vaishnavism
+
+	# History
+}
+
+# 7803 - Kollam
+7803 = {	# 1413 - Venadu
+
+	# Misc
+	culture = malayali
+	religion = kaumaram
+
+	# History
+}
+
+# 7804 - Kovai
+7804 = {	# 1201 - Kongu
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+
+	special_building_slot = dhandayuthapani_temple_01
+	special_building = dhandayuthapani_temple_01
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7805 - Tiruppur
+7805 = {	# 1201 - Kongu
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7806 - Dindigul
+7806 = {	# 1201 - Kongu
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+	special_building_slot = arulmigu_solaimalai_temple_01
+	special_building = arulmigu_solaimalai_temple_01
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7807 - Uraiyur
+7807 = {	# 1201 - Kongu
+
+	# Misc
+	culture = tamil
+	religion = kaumaram
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = kaumaram
+	}
+}
+
+# 7808 - Sivaganga
+7808 = {	# 1201 - Kongu
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7809 - Rameshvaram
+7809 = {	# 1112 - Madurai
+
+	# Misc
+	culture = tamil
+	religion = yapaniya
+	special_building_slot = ramanathaswamy_temple_01
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7810 - Virudhukkalvetti
+7810 = {	# 1112 - Madurai
+
+	# Misc
+	culture = tamil
+	religion = yapaniya
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7811 - Sivakasi
+7811 = {	# 1112 - Madurai
+
+	# Misc
+	culture = tamil
+	religion = yapaniya
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7812 - Korkai
+7812 = {	# 1112 - Madurai
+
+	# Misc
+	culture = tamil
+	religion = yapaniya
+
+	special_building_slot = subramaniya_swamy_temple_01
+	special_building = subramaniya_swamy_temple_01
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7813 - Kayal
+7813 = {	# 1112 - Madurai
+
+	# Misc
+	culture = tamil
+	religion = yapaniya
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7814 - Kottar
+7814 = {	# 1413 - Venadu
+
+	# Misc
+	culture = tamil
+	religion = vaishnavism
+
+	# History
+}
+
+# 7815 - Togarakunta
+7815 = {	# Togarakunta
+
+	# Misc
+	culture = kannada
+	religion = shaivism
+
+	# History
+}
+
+# 7816 - Anantapur
+7816 = {	# Anantapur
+
+	# Misc
+	culture = kannada
+	religion = shaivism
+
+	# History
+}
+
+# 7817 - Puspagiri
+7817 = {	# Puspagiri
+
+	# Misc
+	culture = kannada
+	religion = shaivism
+
+	# History
+}
+
+# 7818 - Vallurapura
+7818 = {	# 1204 - Nellore
+
+	# Misc
+	culture = telugu
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7819 - Mangalavada
+7819 = {	# 1199 - Penugonda
+
+	# Misc
+	culture = kannada
+	religion = shaivism
+
+	# History
+}
+
+# 7820 - Melpadi
+7820 = {	# 1199 - Penugonda
+
+	# Misc
+	culture = kannada
+	religion = shaivism
+
+	# History
+}
+
+# 7821 - Kalahasti
+7821 = {	# 1204 - Nellore
+	# Misc
+	culture = telugu
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7822 - Nandi
+7822 = {	# 1199 - Penugonda
+
+	# Misc
+	culture = kannada
+	religion = shaivism
+
+	# History
+}
+
+# 7823 - Nangali
+7823 = {	# 1199 - Penugonda
+
+	# Misc
+	culture = kannada
+	religion = shaivism
+
+	# History
+}
+
+# 7824 - Muluvagil
+7824 = {	# 1119 - Kanchipuram
+
+	# Misc
+	culture = tamil
+	religion = yapaniya
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7825 - Padaividu
+7825 = {	# 1199 - Penugonda
+
+	# Misc
+	culture = kannada
+	religion = shaivism
+
+	# History
+}
+
+# 7826 - Takkaloma
+7826 = {	# 1119 - Kanchipuram
+
+	# Misc
+	culture = tamil
+	religion = yapaniya
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7827 - Mamallapuram
+7827 = {	# 1119 - Kanchipuram
+
+	# Misc
+	culture = tamil
+	religion = yapaniya
+
+	# History
+	1066.1.1 = {
+		religion = vaishnavism
+	}
+}
+
+# 7828 - Kuvalala
+7828 = {	# 1120 - Tagadur
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7829 - Kudalasangama_bis
+7829 = {	# 1120 - Tagadur
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7830 - Tiruvannamalai
+7830 = {	# 1120 - Tagadur
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = shaivism
+	}
+}
+
+# 7831 - Uttaramerur
+7831 = {	# 1120 - Tagadur
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7832 - Jinji
+7832 = {	# 1120 - Tagadur
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7833 - Kelrayan
+7833 = {	# 1120 - Tagadur
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7834 - Srirangam
+7834 = {	# 1120 - Tagadur
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+	terrain = hills
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7835 - Tirukoilur
+7835 = {	# 1115 - Cholamandalam
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7836 - Kannanur_2
+7836 = {	# 1115 - Cholamandalam
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7837 - Gangaikondacolapuram
+7837 = {	# 1115 - Cholamandalam
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+# 7838 - Nagapattinam
+7838 = {	# 1115 - Cholamandalam
+
+	# Misc
+	culture = tamil
+	religion = svetambara
+
+	# History
+	1066.1.1 = {
+		religion = krishnaism
+	}
+}
+
+## Lakhshadweep
+
+# b_androth
+12490 = {
+	culture = malayali
+	religion = ashari
+
+	holding = castle_holding
+}
+
+# b_kavaratti
+13224 = {
+	holding = none
+}

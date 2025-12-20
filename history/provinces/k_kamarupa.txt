@@ -1,0 +1,199 @@
+﻿# k_kamarupa
+## d_kamarupanagara
+### c_kamarupanagara
+1321 = {	# Kamarupanagara
+	culture = assamese
+	religion = vaishnavism
+
+	holding = castle_holding
+
+	# History
+}
+814 = { 	# Manikuta
+	holding = church_holding
+
+	# History
+}
+815 = { 	# Pragyotisapura
+	holding = city_holding
+
+	special_building_slot = kamakhya_temple_01
+	special_building = kamakhya_temple_01
+
+	# History
+}
+816 = { 	# Dhubri
+	holding = none
+
+	# History
+}
+
+### c_kamatapur
+1244 = {	# Kamatapur
+	culture = assamese
+	religion = vaishnavism
+
+	holding = castle_holding
+
+	# History
+}
+817 = { 	# Nalrajar Garh
+	holding = city_holding
+
+	# History
+}
+818 = { 	# Bhitagarh
+	holding = none
+
+	# History
+}
+
+### c_goalpara
+1246 = {	# Goalpara
+	culture = garo
+	religion = songsarek
+
+	holding = tribal_holding
+
+	# History
+}
+819 = { 	# Sri Surya Pahar
+	holding = church_holding
+
+	# History
+}
+820 = { 	# Kamakhya
+	holding = city_holding
+
+	# History
+}
+
+
+## d_sutiya
+### c_haruppeswara
+1418 = {	# Haruppeswara
+	culture = assamese
+	religion = vaishnavism
+
+	holding = castle_holding
+
+	# History
+}
+813 = { 	# Numaligarh
+	holding = none
+
+	# History
+	1066.1.1 = {
+		holding = city_holding
+	}
+}
+812 = { 	# Narayanpur
+	holding = church_holding
+
+	# History
+}
+
+### c_charaideo
+810 = { 	# Charaideo
+	culture = kachari
+	religion = bathouism
+
+	holding = tribal_holding
+
+	# History
+}
+811 = { 	# Carguya
+	holding = church_holding
+
+	# History
+}
+
+### c_kundina
+1177 = {	# Kundina
+	culture = kachari
+	religion = bathouism
+
+	holding = tribal_holding
+
+	# History
+}
+808 = { 	# Tinsukia
+	holding = city_holding
+
+	# History
+}
+809 = { 	# Ghuguha Dol
+	holding = none
+
+	# History
+}
+
+
+## d_para_lauhitya
+### c_dimapur
+1296 = {	# Dimapur
+	culture = kachari
+	religion = bathouism
+
+	holding = tribal_holding
+
+	# History
+}
+821 = { 	# Herombial
+	holding = none
+
+	# History
+}
+822 = { 	# Maibong
+	holding = none
+
+	# History
+}
+823 = { 	# Oddiyana2
+	holding = church_holding
+
+	# History
+}
+
+### c_manipur
+826 = { 	# Manipur
+	culture = meitei
+	religion = sanamahi_pagan
+
+	holding = tribal_holding
+
+	# History
+}
+827 = { 	# Khoupum
+	holding = none
+
+	# History
+}
+9865 = {	# Kohima
+	holding = none
+}
+
+
+## d_jaintia
+### c_srihatta
+1245 = {	# Srihatta
+	culture = khasi
+	religion = khasi_animism
+
+	holding = tribal_holding
+
+	# History
+}
+824 = { 	# Jangalbari
+	holding = none
+
+	# History
+	1066.1.1 = {
+		holding = church_holding
+	}
+}
+825 = { 	# Habiganj
+	holding = none
+
+	# History
+}

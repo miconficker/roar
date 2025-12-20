@@ -1,0 +1,359 @@
+﻿# k_bihar
+## d_magadha
+### c_magadha
+1154 = {	# Pataliputra
+	culture = magadhi
+	religion = vajrayana
+
+	holding = castle_holding
+	special_building_slot = nalanda_university
+
+	# History
+	700.1.1 = {
+		special_building = nalanda_university
+	}
+}
+867 = { 	# Odantapuri
+	holding = city_holding
+	special_building_slot = jal_mandir_temple_01
+
+	# History
+	800.1.1 = {
+		special_building = jal_mandir_temple_01
+	}
+}
+868 = { 	# Rajagrha
+	holding = church_holding
+
+	# History
+}
+869 = { 	# Maner
+	holding = none
+
+	# History
+}
+870 = { 	# Bihar Sharif [Bihar_Sharif]
+	holding = none
+
+	# History
+}
+
+### c_mudgagiri
+1152 = {	# Mudgagiri
+	culture = magadhi
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+871 = { 	# Campa
+	holding = city_holding
+
+	# History
+}
+872 = { 	# Vikramasila
+	holding = church_holding
+	special_building_slot = generic_university
+
+	# History
+	800.1.1 = {
+		# Approximate date
+		special_building = generic_university
+	}
+}
+
+### c_gaya
+1276 = {	# Gaya
+	culture = magadhi
+	religion = mahayana
+
+	holding = castle_holding
+	special_building_slot = holy_site_mahabodhi_temple_01
+
+	# History
+	867.1.1 = {
+		special_building = holy_site_mahabodhi_temple_01
+	}
+}
+873 = { 	# Bodh Gaya [Bodh_Gaya]
+	holding = church_holding
+
+	# History
+}
+874 = { 	# Kukkutapada
+	holding = none
+
+	# History
+}
+
+### c_sasaram
+1251 = {	# Sasaram
+	culture = kashika
+	religion = saura
+
+	holding = castle_holding
+
+	# History
+}
+875 = { 	# Jaund
+	holding = city_holding
+
+	# History
+}
+876 = { 	# Arrah
+	holding = none
+
+	# History
+}
+
+
+## d_tirabhukti
+### c_mithila
+1419 = {	# Mithila
+	culture = maithili
+	religion = kalikula_shaktism
+
+	holding = castle_holding
+
+	# History
+}
+877 = { 	# Sugauna
+	holding = city_holding
+
+	# History
+}
+878 = { 	# Darbhanga
+	holding = none
+
+	# History
+}
+879 = { 	# Hajipur
+	holding = church_holding
+
+	# History
+}
+
+### c_simaramapura
+1420 = {	# Simaramapura
+	culture = maithili
+	religion = kalikula_shaktism
+
+	holding = castle_holding
+
+	# History
+}
+880 = { 	# Kesaria
+	holding = none
+
+	# History
+}
+3957 = {	# Barohiya
+	holding = none
+
+	# History
+}
+
+### c_kusinagara
+1162 = {	# Kusinagara
+	culture = kashika
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+881 = { 	# Pava
+	holding = church_holding
+
+	# History
+}
+882 = { 	# Chapra
+	holding = none
+
+	# History
+}
+
+### c_bangaon
+9654 = {	# Bangaon
+	culture = maithili
+	religion = kalikula_shaktism
+
+	holding = castle_holding
+
+	# History
+}
+9655 = {	# Jalalghar
+	holding = none
+
+	# History
+}
+9656 = {	# Burhi Gandak [Burhi_Gandak]
+	holding = none
+
+	# History
+}
+
+
+## d_kasi
+### c_jaunpur
+1166 = {	# Jaunpur
+	culture = kashika
+	religion = vajrayana
+
+	holding = castle_holding
+
+	# History
+}
+883 = { 	# Gadhipuri
+	holding = church_holding
+
+	# History
+}
+884 = {	# Haldi [Haldi2]
+	holding = none
+
+	# History
+}
+
+### c_varanasi
+1163 = {	# 1163 - Varanasi
+	culture = kashika
+	religion = vajrayana
+	holding = castle_holding
+
+	special_building_slot = varanasi_temples_01
+	special_building = varanasi_temples_01
+
+	# History
+	# temple destroyed by Ghurids in 1194 with mosque built in its place
+	# smaller temple built nearby in 1230 and destroyed in XV century
+	# later on Mughals rebuilt the temple and also replaced it with mosque much later
+	# eventually in XVIII century the attempts of rebuilding temple resumed
+}
+885 = { 	# Bhadohi
+	holding = none
+
+	# History
+	1066.1.1 = {
+		holding = church_holding
+	}
+}
+
+### c_chunar
+1281 = {	# Chunar
+	culture = kashika
+	religion = saura
+
+	# History
+}
+# 905 = {	# Kanit - in different file
+	# History
+	# 1193.1.1 = {
+	#	holding = castle	#Continuation of Gahadvala sidebranch
+	# }
+#}
+
+
+## d_jharkand
+### c_jharkand
+1241 = {	# Koriya
+	culture = kurukh
+	religion = sarnaism
+
+	holding = tribal_holding
+
+	# History
+}
+906 = { 	# Ambikapur
+	holding = none
+
+	# History
+	1066.1.1 = {
+		holding = city_holding
+	}
+}
+907 = { 	# Beohari
+	holding = none
+
+	# History
+}
+
+### c_rothas
+1327 = {	# Rothas
+	culture = kashika
+	religion = mahayana
+
+	holding = castle_holding
+
+	# History
+}
+908 = { 	# Betla
+	holding = church_holding
+
+	# History
+}
+909 = { 	# Palamau
+	holding = none
+
+	# History
+}
+
+### c_damin_i_koh
+1234 = {	# Deogarh in Damin-i-Koh [Deogarh2]
+	culture = magadhi
+	religion = mahayana
+
+	holding = tribal_holding
+
+	# History
+}
+912 = { 	# Shikarji
+	holding = church_holding
+
+	# History
+}
+
+
+## d_munda
+### c_munda
+1248 = {	# Chutia
+	culture = munda
+	religion = sarnaism
+
+	holding = tribal_holding
+
+	# History
+}
+911 = { 	# Ratu
+	holding = none
+
+	# History
+}
+3997 = {	# Rajgangpur
+	holding = none
+
+	# History
+}
+3998 = {	# Bikramkhol
+	holding = none
+
+	# History
+}
+
+### c_rajrappa
+1237 = {	# Rajrappa
+	# a sacred spot for Munda people ; nowadays also a site of Hindu temple to goddess Chhinnamasta
+	culture = munda
+	religion = sarnaism
+
+	holding = tribal_holding
+
+	# History
+	# hard to say when actually this place became Hindu whorship site
+}
+910 = { 	# Kenduli
+	holding = none
+
+	# History
+}

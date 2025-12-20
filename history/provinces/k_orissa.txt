@@ -1,0 +1,378 @@
+﻿# k_orissa - AKA Kingdom of Odisha
+## d_tosali
+### c_kataka
+1129 = {	# Kataka
+	culture = oriya
+	religion = saura
+
+	holding = castle_holding
+
+	# History
+}
+927 = {	# Bhubaneswar
+	holding = church_holding
+
+	# History
+}
+928 = {	# Konarak
+	holding = city_holding
+
+	# History
+}
+929 = {	# Dhauli
+	holding = none
+
+	# History
+}
+930 = {	# Sakshigopal
+	holding = church_holding
+
+	# History
+}
+
+### c_viraja
+1231 = {	# Viraja
+	culture = oriya
+	religion = mahayana
+
+	holding = castle_holding
+
+	# History
+}
+932 = {	# Ratnagiri
+	holding = church_holding
+
+	special_building = generic_university # Pushpagiri Vihara
+
+	# History
+}
+3980 = {	# Bhadrak
+	holding = city_holding
+
+	# History
+}
+3981 = {	# Baleshvara
+	holding = none
+
+	# History
+}
+3982 = {	# Raibania
+	holding = none
+
+	# History
+}
+
+### c_khinjali_mandala
+1229 = {	# Khinjali
+	culture = oriya
+	religion = vaishnavism
+
+	holding = tribal_holding
+
+	# History
+	1066.1.1 = {
+		holding = castle_holding
+	}
+}
+3989 = {	# Nilamadhav
+	holding = church_holding
+
+	# History
+}
+3990 = {	# Nayagarh
+	holding = none
+
+	# History
+	1066.1.1 = {
+		holding = city_holding
+	}
+}
+
+### c_kodalaka_mandala
+1156 = {	# Kodalaka
+	culture = oriya
+	religion = mahayana
+
+	holding = tribal_holding
+
+	# History
+	1066.1.1 = {
+		holding = castle_holding
+	}
+}
+3987 = {	# Bajrakot
+	holding = church_holding
+
+	# History
+}
+931 = {	# Athgarh
+	holding = none
+
+	# History
+}
+
+### c_khijjingakota
+1247 = {	# Khijjinga
+	culture = oriya
+	religion = mahayana
+
+	holding = tribal_holding
+
+	# History
+	1066.1.1 = {
+		holding = castle_holding
+	}
+}
+3983 = {	# Asanapat
+	holding = none
+
+	# History
+}
+3984 = {	# Bahalda
+	holding = none
+
+	# History
+	1066.1.1 = {
+		holding = city_holding
+	}
+}
+3985 = {	# Ghatagaon
+	holding = church_holding
+
+	# History
+}
+3986 = {	# Malayagiri
+	holding = none
+
+	# History
+}
+
+
+## d_daksina_kosala
+### c_rayapura
+1160 = {	# Rayapura
+	culture = gond
+	religion = srikula_shaktism
+
+	holding = castle_holding
+
+	# History
+}
+3991 = {	# Shivapura
+	holding = church_holding
+
+	# History
+}
+3992 = {	# Camparanya
+	holding = none
+
+	# History
+}
+
+### c_sripuri
+1155 = {	# Sripuri
+	culture = oriya
+	religion = srikula_shaktism
+
+	holding = castle_holding
+
+	# History
+}
+3993 = {	# Rajiva-Lochana
+	holding = church_holding
+
+	# History
+}
+9659 = {	# Kanker
+	holding = church_holding
+
+	# History
+}
+
+### c_suvarnapura
+1230 = {	# Suvarnapura
+	culture = oriya
+	religion = vaishnavism
+
+	holding = castle_holding
+
+	# History
+}
+3994 = {	# Yajatinagara
+	holding = city_holding
+
+	# History
+}
+3995 = {	# Vinitapura
+	holding = church_holding
+
+	# History
+}
+3996 = {	# Ranipur
+	holding = none
+
+	# History
+}
+
+### c_sambalpur - needs rework
+1249 = {	# Sambalpur
+	culture = oriya
+	religion = mahayana
+
+	holding = tribal_holding
+
+	# History
+}
+3988 = {	# Deogarh
+	holding = city_holding
+
+	# History
+}
+
+### c_kiranapura
+1270 = {	# Kiranapura
+	culture = gond
+	religion = koyapunem
+
+	holding = tribal_holding
+
+	# History
+}
+7932 = {	# Lanjika
+	holding = none
+
+	# History
+}
+7933 = {	# Mungeli
+	holding = none
+
+	# History
+}
+7934 = {	# Nandgram
+	holding = none
+
+	# History
+}
+
+
+## d_kalinga
+### c_kalinganagar
+1224 = {	# Mandasa
+	culture = oriya
+	religion = vaishnavism
+
+	holding = castle_holding
+
+	# History
+}
+9648 = {	# Kalinganagara
+
+	holding = city_holding
+
+	# History
+}
+9649 = {	#  Srikakulam
+	holding = church_holding
+
+	# History
+}
+
+### c_puri
+1225 = {	# Puri
+	culture = oriya
+	religion = saura
+
+	holding = castle_holding
+
+	# History
+}
+9650 = {	# Ganjam
+	holding = city_holding
+
+	# History
+}
+9651 = {	# Gopalpur
+	holding = none
+
+	# History
+}
+
+### c_swetaka_mandala
+1228 = {	# Swetakapura
+	culture = khond
+	religion = sarnaism
+
+	holding = tribal_holding
+
+	# History
+}
+9652 = {	# Rayagada
+	holding = none
+
+	# History
+}
+9653 = {	# Asurgarh
+	holding = none
+
+	# History
+}
+
+### c_vizagipatam
+1128 = {	# Vizagipatam AKA Vishakhapatnam
+	culture = telugu
+	religion = vaishnavism
+
+	holding = castle_holding
+
+	# History
+}
+1226 = {	# Nandapur
+	holding = city_holding
+
+	# History
+}
+
+
+## d_dandakaranya
+### c_cakrakuta
+1227 = {	# Cakrakuta
+	culture = khond
+	religion = sarnaism
+
+	holding = tribal_holding
+
+	# History
+}
+3999 = {	# Umerkote
+	holding = none
+
+	# History
+}
+7914 = {	# Malkangiri
+	holding = none
+
+	# History
+}
+
+### c_barasuru
+1252 = {	# Barasuru
+	culture = khond
+	religion = sarnaism
+
+	holding = tribal_holding
+
+	# History
+	1066.1.1 = {
+		holding = castle_holding
+	}
+}
+7915 = {	# Chutur
+	holding = none
+
+	# History
+}
+7913 = {	# Bhadracala
+	holding = none
+
+	# History
+}
