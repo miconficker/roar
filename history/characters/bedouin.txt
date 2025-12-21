@@ -6414,20 +6414,8 @@
 
 # 74035 - moved to sea_MENA_south_arabian
 
-74036 = {
-	name = "Aarif"
-	dynasty = 12276
+# 74036 - moved to sea_MENA_south_arabian
 
-	culture = "bedouin"
-	religion = "ashari"
-
-	850.1.1 = {
-		birth = "850.1.1"
-	}
-	905.1.1 = {
-		death = "905.1.1"
-	}
-}
 74037 = {
 	name = "al-Salt"
 	dynasty = 12277
@@ -9157,7 +9145,7 @@
 218006 = {	#Fictional
 	name = Sadiq
 	religion = ibadi
-	culture = bedouin
+	culture = yemeni
 	
 	840.1.1 = {
 		birth = yes

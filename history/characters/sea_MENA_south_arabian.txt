@@ -4,6 +4,7 @@
 	dynasty = 1042169 # Kathirid
 	religion = "ibadi"
 	culture = "south_arabian"
+
 	735.1.1 = {
 		birth = yes
 	}
@@ -16,6 +17,7 @@
 	dynasty = 12275
 	religion = "ibadi"
 	culture = "south_arabian"
+
 	848.1.1 = {
 		birth = yes
 	}
@@ -23,10 +25,24 @@
 		death = yes
 	}
 }
+74036 = {	#Fictional
+	name = "Aarif"
+	dynasty = 12276
+	religion = "ashari"
+	culture = "south_arabian"
+
+	850.1.1 = {
+		birth = "850.1.1"
+	}
+	905.1.1 = {
+		death = "905.1.1"
+	}
+}
 sea_mahra_936 = {	#Fictional
 	name = "Musa"
 	religion = "ibadi"
 	culture = "south_arabian"
+
 	907.1.1 = {
 		birth = yes
 	}
@@ -39,6 +55,7 @@ sea_mahra_936 = {	#Fictional
 	dynasty = 2000022
 	religion = ibadi
 	culture = south_arabian
+
 	1038.1.1 = {
 		birth = yes
 	}
@@ -53,6 +70,7 @@ manjawa_1 = {
 	dynasty = south_arabian_manjawa
 	religion = "ibadi"
 	culture = "south_arabian"
+
 	1135.1.1 = {
 		birth = yes
 	}
