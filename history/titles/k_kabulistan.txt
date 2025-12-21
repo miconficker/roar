@@ -1,5 +1,4 @@
-﻿
-k_kabulistan = {
+﻿k_kabulistan = {
 	867.1.1 = {	change_development_level = 5 }
 	1066.1.1 = { change_development_level = 8 }
 	1178.1.1 = { change_development_level = 24 }
@@ -129,9 +128,11 @@ d_kabul = {
 	866.1.1 = {
 		holder = 175060 # Kallar Shahi
 	}
+
 	936.1.1 = {
 		holder = 261033
 	}
+
 	961.1.1 = {
 		holder = 170303 #Took Ghazna from Lawiks
 		government = clan_government
@@ -214,7 +215,6 @@ d_kabul = {
 	}
 }
 
-
 c_kabul = {
 	867.1.1 = {	change_development_level = 8 }
 	1066.1.1 = { change_development_level = 12 }
@@ -229,9 +229,11 @@ c_kabul = {
 		holder = 175060 # Kallar Shahi
 		government = clan_government	#Ahistorical, just for ease of bookmarks.
 	}
+
 	936.1.1 = {
 		holder = 261033
 	}
+
 	961.1.1 = {
 		holder = 170303 #Took Ghazna from Lawiks
 	}
@@ -337,6 +339,7 @@ c_bamian = {
 		holder = 261322
 		liege = d_kabul
 	}
+
 	977.1.1 = {
 		liege = "d_sistan"
 	}
@@ -475,7 +478,6 @@ c_bamian = {
 		holder = 93086
 	}
 }
-
 b_panjhir = {
 	750.1.1 = {
 		holder = RICE_bamian_001 # Mithravakhsha of Bamian
@@ -501,9 +503,11 @@ c_nagarahara = {
 		holder = 175060 # Kallar Shahi
 		government = clan_government	#Ahistorical, just for ease of bookmarks.
 	}
+
 	936.1.1 = {
 		holder = 261033
 	}
+
 	990.1.1 = {
 		holder = 144123 # Sabuktigin
 	}
@@ -572,7 +576,6 @@ c_nagarahara = {
 		holder = 194302
 	}
 }
-
 
 c_pashai = {
 	867.1.1 = {	change_development_level = 3 }
@@ -588,9 +591,11 @@ c_pashai = {
 		holder = 175060 # Kallar Shahi
 		government = clan_government	#Ahistorical, just for ease of bookmarks.
 	}
+
 	936.1.1 = {
 		holder = 261033
 	}
+
 	961.1.1 = {
 		holder = 170303 #Took Ghazna from Lawiks
 	}
@@ -598,161 +603,6 @@ c_pashai = {
 		holder = 170304
 	}
 	977.1.1 = {
-		holder = 144123 # Sabuktigin
-	}
-	997.8.1 = {
-		holder = 144124 # Ismail
-	}
-	998.3.1 = {
-		holder = 144125 # Mahmud
-	}
-	1030.5.3 = {
-		holder = 144126 # Muhammad
-	}
-	1031.1.1 = {
-		holder = 144127 # Musud
-	}
-	1040.1.17 = {
-		holder = 144126 # Muhammad
-	}
-	1041.3.19 = {
-		holder = 144128 # Mawdud
-	}
-	1050.1.1 = {
-		holder = 144129 # Masud
-	}
-	1050.6.1 = {
-		holder = 144130 # Ali
-	}
-	1050.9.1 = {
-		holder = 144131 # Abd al-Rashid
-	}
-	1053.1.1 = {
-		holder = 144132 # Farrukhzad
-	}
-	1059.1.1 = {
-		holder = 144133
-	}
-	1099.1.1 = {
-		holder = 144134
-	}
-	1115.1.1 = {
-		holder = 144135
-	}
-	1115.6.1 = {
-		holder = 144136
-	}
-	1118.1.1 = {
-		holder = 144137
-	}
-	1152.1.1 = {
-		holder = 144138
-	}
-	1160.1.1 = {
-		holder = 144139
-	}
-	1173.1.1 = {
-		holder = 144142
-	}
-	1206.3.15 = {
-		holder = 170302
-	}
-	1216.2.15 = {
-		holder = 93052
-		liege = k_persia
-	}
-	1220.1.1 = {
-		holder = 194302
-	}
-}
-
-
-c_kati = {
-	867.1.1 = {	change_development_level = 1 }
-	1066.1.1 = { change_development_level = 2 }
-	1178.1.1 = { change_development_level = 5 }
-
-	867.1.1 = {
-		liege = d_kabul
-		holder = roa_nuristani05
-	}
-	936.1.1 = {
-		holder = roa_nuristani06
-	}
-	1066.1.1 = {
-		liege = 0
-		holder = roa_nuristani07
-	}
-	1178.1.1 = {
-		holder = roa_nuristani08
-	}
-}
-
-
-c_waygal = {
-	867.1.1 = {	change_development_level = 1 }
-	1066.1.1 = { change_development_level = 2 }
-	1178.1.1 = { change_development_level = 5 }
-
-	867.1.1 = {
-		liege = d_kabul
-		holder = roa_nuristani09
-	}
-	936.1.1 = {
-		holder = roa_nuristani10
-	}
-	1066.1.1 = {
-		liege = 0
-		holder = roa_nuristani11
-	}
-	1178.1.1 = {
-		holder = roa_nuristani12
-	}
-}
-
-
-c_chitral = {
-	867.1.1 = {	change_development_level = 1 }
-	1066.1.1 = { change_development_level = 2 }
-	1178.1.1 = { change_development_level = 5 }
-
-	867.1.1 = {
-		liege = d_kabul
-		holder = RICE_pamir_misc_001
-	}
-	936.1.1 = {
-		holder = roa_chitral_nuristani_01
-	}
-	1066.1.1 = {
-		liege = 0
-		holder = RICE_pamir_misc_002
-	}
-	1178.1.1 = {
-		holder = RICE_pamir_misc_003
-	}
-}
-
-
-c_kunar = {
-	867.1.1 = {	change_development_level = 3 }
-	1066.1.1 = { change_development_level = 6 }
-	1178.1.1 = { change_development_level = 8 }
-
-	750.1.1 = {
-		liege = d_kabul
-		holder = 188565 # Surendravirkramaditya Nandin of Kabul Shahi
-	}
-
-	866.1.1 = {
-		holder = 175060 # Kallar Shahi
-		government = clan_government	#Ahistorical, just for ease of bookmarks.
-	}
-	936.1.1= {
-		holder=261033
-		liege = 0
-	}
-
-	990.1.1 = {
 		holder = 144123 # Sabuktigin
 	}
 	997.8.1 = {
@@ -1472,5 +1322,161 @@ c_zabulistan = {
 	1332.1.1 = {
 		liege = 0
 		holder = 93159
+	}
+}
+
+
+## d_chitral
+c_chitral = {
+	867.1.1 = {	change_development_level = 1 }
+	1066.1.1 = { change_development_level = 2 }
+	1178.1.1 = { change_development_level = 5 }
+
+	867.1.1 = {
+		liege = d_kabul
+		holder = RICE_pamir_misc_001
+	}
+	936.1.1 = {
+		holder = roa_chitral_nuristani_01
+	}
+	1066.1.1 = {
+		liege = 0
+		holder = RICE_pamir_misc_002
+	}
+	1178.1.1 = {
+		holder = RICE_pamir_misc_003
+	}
+}
+
+c_kunar = {
+	867.1.1 = {	change_development_level = 3 }
+	1066.1.1 = { change_development_level = 6 }
+	1178.1.1 = { change_development_level = 8 }
+
+	750.1.1 = {
+		liege = d_kabul
+		holder = 188565 # Surendravirkramaditya Nandin of Kabul Shahi
+	}
+
+	866.1.1 = {
+		holder = 175060 # Kallar Shahi
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+
+	936.1.1= {
+		holder = 261033
+		liege = 0
+	}
+
+	990.1.1 = {
+		holder = 144123 # Sabuktigin
+	}
+	997.8.1 = {
+		holder = 144124 # Ismail
+	}
+	998.3.1 = {
+		holder = 144125 # Mahmud
+	}
+	1030.5.3 = {
+		holder = 144126 # Muhammad
+	}
+	1031.1.1 = {
+		holder = 144127 # Musud
+	}
+	1040.1.17 = {
+		holder = 144126 # Muhammad
+	}
+	1041.3.19 = {
+		holder = 144128 # Mawdud
+	}
+	1050.1.1 = {
+		holder = 144129 # Masud
+	}
+	1050.6.1 = {
+		holder = 144130 # Ali
+	}
+	1050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	1053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	1059.1.1 = {
+		holder = 144133
+	}
+	1099.1.1 = {
+		holder = 144134
+	}
+	1115.1.1 = {
+		holder = 144135
+	}
+	1115.6.1 = {
+		holder = 144136
+	}
+	1118.1.1 = {
+		holder = 144137
+	}
+	1152.1.1 = {
+		holder = 144138
+	}
+	1160.1.1 = {
+		holder = 144139
+	}
+	1173.1.1 = {
+		holder = 144142
+	}
+	1206.3.15 = {
+		holder = 170302
+	}
+	1216.2.15 = {
+		holder = 93052
+		liege = k_persia
+	}
+	1220.1.1 = {
+		holder = 194302
+	}
+}
+
+
+## d_nuristan
+c_kati = {
+	867.1.1 = {	change_development_level = 1 }
+	1066.1.1 = { change_development_level = 2 }
+	1178.1.1 = { change_development_level = 5 }
+
+	867.1.1 = {
+		liege = d_kabul
+		holder = roa_nuristani05
+	}
+	936.1.1 = {
+		holder = roa_nuristani06
+	}
+	1066.1.1 = {
+		liege = 0
+		holder = roa_nuristani07
+	}
+	1178.1.1 = {
+		holder = roa_nuristani08
+	}
+}
+
+c_waygal = {
+	867.1.1 = {	change_development_level = 1 }
+	1066.1.1 = { change_development_level = 2 }
+	1178.1.1 = { change_development_level = 5 }
+
+	867.1.1 = {
+		liege = d_kabul
+		holder = roa_nuristani09
+	}
+	936.1.1 = {
+		holder = roa_nuristani10
+	}
+	1066.1.1 = {
+		liege = 0
+		holder = roa_nuristani11
+	}
+	1178.1.1 = {
+		holder = roa_nuristani12
 	}
 }
