@@ -69,7 +69,6 @@
 	gorontalo = { 155 124 130 }
 	hakka = { 111 44 88 }
 	halmahera = { 17 238 33 }
-	hindustani = { 0.6 0.3 0.0 }
 	hlai = { 50 161 159 }
 	hmong = { 120 16 111 }
 	iban = { 267 212 186 }
@@ -253,6 +252,7 @@
 	udi = { 99 76 80 }
 
 	# Indian colours
+	rajput = { 170 30 40 }
 	gujarati = { 102 51 51 }
 
 	# Mon-Khmer colours

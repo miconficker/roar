@@ -283,6 +283,7 @@
 	holding = none
 }
 
+
 ## d_ghur ###################################
 ### c_ghur
 4225 = {	#Firuzkuh AKA Chagcharan
@@ -294,7 +295,7 @@
 4224 = {	#Khasht
 	holding = city_holding	#placeholder
 }
-4226 = {	#Ahanjaran
+4226 = {	#Mandesh
 	holding = church_holding	#placeholder
 }
 4227 = {	#Ghur

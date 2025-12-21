@@ -191,7 +191,7 @@ punjabi = {
 
 rajput = {
 	# Renamed to Marwari
-	color = { 170 30 40 }
+	color = rajput
 
 	ethos = ethos_bellicose
 	heritage = heritage_indo_aryan

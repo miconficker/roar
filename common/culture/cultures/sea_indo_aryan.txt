@@ -124,7 +124,7 @@ kashika = {
 
 kaushali = {
 	# Kaushali
-	color = { 224 60 49 }
+	color = { 0.6 0.0 0.0 }
 
 	ethos = ethos_bureaucratic
 	heritage = heritage_indo_aryan
@@ -245,7 +245,7 @@ maithili = {
 
 dhundari = { # Indo-Aryan
 	# Dhundari - needs rework
-	color = rajput
+	color = { 224 60 49 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_indo_aryan
