@@ -292,4 +292,5 @@
 	#bugaism_old = { 41 177 86 }
 	#satsana_phi_auh = { 71 32 70 }
 	#unused_brajji = { 200 80 20 }
+	#unused_hindustani = { 200 40 20 }
 }

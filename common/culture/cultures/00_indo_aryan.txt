@@ -106,47 +106,20 @@ hindustani = {
 	language = language_sauraseni
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_agrarian
-		tradition_ruling_caste
-		tradition_court_eunuchs
 		tradition_city_keepers
-	}
-	
-	name_list = name_list_hindustani
-	
-	coa_gfx = { indo_aryan_group_coa_gfx }
-	building_gfx = { indian_building_gfx }
-	clothing_gfx = { indian_clothing_gfx }
-	unit_gfx = { indian_unit_gfx }
-	house_coa_frame = house_frame_17
-	
-	ethnicities = {
-		10 = indian
-	}
-
-	color = { 200 40 20 }
-
-	ethos = ethos_courtly
-	heritage = heritage_indo_aryan
-	language = language_sauraseni
-	martial_custom = martial_custom_male_only
-	head_determination = head_determination_domain
-
-	traditions = {
-		tradition_city_keepers
+		tradition_hereditary_hierarchy
 		tradition_culture_blending
 		tradition_religion_blending
-		tradition_hereditary_hierarchy
 	}
-
+	
 	name_list = name_list_hindustani
-
+	
 	coa_gfx = { indo_aryan_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
 	clothing_gfx = { indian_clothing_gfx }
 	unit_gfx = { indian_unit_gfx }
 	house_coa_frame = house_frame_17
-
+	
 	ethnicities = {
 		10 = indian
 	}
