@@ -12,11 +12,11 @@
 		religion = ashari
 	}
 }
-4503 = {	# Sukawand
-	#holding = 
+4503 = {	# Sukawand AKA Sajawand
+	holding = church_holding
 }
 17910 = {	# Kapisa
-	#holding = 
+	holding = city_holding
 }
 
 ### c_bamian
@@ -33,7 +33,7 @@
 	}
 }
 4342 = {	# Sakalkand
-	#holding = 
+	holding = church_holding
 }
 4344 = {	# Parwan
 	# named shared with Parwan province ; town with such name said to have been settled by Alexander the Great
@@ -50,7 +50,7 @@
 	}
 }
 4346 = {	# Jarbaya
-	#holding = 
+	holding = none
 }
 
 ### c_pashai
@@ -102,14 +102,14 @@
 	holding = city_holding
 }
 4502 = {	# Istakh
-	#holding =
+	holding = church_holding
 }
 4505 = {	# Sharan AKA Sharana
 	# nowadays a town
-	#holding =
+	holding = none
 }
 4506 = {	# Moqor AKA Muqur
-	#holding =
+	holding = none
 }
 
 ### c_zamindawar
@@ -126,16 +126,17 @@
 	}
 }
 4490 = {	# Sarwan
-	#holding =
+	holding = city_holding
 }
 4491 = {	# Bishang
-	#holding =
+	holding = none
 }
 4492 = {	# Durgas
-	#holding =
+	# place of some significant archaeological finds of Hindu/Buddhist past of the region
+	holding = church_holding
 }
 4493 = {	# Bagnin
-	#holding =
+	holding = none
 }
 
 ### c_rukhaj
@@ -152,16 +153,17 @@
 	}
 }
 4494 = {	# Rudan
-	#holding =
+	holding = none
 }
 4495 = {	# Panjway AKA Panjwayi
-	#holding =
+	holding = church_holding
 }
 4496 = {	# Bakrawath
-	#holding =	
+	holding = none
 }
-4498 = {	# Qandahar
-	#holding =	
+4498 = {	# Qandahar AKA Kandahar
+	# ancient city significant both trade and culture wise
+	holding = city_holding
 }
 
 ### c_zabulistan
@@ -178,7 +180,7 @@
 	}
 }
 4509 = {	# Mapan
-	#holding =
+	holding = none
 }
 
 

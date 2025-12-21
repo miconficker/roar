@@ -39198,17 +39198,17 @@ e_persia = {
 				b_kabul = {
 					province = 4504
 
-					color = { 100 120 220 }
+					color = { 105 115 225 }
 				}
 				b_sukawand = {
 					province = 4503
 
-					color = { 100 120 220 }
+					color = { 105 115 225 }
 				}
 				b_kapisa = {
 					province = 17910
 
-					color = { 100 120 220 }
+					color = { 105 115 225 }
 				}
 			}
 			c_bamian = {
