@@ -77124,7 +77124,7 @@ e_srivijaya = {
 	color = { 15 105 125 }
 
 	k_pahang = {
-		color = { 33 98 120 }
+		color = { 15 55 75 }
 
 		d_pahang = {
 			color = { 67 161 104 }
@@ -84666,49 +84666,102 @@ e_suvarnabhumi = {
 
 
 	k_thaton = {
-		d_tenasserim = {
+		d_tanintharyi = {
+			color = { 143 132 177 }
 
-			c_16737 = {
-				b_16737 = {
-					province = 16737
-				}
-				b_16714 = {
-					province = 16714
+			cultural_names = {
+				name_list_mon = cn_bik
+				name_list_tai = cn_tanaosri
+				name_list_siamese = cn_tanaosri
+				name_list_shan = cn_tanaosri
+			}
+
+			c_dawei = {
+				color = { 78 105 189 }
+
+				cultural_names = {
+					name_list_mon = cn_tavoy
+					name_list_tai = cn_thawai
+					name_list_siamese = cn_thawai
+					name_list_shan = cn_thawai
+					name_list_pyu = cn_sagara
 				}
 				b_dawei = {
 					province = 10996
-					color = { 202 94 8 }
+
+					cultural_names = {
+						name_list_mon = cn_tavoy
+						name_list_tai = cn_thawai
+						name_list_siamese = cn_thawai
+						name_list_shan = cn_thawai
+					}
+				}
+				b_myitta = {
+					province = 16737
+				}
+				b_thayetchaung = {
+					province = 16714
 				}
 			}
-			c_THAI_tenasserim = {
-				color = { 240 185 4 }
+			c_myeik = {
+				color = { 80 156 206 }
 
-				b_16555 = {
-					province = 16555
+				cultural_names = {
+					name_list_mon = cn_bik
+					name_list_tai = cn_marit
+					name_list_siamese = cn_marit
+					name_list_shan = cn_marit
 				}
 
-				b_THAI_Mergui = {
+				b_THAI_myeik = {
 					province = 11433
 
 					color = { 255 204 3 }
+
+					cultural_names = {
+						name_list_mon = cn_bik
+						name_list_tai = cn_marit
+						name_list_siamese = cn_marit
+						name_list_shan = cn_marit
+					}
+				}
+				b_palaw = {
+					province = 16555
 				}
 			}
-			c_16260 = {
-				b_16260 = {
+			c_kainggyaung = {
+				color = { 100 146 206 }
+
+				b_kainggyaung = {
 					province = 16260
 				}
-				b_16636 = {
+				b_amya = {
 					province = 16636
 				}
 			}
-			c_16050 = {
+			c_tanangsi = {
+				color = { 20 123 176 }
 
-				b_THAI_Tenasserim = {
+				cultural_names = {
+					name_list_burmese = cn_tanintharyi
+					name_list_tai = cn_tanaosri
+					name_list_siamese = cn_tanaosri
+					name_list_shan = cn_tanaosri
+				}
+
+				b_tanangsi = {
 					province = 11432
 
 					color = { 239 155 3 }
+
+					cultural_names = {
+						name_list_burmese = cn_tanintharyi
+						name_list_tai = cn_tanaosri
+						name_list_siamese = cn_tanaosri
+						name_list_shan = cn_tanaosri
+					}
 				}
-				b_16050 = {
+				b_lenya = {
 					province = 16050
 				}
 			}
