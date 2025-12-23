@@ -80,6 +80,67 @@
 }
 
 
+## d_chitral ###################################
+### c_chitral
+4515 = {	# Chitral
+	# Misc
+	culture = nuristani
+	religion = nuristani_pagan
+	holding = tribal_holding
+
+	# History
+}
+7952 = {	# Mastuj
+	holding = none
+}
+15047 = {	# Yarkhun
+	holding = none
+}
+
+### c_kunar
+4514 = {	# Kunar
+	# Misc
+	culture = nuristani
+	religion = nuristani_pagan
+	holding = castle_holding
+
+	# History
+}
+17860 = {	# Pech
+	holding = none
+}
+
+
+## d_nuristan ###################################
+### c_kati
+18117 = {	# Mandol
+	# Misc
+	culture = nuristani
+	religion = nuristani_pagan
+	holding = tribal_holding
+
+	# History
+}
+18109 = {	# Parun
+	holding = none
+}
+18167 = {	# Kamdesh
+	holding = none
+}
+
+### c_waygal
+18021 = {	# Waygal
+	# Misc
+	culture = nuristani
+	religion = nuristani_pagan
+	holding = tribal_holding
+
+	# History
+}
+18063 = {	# Nurgaram
+	holding = none
+}
+
 ## d_zabulistan ###################################
 ### c_ghazna
 4500 = {	# Ghazna
@@ -180,67 +241,5 @@
 	}
 }
 4509 = {	# Mapan
-	holding = none
-}
-
-
-## d_chitral ###################################
-### c_chitral
-4515 = {	# Chitral
-	# Misc
-	culture = nuristani
-	religion = nuristani_pagan
-	holding = tribal_holding
-
-	# History
-}
-7952 = {	# Mastuj
-	holding = none
-}
-15047 = {	# Yarkhun
-	holding = none
-}
-
-### c_kunar
-4514 = {	# Kunar
-	# Misc
-	culture = nuristani
-	religion = nuristani_pagan
-	holding = castle_holding
-
-	# History
-}
-17860 = {	# Pech
-	holding = none
-}
-
-
-## d_nuristan ###################################
-### c_kati
-18117 = {	# Mandol
-	# Misc
-	culture = nuristani
-	religion = nuristani_pagan
-	holding = tribal_holding
-
-	# History
-}
-18109 = {	# Parun
-	holding = none
-}
-18167 = {	# Kamdesh
-	holding = none
-}
-
-### c_waygal
-18021 = {	# Waygal
-	# Misc
-	culture = nuristani
-	religion = nuristani_pagan
-	holding = tribal_holding
-
-	# History
-}
-18063 = {	# Nurgaram
 	holding = none
 }
