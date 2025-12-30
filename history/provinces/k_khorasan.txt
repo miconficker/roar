@@ -111,7 +111,7 @@
 		religion = maturidi
 	}
 }
-4024 = {	#Biyar	#Biar-e Kord
+4024 = {	#Biyar AKA Biar-e Kord
 	holding = none
 }
 4025 = {	#Bistum

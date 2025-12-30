@@ -1,0 +1,16 @@
+﻿# Fix this aradox you Bums
+
+#Placeholder
+667 = 685
+
+#4112 - Juy-e-Sard
+657 = 4112
+
+#4014 - Nishapur
+ # fixed by RoA team
+
+# 4201 - Darmashan
+ # fixed by RoA team
+
+# 4500 - Ghazna
+ # fixed by RoA team

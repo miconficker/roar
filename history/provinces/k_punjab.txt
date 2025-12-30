@@ -854,3 +854,32 @@
 18051 = {	# Bajaur
 	holding = none
 }
+
+### c_kalat - needs to get revised
+4517 = {	# Loralai
+	culture = afghan
+	religion = mahayana
+
+	holding = castle_holding
+
+	# History
+}
+4518 = {	# Kohlu
+	culture = afghan
+	religion = mahayana
+
+	# History
+}
+4519 = {	# Mekhtar
+	culture = afghan
+	religion = mahayana
+
+	# History
+}
+4520 = {	# Zhob
+	culture = afghan
+	religion = mahayana
+
+	# History
+}
+
