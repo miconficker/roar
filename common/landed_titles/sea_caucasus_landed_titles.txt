@@ -145,8 +145,7 @@ e_caucasia = {
 			c_shirak = {
 				color = { 181 168 63 }
 
-				b_shirak = {
-					# old b_dlim
+				b_shirak = { # old b_dlim
 					province = 5725
 
 					color = { 181 168 63 }
@@ -452,8 +451,7 @@ e_caucasia = {
 				name_list_turkish = cn_vasburagan
 			}
 
-			c_tosp = {
-				# old c_vaspurakan
+			c_tosp = { # old c_vaspurakan
 				color = { 172 82 55 }
 
 				cultural_names = {
@@ -605,8 +603,7 @@ e_caucasia = {
 				name_list_turkish = cn_mus
 			}
 
-			c_sghkunik = {
-				# old c_apahunik
+			c_sghkunik = { # old c_apahunik
 				color = { 222 85 31 }
 
 				cultural_names = {
@@ -647,8 +644,7 @@ e_caucasia = {
 					color = { 175 60 55 }
 				}
 			}
-			c_mardali = {
-				# old c_turuberan
+			c_mardali = { # old c_turuberan
 				color = { 219 122 83 }
 
 				b_mardali = {
@@ -691,8 +687,7 @@ e_caucasia = {
 				name_list_turkish = cn_malazgirt
 			}
 
-			c_apahunik = {
-				# old c_bagrewand
+			c_apahunik = { # old c_bagrewand
 				color = { 222 135 98 }
 
 				b_manzikert = {
@@ -965,8 +960,7 @@ e_caucasia = {
 					color = { 162 22 196 }
 				}
 			}
-			c_sisakan = {
-				# old c_suenik
+			c_sisakan = { # old c_suenik
 				color = { 121 34 143 }
 
 				b_goris = {
@@ -1247,8 +1241,7 @@ e_caucasia = {
 			}
 		}
 
-		d_tbilisi = {
-			# old d_georgia
+		d_tbilisi = { # old d_georgia
 			color = { 158 153 147 }
 
 			capital = c_tbilisi
@@ -1780,8 +1773,7 @@ e_caucasia = {
 			c_tusheti = {
 				color = { 184 114 64 }
 
-				b_tsovata = {
-					# old b_nektesi
+				b_tsovata = { # old b_nektesi
 					province = 5763
 
 					color = { 184 114 64 }
@@ -1868,8 +1860,7 @@ e_caucasia = {
 			c_shaki = {
 				color = { 156 76 20 }
 
-				b_shaki = {
-					# old b_nukhpata
+				b_shaki = { # old b_nukhpata
 					province = 673
 
 					color = { 156 76 20 }
@@ -1997,28 +1988,24 @@ e_caucasia = {
 
 			capital = c_apsny
 
-			c_apsny = {
-				# old c_abkhazia
+			c_apsny = { # old c_abkhazia
 				color = { 75 10 10 }
 
 				cultural_names = {
 					name_list_circassian = cn_azghey
 				}
 
-				b_aqwa = {
-					# old b_tskhumi
+				b_aqwa = { # old b_tskhumi
 					province = 5746
 
 					color = { 75 10 10 }
 				}
-				b_anaqwapia = {
-					# old b_anacopia
+				b_anaqwapia = { # old b_anacopia
 					province = 5745
 
 					color = { 75 10 10 }
 				}
-				b_picunda = {
-					# old b_bichvinta
+				b_picunda = { # old b_bichvinta
 					province = 5744
 
 					color = { 75 10 10 }
@@ -2170,8 +2157,7 @@ e_caucasia = {
 			c_kvemo_svaneti = {
 				color = { 115 28 8 }
 
-				b_ghebi = {
-					# old b_ambrolauri
+				b_ghebi = { # old b_ambrolauri
 					province = 5751
 
 					color = { 115 28 8 }
@@ -2320,8 +2306,7 @@ e_caucasia = {
 					color = { 110 52 21 }
 				}
 			}
-			c_zichia = {
-				# old c_bata
+			c_zichia = { # old c_bata
 				color = { 186 99 52 }
 
 				cultural_names = {
@@ -2409,16 +2394,14 @@ e_caucasia = {
 					color = { 128 77 51 }
 				}
 			}
-			c_tuapse = {
-				# old c_nicopsia
+			c_tuapse = { # old c_nicopsia
 				color = { 222 135 91 }
 
 				cultural_names = {
 					name_list_anglo_saxon = cn_nsalisbury
 				}
 
-				b_tuapse = {
-					# old b_nicosia
+				b_tuapse = { # old b_nicosia
 					province = 600
 
 					color = { 222 135 91 }
@@ -2637,8 +2620,7 @@ e_caucasia = {
 			c_temir = {
 				color = { 165 155 35 }
 
-				b_guripeqal = {
-					# old b_betzini
+				b_guripeqal = { # old b_betzini
 					province = 5301
 
 					color = { 165 155 35 }
@@ -2720,8 +2702,7 @@ e_caucasia = {
 					name_list_abkhaz = cn_lau
 				}
 
-				b_humerznij = {
-					# old b_petigoria
+				b_humerznij = { # old b_petigoria
 					province = 606
 
 					color = { 127 100 35 }
@@ -2845,8 +2826,7 @@ e_caucasia = {
 					name_list_alan = cn_tsaty
 				}
 
-				b_bylym = {
-					# old b_tatartopa
+				b_bylym = { # old b_tatartopa
 					province = 5302
 
 					color = { 97 40 18 }
@@ -2976,8 +2956,7 @@ e_caucasia = {
 					name_list_circassian = cn_jilakhsteney
 				}
 
-				b_taetaerupp = {
-					# old b_cabarda
+				b_taetaerupp = { # old b_cabarda
 					province = 603
 
 					color = { 133 129 50 }
@@ -3019,8 +2998,7 @@ e_caucasia = {
 			c_dzurdzukia = {
 				color = { 69 66 25 }
 
-				b_zurzuqa = {
-					# old b_durdzukia
+				b_zurzuqa = { # old b_durdzukia
 					province = 5306
 
 					color = { 148 35 9 }
@@ -3109,8 +3087,7 @@ e_caucasia = {
 					color = { 133 71 23 }
 				}
 			}
-			c_terek_alania = {
-				# old c_anket
+			c_terek_alania = { # old c_anket
 				color = { 110 71 41 }
 
 				cultural_names = {
@@ -3826,8 +3803,7 @@ e_caucasia = {
 
 			capital = c_ganja
 
-			c_ganja = {
-				# old c_aran
+			c_ganja = { # old c_aran
 				color = { 38 64 92 }
 
 				b_ganja = {
