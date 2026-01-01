@@ -84258,7 +84258,9 @@ e_panyupayana = {
                 b_katanauan = {
                     province = 16720
                 }
-                #b_buak
+                b_buak = {
+                	province = 11033
+                }
             }
         }
         d_pangpang = {
@@ -84568,6 +84570,9 @@ e_panyupayana = {
                 b_hantik = {
                 	province = 11063
                 }
+                b_himal-os = {
+                	province = 11061
+                }
             }
             c_akean = {
                 b_batan = {
@@ -84591,9 +84596,14 @@ e_panyupayana = {
         }
         d_buglas = {
             c_tanghay = {
-                #b_tanghay
+                b_tanghay = {
+                	province = 11057
+                }
                 b_bais = {
                     province = 15088
+                }
+                b_katagusan = {
+                    province = 11056
                 }
             }
             c_binalbagan = {
@@ -84867,6 +84877,9 @@ e_panyupayana = {
                 b_busuanga = {
                     province = 11041
                 }
+                b_cuyo = {
+                    province = 11042
+                }
             }
         }
         d_sandakan = {
@@ -85087,21 +85100,31 @@ e_nusantara = {
     k_maluku = {
         d_halmahera = {
             c_tidore = {
-                #b_tidore
+                b_tidore = {
+                	province = 11226
+                }
                 b_weda = {
-                    province = 17094
+                    province = 11227
                 }
                 b_gane = {
                     province = 16748
                 }
             }
             c_ternate = {
-                #b_ternate
-                #b_tobelo
-                #b_morotai
+                b_ternate = {
+                	province = 11229
+                }
+                b_tobelo = {
+                	province = 11230
+                }
+                b_morotai = {
+                	province = 11231
+                }
             }
             c_wasile = {
-                #b_wasile
+                b_wasile = {
+                	province = 11228
+                }
                 b_binagara = {
                     province = 17220
                 }
@@ -85120,7 +85143,9 @@ e_nusantara = {
         }
         d_raja_ampat = {
             c_waigeo = {
-                #b_waisai
+                b_waisai = {
+                	province = 11222
+                }
             }
             c_salawati = {
                 b_samate = {
@@ -85129,7 +85154,7 @@ e_nusantara = {
             }
             c_waigama = {
                 b_matbat = {
-                    province = 16391
+                    province = 11221
                 }
             }
         }
@@ -85138,10 +85163,14 @@ e_nusantara = {
                 b_ambon = {
                     province = 15917
                 }
-                #b_piru
+                b_piru = {
+                	province = 11218
+                }
             }
             c_masohi = {
-                #b_tehoru
+                b_tehoru = {
+                	province = 11219
+                }
                 b_masohi = {
                     province = 16062
                 }
@@ -85153,7 +85182,9 @@ e_nusantara = {
                 b_bobot = {
                     province = 15016
                 }
-                #b_masiwang
+                b_masiwang = {
+                	province = 11220
+                }
             }
             c_banda_sea = {
                 b_neira = {
@@ -85163,17 +85194,23 @@ e_nusantara = {
         }
         d_aru_east = {
             c_aru_east = {
-                #b_dobo
+                b_dobo = {
+                	province = 12841
+                }
                 b_koijabi = {
                     province = 17495
                 }
-                #b_tarangan
+                b_tarangan = {
+                	province = 12847
+                }
                 b_tual = {
                     province = 17686
                 }
             }
             c_yamdena = {
-                #b_saumlaki
+                b_saumlaki = {
+                	province = 11378
+                }
                 b_makatiang = {
                     province = 16899
                 }
@@ -85187,7 +85224,9 @@ e_nusantara = {
                 b_sanana = {
                     province = 16317
                 }
-                #b_taliabu
+                b_taliabu = {
+                	province = 11216
+                }
             }
         }
         d_buru = {
@@ -85195,7 +85234,9 @@ e_nusantara = {
                 b_namrole = {
                     province = 15847
                 }
-                #b_namlea
+                b_namlea = {
+                	province = 11217
+                }
             }
         }
     }
