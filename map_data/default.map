@@ -386,6 +386,8 @@ impassable_mountains = LIST { 15407 15629 }
 # Sulawesi
 impassable_mountains = LIST { 16909 }
 
-#Papua
+# Papua
 impassable_mountains = LIST { 12881 15920 15348 15031 15033 17622 17824 15027 17680 15736 17435 15616 17343 15435 16984 17681 16119 17472 }
 
+# Mainland SEA
+impassable_mountains = LIST { 15369 16017 17080 18153 18331 18339 18387 18394 18404 }
