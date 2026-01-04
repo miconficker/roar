@@ -1,6 +1,6 @@
-﻿#k_nenetsia
-##d_pechora
-###c_myldin
+﻿# k_nenetsia
+## d_pechora ###################################
+### c_myldin
 17693 = {	#Myldin
 	culture = komi
 	religion = komi_pagan
@@ -12,7 +12,8 @@
 17471 = {	#Unjadin
 	holding = none
 }
-###c_pidzh
+
+### c_pidzh
 15526 = {	#Pidzh
 	culture = komi
 	religion = komi_pagan
@@ -24,7 +25,8 @@
 15539 = {	#Chugör
 	holding = none
 }
-###c_lyzha
+
+### c_lyzha
 16818 = {	#Lyzha
 	culture = komi
 	religion = komi_pagan
@@ -39,8 +41,8 @@
 17119 = {	#Shelljabözh
 	holding = none
 }
-###c_pechora
-####b_pechora = {
+
+### c_pechora
 16840 = {	#Pechöra
 	culture = komi
 	religion = komi_pagan
@@ -49,9 +51,10 @@
 16431 = {	#Jagbözh
 	holding = none
 }
-##d_izhma
-###c_ukva
-####b_ukva = {
+
+
+## d_izhma ###################################
+### c_ukva
 15522 = {	#Ukva
 	culture = komi
 	religion = komi_pagan
@@ -66,7 +69,8 @@
 15641 = {	#Kartajol
 	holding = none
 }
-###c_izva
+
+### c_izva
 16320 = {	#Izva
 	culture = komi
 	religion = komi_pagan
@@ -78,8 +82,10 @@
 16007 = {	#Mirsköj
 	holding = none
 }
-##d_ortina
-###c_ortina
+
+
+## d_ortina ###################################
+### c_ortina
 17576 = {	#Ortina
 	culture = nenets
 	religion = kuptyng
@@ -91,7 +97,8 @@
 17575 = {	#Saner Kharad
 	holding = none
 }
-###c_soima
+
+### c_soima
 17573 = {	#Soima
 	culture = nenets
 	religion = kuptyng
@@ -100,8 +107,10 @@
 17574 = {	#Sula
 	holding = none
 }
-##d_nenetsia
-###c_komatyvis
+
+
+## d_nenetsia ###################################
+### c_komatyvis
 17577 = {	#Komatyvis
 	culture = nenets
 	religion = kuptyng
@@ -110,7 +119,8 @@
 17578 = {	#Horei-Ver
 	holding = none
 }
-###c_usva
+
+### c_usva
 17513 = {	#Usva
 	culture = komi
 	religion = komi_pagan
@@ -128,7 +138,8 @@
 17112 = {	#Inta
 	holding = none
 }
-###c_amderma
+
+### c_amderma
 17953 = {	#Amderma
 	culture = nenets
 	religion = kuptyng
@@ -143,7 +154,8 @@
 18322 = {	#Hebidja-Ja
 	holding = church_holding
 }
-###c_varkuta
+
+### c_varkuta
 17582 = {	#Varkuta
 	culture = nenets
 	religion = kuptyng

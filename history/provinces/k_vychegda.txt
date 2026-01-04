@@ -1,6 +1,6 @@
-﻿#k_vychegda
-##d_vym
-###c_kedva
+﻿# k_vychegda
+## d_vym ###################################
+### c_kedva
 15677 = {	#Kedva
 	culture = komi
 	religion = komi_pagan
@@ -9,7 +9,8 @@
 15519 = {	#Shomvukva
 	holding = none
 }
-###c_jemdin
+
+### c_jemdin
 12948 = {	#Jemdin
 	culture = komi
 	religion = komi_pagan
@@ -18,7 +19,8 @@
 15517 = {	#Vetju
 	holding = none
 }
-###c_vesyva
+
+### c_vesyva
 18267 = {	#Vesyva
 	culture = komi
 	religion = komi_pagan
@@ -30,8 +32,10 @@
 15521 = {	#Shoinaty
 	holding = none
 }
-##d_vychegda
-###c_vanvisdin
+
+
+## d_vychegda ###################################
+### c_vanvisdin
 17773 = {	#Vanvisdin
 	culture = komi
 	religion = komi_pagan
@@ -43,7 +47,8 @@
 17800 = {	#Viser
 	holding = none
 }
-###c_syktyvkar
+
+### c_syktyvkar
 17546 = {	#Syktyvkar
 	culture = komi
 	religion = komi_pagan
@@ -55,7 +60,8 @@
 16585 = {	#Uzhga
 	holding = none
 }
-###c_kulomdin
+
+### c_kulomdin
 17683 = {	#Kulömdin
 	culture = komi
 	religion = komi_pagan
@@ -70,8 +76,10 @@
 17648 = {	#Pozhög
 	holding = none
 }
-##d_pyras
-###c_pyras
+
+
+## d_pyras ###################################
+### c_pyras
 17475 = {	#Pyras
 	culture = komi
 	religion = komi_pagan
@@ -83,7 +91,8 @@
 17603 = {	#Sovdor
 	holding = none
 }
-###c_luza
+
+### c_luza
 16756 = {	#Luza
 	culture = komi
 	religion = komi_pagan
@@ -95,7 +104,8 @@
 16006 = {	#Abjachoi
 	holding = none
 }
-###c_jerin
+
+### c_jerin
 17854 = {	#Jerin
 	culture = komi
 	religion = komi_pagan
@@ -107,7 +117,8 @@
 17687 = {	#Közhmudor
 	holding = none
 }
-###c_viled
+
+### c_viled
 17467 = {	#Ilyinsk
 	culture = komi
 	religion = komi_pagan
@@ -116,8 +127,10 @@
 17370 = {	#Selyana
 	holding = none
 }
-##d_mezen
-###c_mozyn
+
+
+## d_mezen ###################################
+### c_mozyn
 16992 = {	#Mozyn
 	culture = komi
 	religion = komi_pagan
@@ -132,7 +145,8 @@
 16706 = {	#Pyoza
 	holding = none
 }
-###c_vu
+
+### c_vu
 15515 = {	#Vu
 	culture = komi
 	religion = komi_pagan
@@ -141,7 +155,8 @@
 15767 = {	#Jovködzh
 	holding = none
 }
-###c_pizhma
+
+### c_pizhma
 16266 = {	#Pizhma
 	culture = komi
 	religion = komi_pagan
@@ -150,7 +165,8 @@
 17254 = {	#Kosma
 	holding = none
 }
-###c_koslan
+
+### c_koslan
 15583 = {	#Koslan
 	culture = komi
 	religion = komi_pagan

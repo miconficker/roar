@@ -1534,32 +1534,30 @@ d_upper_silesia = {
 	1178.1.1 = { change_development_level = 24 }
 	
 	750.1.1 = {
-		holder = 194084
+		holder = 194086
+		government = tribal_government
 	}
 	799.1.1 = {
-		holder = 194085
+		holder = 194087
 	}
 	822.1.1 = {
-		holder = 82291
+		holder = 82313
 	}
-	859.1.1 = {
-		holder = 82304
+	902.1.1 = {
+		holder = 82315
 	}
 	880.1.1 = {
-		holder = 82307
 		liege = k_moravia
 	}
-	900.1.1 = {
-		holder = 82308
+	932.1.1 = {
+		holder = 82316
 	}
-	920.1.1 = {
-		holder = 82309
-	}
-	960.1.1 = {
-		holder = 82310
+	942.1.1 = {
+		# vaguley when Przemyslids integrated the region into their realm
+		holder = 0
 	}
 	990.1.1 = {
-		holder = 82311
+		# Mieszko I time
 		effect = { set_title_name = c_upper_silesia }
 	}
 	#
@@ -1567,7 +1565,10 @@ d_upper_silesia = {
 		liege = k_poland
 	}
 	1036.1.1 = {
-		holder = 82312
+		holder = 82320
+	}
+	1050.1.1 = {
+		holder = 82321
 	}
 	1058.11.28 = {
 		holder = 96093
@@ -1612,33 +1613,27 @@ d_upper_silesia = {
 
 c_opole = {
 	750.1.1 = {
-		holder = 194084
-		liege = d_upper_silesia
+		holder = 194086
 		government = tribal_government
 	}
 	799.1.1 = {
-		holder = 194085
+		holder = 194087
 	}
-	830.1.1 = {
-		liege = "k_moravia"
-	}
-	830.1.1 = {
+	822.1.1 = {
 		holder = 82313
-	}
-	859.1.1 = {
-		holder = 82304
 	}
 	902.1.1 = {
 		holder = 82315
 	}
-	907.7.4 = {
-		liege = "d_bohemia"
+	880.1.1 = {
+		liege = k_moravia
 	}
 	932.1.1 = {
-		liege = d_lesser_poland
 		holder = 82316
 	}
 	942.1.1 = {
+		# vaguley when Przemyslids integrated the region into their realm
+		liege = "d_bohemia"
 		holder = 82317
 	}
 	970.1.1 = {
@@ -1697,7 +1692,7 @@ c_opole = {
 c_brzeg = {
 	750.1.1 = {
 		holder = 194084
-		liege = d_upper_silesia
+		liege = d_lower_silesia
 		government = tribal_government
 	}
 	799.1.1 = {
@@ -1706,42 +1701,33 @@ c_brzeg = {
 	830.1.1 = {
 		holder = 82313
 	}
+	859.1.1 = {
+		holder = 82304
+	}
 	880.1.1 = {
-		liege = "k_moravia"
+		holder = 82307
 	}
-	902.1.1 = {
-		holder = 82315
+	900.1.1 = {
+		holder = 82308
 	}
-	907.7.4 = {
-		liege = "d_bohemia"
-	}
-	932.1.1 = {
-		liege = d_lesser_poland
-		holder = 82316
-	}
-	936.1.1 = {
+	920.1.1 = {
 		holder = 82309
 	}
-	942.1.1 = {
-		holder = 82317
-	}
-	970.1.1 = {
-		holder = 82318
+	960.1.1 = {
+		holder = 82310
 	}
 	985.1.1 = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
-	1000.1.1 = {
-		holder = 82319
+	990.1.1 = {
+		holder = 82311
 	}
-	1020.1.1 = {
-		holder = 82320
-	}
+	#
 	1025.4.18 = {
 		liege = k_poland
 	}
-	1050.1.1 = {
-		holder = 82321
+	1036.1.1 = {
+		holder = 82312
 	}
 	1058.11.28 = {
 		holder = 762
@@ -1781,7 +1767,7 @@ c_brzeg = {
 c_nysa = {
 	750.1.1 = {
 		holder = 194084
-		liege = d_upper_silesia
+		liege = d_lower_silesia
 		government = tribal_government
 	}
 	799.1.1 = {
@@ -1790,35 +1776,33 @@ c_nysa = {
 	830.1.1 = {
 		holder = 82313
 	}
+	859.1.1 = {
+		holder = 82304
+	}
 	880.1.1 = {
-		liege = "k_moravia"
+		holder = 82307
 	}
-	902.1.1 = {
-		holder = 82315
+	900.1.1 = {
+		holder = 82308
 	}
-	907.7.4 = {
-		liege = "d_bohemia"
+	920.1.1 = {
+		holder = 82309
 	}
-	942.1.1 = {
-		holder = 82317
-	}
-	970.1.1 = {
-		holder = 82318
+	960.1.1 = {
+		holder = 82310
 	}
 	985.1.1 = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
-	1000.1.1 = {
-		holder = 82319
+	990.1.1 = {
+		holder = 82311
 	}
-	1020.1.1 = {
-		holder = 82320
-	}
+	#
 	1025.4.18 = {
 		liege = k_poland
 	}
-	1050.1.1 = {
-		holder = 82321
+	1036.1.1 = {
+		holder = 82312
 	}
 	1058.11.28 = {
 		holder = 762
@@ -1936,39 +1920,32 @@ c_cieszyn = {
 	1313.5.14 = {
 		holder = 471720
 	}
-
 }
 
 
 c_ratibor = {
 	750.1.1 = {
-		holder = 194084
-		liege = d_upper_silesia
+		holder = 194086
 		government = tribal_government
 	}
 	799.1.1 = {
-		holder = 194085
+		holder = 194087
 	}
-	830.1.1 = {
-		liege = "k_moravia"
-	}
-	830.1.1 = {
+	822.1.1 = {
 		holder = 82313
-	}
-	859.1.1 = {
-		holder = 82304
 	}
 	902.1.1 = {
 		holder = 82315
 	}
-	907.7.4 = {
-		liege = "d_bohemia"
+	880.1.1 = {
+		liege = k_moravia
 	}
 	932.1.1 = {
-		liege = d_lesser_poland
 		holder = 82316
 	}
 	942.1.1 = {
+		# vaguley when Przemyslids integrated the region into their realm
+		liege = "d_bohemia"
 		holder = 82317
 	}
 	970.1.1 = {
@@ -2019,39 +1996,31 @@ c_ratibor = {
 	1313.5.14 = {
 		holder = 471720
 	}
-
 }
-
 
 c_bethen = {
 	750.1.1 = {
-		holder = 194084
-		liege = d_upper_silesia
+		holder = 194086
 		government = tribal_government
 	}
 	799.1.1 = {
-		holder = 194085
+		holder = 194087
 	}
-	830.1.1 = {
-		liege = "k_moravia"
-	}
-	830.1.1 = {
+	822.1.1 = {
 		holder = 82313
-	}
-	859.1.1 = {
-		holder = 82304
 	}
 	902.1.1 = {
 		holder = 82315
 	}
-	907.7.4 = {
-		liege = "d_bohemia"
+	880.1.1 = {
+		liege = k_moravia
 	}
 	932.1.1 = {
-		liege = d_lesser_poland
 		holder = 82316
 	}
 	942.1.1 = {
+		# vaguley when Przemyslids integrated the region into their realm
+		liege = "d_bohemia"
 		holder = 82317
 	}
 	970.1.1 = {
@@ -2102,7 +2071,6 @@ c_bethen = {
 	1313.5.14 = {
 		holder = 471720
 	}
-
 }
 
 
@@ -2260,9 +2228,7 @@ c_breslau = {
 	1309.12.3 = {
 		holder = 125913
 	}
-
 }
-
 
 c_miliez = {
 	750.1.1 = {
@@ -2477,9 +2443,7 @@ c_grunberg = {
 	1309.12.3 = {
 		holder = 125913
 	}
-
 }
-
 
 c_sprottau = {
 	750.1.1 = {
@@ -2549,9 +2513,7 @@ c_sprottau = {
 	1309.12.3 = {
 		holder = 125913
 	}
-
 }
-
 
 c_przemkow = {
 	750.1.1 = {

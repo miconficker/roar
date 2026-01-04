@@ -5,8 +5,6 @@
 # Titular Titles
 
 # This exists just for the bookmark
-k_dali = {}
-k_silla = {}
 e_tang = {}
 e_song = {}
 

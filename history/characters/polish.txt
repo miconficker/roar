@@ -6531,7 +6531,7 @@
 
 82313 = {
 	name = "Jutrogost"
-	dynasty = 9129
+	dynasty = 9129  # Opolanie
 	religion = "slavic_pagan"
 	culture = "polish"
 	father = 194087
@@ -6564,7 +6564,7 @@
 
 82315 = {
 	name = "Wilkomir"
-	dynasty = 9129
+	dynasty = 9129  # Opolanie
 	father = 82313
 	mother = 82314
 	religion = "slavic_pagan"
@@ -6579,7 +6579,7 @@
 
 82316 = {
 	name = "MroczysL_aw"
-	dynasty = 9129
+	dynasty = 9129  # Opolanie
 	father = 82313
 	mother = 82314
 	religion = "slavic_pagan"
@@ -6594,7 +6594,7 @@
 
 82317 = {
 	name = "Wilkomir"
-	dynasty = 9129
+	dynasty = 9129  # Opolanie
 	father = 82316
 	religion = "slavic_pagan"
 	culture = "polish"
@@ -6608,7 +6608,7 @@
 
 82318 = {
 	name = "Izbygniew"
-	dynasty = 9129
+	dynasty = 9129  # Opolanie
 	father = 82317
 	religion = "slavic_pagan"
 	culture = "polish"
@@ -6622,7 +6622,7 @@
 
 82319 = {
 	name = "Bytomir"
-	dynasty = 9129
+	dynasty = 9129  # Opolanie
 	father = 82318
 	religion = "catholic"
 	culture = "polish"
@@ -6634,10 +6634,9 @@
 	}
 }
 
-
 82320 = {
 	name = "Niemironieg"
-	dynasty = 9129
+	dynasty = 9129  # Opolanie
 	father = 82319
 	religion = "catholic"
 	culture = "polish"
@@ -6651,7 +6650,7 @@
 
 82321 = {
 	name = "Tatomir"
-	dynasty = 9129
+	dynasty = 9129  # Opolanie
 	father = 82320
 	religion = "catholic"
 	culture = "polish"
@@ -7122,7 +7121,7 @@
 }
 194086 = {
 	name = "Sambor"
-	dynasty = 9129
+	dynasty = 9129  # Opolanie
 	religion = slavic_pagan
 	culture = polish
 	733.1.1 = {
@@ -7134,7 +7133,7 @@
 }
 194087 = {
 	name = "WielisL_aw"
-	dynasty = 9129
+	dynasty = 9129  # Opolanie
 	religion = slavic_pagan
 	culture = polish
 	father = 194086
