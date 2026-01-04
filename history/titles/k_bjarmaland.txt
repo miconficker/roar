@@ -5,7 +5,12 @@
 }
 
 
+## d_biarmia
 c_kholmogory = {
+	867.1.1 = { change_development_level = 1 }
+	1066.1.1 = { change_development_level = 2 }
+	1178.1.1 = { change_development_level = 3 }
+
 	#867
 	860.4.16 = {
 		holder = 302379	#Mandak Dvinok
@@ -31,7 +36,6 @@ c_kholmogory = {
 		liege = d_novgorod
 	}
 }
-
 
 c_onega_BJA = {
 	#867
@@ -60,8 +64,11 @@ c_onega_BJA = {
 	}
 }
 
-
 c_povenets = {
+	867.1.1 = { change_development_level = 0 }
+	1066.1.1 = { change_development_level = 0 }
+	1178.1.1 = { change_development_level = 2 }
+
 	#867
 	867.1.1 = {
 		holder = 302395	#fictional Everkki Chudi
@@ -161,9 +168,12 @@ c_povenets = {
 		holder = 125234
 	}
 }
-
 
 c_pudozh = {
+	867.1.1 = { change_development_level = 0 }
+	1066.1.1 = { change_development_level = 0 }
+	1178.1.1 = { change_development_level = 2 }
+
 	#867
 	867.1.1 = {
 		holder = 302395	#fictional Everkki Chudi
@@ -263,7 +273,6 @@ c_pudozh = {
 		holder = 125234
 	}
 }
-
 
 c_solovki = {
 	850.1.1 = {
@@ -305,7 +314,6 @@ d_chudia = {
 		holder = 0
 	}
 }
-
 
 c_kargopol = {
 	#867
@@ -408,7 +416,6 @@ c_kargopol = {
 	}
 }
 
-
 c_kirillov = {
 	#867
 	867.1.1 = {
@@ -476,7 +483,6 @@ c_kirillov = {
 	}
 }
 
-
 c_totma = {
 	#867
 	854.9.13 = {
@@ -514,7 +520,6 @@ c_totma = {
 		liege = d_novgorod
 	}
 }
-
 
 c_kadnikov = {
 	#867
@@ -555,6 +560,7 @@ c_kadnikov = {
 }
 
 
+## d_vologda
 c_vologda = {
 	#867
 	854.9.13 = {
@@ -592,7 +598,6 @@ c_vologda = {
 		liege = d_novgorod
 	}
 }
-
 
 c_lyubim = {
 	850.7.23 = {
@@ -654,7 +659,6 @@ c_lyubim = {
 	}
 }
 
-
 c_kunozh = {
 	862.1.2 = {
 		holder = unzha_867
@@ -694,7 +698,6 @@ c_kunozh = {
 	}
 }
 
-
 c_choklema = {
 	#867
 	867.1.1 = {
@@ -726,7 +729,6 @@ c_choklema = {
 		liege = d_opolye
 	}
 }
-
 
 c_sheksna = {
 	#867
@@ -794,7 +796,6 @@ c_sheksna = {
 		holder = 222670		#Vsevolod III the Big Nest
 	}
 }
-
 
 c_romanov = {
 	850.7.23 = {
@@ -865,7 +866,6 @@ c_romanov = {
 	}
 }
 
-
 c_vekshenga = {
 	#867
 	854.9.13 = {
@@ -904,7 +904,6 @@ c_vekshenga = {
 	}
 }
 
-
 c_ustyug = {
 	#867
 	867.1.1 = {
@@ -936,7 +935,6 @@ c_ustyug = {
 		liege = d_opolye
 	}
 }
-
 
 c_shenkursk = {
 	851.1.1 = {
@@ -977,7 +975,6 @@ c_shenkursk = {
 	}
 }
 
-
 c_velsk = {
 	851.1.1 = {
 		holder = vp_bjarmian_000009
@@ -1016,7 +1013,6 @@ c_velsk = {
 		liege = d_novgorod
 	}
 }
-
 
 c_yemetsk = {
 	851.1.1 = {
@@ -1094,7 +1090,6 @@ d_pinega = {
 	}
 }
 
-
 c_pinega = {
 	#867
 	853.3.16 = {
@@ -1132,7 +1127,6 @@ c_pinega = {
 	}
 }
 
-
 c_kevrola = {
 	#867
 	853.3.16 = {
@@ -1169,7 +1163,6 @@ c_kevrola = {
 		holder = 302394	#Noumea Angolk
 	}
 }
-
 
 c_toima = {
 	#867

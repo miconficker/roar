@@ -1,9 +1,9 @@
 ﻿k_vychegda = {
 	867.1.1 = { change_development_level = 0 }
 	1066.1.1 = { change_development_level = 0 }
-	1187.1.1 = { change_development_level = 4 }
-	1337.1.1 = { change_development_level = 6 }
+	1178.1.1 = { change_development_level = 0 }
 }
+
 d_vym = {
 	867.1.1 = {
 		holder = vp_komi_000001
