@@ -1,0 +1,283 @@
+# k_permia
+## d_perm ###################################
+### c_perm
+886 = {		#Perm
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+5434 = {	#Kungur
+	holding = none
+}
+17166 = {	#Sylva
+	holding = none
+}
+17131 = {	#Sukhoy
+	holding = none
+}
+
+### c_sebur
+5437 = {	#Sebur
+	#Can be seen on XIVth century maps of Volga Bulgaria, location fairly approximate
+	culture = mogyer
+	religion = magyar_pagan
+	holding = tribal_holding
+}
+5438 = {	#Osa
+	holding = none
+}
+5439 = {	#Aluchi
+	#Can be found in the XIX atlas of the Russian Empire, in the province of Perm, south of Ossa
+	holding = none
+}
+
+### c_anjuskar
+16196 = {	#Glyadeno
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+5452 = {	#Krasnokamsk
+	holding = none
+}
+5458 = {	#Kasib
+	holding = none
+}
+
+### c_krasnooufimsk
+5435 = {	#Krasnooufimsk
+	culture = mogyer
+	religion = magyar_pagan
+	holding = tribal_holding
+}
+5436 = {	#Ovinskoi
+	#Can be found in the XIX atlas of the Russian Empire, in the province of Perm, south-west of Kungur (noted Coungour)
+	holding = none
+}
+5440 = {	#Saraninskor
+	#Can be found in the XIX atlas of the Russian Empire, in the province of Perm, south of Krasnooufimsk
+	holding = none
+}
+
+
+## d_ural ###################################
+### c_lysva
+5441 = {	#Lysva
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+5442 = {	#Kutamych
+	#Appears as "Coutamych" in XIXth century Russian atlas, province of Perm
+	holding = none
+}
+
+### c_kumych
+5445 = {	#Kumych
+	#Appears as "Coumych" in XIXth century Russian atlas, province of Perm, east of Perm, just west of the Urals
+	culture = mogyer
+	religion = magyar_pagan
+	holding = tribal_holding
+}
+5443 = {	#Šalja
+	holding = none
+}
+5444 = {	#Chusovaya	fictional, based on river of the same name
+	holding = none
+}
+5446 = {	#Bisserskaya
+	#Can be found in the XIX atlas of the Russian Empire, in the province of Perm, west of Yekaterinburg
+	holding = none
+}
+5447 = {	#Klenovskaya
+	#Can be found in the XIX atlas of the Russian Empire, in the province of Perm, west of Yekaterinburg
+	holding = none
+}
+
+### c_kosva
+5454 = {	#Kosva
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+15287 = {	#Yarino
+	holding = none
+}
+
+### c_kerken
+5455 = {	#Kerken
+	#Not to be confused with the german Kerken
+	#Can be found on maps of Volga Bulgaria
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+5453 = {	#Vilva	fictional, based on river of the same name
+	holding = none
+}
+5457 = {	#Akchim	based on river of the same name
+	holding = none
+}
+
+### c_ural
+889 = {		#Ural	AKA Uralsk
+	culture = mansi
+	religion = siberian_pagan
+	holding = tribal_holding
+}
+16096 = {	#Jodz
+	holding = none
+}
+15884 = {	#Turya
+	holding = none
+}
+
+
+## d_udmurtia ###################################
+### c_glazov
+5463 = {	#Glazov
+	culture = udmurt
+	religion = udmurt_pagan
+	holding = tribal_holding
+}
+5464 = {	#Igra
+	holding = none
+}
+5451 = {	#Kez
+	holding = none
+}
+
+### c_kolyn
+5466 = {	#Kolyn
+	#XIth century settlement, more or less same location as modern day Kirov
+	culture = udmurt
+	religion = udmurt_pagan
+	holding = tribal_holding
+}
+5467 = {	#Nukrat
+	#Can be found on map of Volga Bulgaria in the Xth century, north/east of Kolyn, on the Kama river
+	holding = none
+}
+5468 = {	#Suna
+	holding = none
+}
+
+### c_nikulchin
+15278 = {	#Nikulchin
+	culture = udmurt
+	religion = udmurt_pagan
+	holding = tribal_holding
+}
+15333 = {	#Orlov
+	holding = none
+}
+
+### c_izhevsk
+5404 = {	#Izhevsk
+	culture = udmurt
+	religion = udmurt_pagan
+	holding = tribal_holding
+}
+5401 = {	#Mozhga
+	holding = none
+}
+5465 = {	#Uva
+	holding = none
+}
+
+### c_votkinsk
+5449 = {	#Votkinsk
+	culture = udmurt
+	religion = udmurt_pagan
+	holding = tribal_holding
+}
+5450 = {	#Chastye
+	holding = none
+}
+
+### c_kilmez
+5469 = {	#Arkul
+	culture = udmurt
+	religion = udmurt_pagan
+	holding = tribal_holding
+}
+16942 = {	#Sölta
+	holding = none
+}
+17138 = {	#Uni
+	holding = none
+}
+
+
+## d_cherdyn ###################################
+### c_cherdyn
+17021 = {	#Cherdyn
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+16986 = {	#Vilgort
+	holding = none
+}
+16458 = {	#Izkar
+	holding = none
+}
+17384 = {	#Redikor
+	holding = none
+}
+5456 = {	#Shimal
+	# Can be found on maps of Volga Bulgaria
+	holding = none
+}
+
+### c_kebraty
+15663 = {	#Kebraty
+	holding = none
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+5462 = {	#Lolog
+	# fictional, based on river of the same name
+	holding = none
+}
+16586 = {	#Turunju
+	holding = none
+}
+16857 = {	#Loino
+	holding = none
+}
+
+### c_kuva
+612 = {		#Kai
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+5459 = {	#Koca
+	# fictional, based on river of the same name
+	holding = none
+}
+5460 = {	#Karsovay
+	holding = none
+}
+15281 = {	#Zul
+	holding = none
+}
+15283 = {	#Zyuzdin
+	holding = none
+}
+
+### c_kargadan
+888 = {		#Kargadan
+	# Can be found on maps of Volga Bulgaria
+	culture = komi
+	religion = komi_pagan
+	holding = tribal_holding
+}
+5461 = {	#Palniki
+	holding = none
+}
+15707 = {	#Izjur
+	holding = none
+}
