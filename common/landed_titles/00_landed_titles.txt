@@ -78788,7 +78788,7 @@ e_permia = {
 					color = { 3 119 250 }
 				}
 			}
-			c_15882 = {
+			c_sheksna = {
 				color = { 0 73 160 }
 
 				b_sheksna = {
