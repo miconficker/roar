@@ -26885,18 +26885,29 @@ e_volga-ural = {
 					color = { 97 56 55 }
 				}
 			}
-			c_jalmat = {
-				color = { 46 41 56 }
+			c_ashli = {
+				color = { 96 52 80 }
 
-				b_jalmat = {
-					province = 5422
+				b_ashli = {
+					province = 614
 
-					color = { 56 31 56 }
+					color = { 96 52 80 }
 				}
-				b_pascherty = {
-					province = 5423
+				b_simbirsk = {
+					province = 591
 
-					color = { 56 31 56 }
+					color = { 96 52 80 }
+				}
+				b_tagay = {
+					# old b_saransk
+					province = 579
+
+					color = { 96 52 80 }
+				}
+				b_banja = {
+					province = 5411
+
+					color = { 96 52 80 }
 				}
 			}
 			c_yar-calli = {
@@ -26913,30 +26924,6 @@ e_volga-ural = {
 					color = { 66 36 87 }
 				}
 			}
-			c_ashli = {
-				color = { 96 52 80 }
-
-				b_ashli = {
-					province = 614
-
-					color = { 96 52 80 }
-				}
-				b_simbirsk = {
-					province = 591
-
-					color = { 96 52 80 }
-				}
-				b_banja = {
-					province = 5411
-
-					color = { 96 52 80 }
-				}
-				b_saransk = {
-					province = 579
-
-					color = { 96 52 80 }
-				}
-			}
 			c_karabolam = {
 				color = { 85 70 86 }
 
@@ -26945,12 +26932,14 @@ e_volga-ural = {
 
 					color = { 85 70 86 }
 				}
-				b_aqsubay = {
+				b_kamyshla = {
+					# old b_aqsubay
 					province = 5413
 
 					color = { 85 70 86 }
 				}
-				b_elmet = {
+				b_cheremshan = {
+					# old b_elmet
 					province = 5414
 
 					color = { 85 70 86 }
@@ -26980,6 +26969,20 @@ e_volga-ural = {
 					color = { 107 47 67 }
 				}
 			}
+			c_jalmat = {
+				color = { 46 41 56 }
+
+				b_jalmat = {
+					province = 5422
+
+					color = { 56 31 56 }
+				}
+				b_pascherty = {
+					province = 5423
+
+					color = { 56 31 56 }
+				}
+			}
 		}
 
 		d_kazan = {
@@ -27000,16 +27003,19 @@ e_volga-ural = {
 
 					color = { 97 80 62 }
 				}
-				b_otarka = {
+				b_kermenchuk = {
+					# old b_otarka
 					province = 5400
 
 					color = { 97 80 62 }
 				}
 			}
-			c_mamadych = {
+			c_malmyzh = {
+				# old c_mamadych
 				color = { 80 70 65 }
 
-				b_mamadych = {
+				b_malmyzh = {
+					# old b_mamadych
 					province = 5399
 
 					color = { 80 70 65 }
@@ -27036,8 +27042,50 @@ e_volga-ural = {
 			}
 		}
 
+		d_chuvashia = {
+			color = { 34 54 53 }
+
+			capital = c_cheboksary
+
+			c_cheboksary = {
+				color = { 44 44 65 }
+
+				b_cheboksary = {
+					province = 590
+
+					color = { 44 44 65 }
+				}
+				b_cykma = {
+					province = 16512
+
+					color = { 44 44 65 }
+				}
+			}
+			c_tigesh = {
+				color = { 36 65 64 }
+
+				b_tigesh = {
+					province = 5365
+
+					color = { 36 65 64 }
+				}
+				b_urmary = {
+					province = 5363
+
+					color = { 36 65 64 }
+				}
+				b_tzyvil = {
+					province = 5364
+
+					color = { 36 65 64 }
+				}
+			}
+		}
+
 		d_vetluga = {
 			color = { 56 55 97 }
+
+			capital = c_vetluga
 
 			cultural_names = {
 				name_list_mari = cn_vytla
@@ -27068,8 +27116,13 @@ e_volga-ural = {
 					province = 5474
 
 					color = { 56 55 97 }
+
+					cultural_names = {
+						name_list_russian = cn_khazhirovo
+					}
 				}
-				b_jumab_kakshar = {
+				b_juma = {
+					# old b_jumab_kakshar
 					province = 15277
 
 					color = { 56 55 97 }
@@ -27129,26 +27182,11 @@ e_volga-ural = {
 			}
 		}
 
-		d_17330 = {
-			c_kakshar = {
-				color = { 150 74 115 }
+		d_mari = {
+			color = { 100 43 138 }
 
-				b_kakshar = {
-					province = 17330
+			capital = c_yoshkar-ola
 
-					color = { 150 74 115 }
-
-					cultural_names = {
-						name_list_russian = cn_kotelnich
-					}
-				}
-				b_kukarka = {
-					province = 17137
-				}
-				b_urzhum = {
-					province = 17022
-				}
-			}
 			c_yoshkar-ola = {
 				color = { 75 60 86 }
 
@@ -27180,43 +27218,33 @@ e_volga-ural = {
 					province = 5393
 
 					color = { 125 110 136 }
+
+					cultural_names = {
+						name_list_mari = cn_julser-ola
+					}
 				}
 			}
-		}
-		d_chuvashia = {
-			color = { 34 54 53 }
+			c_kakshar = {
+				color = { 150 74 115 }
 
-			c_cheboksary = {
-				color = { 44 44 65 }
+				b_kakshar = {
+					province = 17330
 
-				b_cheboksary = {
-					province = 590
+					color = { 150 74 115 }
 
-					color = { 44 44 65 }
+					cultural_names = {
+						name_list_russian = cn_kotelnich
+					}
 				}
-				b_cykma = {
-					province = 16512
+				b_kukarka = {
+					province = 17137
 
-					color = { 44 44 65 }
+					color = { 150 74 115 }
 				}
-			}
-			c_tigesh = {
-				color = { 36 65 64 }
+				b_urzhum = {
+					province = 17022
 
-				b_tigesh = {
-					province = 5365
-
-					color = { 36 65 64 }
-				}
-				b_urmary = {
-					province = 5363
-
-					color = { 36 65 64 }
-				}
-				b_tzyvil = {
-					province = 5364
-
-					color = { 36 65 64 }
+					color = { 150 74 115 }
 				}
 			}
 		}
@@ -27708,7 +27736,8 @@ e_volga-ural = {
 
 		capital = c_ufa
 
-		d_bashkiria = {
+		d_ufa = {
+			# old d_bashkiria
 			color = { 58 64 62 }
 
 			capital = c_ufa
@@ -27945,63 +27974,6 @@ e_volga-ural = {
 			}
 		}
 
-		d_jalmat = {
-			color = { 56 31 56 }
-
-			capital = c_jalmat
-
-			c_belebey = {
-				color = { 50 40 30 }
-
-				b_belebey = {
-					province = 5418
-
-					color = { 50 40 30 }
-				}
-				b_achaly = {
-					province = 5421
-
-					color = { 50 40 30 }
-				}
-				b_sterlitamak = {
-					province = 5429
-
-					color = { 50 40 30 }
-				}
-			}
-			c_siun = {
-				color = { 30 15 40 }
-
-				b_siun = {
-					province = 5420
-
-					color = { 30 15 40 }
-				}
-				b_menzelinsk = {
-					province = 5419
-
-					color = { 30 15 40 }
-				}
-			}
-			c_agidel = {
-				b_agidel = {
-					province = 5409
-
-					color = { 66 36 87 }
-				}
-				b_almetyvesk = {
-					province = 5425
-
-					color = { 56 31 56 }
-				}
-				b_bugulma = {
-					province = 5424
-
-					color = { 56 31 56 }
-				}
-			}
-		}
-
 		d_bugurslan = {
 			color = { 72 58 24 }
 
@@ -28052,6 +28024,66 @@ e_volga-ural = {
 					province = 5433
 
 					color = { 85 60 10 }
+				}
+			}
+		}
+
+		d_belaya = {
+			# old d_jalmat
+			color = { 56 31 56 }
+
+			capital = c_belebey
+
+			c_belebey = {
+				color = { 50 40 30 }
+
+				b_belebey = {
+					province = 5418
+
+					color = { 50 40 30 }
+				}
+				b_achaly = {
+					province = 5421
+
+					color = { 50 40 30 }
+				}
+				b_sterlitamak = {
+					province = 5429
+
+					color = { 50 40 30 }
+				}
+			}
+			c_siun = {
+				color = { 30 15 40 }
+
+				b_siun = {
+					province = 5420
+
+					color = { 30 15 40 }
+				}
+				b_menzelinsk = {
+					province = 5419
+
+					color = { 30 15 40 }
+				}
+			}
+			c_ik = {
+				color = { 54 26 84 }
+
+				b_agidel = {
+					province = 5409
+
+					color = { 54 26 84 }
+				}
+				b_almetyvesk = {
+					province = 5425
+
+					color = { 54 26 84 }
+				}
+				b_bugulma = {
+					province = 5424
+
+					color = { 54 26 84 }
 				}
 			}
 		}
