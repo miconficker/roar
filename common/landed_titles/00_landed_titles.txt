@@ -25321,7 +25321,6 @@ e_caspian-pontic_steppe = {
 
 					color = { 100 65 37 }
 				}
-
 				b_salmacatce = {
 					province = 5275
 
@@ -25368,6 +25367,28 @@ e_caspian-pontic_steppe = {
 					color = { 137 69 13 }
 				}
 			}
+			c_oleshye = {
+				color = { 200 130 40 }
+
+				cultural_names = {
+					name_list_greek = cn_oleshia
+				}
+
+				b_oleshye = {
+					province = 558
+
+					color = { 200 130 40 }
+
+					cultural_names = {
+						name_list_greek = cn_oleshia
+					}
+				}
+				b_olbia_ETEL = {
+					province = 542
+
+					color = { 200 130 40 }
+				}
+			}
 			c_kherson = {
 				color = { 125 90 65 }
 
@@ -25401,35 +25422,39 @@ e_caspian-pontic_steppe = {
 					color = { 183 125 94 }
 				}
 			}
-			c_oleshye = {
-				color = { 200 130 40 }
-
-				cultural_names = {
-					name_list_greek = cn_oleshia
-				}
-
-				b_oleshye = {
-					province = 558
-
-					color = { 200 130 40 }
-				}
-				b_olbia_ETEL = {
-					province = 542
-
-					color = { 200 130 40 }
-				}
-			}
 		}
 
 		d_levedia = {
 			color = { 210 160 69 }
 
-			capital = c_samar
+			capital = c_kharka
 
 			cultural_names = {
 				name_list_greek = cn_scythia
 			}
 
+			c_kharka = {
+				color = { 180 180 90 }
+
+				cultural_names = {
+					name_list_russian = cn_donets
+				}
+
+				b_kharka = {
+					province = 565
+
+					color = { 180 180 90 }
+
+					cultural_names = {
+						name_list_russian = cn_donets
+					}
+				}
+				b_bohodukhiv = {
+					province = 5283
+
+					color = { 180 180 90 }
+				}
+			}
 			c_samar = {
 				color = { 180 180 90 }
 
@@ -25475,28 +25500,6 @@ e_caspian-pontic_steppe = {
 					province = 5321
 
 					color = { 130 70 0 }
-				}
-			}
-			c_kharka = {
-				color = { 180 180 90 }
-
-				cultural_names = {
-					name_list_russian = cn_donets
-				}
-
-				b_kharka = {
-					province = 565
-
-					color = { 180 180 90 }
-
-					cultural_names = {
-						name_list_russian = cn_donets
-					}
-				}
-				b_bohodukhiv = {
-					province = 5283
-
-					color = { 180 180 90 }
 				}
 			}
 			c_sharukan = {
@@ -25547,25 +25550,6 @@ e_caspian-pontic_steppe = {
 					color = { 180 130 50 }
 				}
 			}
-
-			c_17167 = {
-				b_kalanchak = {
-					province = 17167
-
-					color = { 200 130 40 }
-				}
-				b_kakovka = {
-					province = 5278
-
-					color = { 200 130 40 }
-				}
-				b_kyzyl_jar = {
-					province = 5279
-
-					color = { 200 130 40 }
-				}
-			}
-
 			c_mariupol = {
 				color = { 180 80 50 }
 
@@ -25578,6 +25562,25 @@ e_caspian-pontic_steppe = {
 					province = 5281
 
 					color = { 180 80 50 }
+				}
+			}
+			c_kyz-yar = {
+				color = { 183 125 94 }
+
+				b_kyzyl_jar = {
+					province = 5279
+
+					color = { 183 125 94 }
+				}
+				b_kakovka = {
+					province = 5278
+
+					color = { 183 125 94 }
+				}
+				b_kalanchak = {
+					province = 17167
+
+					color = { 183 125 94 }
 				}
 			}
 		}
@@ -25635,10 +25638,12 @@ e_caspian-pontic_steppe = {
 					color = { 205 175 85 }
 				}
 			}
-			c_kazanskaya = {
+			c_boguchar = {
+				# old c_kazanskaya
 				color = { 236 200 105 }
 
-				b_kazanskaya = {
+				b_boguchar = {
+					# old b_kazanskaya
 					province = 5287
 
 					color = { 236 200 105 }
@@ -26309,6 +26314,15 @@ e_caspian-pontic_steppe = {
 		}
 	}
 
+	k_magyar = {
+		color = { 187 70 70 }
+
+		capital = c_visegrad # Pest
+
+		definite_form = yes
+		de_jure_drift_disabled = yes
+	}
+
 	k_gazaria = {
 		color = { 133 58 24 }
 
@@ -26829,14 +26843,6 @@ e_caspian-pontic_steppe = {
 				}
 			}
 		}
-	}
-	k_magyar = {
-		color = { 187 70 70 }
-
-		capital = c_visegrad # Pest
-
-		definite_form = yes
-		de_jure_drift_disabled = yes
 	}
 }
 
