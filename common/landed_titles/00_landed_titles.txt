@@ -25234,8 +25234,6 @@ e_caspian-pontic_steppe = {
 			name_list_polish = cn_dzikie_pola
 			name_list_lithuanian = cn_dykra
 			name_list_hungarian = cn_etelkoz
-			name_list_anglo_saxon = cn_new_england
-			name_list_english = cn_new_england
 		}
 
 		d_yedisan = {	#Karayedisan
