@@ -64583,6 +64583,25 @@ e_bengal = {
 					color = { 25 140 40 }
 				}
 			}
+			c_goalpara = {
+				color = { 15 200 80 }
+
+				b_goalpara = {
+					province = 1246
+
+					color = { 15 200 80 }
+				}
+				b_sri_surya_pahar = {
+					province = 819
+
+					color = { 15 200 80 }
+				}
+				b_kamakhya = {
+					province = 820
+
+					color = { 15 200 80 }
+				}
+			}
 		}
 
 		d_sutiya = {
@@ -64651,27 +64670,8 @@ e_bengal = {
 		d_para_lauhitya = {
 			color = { 15 220 80 }
 
-			capital = c_goalpara # Goalpara
+			capital = c_dimapur
 
-			c_goalpara = {
-				color = { 15 200 80 }
-
-				b_goalpara = {
-					province = 1246
-
-					color = { 15 200 80 }
-				}
-				b_sri_surya_pahar = {
-					province = 819
-
-					color = { 15 200 80 }
-				}
-				b_kamakhya = {
-					province = 820
-
-					color = { 15 200 80 }
-				}
-			}
 			c_dimapur = {
 				color = { 15 220 60 }
 
@@ -64696,25 +64696,6 @@ e_bengal = {
 					color = { 15 220 60 }
 				}
 			}
-			c_srihatta = {
-				color = { 25 210 80 }
-
-				b_srihatta = {
-					province = 1245
-
-					color = { 25 210 80 }
-				}
-				b_jangalbari = {
-					province = 824
-
-					color = { 25 210 80 }
-				}
-				b_habiganj = {
-					province = 825
-
-					color = { 25 210 80 }
-				}
-			}
 			c_manipur = {
 				color = { 35 200 100 }
 
@@ -64732,6 +64713,31 @@ e_bengal = {
 					province = 16414
 
 					color = { 35 200 100 }
+				}
+			}
+		}
+		d_jaintia = {
+			color = { 71 186 107 }
+
+			capital = c_srihatta
+
+			c_srihatta = {
+				color = { 25 210 80 }
+
+				b_srihatta = {
+					province = 1245
+
+					color = { 25 210 80 }
+				}
+				b_jangalbari = {
+					province = 824
+
+					color = { 25 210 80 }
+				}
+				b_habiganj = {
+					province = 825
+
+					color = { 25 210 80 }
 				}
 			}
 		}
