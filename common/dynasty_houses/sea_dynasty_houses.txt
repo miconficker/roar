@@ -15,14 +15,6 @@ house_Jamadevi = {
     dynasty = mon_d101
 }
 
-house_Tuoba_Li = {
-	name = "dynn_Li"
-	dynasty = 1029300
-}
-house_Tuoba_Weiming = {
-	name = "dynn_Weiming"
-	dynasty = 1029300
-}
 house_Ratta = {
 	name = "dynn_Ratta"
 	dynasty = 1043003
@@ -90,6 +82,20 @@ house_nong = {
     dynasty = taiviet_d002
 }
 
+
+##### Clered up below #####
+# Tangut
+house_Tuoba_Li = {
+	# replaces dynasty = 1029317 #Tuoba
+	name = "dynn_Li"
+	dynasty = 1029300
+}
+house_Tuoba_Weiming = {
+	# replaces dynasty = 1029302 #Ngwemi/Weiming
+	name = "dynn_Weiming"
+	dynasty = 1029300
+}
+
 # TURK
 house_oghuz_aqevli = {
 	name = "dynn_Aqevli"
@@ -109,6 +115,7 @@ house_il_arslanid = {
 	name = "dynn_Bozoq"
 	dynasty = 7327 # Oghuz
 }
+
 
 ### CAUCASUS ###
 # Abkhaz
