@@ -34596,13 +34596,14 @@ e_turan = {
 
 	k_oghuz_il = {
 		color = { 235 35 35 }
+		can_be_named_after_dynasty = no
 
 		capital = c_yangikent
 
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = { has_cultural_pillar = heritage_turkic }
+					culture = { has_cultural_pillar = heritage_on_oq }
 				}
 				add = @better_than_the_alternatives_score
 			}
@@ -34653,7 +34654,6 @@ e_turan = {
 			}
 			c_qaraustyurt = {
 				color = { 245 50 20 }
-
 
 				b_fort_novoaleksandrovkiy = {
 					province = 7077
