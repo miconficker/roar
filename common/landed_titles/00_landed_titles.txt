@@ -26070,32 +26070,32 @@ e_caspian-pontic_steppe = {
 		}
 
 		d_mugodzhar_hills = {
-			color = { 235 84 84 }
+			color = { 191 106 15 }
 
 			capital = c_mugodzhar_hills
 
 			c_mugodzhar_hills = {
-				color = { 220 100 100 }
+				color = { 195 90 5 }
 
 				b_karabutak = {
 					province = 7242
 
-					color = { 220 100 100 }
+					color = { 195 90 5 }
 				}
 				b_kum_sai = {
 					province = 7243
 
-					color = { 220 100 100 }
+					color = { 195 90 5 }
 				}
 				b_chir_kala = {
 					province = 7244
 
-					color = { 220 100 100 }
+					color = { 195 90 5 }
 				}
 				b_jity_kul = {
 					province = 7245
 
-					color = { 220 100 100 }
+					color = { 195 90 5 }
 				}
 			}
 			c_jitikul = {
@@ -26113,17 +26113,17 @@ e_caspian-pontic_steppe = {
 				}
 			}
 			c_kosh_kurbay = {
-				color = { 211 135 187 }
+				color = { 175 110 5 }
 
 				b_kosh_kurbay = {
 					province = 7252
 
-					color = { 211 135 187 }
+					color = { 175 110 5 }
 				}
 				b_jarli_butak = {
 					province = 7250
 
-					color = { 211 135 187 }
+					color = { 175 110 5 }
 				}
 			}
 			c_kos_uba = {
@@ -34933,22 +34933,22 @@ e_turan = {
 		}
 
 		d_barsuki =  {
-			color = { 191 106 15 }
+			color = { 235 84 84 }
 
 			capital = c_barsuki
 
 			c_barsuki = {
-				color = { 195 90 5 }
+				color = { 220 100 100 }
 
 				b_barsuki = {
 					province = 7096
 
-					color = { 195 90 5 }
+					color = { 220 100 100 }
 				}
 				b_chushka-kol = {
 					province = 7098
 
-					color = { 195 90 5 }
+					color = { 220 100 100 }
 				}
 			}
 			c_airyuk = {
@@ -34966,17 +34966,17 @@ e_turan = {
 				}
 			}
 			c_jamantau = {
-				color = { 175 110 5 }
+				color = { 211 135 187 }
 
 				b_jamantau = {
 					province = 7094
 
-					color = { 175 110 5 }
+					color = { 211 135 187 }
 				}
 				b_emba = {
 					province = 7095
 
-					color = { 175 110 5 }
+					color = { 211 135 187 }
 				}
 			}
 		}
