@@ -34986,24 +34986,38 @@ e_turan = {
 
 				b_balasaghun = {
 					province = 7154
+
+					color = { 131 49 22 }
 				}
 				b_yarish = {
 					province = 7148
+
+					color = { 131 49 22 }
 				}
 				b_boluzhi = {
 					province = 7147
+
+					color = { 131 49 22 }
 				}
 				b_kulshub = {
 					province = 16131
+
+					color = { 131 49 22 }
 				}
 				b_nevkat = {
 					province = 7161
+
+					color = { 131 49 22 }
 				}
 				b_suyab = {
 					province = 1424
+
+					color = { 131 49 22 }
 				}
 				b_toqmaq = {
 					province = 15949
+
+					color = { 131 49 22 }
 				}
 			}
 			c_naryn = {
