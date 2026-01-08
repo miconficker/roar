@@ -67115,22 +67115,6 @@ e_deccan = {
 					color = { 160 75 75 }
 				}
 			}
-			c_maldives = {
-				color = { 120 75 75 }
-
-				definite_form = yes
-
-				b_mahal = {
-					province = 1360
-
-					color = { 120 75 75 }
-				}
-				b_thiladhunmathi = {
-					province = 8712
-
-					color = { 120 75 75 }
-				}
-			}
 		}
 
 		d_tondai_nadu = {
@@ -67255,6 +67239,48 @@ e_deccan = {
 					province = 7817
 
 					color = { 180 120 120 }
+				}
+			}
+		}
+
+		d_maldives = {
+			color = { 120 75 75 }
+
+			c_maldives = {
+				color = { 120 75 75 }
+
+				definite_form = yes
+
+				b_mahal = {
+					province = 1360
+
+					color = { 120 75 75 }
+				}
+				b_thiladhunmathi = {
+					province = 8712
+
+					color = { 120 75 75 }
+				}
+			}
+		}
+
+		d_lakshadvipa = {
+			color = { 161 111 76 }
+
+			c_lakshadvipa = {
+				color = { 161 111 76 }
+
+				definite_form = yes
+
+				b_androth = {
+					province = 15464
+
+					color = { 161 111 76 }
+				}
+				b_kavaratti = {
+					province = 15544
+
+					color = { 161 111 76 }
 				}
 			}
 		}
@@ -81341,19 +81367,7 @@ e_temp = {
 		}
 	}
 	k_temp = {
-
 		color = { 100 100 100 }
-
-		d_laccadives = {
-			c_15464 = {
-				b_15464 = {
-					province = 15464
-				}
-				b_15544 = {
-					province = 15544
-				}
-			}
-		}
 
 		d_15900 = {
 			c_15900 = {
