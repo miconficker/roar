@@ -5,6 +5,8 @@
 	culture = sogdian
 	religion = khurmazta
 	holding = castle_holding
+
+	# History
 	450.1.1 = {
 		special_building = ark_of_bukhara_01
 	}
@@ -42,6 +44,8 @@
 	culture = sogdian
 	religion = khurmazta
 	holding = castle_holding
+
+	# History
 	900.1.1 = {
 		religion = maturidi
 		culture = tajik
@@ -60,6 +64,8 @@
 	culture = sogdian
 	religion = khurmazta
 	holding = castle_holding
+
+	# History
 	900.1.1 = {
 		religion = maturidi
 		culture = tajik
@@ -79,6 +85,8 @@
 	culture = sogdian
 	religion = khurmazta
 	holding = castle_holding
+
+	# History
 	900.1.1 = {
 		religion = maturidi
 		culture = tajik
@@ -101,6 +109,8 @@
 	culture = sogdian
 	religion = khurmazta
 	holding = castle_holding
+
+	# History
 	900.1.1 = {
 		religion = maturidi
 		culture = tajik
@@ -124,6 +134,8 @@
 	culture = sogdian
 	religion = khurmazta
 	holding = castle_holding
+
+	# History
 	900.1.1 = {
 		religion = maturidi
 	}
@@ -149,6 +161,8 @@
 	culture = sogdian
 	religion = maturidi
 	holding = castle_holding
+
+	# History
 	867.1.1 = {
 		buildings = {
 			cereal_fields_01
@@ -707,10 +721,10 @@
 	religion = khurmazta
 	holding = castle_holding
 
+	# History
 	1060.1.1 = {
 		religion = maturidi
 	}
-	
 	1230.1.1 = { #FP3 change from 1060 - the turkification of the area was only completed after the Mongol conquest
 		culture = turkish
 	}
@@ -728,10 +742,10 @@
 	religion = khurmazta
 	holding = castle_holding
 
+	# History
 	1060.1.1 = {
 		religion = maturidi
 	}
-	
 	1230.1.1 = { #FP3 change from 1060 - the turkification of the area was only completed after the Mongol conquest
 		culture = turkish
 	}
@@ -745,10 +759,21 @@
 	culture = khwarezmian
 	religion = khurmazta
 	holding = castle_holding
+
+	effect = {
+		if = {
+			limit = {
+				has_tgp_dlc_trigger = yes
+			}
+			add_special_building_slot = khiva_bazaar_01
+			add_special_building = khiva_bazaar_01
+		}
+	}
+
+	# History
 	1060.1.1 = {
 		religion = maturidi
 	}
-
 	1230.1.1 = { #FP3 change from 1060 - the turkification of the area was only completed after the Mongol conquest
 		culture = turkish
 	}
@@ -768,10 +793,11 @@
 	culture = khwarezmian
 	religion = khurmazta
 	holding = castle_holding
+
+	# History
 	1060.1.1 = {
 		religion = maturidi
 	}
-
 	1230.1.1 = { #FP3 change from 1060 - the turkification of the area was only completed after the Mongol conquest
 		culture = turkish
 	}
@@ -812,6 +838,8 @@
 	culture = khwarezmian
 	religion = khurmazta
 	holding = tribal_holding
+
+	# History
 	1060.1.1 = {
 		culture = turkish
 		religion = maturidi
@@ -829,6 +857,8 @@
 	culture = khwarezmian
 	religion = khurmazta
 	holding = tribal_holding
+
+	# History
 	1060.1.1 = {
 		culture = turkish
 		religion = maturidi
@@ -846,6 +876,8 @@
 	culture = khwarezmian
 	religion = khurmazta
 	holding = tribal_holding
+
+	# History
 	1060.1.1 = {
 		culture = turkish
 		religion = maturidi
@@ -863,6 +895,8 @@
 	culture = khwarezmian
 	religion = khurmazta
 	holding = tribal_holding
+
+	# History
 	1060.1.1 = {
 		culture = turkish
 		religion = maturidi
