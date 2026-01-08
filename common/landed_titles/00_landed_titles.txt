@@ -32949,6 +32949,11 @@ e_tartaria = {
 		}
 	}
 
+	#k_kimek = {
+		#color = { 175 55 40 }
+		#capital = c_mugodzhar_hills
+	#}
+
 	k_cuman = {	#Uly Dala
 		color = { 131 84 50 }
 

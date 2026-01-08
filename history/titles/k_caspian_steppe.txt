@@ -845,14 +845,8 @@ c_yaitsk = {
 	}
 }
 
-d_mugodzhar_hills = {
-	#867
-	867.1.1 = {
-		holder = 0
-	}
-}
 
-
+## d_mugodzhar_hills
 c_mugodzhar_hills = {
 	#867
 	867.1.1 = {
@@ -877,7 +871,6 @@ c_mugodzhar_hills = {
 		government = herder_government
 	}
 }
-
 
 c_jitikul = {
 	#867
@@ -904,7 +897,6 @@ c_jitikul = {
 	}
 }
 
-
 c_kosh_kurbay = {
 	#867
 	864.1.1 = {
@@ -930,7 +922,6 @@ c_kosh_kurbay = {
 		government = herder_government
 	}
 }
-
 
 c_kos_uba = {
 	#867
@@ -959,6 +950,7 @@ c_kos_uba = {
 }
 
 
+## d_aqtobe
 c_aqtobe = {
 	867.1.1 = {
 		holder = fictional_bashkirs_10
@@ -980,7 +972,6 @@ c_aqtobe = {
 		holder = fictional_kipchaks_12	##fic ruler to add more chars and avoid domain overlimit
 	}
 }
-
 
 c_orenburg = {
 	#867
@@ -1007,7 +998,6 @@ c_orenburg = {
 	}
 }
 
-
 c_ilek = {
 	#867
 	856.5.6 = {
@@ -1033,7 +1023,6 @@ c_ilek = {
 	}
 }
 
-
 c_atamansku = {
 	867.1.1 = {
 		holder = fictional_pechenegs_3
@@ -1057,7 +1046,6 @@ c_atamansku = {
 		government = herder_government
 	}
 }
-
 
 c_kbumak = {
 	867.1.1 = {
@@ -1091,8 +1079,10 @@ d_atyrau = {
 		liege = k_oghuz_il
 		government = nomad_government
 	}
+	961.1.1 = {
+		holder = 0
+	}
 }
-
 
 c_atyrau = {
 	#867
@@ -1131,7 +1121,6 @@ c_atyrau = {
 	}
 }
 
-
 c_sagiz = {
 	#867
 	867.1.1 = {
@@ -1168,7 +1157,6 @@ c_sagiz = {
 		holder = 302754	#fictional Kotyan Karasorkaliq
 	}
 }
-
 
 c_kainar = {
 	#867
@@ -1211,6 +1199,7 @@ c_kainar = {
 }
 
 
+## d_manatau
 c_manatau = {
 	#867
 	867.1.1 = {
@@ -1245,7 +1234,6 @@ c_manatau = {
 		holder = 302761	#fictional Etrek Kunsoqi
 	}
 }
-
 
 c_jaksybai = {
 	#867
@@ -1284,7 +1272,6 @@ c_jaksybai = {
 	}
 }
 
-
 c_baisary = {
 	#867
 	867.1.1 = {
@@ -1320,7 +1307,6 @@ c_baisary = {
 		holder = 302754	#fictional Kotyan Karasorkaliq
 	}
 }
-
 
 c_basagha = {
 	#867
