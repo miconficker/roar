@@ -76031,7 +76031,6 @@ e_srivijaya = {
 					color = { 147 102 30 }
 				}
 			}
-
 		}
 
 		d_batak = {
@@ -76151,18 +76150,40 @@ e_srivijaya = {
 		}
 
 		d_handumans = {
+			# d_hantuman in old RoA
+			color = { 137 130 233 }
+
 			capital = c_andamans
 
-			color = { 140 9 8 }
-
 			c_andamans = {
-				color = { 84 19 19 }
+				# c_hantuman in old RoA
+				color = { 177 229 196 }
 
-				b_marakele = {
+				b_yerewa = {
+					# b_marakele in vanilla
 					province = 11248
+
+					color = { 177 229 196 }
 				}
-				b_diglipur = {
+				b_bojigyab = {
+					# b_diglipur in vanilla
 					province = 12848
+
+					color = { 177 229 196 }
+				}
+			}
+			c_jarawa = {
+				color = { 214 183 107 }
+
+				b_jarawa = {
+					province = 16053
+
+					color = { 214 183 107 }
+				}
+				b_onge = {
+					province = 18323
+
+					color = { 214 183 107 }
 				}
 			}
 			c_nakkavaram = {
@@ -76171,23 +76192,12 @@ e_srivijaya = {
 				b_nakkavaram = {
 					province = 12849
 				}
-#				b_muot = {
-#					province = 9676
-#				}
-			}
-
-			c_jarawa = {
-				b_jarawa = {
-					province = 16053
-				}
-				b_onge = {
-					province = 18323
-				}
+				#b_muot = {
+					#province = 9676
+				#}
 			}
 		}
 	}
-
-
 
 	k_south_sumatra = {
 		color = { 89 19 18 }
