@@ -55859,6 +55859,11 @@ e_azania = {
 			c_jubba = {
 				color = { 230 129 61 }
 
+				b_bardhere = {
+					province = 8459
+
+					color = { 230 129 61 }
+				}
 				b_jubba-ajuraan = {
 					province = 8457
 
@@ -55911,13 +55916,13 @@ e_azania = {
 			c_jilib = {
 				color = { 227 126 58 }
 
+				b_marka = { # Qoryoley
+					province = 8461
+
+					color = { 241 117 47 }
+				}
 				b_jilib = {
 					province = 8473
-
-					color = { 227 126 58 }
-				}
-				b_bardhere = {
-					province = 8459
 
 					color = { 227 126 58 }
 				}
@@ -56090,13 +56095,13 @@ e_azania = {
 			c_marsabit = {
 				color = { 73 173 203 }
 
-				b_lagh_bogal = {
-					province = 8488
+				b_marsabit = {
+					province = 8489
 
 					color = { 73 173 203 }
 				}
-				b_marsabit = {
-					province = 8489
+				b_lagh_bogal = {
+					province = 8488
 
 					color = { 73 173 203 }
 				}
