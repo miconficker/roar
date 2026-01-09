@@ -35091,12 +35091,18 @@ e_turan = {
 
 				b_naryn = {
 					province = 7151
+
+					color = { 153 58 26 }
 				}
 				b_koshoy_korgon = {
 					province = 7150
+
+					color = { 153 58 26 }
 				}
 				b_hengquntan_TEMP = {
 					province = 7149
+
+					color = { 153 58 26 }
 				}
 			}
 			c_barsghan = {
@@ -35104,12 +35110,18 @@ e_turan = {
 
 				b_jiekegong_TEMP = {
 					province = 7166
+
+					color = { 174 66 30 }
 				}
 				b_barskhan = {
 					province = 7153
+
+					color = { 174 66 30 }
 				}
 				b_mandzhyly-ata = {
 					province = 7152
+
+					color = { 174 66 30 }
 				}
 			}
 			c_chuy = {
@@ -35117,12 +35129,18 @@ e_turan = {
 
 				b_almaly = {
 					province = 7214
+
+					color = { 109 41 18 }
 				}
 				b_shuilunou_TEMP = {
 					province = 7157
+
+					color = { 109 41 18 }
 				}
 				b_nvjinwang_TEMP = {
 					province = 7159
+
+					color = { 109 41 18 }
 				}
 			}
 			c_chun-illi = {
@@ -35130,15 +35148,23 @@ e_turan = {
 
 				b_kuljabasy = {
 					province = 7158
+
+					color = { 87 69 15 }
 				}
 				b_khantau = {
 					province = 7156
+
+					color = { 87 69 15 }
 				}
 				b_shengqiu_TEMP = {
 					province = 1432
+
+					color = { 87 69 15 }
 				}
 				b_sishu_TEMP = {
 					province = 16106
+
+					color = { 87 69 15 }
 				}
 			}
 		}
@@ -35151,12 +35177,18 @@ e_turan = {
 
 				b_qaramergen = {
 					province = 16985
+
+					color = { 153 121 26 }
 				}
 				b_he_ergun = {
 					province = 16816
+
+					color = { 153 121 26 }
 				}
 				b_caigou_TEMP = {
 					province = 16598
+
+					color = { 153 121 26 }
 				}
 			}
 			c_bayanjurek = {
@@ -35164,12 +35196,18 @@ e_turan = {
 
 				b_bayanjurek = {
 					province = 7173
+
+					color = { 131 104 22 }
 				}
 				b_deyihai = {
 					province = 17105
+
+					color = { 131 104 22 }
 				}
 				b_zhuoxuanyu_TEMP = {
 					province = 7174
+
+					color = { 131 104 22 }
 				}
 			}
 		}
@@ -35182,15 +35220,23 @@ e_turan = {
 
 				b_almaty = {
 					province = 16078
+
+					color = { 104 131 22 }
 				}
 				b_talkhiza = {
 					province = 16135
+
+					color = { 104 131 22 }
 				}
 				b_kastek = {
 					province = 16020
+
+					color = { 104 131 22 }
 				}
 				b_kaskelen = {
 					province = 7164
+
+					color = { 104 131 22 }
 				}
 			}
 			c_sarkand = {
@@ -35198,15 +35244,23 @@ e_turan = {
 
 				b_sarkand = {
 					province = 16883
+
+					color = { 138 174 30 }
 				}
 				b_meixiang_TEMP = {
 					province = 16949
+
+					color = { 138 174 30 }
 				}
 				b_eshkiolmes = {
 					province = 7171
+
+					color = { 138 174 30 }
 				}
 				b_iki-oguz = {
 					province = 7172
+
+					color = { 138 174 30 }
 				}
 			}
 			c_qayaliq = {
@@ -35214,15 +35268,23 @@ e_turan = {
 
 				b_qayaliq = {
 					province = 16460
+
+					color = { 86 109 18 }
 				}
 				b_begash = {
 					province = 7168
+
+					color = { 86 109 18 }
 				}
 				b_qaratal = {
 					province = 16734
+
+					color = { 86 109 18 }
 				}
 				b_qarabulaq = {
 					province = 16609
+
+					color = { 86 109 18 }
 				}
 			}
 			c_tamgaly = {
@@ -35230,12 +35292,18 @@ e_turan = {
 
 				b_tamgaly = {
 					province = 7163
+
+					color = { 69 87 15 }
 				}
 				b_tasmuryn = {
 					province = 16490
+
+					color = { 69 87 15 }
 				}
 				b_serektas = {
 					province = 7160
+
+					color = { 69 87 15 }
 				}
 			}
 			c_chiliq = {
@@ -35243,12 +35311,18 @@ e_turan = {
 
 				b_chilik = {
 					province = 7165
+
+					color = { 121 153 26 }
 				}
 				b_turgen_qoksu = {
 					province = 16157
+
+					color = { 121 153 26 }
 				}
 				b_besshatyr = {
 					province = 16279
+
+					color = { 121 153 26 }
 				}
 			}
 		}
@@ -35256,14 +35330,20 @@ e_turan = {
 		d_illiq = {
 			color = { 118 20 20 }
 
+			capital = c_almaliq
+
 			c_temerlik = {
 				color = { 109 18 18 }
 
 				b_temerlik = {
 					province = 15939
+
+					color = { 109 18 18 }
 				}
 				b_tuzkol = {
 					province = 15508
+
+					color = { 109 18 18 }
 				}
 			}
 			c_khulja = {
@@ -35271,12 +35351,18 @@ e_turan = {
 
 				b_khulja = {
 					province = 15497
+
+					color = { 131 22 22 }
 				}
 				b_youzai_TEMP = {
 					province = 15895
+
+					color = { 131 22 22 }
 				}
 				b_gewenchang_TEMP = {
 					province = 7204
+
+					color = { 131 22 22 }
 				}
 			}
 			c_borohoro = {
@@ -35284,12 +35370,18 @@ e_turan = {
 
 				b_tokkuztara = {
 					province = 7202
+
+					color = { 109 18 64 }
 				}
 				b_geijunsuo_TEMP = {
 					province = 7205
+
+					color = { 109 18 64 }
 				}
 				b_yachuanpan_TEMP = {
 					province = 7203
+
+					color = { 109 18 64 }
 				}
 			}
 			c_almaliq = {
@@ -35297,24 +35389,38 @@ e_turan = {
 
 				b_almaliq = {
 					province = 1425
+
+					color = { 174 30 102 }
 				}
 				b_kulja = {
 					province = 7199
+
+					color = { 174 30 102 }
 				}
 				b_usek = {
 					province = 16257
+
+					color = { 174 30 102 }
 				}
 				b_sharyn = {
 					province = 7167
+
+					color = { 174 30 102 }
 				}
 				b_guozhenan_TEMP = {
 					province = 7200
+
+					color = { 174 30 102 }
 				}
 				b_tongxiuer_TEMP = {
 					province = 7201
+
+					color = { 174 30 102 }
 				}
 				b_fangqiu_TEMP = {
 					province = 16310
+
+					color = { 174 30 102 }
 				}
 			}
 			c_altyn-emel = {
@@ -35322,9 +35428,13 @@ e_turan = {
 
 				b_altyn-emel = {
 					province = 7169
+
+					color = { 131 22 77 }
 				}
 				b_khorgos = {
 					province = 7170
+
+					color = { 131 22 77 }
 				}
 			}
 		}
