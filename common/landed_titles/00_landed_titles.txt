@@ -33544,7 +33544,7 @@ e_tartaria = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = { has_cultural_pillar = heritage_turkic }
+					culture = { has_cultural_pillar = heritage_kipchak }
 				}
 				add = @better_than_the_alternatives_score
 			}
@@ -33808,7 +33808,7 @@ e_tartaria = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = { has_cultural_pillar = heritage_turkic }
+					culture = { has_cultural_pillar = heritage_kipchak }
 				}
 				add = @better_than_the_alternatives_score
 			}
@@ -33825,17 +33825,17 @@ e_tartaria = {
 				b_semey = {
 					province = 7346
 
-					color = { 200 150 50 }
+					color = { 210 140 50 }
 				}
 				b_uba_KAZ = {
 					province = 7347
 
-					color = { 200 150 50 }
+					color = { 210 140 50 }
 				}
 				b_oskemen = {
 					province = 7348
 
-					color = { 200 150 50 }
+					color = { 210 140 50 }
 				}
 			}
 			c_koksemey = {
@@ -34068,7 +34068,6 @@ e_tartaria = {
 			}
 		}
 
-
 		d_alakol =  {
 			color = { 125 40 10 }
 
@@ -34175,6 +34174,7 @@ e_tartaria = {
 				}
 			}
 		}
+
 		d_qobaq = {
 			color = { 150 88 66 }
 
@@ -34254,6 +34254,7 @@ e_tartaria = {
 				}
 				b_koltun = {
 					province = 15675
+					# used to be 7198 but now is not?
 
 					color = { 65 60 115 }
 				}
