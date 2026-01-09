@@ -25936,7 +25936,8 @@ e_caspian-pontic_steppe = {
 
 			capital = c_saqsin
 
-			c_saqsin = {
+			c_kishi_saray = {
+				# old c_saqsin
 				color = { 202 125 19 }
 
 				b_saray_al-saghira = {
@@ -25956,7 +25957,8 @@ e_caspian-pontic_steppe = {
 					color = { 202 125 19 }
 				}
 			}
-			c_qyzylyaitsk = {
+			c_zhankala = {
+				# old c_qyzylyaitsk
 				color = { 200 120 5 }
 
 				b_kalmikovsky = {
