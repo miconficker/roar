@@ -87848,93 +87848,92 @@ e_panyupayana = {
 		}
 	}
 
-
 	k_liuqiu = {
 		color = { 71 160 60 }
 
 		capital = c_hoanya
 
 		d_liuqiu = {
-			color = { 35 206 194 }
+			color = { 85 149 57 }
 
 			capital = c_amis
 
 			c_amis = {
 				color = { 35 206 194 }
 
-				b_taiwan_new_2 = {
-					province = 10465
-
-					color = { 35 206 194 }
-				}
-
 				b_taiwan_pingtung = {
 					province = 9849
 
-					color = { 85 146 26 }
+					color = { 35 206 194 }
 				}
+				b_taiwan_new_1 = {
+					province = 10463
 
+					color = { 35 206 194 }
+				}
 			}
 			c_siraya = {
+				# c_takao in old RoA
 				color = { 78 198 39 }
 
 				b_taiwan_chiayi = {
 					province = 9846
 
-					color = { 97 214 37 }
+					color = { 78 198 39 }
 				}
 				b_taiwan_kaohsiung = {
 					province = 9848
 
-					color = { 53 232 47 }
+					color = { 78 198 39 }
 				}
 			}
-
-
 			c_hoanya = {
+				# c_middag in old RoA
 				color = { 81 149 40 }
 
 				b_taiwan_changhua = {
 					province = 9847
 
-					color = { 89 130 45 }
+					color = { 81 149 40 }
 				}
 				b_taiwan_miaoli = {
 					province = 9850
 
-					color = { 58 157 34 }
+					color = { 81 149 40 }
 				}
 			}
-
-			c_taipei = {
+			c_nankan = {
 				color = { 70 123 20 }
 
 				b_taiwan_taipei = {
 					province = 9851
 
-					color = {61 100 45 }
+					color = { 70 123 20 }
 				}
 				b_taiwan_new_4 = {
 					province = 10473
 
-					color = { 56 199 34 }
+					color = { 70 123 20 }
 				}
 			}
 			c_kavalan = {
+				# part of c_nankan in old RoA
 				color = { 64 123 69 }
 
 				b_taiwan_new_3 = {
 					province = 10466
 
-					color = { 42 162 45 }
+					color = { 64 123 69 }
 				}
+			}
+			c_kabeyawan = {
+				color = { 86 206 22 }
 
-				b_taiwan_new_1 = {
-					province = 10463
+				b_taiwan_new_2 = {
+					province = 10465
 
-					color = { 56 98 58 }
+					color = { 86 206 22 }
 				}
-
 			}
 		}
 	}
@@ -87981,6 +87980,7 @@ e_panyupayana = {
 				}
 
 				b_simajiri = {
+					# b_itoman in old RoA
 					province = 10645
 
 					cultural_names = {
@@ -87988,9 +87988,10 @@ e_panyupayana = {
 						name_list_emishi = cn_shimajiri
 					}
 
-					color = { 0 116 43 }
+					color = { 0 103 43 }
 				}
 				b_nakajan = {
+					# b_orasoe in old RoA
 					province = 10646
 
 					cultural_names = {
@@ -87998,9 +87999,10 @@ e_panyupayana = {
 						name_list_emishi = cn_nakagami
 					}
 
-					color = { 0 77 30 }
+					color = { 0 103 43 }
 				}
 				b_kunjan_ucinaa = {
+					# b_nachijin in old RoA
 					province = 10647
 
 					cultural_names = {
@@ -88008,9 +88010,11 @@ e_panyupayana = {
 						name_list_emishi = cn_kunigami
 					}
 
-					color = { 0 117 34 }
+					color = { 0 103 43 }
 				}
 			}
+
+			#c_yaeyama - not present for now
 
 			c_amami = {
 				color = { 0 159 45 }
@@ -88019,13 +88023,14 @@ e_panyupayana = {
 				b_amami = {
 					province = 10643
 
-					color = { 0 142 55 }
+					color = { 0 159 45 }
 				}
-				b_17601 = {
+				b_tokunoshima = {
 					province = 17601
+
+					color = { 0 159 45 }
 				}
 			}
-
 		}
 	}
 }
