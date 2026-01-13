@@ -7,6 +7,7 @@
 	holding = castle_holding
 	special_building = nishapur_mines_01
 
+	# History
 	1066.1.1 = {
 		buildings = {
 			plantations_02
@@ -34,8 +35,12 @@
 	culture = tajik
 	religion = mazdayasna
 	holding = castle_holding
-	special_building = imam_reza_shrine_01
 
+	# History
+	818.1.1 = {
+		special_building_slot = imam_reza_shrine_01
+		special_building = imam_reza_shrine_01
+	}
 	1060.1.1 = {
 		religion = maturidi
 	}
@@ -57,6 +62,7 @@
 	religion = mazdayasna
 	holding = castle_holding
 
+	# History
 	1060.1.1 = {
 		religion = maturidi
 	}
@@ -74,6 +80,7 @@
 	religion = mazdayasna
 	holding = castle_holding
 
+	# History
 	1060.1.1 = {
 		religion = maturidi
 	}
@@ -89,6 +96,7 @@
 	religion = mazdayasna
 	holding = castle_holding
 
+	# History
 	1060.1.1 = {
 		religion = maturidi
 	}
@@ -107,6 +115,7 @@
 	religion = mazdayasna
 	holding = castle_holding
 
+	# History
 	1060.1.1 = {
 		religion = maturidi
 	}
@@ -130,6 +139,7 @@
 	religion = mazdayasna
 	holding = castle_holding
 
+	# History
 	867.1.1 = {
 		buildings = {
 			cereal_fields_01
@@ -172,6 +182,7 @@
 	religion = mazdayasna
 	holding = castle_holding
 
+	# History
 	1060.1.1 = {
 		religion = maturidi
 	}
@@ -189,6 +200,7 @@
 	religion = mazdayasna
 	holding = castle_holding
 
+	# History
 	987.1.1 = {
 		religion = maturidi
 	}
@@ -211,6 +223,8 @@
 	culture = tajik
 	religion = mazdayasna
 	holding = castle_holding
+
+	# History
 	1087.1.1 = {
 		religion = maturidi
 	}
@@ -227,6 +241,8 @@
 	culture = tajik
 	religion = zurvanism
 	holding = castle_holding
+
+	# History
 	987.1.1 = {
 		religion = maturidi
 	}
@@ -252,6 +268,8 @@
 	culture = sogdian
 	religion = khurmazta
 	holding = castle_holding
+
+	# History
 	950.1.1 = {
 		religion = maturidi
 		culture = tajik
@@ -272,6 +290,8 @@
 	culture = tajik
 	religion = mazdayasna
 	holding = castle_holding
+
+	# History
 	960.1.1 = {
 		religion = maturidi
 	}
@@ -336,6 +356,17 @@
 	religion = azariqa
 	holding = castle_holding
 
+	effect = {
+		if = {
+			limit = {
+				has_tgp_dlc_trigger = yes
+			}
+			add_special_building_slot = herat_bazaar_01
+			add_special_building = herat_bazaar_01
+		}
+	}
+
+	# History
 	867.1.1 = {
 		buildings = {
 			cereal_fields_01
@@ -365,6 +396,7 @@
 	religion = azariqa
 	holding = castle_holding
 
+	# History
 	987.1.1 = {
 		religion = maturidi
 	}
@@ -389,6 +421,7 @@
 	religion = azariqa
 	holding = castle_holding
 
+	# History
 	987.1.1 = {
 		religion = maturidi
 	}
@@ -406,6 +439,7 @@
 	religion = zun_pagan
 	holding = castle_holding
 
+	# History
 	830.1.1 = {
 		culture = tajik
 		religion = azariqa
@@ -431,6 +465,7 @@
 	religion = azariqa
 	holding = castle_holding
 
+	# History
 	987.1.1 = {
 		religion = maturidi
 	}
@@ -446,6 +481,8 @@
 	culture = sogdian
 	religion = khurramism
 	holding = castle_holding
+
+	# History
 	867.1.1 = {
 		buildings = {
 			watchtowers_01
@@ -485,6 +522,8 @@
 	culture = sogdian
 	religion = mahayana
 	holding = castle_holding
+
+	# History
 	960.1.1 = {
 		culture = tajik
 	}
@@ -504,6 +543,8 @@
 	culture = sogdian
 	religion = mahayana
 	holding = castle_holding
+
+	# History
 	960.1.1 = {
 		culture = tajik
 	}
@@ -534,6 +575,8 @@
 	culture = tajik
 	religion = mazdayasna
 	holding = castle_holding
+
+	# History
 	1060.1.1 = {
 		culture = turkish
 		religion = maturidi
@@ -554,6 +597,8 @@
 	culture = tajik
 	religion = mazdayasna
 	holding = castle_holding
+
+	# History
 	1060.1.1 = {
 		culture = turkish
 		religion = maturidi
@@ -570,6 +615,8 @@
 	culture = tajik
 	religion = mazdayasna
 	holding = castle_holding
+
+	# History
 	1060.1.1 = {
 		religion = maturidi
 	}
@@ -598,6 +645,8 @@
 	culture = tajik
 	religion = mazdayasna
 	holding = castle_holding
+
+	# History
 	1060.1.1 = {
 		religion = maturidi
 	}

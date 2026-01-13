@@ -32,7 +32,7 @@
 }
 
 ### c_anjuskar
-16196 = {	#Glyadeno
+17181 = {	#Glyadeno
 	culture = komi
 	religion = komi_pagan
 	holding = tribal_holding

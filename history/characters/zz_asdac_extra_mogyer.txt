@@ -1,0 +1,343 @@
+﻿260650 = {
+	name = "Elek"
+	dynasty = 1062290
+	culture = mogyer
+	religion = magyar_pagan
+	father = 260651
+	899.1.1 = {
+		birth = yes
+	}
+	936.1.1 = {
+		effect = { change_government = tribal_government }
+	}
+	956.1.1 = {
+		death = yes
+	}
+}
+260651 = {
+	name = "Taksony"
+	dynasty = 1062290
+	culture = mogyer
+	religion = magyar_pagan
+	868.1.1 = {
+		birth = yes
+	}
+	931.1.1 = {
+		death = yes
+	}
+}
+260652 = {
+	name = "Levente"
+	dynasty = 1062290
+	culture = mogyer
+	religion = magyar_pagan
+	father = 260651
+	902.1.1 = {
+		birth = yes
+	}
+	961.1.1 = {
+		death = yes
+	}
+}
+260653 = {
+	name = "Benedek"
+	dynasty = 1062291
+	culture = mogyer
+	religion = magyar_pagan
+	871.1.1 = {
+		birth = yes
+	}
+	925.1.1 = {
+		death = yes
+	}
+}
+260654 = {
+	name = "Gergely"
+	dynasty = 1062291
+	culture = mogyer
+	religion = magyar_pagan
+	father = 260653
+	893.1.1 = {
+		birth = yes
+	}
+	953.1.1 = {
+		death = yes
+	}
+}
+260655 = {
+	name = "Frigyes"
+	dynasty = 1062291
+	culture = mogyer
+	religion = magyar_pagan
+	father = 260653
+	897.1.1 = {
+		birth = yes
+	}
+	946.1.1 = {
+		death = yes
+	}
+}
+260656 = {
+	name = "SU_r"
+	dynasty = 708
+	culture = mogyer
+	religion = magyar_pagan
+
+	trait = education_martial_3
+
+	father = 261315
+	916.1.1 = {
+		birth = yes
+	}
+	955.1.1 = {
+		death = yes
+	}
+}
+260657 = {
+	name = "BoldizsA_r"
+	dynasty = 1062293
+	culture = mogyer
+	religion = magyar_pagan
+	877.1.1 = {
+		birth = yes
+	}
+	935.1.1 = {
+		death = yes
+	}
+}
+260658 = {
+	name = "OszkA_r"
+	dynasty = 1062293
+	culture = mogyer
+	religion = magyar_pagan
+	father = 260657
+	901.1.1 = {
+		birth = yes
+	}
+	965.1.1 = {
+		death = yes
+	}
+}
+260659 = {
+	name = "Antal"
+	dynasty = 1062293
+	culture = mogyer
+	religion = magyar_pagan
+	father = 260657
+	904.1.1 = {
+		birth = yes
+	}
+	946.1.1 = {
+		death = yes
+	}
+}
+260660 = {
+	name = "Gyula"
+	dynasty = 1062294
+	culture = mogyer
+	religion = magyar_pagan
+	902.1.1 = {
+		birth = yes
+	}
+	940.1.1 = {
+		death = yes
+	}
+}
+260661 = {
+	name = "GA_spA_r"
+	dynasty = 1062295
+	culture = mogyer
+	religion = kabarism
+	905.1.1 = {
+		birth = yes
+	}
+	959.1.1 = {
+		death = yes
+	}
+}
+260665 = {
+	name = "Borisz"
+	dynasty = 1062298
+	culture = mogyer
+	religion = magyar_pagan
+	873.1.1 = {
+		birth = yes
+	}
+	932.1.1 = {
+		death = yes
+	}
+}
+260666 = {
+	name = "DonA_t"
+	dynasty = 1062298
+	culture = mogyer
+	religion = magyar_pagan
+	father = 260665
+	910.1.1 = {
+		birth = yes
+	}
+	963.1.1 = {
+		death = yes
+	}
+}
+260667 = {
+	name = "KA_roly"
+	dynasty = 1062298
+	culture = mogyer
+	religion = magyar_pagan
+	father = 260665
+	913.1.1 = {
+		birth = yes
+	}
+	941.1.1 = {
+		death = yes
+	}
+}
+261311 = {
+	name = "Jelek"
+	dynasty = 708
+	culture = mogyer
+	religion = magyar_pagan
+	father = 159136
+	866.1.1 = {
+		birth = yes
+	}
+	907.1.1 = {
+		death = yes
+	}
+}
+261312 = {
+	name = "Ezelekh"
+	dynasty = 708
+	culture = mogyer
+	religion = magyar_pagan
+	father = 261311
+	898.1.1 = {
+		birth = yes
+	}
+	958.1.1 = {
+		death = yes
+	}
+}
+261313 = {
+	name = "Tas"
+	dynasty = 708
+	culture = mogyer
+	religion = magyar_pagan
+	father = 261311
+	891.1.1 = {
+		birth = yes
+	}
+	958.1.1 = {
+		death = yes
+	}
+}
+261314 = {
+	name = "Jutotzas"
+	dynasty = 708
+	culture = mogyer
+	religion = magyar_pagan
+	father = 159136
+	874.1.1 = {
+		birth = yes
+	}
+	945.1.1 = {
+		death = yes
+	}
+}
+261315 = {
+	name = "Fajsz"
+	dynasty = 708
+	culture = mogyer
+	religion = magyar_pagan
+	father = 261314
+	896.1.1 = {
+		birth = yes
+	}
+	955.1.1 = {
+		death = yes
+	}
+}
+261316 = {
+	name = "Lehel"
+	dynasty = 708
+	culture = mogyer
+	religion = magyar_pagan
+
+	trait = education_martial_3
+
+	father = 261313
+	908.1.1 = {
+		birth = yes
+	}
+	955.1.1 = {
+		death = yes
+	}
+}
+261317 = {
+	name = "Teveli"
+	dynasty = 708
+	culture = mogyer
+	religion = magyar_pagan
+	father = 163169
+	893.1.1 = {
+		birth = yes
+	}
+	955.1.1 = {
+		death = yes
+	}
+}
+261318 = {
+	name = "Termatzus"
+	dynasty = 708
+	culture = mogyer
+	religion = magyar_pagan
+	father = 261317
+	919.1.1 = {
+		birth = yes
+	}
+	955.1.1 = {
+		death = yes
+	}
+}
+261319 = {
+	name = "Zerind"
+	dynasty = 708
+	culture = mogyer
+	religion = magyar_pagan
+	father = 261317
+	928.1.1 = {
+		birth = yes
+	}
+	972.1.1 = {
+		death = yes
+	}
+}
+261320 = {
+	name = "BogA_t"
+	dynasty = 1062595
+	culture = mogyer
+	religion = magyar_pagan
+	871.1.1 = {
+		birth = yes
+	}
+	915.1.1 = {
+		death = yes
+	}
+}
+261321 = {
+	name = "BulcsU_"
+	dynasty = 1062595
+	culture = mogyer
+	religion = magyar_pagan
+
+	trait = education_martial_3
+
+	father = 261320
+	902.1.1 = {
+		birth = yes
+	}
+	955.1.1 = {
+		death = yes
+	}
+}

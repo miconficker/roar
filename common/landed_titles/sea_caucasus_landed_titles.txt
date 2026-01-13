@@ -2257,6 +2257,7 @@ e_caucasia = {
 
 		cultural_names = {
 			name_list_anglo_saxon = cn_new_england
+			name_list_english = cn_new_england
 		}
 
 		d_khegayk = {
@@ -2264,6 +2265,7 @@ e_caucasia = {
 
 			cultural_names = {
 				name_list_anglo_saxon = cn_new_essex
+				name_list_english = cn_new_essex
 			}
 
 			capital = c_zikhopol
@@ -2278,6 +2280,7 @@ e_caucasia = {
 
 					cultural_names = {
 						name_list_anglo_saxon = cn_ncolchester
+						name_list_english = cn_ncolchester
 					}
 				}
 				b_jiubgu = {
@@ -2289,6 +2292,7 @@ e_caucasia = {
 
 				cultural_names = {
 					name_list_anglo_saxon = cn_noxford
+					name_list_english = cn_noxford
 				}
 
 				b_bigur = {
@@ -2298,6 +2302,7 @@ e_caucasia = {
 
 					cultural_names = {
 						name_list_anglo_saxon = cn_noxford
+						name_list_english = cn_noxford
 					}
 				}
 				b_echex = {
@@ -2311,6 +2316,7 @@ e_caucasia = {
 
 				cultural_names = {
 					name_list_anglo_saxon = cn_new_london
+					name_list_english = cn_new_london
 				}
 
 				b_bata = {
@@ -2321,6 +2327,7 @@ e_caucasia = {
 					cultural_names = {
 						#name_list_greek = cn_gorgippia
 						name_list_anglo_saxon = cn_new_london
+						name_list_english = cn_new_london
 					}
 				}
 			}
@@ -2335,6 +2342,7 @@ e_caucasia = {
 
 				cultural_names = {
 					name_list_anglo_saxon = cn_nwinchester
+					name_list_english = cn_nwinchester
 				}
 
 				b_bastehabl = {
@@ -2344,6 +2352,7 @@ e_caucasia = {
 
 					cultural_names = {
 						name_list_anglo_saxon = cn_nwinchester
+						name_list_english = cn_nwinchester
 					}
 				}
 				b_ulmi = {
@@ -2399,6 +2408,7 @@ e_caucasia = {
 
 				cultural_names = {
 					name_list_anglo_saxon = cn_nsalisbury
+					name_list_english = cn_nsalisbury
 				}
 
 				b_tuapse = { # old b_nicosia
@@ -2408,6 +2418,7 @@ e_caucasia = {
 
 					cultural_names = {
 						name_list_anglo_saxon = cn_nsalisbury
+						name_list_english = cn_nsalisbury
 					}
 				}
 			}
@@ -2419,6 +2430,7 @@ e_caucasia = {
 
 			cultural_names = {
 				name_list_anglo_saxon = cn_nhereford
+				name_list_english = cn_nhereford
 			}
 
 			c_siba = {
@@ -2426,6 +2438,7 @@ e_caucasia = {
 
 				cultural_names = {
 					name_list_anglo_saxon = cn_nhereford
+					name_list_english = cn_nhereford
 				}
 
 				b_psibedaxe = {
@@ -2449,6 +2462,7 @@ e_caucasia = {
 
 				cultural_names = {
 					name_list_anglo_saxon = cn_nbedford
+					name_list_english = cn_nbedford
 				}
 
 				b_utash = {
@@ -2458,6 +2472,7 @@ e_caucasia = {
 
 					cultural_names = {
 						name_list_anglo_saxon = cn_nbedford
+						name_list_english = cn_nbedford
 					}
 				}
 				b_atekume = {
@@ -2471,6 +2486,7 @@ e_caucasia = {
 
 				cultural_names = {
 					name_list_anglo_saxon = cn_nnottingham
+					name_list_english = cn_nnottingham
 				}
 
 				b_afips = {
@@ -2480,6 +2496,7 @@ e_caucasia = {
 
 					cultural_names = {
 						name_list_anglo_saxon = cn_nnottingham
+						name_list_english = cn_nnottingham
 					}
 				}
 				b_themahe = {
