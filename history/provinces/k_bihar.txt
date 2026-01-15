@@ -4,8 +4,8 @@
 1154 = {	# Pataliputra
 	culture = magadhi
 	religion = vajrayana
-
 	holding = castle_holding
+
 	special_building_slot = nalanda_university
 
 	# History
@@ -67,8 +67,8 @@
 1276 = {	# Gaya
 	culture = magadhi
 	religion = mahayana
-
 	holding = castle_holding
+
 	special_building_slot = holy_site_mahabodhi_temple_01
 
 	# History

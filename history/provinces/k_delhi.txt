@@ -71,10 +71,11 @@
 	# Misc
 	culture = brajji
 	religion = vaishnavism
+
 	special_building_slot = krishna_janmasthan_temple_01
 	special_building = krishna_janmasthan_temple_01
-	# History
 
+	# History
 }
 
 # 1364 - Tribandapura
@@ -95,10 +96,11 @@
 	culture = hindustani
 	religion = vaishnavism
 
+	holding = castle_holding
+
 	# History
 	769.1.1 = {
-        holding = castle_holding
-        buildings = { castle_04 }
+		buildings = { castle_04 }
 		special_building = iron_pillar_of_delhi_01
 	}
 }
@@ -120,10 +122,11 @@
 	# Misc
 	culture = hindustani
 	religion = vaishnavism
+
 	special_building_slot = har_ki_pauri_temple_01
 	special_building = har_ki_pauri_temple_01
-	# History
 
+	# History
 }
 
 # 1368 - Hastinapura
@@ -376,10 +379,11 @@
 	# Misc
 	culture = hindustani
 	religion = vaishnavism
+
 	special_building_slot = sankassa_01
 	special_building = sankassa_01
-	# History
 
+	# History
 }
 
 # 3469 - Ahichatra

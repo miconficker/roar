@@ -602,7 +602,6 @@ c_vologda = {
 c_lyubim = {
 	850.7.23 = {
 		holder = 302225	#Ovtay Roavve, fictional
-		liege = 0
 		government = tribal_government
 	}
 	896.2.21 = {
@@ -800,7 +799,6 @@ c_sheksna = {
 c_romanov = {
 	850.7.23 = {
 		holder = 302225	#Ovtay Roavve, fictional
-		liege = 0
 		government = tribal_government
 	}
 	896.2.21 = {

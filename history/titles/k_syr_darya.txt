@@ -1,0 +1,776 @@
+﻿k_syr_darya = {
+	867.1.1 = { change_development_level = 0 }
+	1066.1.1 = { change_development_level = 0 }
+	1178.1.1 = { change_development_level = 0 }
+
+	1178.1.1 = {
+		holder = 144122 # Ibrahim b. Husayn
+		liege = "e_kara_khitai"
+		de_jure_liege = e_kara_khitai
+	}
+}
+
+d_syr_darya = {
+	867.1.1 = { change_development_level = 2 }
+	1066.1.1 = { change_development_level = 4 }
+	1178.1.1 = { change_development_level = 7 }
+
+	936.1.1 = {
+		holder = 1000230132
+		liege = k_oghuz_il
+	}
+	983.1.1 = {
+		holder = 0
+	}
+	#1066 start
+	1052.1.1 = {
+		liege = 0
+		holder = 302647	#fictional Aepak Shavgari
+	}
+	1099.2.16 = {
+		holder = 302648	#fictional Kutan Shavgari
+	}
+	1124.7.5 = {
+		holder = 302649	#fictional Pulad Shavgari
+	}
+	1148.1.23 = {
+		holder = 302650	#fictional BO_nek Shavgari
+	}
+	1171.1.1 = {
+		holder = qangli004
+	}
+	1209.2.17 = {
+		holder = 302652	#fictional Koza Shavgari
+	}
+}
+
+c_jend = {
+	867.1.1 = { change_development_level = 5 }
+	1066.1.1 = { change_development_level = 8 }
+	1178.1.1 = { change_development_level = 20 }
+
+	850.1.1 = {
+		liege = k_oghuz_il
+		holder = 74029
+		government = nomad_government
+	}
+	891.1.1 = {
+		holder = 74032
+	}
+	922.1.1 = {
+		holder = 1000230114 #placeholder
+	}
+
+	#1066 start
+	1052.1.1 = {
+		liege = d_syr_darya
+		holder = 302647	#fictional Aepak Shavgari
+	}
+	1145.1.1 = {
+		liege = k_transoxiana
+		holder = kiran_taraz ##http://elibrary.bsu.edu.az/files/books_aysel/N_-47.pdf
+	}
+	1165.1.1 = {
+		holder = kiran_taraz_son
+	}
+	1207.1.1 = {
+		holder = 93053
+	}
+	1221.1.1 = {
+		liege = e_mongol_empire
+	}
+	1221.1.1 = {
+		holder = 93100
+	}
+	1227.12.2 = {
+		liege = e_golden_horde
+	}
+	1260.1.1 = {
+		holder = 93101
+	}
+	1300.1.1 = {
+		holder = 93102
+	}
+}
+
+c_sighnaq = {
+	850.1.1 = {
+		liege = k_oghuz_il
+		holder = 302642	#fictional Yunus Shavgari
+		government = nomad_government
+	}
+	876.5.22 = {
+		holder = 302644	#fictional Yinal Shavgari
+	}
+
+	#936
+	936.1.1 = {
+		holder = 1000230132
+	}
+
+	#1066 start
+	1052.1.1 = {
+		liege = d_syr_darya
+		holder = 302647	#fictional Aepak Shavgari
+	}
+	1099.2.16 = {
+		holder = 302648	#fictional Kutan Shavgari
+	}
+	1124.7.5 = {
+		holder = 302649	#fictional Pulad Shavgari
+	}
+	1148.1.23 = {
+		holder = 302650	#fictional BO_nek Shavgari
+	}
+	1171.1.1 = {
+		holder = qangli004
+	}
+	1209.2.17 = {
+		holder = 302652	#fictional Koza Shavgari
+	}
+}
+
+c_uzgend_KARA = {
+	850.1.1 = {
+		liege = k_oghuz_il
+		holder = 302642	#fictional Yunus Shavgari
+		government = nomad_government
+	}
+	876.5.22 = {
+		holder = 302644	#fictional Yinal Shavgari
+	}
+
+	#936
+	936.1.1 = {
+		holder = 1000230147
+	}
+
+	#1066 start
+	1052.1.1 = {
+		liege = d_syr_darya
+		holder = 302647	#fictional Aepak Shavgari
+	}
+	1099.2.16 = {
+		holder = 302648	#fictional Kutan Shavgari
+	}
+	1124.7.5 = {
+		holder = 302649	#fictional Pulad Shavgari
+	}
+	1148.1.23 = {
+		holder = 302650	#fictional BO_nek Shavgari
+	}
+	1171.1.1 = {
+		holder = qangli004
+	}
+	1209.2.17 = {
+		holder = 302652	#fictional Koza Shavgari
+	}
+}
+
+
+d_chah = {
+	867.1.1 = { change_development_level = 3 }
+	1066.1.1 = { change_development_level = 5 }
+	1178.1.1 = { change_development_level = 8 }
+
+	#Chah within the Samanid in 867
+	849.1.2 = {
+		holder = 188639	#Yahya Samanid
+		#liege = k_transoxiana	#Samanid
+		government = clan_government
+	}
+	855.3.2 = {
+		holder = extra_samanids_17 #Muhammed ibn Nuh
+	}
+	867.1.1 = {
+		liege = k_transoxiana
+	}
+	882.1.9 = {
+		holder = 302688	#fictional Dogan Shahn
+	}
+	898.4.21 = {
+		holder = 170303 #placeholder
+	}
+	999.1.1 = {
+		liege = k_transoxiana
+		holder = 3002
+	}
+
+	#Chah within the Karakhanid in 1066
+	1060.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		liege = k_transoxiana
+	}
+	1068.1.2 = {
+		liege = k_zhetysu
+	}
+	1074.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		liege = k_transoxiana
+	}
+	1093.1.2 = {
+		holder = 302694	#fictional Saru Karachahnid
+	}
+	1109.7.14 = {
+		holder = 302695	#fictional Ituk Karachahnid
+	}
+	1132.7.19 = {
+		holder = 302696	#fictional Kobyak Karachahnid
+	}
+	1178.1.1 = {
+		holder = 144122 # Ibrahim
+		liege = k_syr_darya
+	}
+	1181.1.13 = {
+		holder = 302697	#fictional KO_nC_ek Karachahnid
+	}
+	1196.9.26 = {
+		holder = 302698	#fictional Girgen Karachahnid
+	}
+
+	#Mongols
+	1220.2.1 = {
+		liege = e_mongol_empire
+		holder = 125501
+	}
+	1227.12.2 = {
+		holder = 93062
+	}
+	1242.1.1 = {
+		holder = 93064
+	}
+	1246.1.1 = {
+		holder = 93065
+	}
+	1252.1.1 = {
+		holder = 93064
+	}
+	1253.1.1 = {
+		holder = 93066
+	}
+	1260.1.1 = {
+		holder = 93068
+	}
+	1266.1.1 = {
+		holder = 93066
+	}
+	1266.9.1 = {
+		holder = 93070
+	}
+	1271.1.1 = {
+		holder = 93072
+	}
+	1272.1.1 = {
+		holder = 93074
+	}
+	1282.1.1 = {
+		holder = 93075
+	}
+	1307.1.1 = {
+		holder = 93076
+	}
+	1308.1.1 = {
+		holder = 93078
+	}
+	1309.1.1 = {
+		holder = 93079
+	}
+	1310.1.1 = {
+		holder = 93080
+	}
+	1318.1.1 = {
+		holder = 93079
+	}
+	1326.1.1 = {
+		holder = 93081
+	}
+	1329.1.1 = {
+		holder = 93082
+	}
+	1330.1.1 = {
+		holder = 93083
+	}
+	1334.1.1 = {
+		holder = 93084
+	}
+	1335.1.1 = {
+		holder = 93086
+	}
+}
+
+c_chah = {
+	867.1.1 = { change_development_level = 6 }
+	1066.1.1 = { change_development_level = 10 }
+	1178.1.1 = { change_development_level = 24 }
+
+
+	#Chah within the Samanid in 867
+	849.1.2 = {
+		holder = 188639	#Yahya Samanid
+	}
+	855.3.2 = {
+		holder = extra_samanids_17 #Muhammed ibn Nuh
+	}
+	882.1.9 = {
+		holder = 302688	#fictional Dogan Shahn
+	}
+	898.4.21 = {
+		holder = 170303 #placeholder
+	}
+	999.1.1 = {
+		liege = k_transoxiana
+		holder = 3002
+	}
+
+	#Chah within the Karakhanid in 1066
+	1060.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+	}
+	#1068.1.2 = {
+	#	#top liege = k_zhetysu
+	#}
+	1074.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+	}
+	1093.1.2 = {
+		holder = 302694	#fictional Saru Karachahnid
+	}
+	1109.7.14 = {
+		holder = 302695	#fictional Ituk Karachahnid
+	}
+	1132.7.19 = {
+		holder = 302696	#fictional Kobyak Karachahnid
+	}
+	1178.1.1 = {
+		holder = 144122 # Ibrahim b. Husayn
+	}
+	1181.1.13 = {
+		holder = 302697	#fictional KO_nC_ek Karachahnid
+	}
+	1196.9.26 = {
+		holder = 302698	#fictional Girgen Karachahnid
+	}
+
+	#Mongols
+	1220.2.1 = {
+		liege = e_mongol_empire
+		holder = 125501
+	}
+	1227.12.2 = {
+		holder = 93062
+	}
+	1242.1.1 = {
+		holder = 93064
+	}
+	1246.1.1 = {
+		holder = 93065
+	}
+	1252.1.1 = {
+		holder = 93064
+	}
+	1253.1.1 = {
+		holder = 93066
+	}
+	1260.1.1 = {
+		holder = 93068
+	}
+	1266.1.1 = {
+		holder = 93066
+	}
+	1266.9.1 = {
+		holder = 93070
+	}
+	1271.1.1 = {
+		holder = 93072
+	}
+	1272.1.1 = {
+		holder = 93074
+	}
+	1282.1.1 = {
+		holder = 93075
+	}
+	1307.1.1 = {
+		holder = 93076
+	}
+	1308.1.1 = {
+		holder = 93078
+	}
+	1309.1.1 = {
+		holder = 93079
+	}
+	1310.1.1 = {
+		holder = 93080
+	}
+	1318.1.1 = {
+		holder = 93079
+	}
+	1326.1.1 = {
+		holder = 93081
+	}
+	1329.1.1 = {
+		holder = 93082
+	}
+	1330.1.1 = {
+		holder = 93083
+	}
+	1334.1.1 = {
+		holder = 93084
+	}
+	1335.1.1 = {
+		holder = 93086
+	}
+}
+
+c_otrar = {
+	#Chah within the Samanid in 867
+	849.1.2 = {
+		holder = 188639	#Yahya Samanid
+		#liege = k_transoxiana	#Samanid
+		government = clan_government
+	}
+	855.3.2 = {
+		holder = extra_samanids_5 #Ya'qub
+		liege = d_chah
+	}
+	882.1.9 = {
+		holder = 302688	#fictional Dogan Shahn
+	}
+	898.4.21 = {
+		holder = 170303 #placeholder
+	}
+
+	#Chah within the Karakhanid in 1066
+	1060.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+	}
+	#1068.1.2 = {
+	#	#top liege = k_zhetysu
+	#}
+	1074.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+	}
+	1093.1.2 = {
+		holder = 302694	#fictional Saru Karachahnid
+	}
+	1109.7.14 = {
+		holder = 302695	#fictional Ituk Karachahnid
+	}
+	1132.7.19 = {
+		holder = 302696	#fictional Kobyak Karachahnid
+	}
+	1178.1.1 = {
+		holder = 144122 # Ibrahim b. Husayn
+		liege = k_syr_darya
+	}
+	1181.1.13 = {
+		holder = 302697	#fictional KO_nC_ek Karachahnid
+	}
+	1196.9.26 = {
+		holder = 302698	#fictional Girgen Karachahnid
+	}
+
+	#Mongols
+	1220.2.1 = {
+		liege = e_mongol_empire
+		holder = 125501
+	}
+	1227.12.2 = {
+		holder = 93062
+	}
+	1242.1.1 = {
+		holder = 93064
+	}
+	1246.1.1 = {
+		holder = 93065
+	}
+	1252.1.1 = {
+		holder = 93064
+	}
+	1253.1.1 = {
+		holder = 93066
+	}
+	1260.1.1 = {
+		holder = 93068
+	}
+	1266.1.1 = {
+		holder = 93066
+	}
+	1266.9.1 = {
+		holder = 93070
+	}
+	1271.1.1 = {
+		holder = 93072
+	}
+	1272.1.1 = {
+		holder = 93074
+	}
+	1282.1.1 = {
+		holder = 93075
+	}
+	1307.1.1 = {
+		holder = 93076
+	}
+	1308.1.1 = {
+		holder = 93078
+	}
+	1309.1.1 = {
+		holder = 93079
+	}
+	1310.1.1 = {
+		holder = 93080
+	}
+	1318.1.1 = {
+		holder = 93079
+	}
+	1326.1.1 = {
+		holder = 93081
+	}
+	1329.1.1 = {
+		holder = 93082
+	}
+	1330.1.1 = {
+		holder = 93083
+	}
+	1334.1.1 = {
+		holder = 93084
+	}
+	1335.1.1 = {
+		holder = 93086
+	}
+}
+
+c_shavgar = {
+	#Chah within the Samanid in 867
+	849.1.2 = {
+		holder = 302686	#fictional Aksonqor Shahn
+		liege = d_chah
+		government = nomad_government
+	}
+	882.1.9 = {
+		holder = 302688	#fictional Dogan Shahn
+	}
+	898.4.21 = {
+		holder = 170303 #placeholder
+	}
+
+	#Chah within the Karakhanid in 1066
+	1060.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+	}
+	#1068.1.2 = {
+	#	#top liege = k_zhetysu
+	#}
+	1074.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+	}
+	1093.1.2 = {
+		holder = 302694	#fictional Saru Karachahnid
+	}
+	1109.7.14 = {
+		holder = 302695	#fictional Ituk Karachahnid
+	}
+	1132.7.19 = {
+		holder = 302696	#fictional Kobyak Karachahnid
+	}
+	1178.1.1 = {
+		holder = 144122 # Ibrahim b. Husayn
+		liege = k_syr_darya
+	}
+	1181.1.13 = {
+		holder = 302697	#fictional KO_nC_ek Karachahnid
+	}
+	1196.9.26 = {
+		holder = 302698	#fictional Girgen Karachahnid
+	}
+
+	#Mongols
+	1220.2.1 = {
+		liege = e_mongol_empire
+		holder = 125501
+	}
+	1227.12.2 = {
+		holder = 93062
+	}
+	1242.1.1 = {
+		holder = 93064
+	}
+	1246.1.1 = {
+		holder = 93065
+	}
+	1252.1.1 = {
+		holder = 93064
+	}
+	1253.1.1 = {
+		holder = 93066
+	}
+	1260.1.1 = {
+		holder = 93068
+	}
+	1266.1.1 = {
+		holder = 93066
+	}
+	1266.9.1 = {
+		holder = 93070
+	}
+	1271.1.1 = {
+		holder = 93072
+	}
+	1272.1.1 = {
+		holder = 93074
+	}
+	1282.1.1 = {
+		holder = 93075
+	}
+	1307.1.1 = {
+		holder = 93076
+	}
+	1308.1.1 = {
+		holder = 93078
+	}
+	1309.1.1 = {
+		holder = 93079
+	}
+	1310.1.1 = {
+		holder = 93080
+	}
+	1318.1.1 = {
+		holder = 93079
+	}
+	1326.1.1 = {
+		holder = 93081
+	}
+	1329.1.1 = {
+		holder = 93082
+	}
+	1330.1.1 = {
+		holder = 93083
+	}
+	1334.1.1 = {
+		holder = 93084
+	}
+	1335.1.1 = {
+		holder = 93086
+	}
+}
+
+c_sutkend = {
+	#Chah within the Samanid in 867
+	849.1.2 = {
+		holder = 302686	#fictional Aksonqor Shahn
+		liege = d_chah
+		government = nomad_government
+	}
+	882.1.9 = {
+		holder = 302688	#fictional Dogan Shahn
+	}
+	898.4.21 = {
+		holder = 170303 #placeholder
+	}
+
+	#Chah within the Karakhanid in 1066
+	1060.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+	}
+	#1068.1.2 = {
+	#	#top liege = k_zhetysu
+	#}
+	1074.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+	}
+	1093.1.2 = {
+		holder = 302694	#fictional Saru Karachahnid
+	}
+	1109.7.14 = {
+		holder = 302695	#fictional Ituk Karachahnid
+	}
+	1132.7.19 = {
+		holder = 302696	#fictional Kobyak Karachahnid
+	}
+	1178.1.1 = {
+		holder = 144122 # Ibrahim b. Husayn
+		liege = k_syr_darya
+	}
+	1181.1.13 = {
+		holder = 302697	#fictional KO_nC_ek Karachahnid
+	}
+	1196.9.26 = {
+		holder = 302698	#fictional Girgen Karachahnid
+	}
+
+	#Mongols
+	1220.2.1 = {
+		liege = e_mongol_empire
+		holder = 125501
+	}
+	1227.12.2 = {
+		holder = 93062
+	}
+	1242.1.1 = {
+		holder = 93064
+	}
+	1246.1.1 = {
+		holder = 93065
+	}
+	1252.1.1 = {
+		holder = 93064
+	}
+	1253.1.1 = {
+		holder = 93066
+	}
+	1260.1.1 = {
+		holder = 93068
+	}
+	1266.1.1 = {
+		holder = 93066
+	}
+	1266.9.1 = {
+		holder = 93070
+	}
+	1271.1.1 = {
+		holder = 93072
+	}
+	1272.1.1 = {
+		holder = 93074
+	}
+	1282.1.1 = {
+		holder = 93075
+	}
+	1307.1.1 = {
+		holder = 93076
+	}
+	1308.1.1 = {
+		holder = 93078
+	}
+	1309.1.1 = {
+		holder = 93079
+	}
+	1310.1.1 = {
+		holder = 93080
+	}
+	1318.1.1 = {
+		holder = 93079
+	}
+	1326.1.1 = {
+		holder = 93081
+	}
+	1329.1.1 = {
+		holder = 93082
+	}
+	1330.1.1 = {
+		holder = 93083
+	}
+	1334.1.1 = {
+		holder = 93084
+	}
+	1335.1.1 = {
+		holder = 93086
+	}
+}

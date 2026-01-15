@@ -1,0 +1,336 @@
+###MAPS REFERENCES
+#AAA : https://www.wdl.org/fr/item/15036/view/1/1/
+#BBB : https://www.wdl.org/fr/item/11753/view/1/1/
+#CCC : https://upload.wikimedia.org/wikipedia/commons/3/38/Zakaukazie-Turkestan1903.jpg
+
+# k_syr_darya
+## d_syr_darya ###################################
+### c_jend
+901 = {		#Jend AKA Jand
+	culture = turkish
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	1066.1.1 = {
+		culture = qangli
+	}
+}
+7113 = {	#Uzun-kul
+	#On map CCC, just north of Perowsk
+	holding = none
+}
+7116 = {	#Beljan
+	#Mostly placeholder
+	holding = none
+}
+7117 = {	#Azez-kul
+	#On map CCC, north-east of Perowsk as "Aszez-kul"
+	holding = none
+}
+
+### c_sighnaq
+7123 = {	#Sïghnaq AKA Sighnaq
+	culture = turkish
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	1066.1.1 = {
+		culture = qangli
+	}
+}
+7119 = {	#Aq-Masjid
+	#Mostly placeholder
+	holding = none
+}
+
+### c_uzgend_KARA
+7125 = {	#Uzgend	AKA Uzgen
+	culture = turkish
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	1066.1.1 = {
+		culture = qangli
+	}
+}
+7118 = {	#Telegul
+	#Based on a lake
+	holding = none
+}
+7124 = {	#Oktyabr
+	holding = none
+}
+
+
+## d_chah ###################################
+### c_chah
+1186 = {	#Chah AKA Tashkent
+	culture = sogdian
+	religion = khurmazta
+	holding = castle_holding
+
+	# History
+	1050.1.1 = {
+		religion = "maturidi"
+		culture = karluk
+	}
+}
+7135 = {	#Sayram
+	holding = castle_holding
+}
+7136 = {	#Chimkent
+	holding = city_holding
+}
+7137 = {	#Nuket
+	holding = church_holding
+}
+7138 = {	#Isfijab
+	holding = city_holding
+}
+
+### c_otrar
+1431 = {	#Otrar	AKA Utrar AKA Farab
+	culture = sogdian
+	religion = khurmazta
+	holding = castle_holding
+
+	# History
+	1050.1.1 = {
+		religion = "maturidi"
+		culture = karluk
+	}
+}
+7139 = {	#Chakpak
+	#As "Czakpak" on map CCC, north-east of "Taszkent"
+	holding = none
+}
+7140 = {	#Awliya-Ata
+	#As "Aulije-ata" on map CCC, north-east of "Czakpak"
+	holding = none
+}
+
+### c_shavgar
+7129 = {	#Shavgar
+	# AKA modern "Turkistan" - guess in which country it is ?
+	# Nope, Kazakhstan lol
+	culture = turkish
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	1050.1.1 = {
+		religion = "maturidi"
+		culture = karluk
+		holding = castle_holding
+	}
+}
+7126 = {	#Sawran
+	#Map AAA, as "Sauran" on the Syr Darya river
+	holding = none
+}
+7127 = {	#Shulak
+	#Map BBB, as "Chulak" between the Syr Darya and river Chu
+	holding = none
+}
+7128 = {	#Yasï/Yasi
+	#Can be found on the historical atlas of central asia by Yuri Bregel
+	holding = none
+}
+
+### c_sutkend
+1181 = {	#Sütkend
+	#Can be found on the historical atlas of central asia by Yuri Bregel
+	culture = turkish
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	1050.1.1 = {
+		religion = "maturidi"
+		culture = karluk
+		holding = castle_holding
+	}
+}
+7134 = {	#Akkum
+	#mostly placeholder
+	holding = none
+}
+7130 = {	#Sary-Ozek
+	holding = none
+}
+
+
+## d_betpaqdala ###################################
+### c_sarysu
+7120 = { # Sarysu
+	# old Tashti
+	culture = turkish
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	1066.1.1 = {
+		culture = qangli
+	}
+}
+7117 = { # b_qinfajun_TEMP
+	holding = none
+}
+7122 = { # Aksumbe
+	#Old Suzak - on map CCC, north of "Turkestan" as "Susak"
+	holding = none
+}
+
+### c_zhuan_tobe
+7121 = { # b_zhuan_tobe
+	culture = turkish
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	1066.1.1 = {
+		culture = qangli
+	}
+}
+7131 = { # b_anguidian_TEMP
+	holding = none
+}
+
+### c_jambyl
+7155 = { # Jambyl
+	culture = karluk
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	960.1.1 = {
+		religion = maturidi
+	}
+	1100.1.1 = {
+		culture = qangli
+		religion = tengri_pagan
+	}
+}
+16741 = { # b_xianyin_TEMP
+	holding = none
+}
+
+### c_muyunkum
+16342 = { # b_shenwen_TEMP
+	culture = karluk
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	960.1.1 = {
+		religion = maturidi
+	}
+	1100.1.1 = {
+		culture = qangli
+		religion = tengri_pagan
+	}
+}
+7132 = { # b_yeliumi_TEMP
+	holding = none
+}
+7143 = { # b_mincanshuai_TEMP
+	holding = none
+}
+
+
+## d_talas ###################################
+### c_karatau
+15916 = { # Karatau
+	culture = karluk
+	religion = tengri_pagan
+	holding = nomad_holding
+
+	# History
+	960.1.1 = {
+		religion = maturidi
+	}
+}
+7127 = { # b_karakur
+	holding = none
+}
+16130 = { # b_arpauzen
+	holding = none
+}
+
+### c_taraz
+15931 = { # Taraz
+	culture = sogdian
+	religion = nestorian
+	holding = castle_holding
+
+	# History
+	960.1.1 = {
+		culture = karluk
+		religion = maturidi
+	}
+}
+7133 = { # b_jambyl_taraz
+	holding = none
+}
+16140 = { # b_zhushang_TEMP
+	holding = none
+}
+15937 = { # Akhyr-tash
+	holding = none
+}
+15906 = { # Juvikat
+	holding = none
+}
+
+### c_mirki
+15553 = { # Mirki
+	culture = sogdian
+	religion = nestorian
+	holding = castle_holding
+
+	# History
+	960.1.1 = {
+		culture = karluk
+		religion = maturidi
+	}
+}
+7142 = { # Kulan
+	holding = none
+}
+7144 = { # Aspara
+	holding = none
+}
+7145 = { # Argu
+	holding = none
+}
+
+### c_jamukat
+15397 = { # Jamukat
+	culture = sogdian
+	religion = nestorian
+	holding = castle_holding
+
+	# History
+	960.1.1 = {
+		culture = karluk
+		religion = maturidi
+	}
+}
+15350 = { # b_sheker
+	holding = none
+}
+7140 = { # b_ak-tobe
+	holding = city_holding
+}
+7141 = { # b_talas
+	holding = none
+}
+7146 = { # b_tekabhet
+	holding = none
+}
+7216 = { # b_taldy-sal
+	holding = none
+}

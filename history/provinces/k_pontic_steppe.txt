@@ -1,0 +1,417 @@
+﻿# k_pontic_steppe
+## d_yedisan ###################################
+### c_ladyzyn
+5257 = {	#Ladyzyn
+	culture = mogyer
+	religion = magyar_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+		religion = tengri_pagan
+	}
+}
+5258 = {	#Birzula	AKA Podilsk
+	holding = none
+}
+5259 = {	#Liubashivka
+	holding = none
+}
+
+### c_uman
+5260 = {	#Yary
+	culture = mogyer
+	religion = magyar_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+		religion = tengri_pagan
+	}
+}
+5261 = {	#Buky
+	holding = none
+}
+5262 = {	#Uman
+	holding = none
+}
+
+### c_cherkassy
+5263 = {	#Cherkassy
+	culture = mogyer
+	religion = magyar_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+		religion = tengri_pagan
+	}
+	1095.1.1 = {
+		culture = cuman
+	}
+}
+5264 = {	#Sacacatce
+	holding = none
+}
+5265 = {	#Kashan
+	holding = none
+}
+5266 = {	#Pervomaisk
+	holding = none
+}
+
+### c_dnipro
+5274 = {	#Dnipro
+	culture = mogyer
+	religion = magyar_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+		religion = tengri_pagan
+	}
+	1095.1.1 = {
+		culture = cuman
+	}
+}
+5275 = {	#Salmacatce
+	holding = none
+}
+
+## d_kizilyedisan ###################################
+### c_odessa
+543 = {	#Kara-Kerman
+	culture = mogyer
+	religion = magyar_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+		religion = tengri_pagan
+	}
+	1095.1.1 = {
+		culture = cuman
+	}
+}
+5267 = {	#Tiraspol
+	holding = none
+}
+5268 = {	#Odessa
+	holding = none
+}
+
+### c_oleshye
+558 = {		#Oleshye
+	culture = mogyer
+	religion = magyar_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+		religion = tengri_pagan
+	}
+	944.1.1 = {
+		culture = russian
+		religion = slavic_pagan
+	}
+	989.9.15 = {
+		religion = orthodox
+		holding = castle_holding
+	}
+}
+542 = {		#Olbia
+	holding = church_holding
+}
+
+### c_kherson
+5269 = {	#Kherson
+	culture = mogyer
+	religion = magyar_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+		religion = tengri_pagan
+	}
+	1095.1.1 = {
+		culture = cuman
+	}
+}
+5270 = {	#Kazanka
+	holding = none
+}
+5271 = {	#Voznessensk
+	holding = none
+}
+
+### c_lower_dniepr
+5272 = {	#Beryslav
+	culture = mogyer
+	religion = magyar_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+		religion = tengri_pagan
+	}
+	1066.1.1 = {
+		holding = herder_holding
+	}
+	1095.1.1 = {
+		culture = cuman
+		holding = nomad_holding
+	}
+}
+5273 = {	#Nikopol
+	holding = none
+}
+
+## d_levedia ###################################
+### c_kharka
+565 = {		#Kharka
+	culture = severian
+	religion = slavic_pagan
+	holding = tribal_holding
+	989.9.15 = {
+		culture = russian
+		religion = orthodox
+		holding = castle_holding
+	}
+}
+5283 = {	#Bohodukhiv
+	holding = none
+}
+
+### c_samar
+556 = {		#Samar
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.2 = {
+		culture = cuman
+	}
+}
+5282 = {	#Karlivka
+	holding = none
+}
+
+### c_bakhmut
+564 = {		#Bakhmut
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.2 = {
+		culture = cuman
+	}
+}
+5322 = {	#Tor	AKA Sloviansk
+	holding = none
+}
+15613 = {	#Izyum
+	holding = none
+}
+
+### c_lozova
+5320 = {	#Lozova
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.2 = {
+		culture = cuman
+	}
+	1178.1.1 = {
+		holding = herder_holding
+	}
+}
+5321 = {	#Pokrovsk
+	holding = none
+}
+
+### c_sharukan
+15727 = {		#Sharukan
+	culture = alanobolghar
+	religion = tengri_pagan
+	holding = tribal_holding
+	1100.1.1 = {
+		religion = orthodox
+	}
+}
+5323 = {	#Volcha	AKA Volchansk
+	holding = none
+}
+15959 = {	#Valuiki
+	holding = none
+}
+
+## d_red_levedia ###################################
+### c_khortytsia
+557 = {		#Khortytsia
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.2 = {
+		culture = cuman
+	}
+}
+5324 = {	#Donetsk
+	holding = none
+}
+
+### c_mariupol
+5280 = {	#Mariupol
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.2 = {
+		culture = cuman
+	}
+}
+5281 = {	#Kutur-Ogly	AKA Berdyansk
+	holding = none
+}
+
+### c_kyz-yar
+5279 = {	#Kyz-yar	AKA Melitopol
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.2 = {
+		culture = cuman
+	}
+}
+5278 = {	#Kakovka
+	holding = none
+}
+17167 = {	#Kalanchak
+	holding = none
+}
+
+## d_don_valley ###################################
+### c_sarysyn
+595 = {		#Sarysyn
+	culture = khazar
+	religion = tengri_pagan
+	holding = nomad_holding
+	890.1.1 = {
+		culture = turkish
+	}
+	1000.1.2 = {
+		culture = cuman
+	}
+}
+5293 = {	#Frolovo
+	holding = none
+}
+5294 = {	#Kamyshin
+	holding = none
+}
+
+### c_golden_hills
+5290 = {	#Golden Hills
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.2 = {
+		culture = cuman
+	}
+}
+5291 = {	#Siyahtepe
+	#semi-fictional, based on probable location of Khazar settlement
+	holding = none
+}
+5292 = {	#Ust-Donvokhi
+	#mostly fictional
+	holding = none
+}
+594 = {		#Kazarki
+	#probable location of khazar settlement
+	holding = none
+}
+
+### c_boguchar
+5287 = {	#Boguchar
+	culture = bolghar
+	religion = tengri_pagan
+	holding = herder_holding
+	895.1.2 = {
+		culture = pecheneg
+		holding = herder_holding
+	}
+	1000.1.2 = {
+		culture = cuman
+	}
+}
+5326 = {	#Millerovo
+	holding = none
+}
+5327 = {	#Podgornye
+	holding = none
+}
+5295 = {	#Yelan
+	holding = none
+}
+
+### c_karatayak
+5325 = {	#Karatayak
+	culture = alanobolghar
+	religion = tengri_pagan
+	holding = tribal_holding
+	1000.1.2 = {
+		culture = cuman
+		holding = nomad_holding
+	}
+	1178.1.1 = {
+		holding = herder_holding
+	}
+}
+15951 = {	#Podgorensky
+	holding = none
+}
+
+## d_tana ###################################
+### c_tana
+596 = {		#Tana
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.2 = {
+		culture = cuman
+	}
+}
+563 = {		#Taganrog
+	holding = none
+}
+
+5328 = {	#Kuzeyrog	#ficitonal
+	culture = bolghar
+	religion = tengri_pagan
+	holding = nomad_holding
+	895.1.2 = {
+		culture = pecheneg
+	}
+	1000.1.2 = {
+		culture = cuman
+	}
+	1178.1.1 = {
+		holding = herder_holding
+	}
+}
+5329 = {	#Ivanovskoye
+	holding = none
+}
