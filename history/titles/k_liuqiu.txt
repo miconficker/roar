@@ -1,0 +1,167 @@
+
+### Taiwan
+## d_liuqiu
+c_amis = {
+	867.1.1 = { change_development_level = 1 }
+	1066.1.1 = { change_development_level = 3 }
+	1178.1.1 = { change_development_level = 5 }
+
+	855.1.1 = {
+		government = wanua_government
+		holder = amis_pancah_01_fic	#fictional
+	}
+	886.1.1 = {
+		holder = amis_pancah_02_fic	#fictional
+	}
+	913.1.1 = {
+		holder = amis_pancah_03_fic	#fictional
+	}
+	948.1.1 = {
+		holder = amis_pancah_04_fic	#fictional
+	}
+	979.1.1 = {
+		holder = amis_pancah_05_fic	#fictional
+	}
+	1000.1.1 = {
+		holder = amis_pancah_06_fic	#fictional
+	}
+	1036.1.1 = {
+		holder = amis_pancah_07_fic	#fictional
+	}
+	1059.1.1 = {
+		holder = amis_pancah_08_fic	#fictional
+	}
+	1097.1.1 = {
+		holder = amis_pancah_09_fic	#fictional
+	}
+	1126.1.1 = {
+		holder = amis_pancah_10_fic	#fictional
+	}
+	1153.1.1 = {
+		holder = amis_pancah_11_fic	#fictional
+	}
+	1190.1.1 = {
+		holder = amis_pancah_12_fic	#fictional
+	}
+}
+
+c_siraya = {
+	867.1.1 = { change_development_level = 1 }
+	1066.1.1 = { change_development_level = 3 }
+	1178.1.1 = { change_development_level = 5 }
+
+	855.1.1 = {
+		government = wanua_government
+		holder = amis_siraya_01_fic		#fictional
+	}
+	884.1.1 = {
+		holder = amis_siraya_02_fic		#fictional
+	}
+	912.1.1 = {
+		holder = amis_siraya_03_fic		#fictional
+	}
+	954.1.1 = {
+		holder = amis_siraya_04_fic		#fictional
+	}
+	977.1.1 = {
+		holder = amis_siraya_05_fic		#fictional
+	}
+	1000.1.1 = {
+		holder = amis_siraya_06_fic		#fictional
+	}
+	1039.1.1 = {
+		holder = amis_siraya_07_fic		#fictional
+	}
+	1058.1.1 = {
+		holder = amis_siraya_08_fic		#fictional
+	}
+	1103.1.1 = {
+		holder = amis_siraya_09_fic		#fictional
+	}
+	1121.1.1 = {
+		holder = amis_siraya_10_fic		#fictional
+	}
+	1147.1.1 = {
+		holder = amis_siraya_11_fic		#fictional
+	}
+	1190.1.1 = {
+		holder = amis_siraya_12_fic		#fictional
+	}
+}
+
+c_hoanya = {
+	867.1.1 = { change_development_level = 1 }
+	1066.1.1 = { change_development_level = 3 }
+	1178.1.1 = { change_development_level = 5 }
+
+	855.1.1 = {
+		government = wanua_government
+		holder = amis_hoanya_01_fic	#fictional
+	}
+	887.1.1 = {
+		holder = amis_hoanya_02_fic	#fictional
+	}
+	913.1.1 = {
+		holder = amis_hoanya_03_fic	#fictional
+	}
+	940.1.1 = {
+		holder = amis_hoanya_04_fic	#fictional
+	}
+	966.1.1 = {
+		holder = amis_hoanya_05_fic	#fictional
+	}
+	1000.1.1 = {
+		holder = amis_hoanya_06_fic	#fictional
+	}
+	1032.1.1 = {
+		holder = amis_hoanya_07_fic	#fictional
+	}
+	1059.1.1 = {
+		holder = amis_hoanya_08_fic	#fictional
+	}
+	1097.1.1 = {
+		holder = amis_hoanya_09_fic	#fictional
+	}
+	1126.1.1 = {
+		holder = amis_hoanya_10_fic	#fictional
+	}
+	1153.1.1 = {
+		holder = amis_hoanya_11_fic	#fictional
+	}
+	1189.1.1 = {
+		holder = amis_hoanya_12_fic	#fictional
+	}
+}
+
+c_nankan = {
+	867.1.1 = { change_development_level = 1 }
+	1066.1.1 = { change_development_level = 3 }
+	1178.1.1 = { change_development_level = 5 }
+
+	855.1.1 = {
+		government = wanua_government
+		holder = pepo_fic_1	#fictional
+	}
+}
+
+c_kavalan = {
+	867.1.1 = { change_development_level = 1 }
+	1066.1.1 = { change_development_level = 3 }
+	1178.1.1 = { change_development_level = 5 }
+
+	855.1.1 = {
+		government = wanua_government
+		holder = kavalan_fic_1	#fictional
+	}
+}
+
+c_kabeyawan = {
+	867.1.1 = { change_development_level = 1 }
+	1066.1.1 = { change_development_level = 3 }
+	1178.1.1 = { change_development_level = 5 }
+
+	855.1.1 = {
+		government = wanua_government
+		holder = paiwan_fic_1	#fictional
+	}
+}

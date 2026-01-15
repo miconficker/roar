@@ -88452,7 +88452,6 @@ e_panyupayana = {
     }
 
 
-
 	k_liuqiu = {
 		color = { 71 160 60 }
 

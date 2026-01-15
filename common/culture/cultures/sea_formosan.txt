@@ -2,6 +2,7 @@
 
 amis = {
 	# AKA: Pangcah
+	# indigenous inhabitants of the Huadong Valley, plain eastern to the Coastal Mountains and the Hengchun Peninsula.
 	#color = { 0.3 0.5 0.3 } - vanilla
 	color = amis
 
@@ -38,6 +39,7 @@ amis = {
 
 atayal = {
 	# AKA: Tayal
+	# indigenous inhabitants of the area around the Liwu River valley and the upper reaches of the Zhuoshui River
 	color = atayal
 
 	ethos = ethos_bellicose
@@ -68,6 +70,8 @@ atayal = {
 }
 
 bunun = {
+	# AKA: Vonum
+	# indigenous inhabitants widely dispersed across the island's central mountain ranges
 	color = bunun
 
 	ethos = ethos_bellicose
@@ -99,6 +103,7 @@ bunun = {
 }
 
 kavalan = {
+	# indigenous inhabitants of the northeastern coast of Taiwan (Yilan City), nowadays dispersed alongside the eastern coastal areas
 	color = kavalan
 
 	ethos = ethos_communal
@@ -131,6 +136,7 @@ kavalan = {
 }
 
 paiwan = {
+	# indigenous inhabitants of the hills and coastal plains of southeastern Taiwan
 	color = paiwan
 
 	ethos = ethos_stoic
@@ -162,6 +168,7 @@ paiwan = {
 }
 
 pepo = {
+	# AKA: Pingpu - term used for various "Plains indigenous peoples" 
 	color = pepo
 
 	ethos = ethos_egalitarian
@@ -194,6 +201,7 @@ pepo = {
 }
 
 siraya = {
+	# indigenous inhabitants of modern day Tainan and Taitung counties (southwestern coast of Taiwan)
 	color = siraya
 
 	ethos = ethos_bellicose
