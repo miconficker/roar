@@ -31,13 +31,11 @@
 	culture = tamil
 	religion = shaivism
 
-	holding = castle_holding
-
-	special_building_slot = brihadeeswarar_temple_01
-
 	# History
 	867.1.1 = {
+		holding = castle_holding
 		buildings = { castle_04 }
+		special_building_slot = brihadeeswarar_temple_01
 	}
 	1066.1.1 = {
 		special_building = brihadeeswarar_temple_01
@@ -164,6 +162,21 @@
 	1066.1.1 = {
 		religion = krishnaism
 	}
+}
+
+###c_maldives
+1360 = {	# Mahal
+
+	# Misc
+	culture = sinhala
+	religion = theravada
+
+	holding = castle_holding
+
+	# History
+}
+8712 = {	# Thiladhunmathi
+	holding = church_holding
 }
 
 # 1413 - Venadu
@@ -693,36 +706,17 @@
 	}
 }
 
+## Lakhshadweep
 
-## d_maldives
-### c_maldives
-1360 = {	# Mahal
-
-	# Misc
-	culture = sinhala
-	religion = theravada
-
-	holding = castle_holding
-
-	# History
-}
-8712 = {	# Thiladhunmathi
-	holding = church_holding
-}
-
-
-## d_lakshadvipa
-### c_lakshadvipa
-15464 = {	# Androth
-
-	# Misc
+# b_androth
+12490 = {
 	culture = malayali
 	religion = ashari
 
 	holding = castle_holding
-
-	# History
 }
-15544 = {	# Kavaratti
+
+# b_kavaratti
+13224 = {
 	holding = none
 }

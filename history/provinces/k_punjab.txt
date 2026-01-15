@@ -228,21 +228,10 @@
 	culture = punjabi
 	religion = vaishnavism
 
-	holding = castle_holding
-
-	effect = {
-		if = {
-			limit = {
-				has_tgp_dlc_trigger = yes
-			}
-			add_special_building_slot = lahur_bazaar_01
-			add_special_building = lahur_bazaar_01
-		}
-	}
-
 	# History
 	1066.1.1 = {
-		buildings = { castle_04 }
+        holding = castle_holding
+        buildings = { castle_04 }
 	}
 
 }

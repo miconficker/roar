@@ -88,28 +88,7 @@
 	culture = armenian
 	holding = castle_holding
 
-	effect = {
-		if = {
-			limit = {
-				has_tgp_dlc_trigger = yes
-			}
-			add_special_building_slot = dvin_shuka_01
-			add_special_building = dvin_shuka_02
-		}
-	}
-
 	# History
-	893.12.28 = { # Dvin Earthquake of 893 seriously wrecked the city
-		effect = {
-			if = {
-				limit = {
-					has_tgp_dlc_trigger = yes
-				}
-				remove_building = dvin_shuka_02
-				add_special_building = dvin_shuka_01
-			}
-		}
-	}
 }
 5729 = {	# Garni_AYRARAT
 	# Armenian settlment with a fortress which was destroyed by Timur

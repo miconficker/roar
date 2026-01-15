@@ -1,6 +1,6 @@
-﻿# k_u (Ü)
-## d_yarlung ###################################
-### c_zetang
+﻿#k_u (Ü)
+##d_yarlung
+###c_zetang
 9230 = {	# Zetang
 	# Misc
 	culture = bodpa
@@ -26,7 +26,7 @@
 	holding = none
 }
 
-### c_nagarze
+###c_nagarze
 9223 = {	# Nagarze
 	# Misc
 	culture = bodpa
@@ -43,7 +43,7 @@
 	holding = city_holding
 }
 
-### c_comai
+###c_comai
 9225 = {	# Comai
 	# Misc
 	culture = bodpa
@@ -60,7 +60,7 @@
 	holding = church_holding
 }
 
-### c_gyaca
+###c_gyaca
 9233 = {	# Gyaca
 	# Misc
 	culture = bodpa
@@ -80,7 +80,7 @@
 	holding = city_holding
 }
 
-### c_nang
+###c_nang
 9235 = {	# Nang
 	# Misc
 	culture = lhomon #Lhoba
@@ -98,32 +98,19 @@
 }
 
 
-## d_lhasa ###################################
-### c_lhasa
+##d_lhasa
+###c_lhasa
 9238 = {	# Potala
 	# Misc
 	culture = sumpa
 	religion = old_bon
 
 	holding = castle_holding
-
-	effect = {
-		if = {
-			limit = {
-				has_tgp_dlc_trigger = yes
-			}
-			add_special_building_slot = lhasa_market_01
-			add_special_building = lhasa_market_01
-		}
-	}
-
 	# History
 	598.1.1 = {
-		# The Sumpa are pushed out of the Lhasa region by Namri Songtsen
 		culture = bodpa
-	}
-	641.1.1 = {
-		# Songtsen Gampo promotes Buddhism
+	} #The Sumpa are pushed out of the Lhasa region by Namri Songtsen
+	641.1.1 = {# Songtsen Gampo promotes Buddhism
 		religion = lamaism
 		special_building_slot = potala_palace_01
 		special_building = potala_palace_01
@@ -135,10 +122,9 @@
 9237 = {	# Lhasa
 	holding = city_holding
 
-	# History
-	652.1.1 = {
-		# Songtsen Gampo promotes Buddhism
-		special_building_slot = jokhang_monastery_01
+	special_building_slot = jokhang_monastery_01
+
+	652.1.1 = {# Songtsen Gampo promotes Buddhism
 		special_building = jokhang_monastery_01
 	}
 }
@@ -147,8 +133,6 @@
 }
 9246 = {	# Doilungdeqen
 	holding = church_holding
-
-	# History
 	800.1.1 = {
 		special_building_slot = pabonka_hermitage_01
 		special_building = pabonka_hermitage_01
@@ -158,7 +142,7 @@
 	holding = church_holding
 }
 
-### c_gyama
+###c_gyama
 9239 = {	# Gyama
 	# Misc
 	culture = sumpa
@@ -168,13 +152,11 @@
 
 	# History
 	598.1.1 = {
-		# The Sumpa are pushed out of the Lhasa region by Namri Songtsen
 		culture = bodpa
-	}
+	} #The Sumpa are pushed out of the Lhasa region by Namri Songtsen
 	641.1.1 = {
-		# Songtsen Gampo promotes Buddhism
 		religion = lamaism
-	}
+	}# Songtsen Gampo promotes Buddhism
 }
 9240 = {	# Kunggar
 	holding = city_holding
@@ -189,7 +171,7 @@
 	holding = none
 }
 
-### c_lhunzhub
+###c_lhunzhub
 9242 = {	# Lhunzhub
 	# Misc
 	culture = sumpa
@@ -212,7 +194,7 @@
 	holding = church_holding
 }
 
-### c_nyemo
+###c_nyemo
 9247 = {	# Nyemo
 	# Misc
 	culture = sumpa
@@ -232,7 +214,7 @@
 	holding = church_holding
 }
 
-### c_damxung
+###c_damxung
 9248 = {	# Damquka
 	# Misc
 	culture = sumpa
@@ -256,8 +238,8 @@
 }
 
 
-## d_nagchu ###################################
-### c_nagchu
+##d_nagchu
+###c_nagchu
 9255 = {	# Nagchu/Nagqu
 	# Misc
 	culture = sumpa
@@ -284,7 +266,7 @@
 	holding = none
 }
 
-### c_baingoin
+###c_baingoin
 9253 = {	# Pukpa
 	# Misc
 	culture = sumpa
@@ -308,7 +290,7 @@
 	holding = city_holding
 }
 
-### c_lhari
+###c_lhari
 9270 = {	# Lhari
 	# Misc
 	culture = sumpa
@@ -333,8 +315,8 @@
 }
 
 
-## d_conyi ###################################
-### c_cozhelhoma
+##d_conyi
+###c_cozhelhoma
 9261 = {	# Cozhelhoma
 	# Misc
 	culture = zhangzhung
@@ -358,7 +340,7 @@
 	holding = none #nomad
 }
 
-### c_garco
+###c_garco
 9262 = {	# Garco
 	# Misc
 	culture = sumpa
@@ -379,7 +361,7 @@
 	holding = none #nomad
 }
 
-### c_garkung
+###c_garkung
 9219 = {	# Garkung
 	# Misc
 	culture = zhangzhung
@@ -400,7 +382,7 @@
 	holding = none #nomad
 }
 
-### c_sewa
+###c_sewa
 9363 = {	# Sewa
 	# Misc
 	culture = sumpa
