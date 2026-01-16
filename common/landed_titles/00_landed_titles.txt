@@ -27184,26 +27184,9 @@ e_volga-ural = {
 			}
 		}
 
-		d_17330 = {
-			c_kakshar = {
-				color = { 150 74 115 }
+		d_mari = {
+			color = { 100 43 138 }
 
-				b_kakshar = {
-					province = 17330
-
-					color = { 150 74 115 }
-
-					cultural_names = {
-						name_list_russian = cn_kotelnich
-					}
-				}
-				b_kukarka = {
-					province = 17137
-				}
-				b_urzhum = {
-					province = 17022
-				}
-			}
 			c_yoshkar-ola = {
 				color = { 75 60 86 }
 
@@ -27221,6 +27204,29 @@ e_volga-ural = {
 					province = 5395
 
 					color = { 75 60 86 }
+				}
+			}
+			c_kakshar = {
+				color = { 150 74 115 }
+
+				b_kakshar = {
+					province = 17330
+
+					color = { 150 74 115 }
+
+					cultural_names = {
+						name_list_russian = cn_kotelnich
+					}
+				}
+				b_kukarka = {
+					province = 17137
+
+					color = { 150 74 115 }
+				}
+				b_urzhum = {
+					province = 17022
+
+					color = { 150 74 115 }
 				}
 			}
 			c_mari-turek = {
@@ -28000,10 +28006,8 @@ e_volga-ural = {
 			}
 		}
 
-		d_jalmat = {
+		d_belaya = {
 			color = { 56 31 56 }
-
-			capital = c_jalmat
 
 			c_belebey = {
 				color = { 50 40 30 }
@@ -28039,20 +28043,22 @@ e_volga-ural = {
 				}
 			}
 			c_agidel = {
+				color = { 54 26 84 }
+
 				b_agidel = {
 					province = 5409
 
-					color = { 66 36 87 }
+					color = { 54 26 84 }
 				}
 				b_almetyvesk = {
 					province = 5425
 
-					color = { 56 31 56 }
+					color = { 54 26 84 }
 				}
 				b_bugulma = {
 					province = 5424
 
-					color = { 56 31 56 }
+					color = { 54 26 84 }
 				}
 			}
 		}
