@@ -34965,24 +34965,38 @@ e_turan = {
 
 				b_balasaghun = {
 					province = 7154
+
+					color = { 131 49 22 }
 				}
 				b_yarish = {
 					province = 7148
+
+					color = { 131 49 22 }
 				}
 				b_boluzhi = {
 					province = 7147
+
+					color = { 131 49 22 }
 				}
 				b_kulshub = {
 					province = 16131
+
+					color = { 131 49 22 }
 				}
 				b_nevkat = {
 					province = 7161
+
+					color = { 131 49 22 }
 				}
 				b_suyab = {
 					province = 1424
+
+					color = { 131 49 22 }
 				}
 				b_toqmaq = {
 					province = 15949
+
+					color = { 131 49 22 }
 				}
 			}
 			c_naryn = {
@@ -35377,16 +35391,17 @@ e_turan = {
 					color = { 161 156 51 }
 				}
 			}
-			c_suzak = {
+			c_sighnaq = {
+				# old c_suzak
 				color = { 190 140 55 }
 
-				b_aq-masjid = {
-					province = 7119
+				b_sighnaq = {
+					province = 7123
 
 					color = { 190 140 55 }
 				}
-				b_sighnaq = {
-					province = 7123
+				b_aq-masjid = {
+					province = 7119
 
 					color = { 190 140 55 }
 				}
@@ -35508,12 +35523,18 @@ e_turan = {
 
 				b_sarysu = {
 					province = 7120
+
+					color = { 230 190 70 }
 				}
-				b_qinfajun_TEMP = {
+				b_qinfajun_TEMP = { #b_azez-kul
 					province = 7117
+
+					color = { 230 190 70 }
 				}
 				b_aksumbe = {
 					province = 7122
+
+					color = { 230 190 70 }
 				}
 			}
 			c_zhuan_tobe = {
@@ -35521,9 +35542,13 @@ e_turan = {
 
 				b_zhuan_tobe = {
 					province = 7121
+
+					color = { 245 215 110 }
 				}
 				b_anguidian_TEMP = {
 					province = 7131
+
+					color = { 245 215 110 }
 				}
 			}
 			c_jambyl = {
@@ -35531,9 +35556,13 @@ e_turan = {
 
 				b_jambyl = {
 					province = 7155
+
+					color = { 255 235 100 }
 				}
 				b_xianyin_TEMP = {
 					province = 16741
+
+					color = { 255 235 100 }
 				}
 			}
 			c_muyunkum = {
@@ -35541,12 +35570,18 @@ e_turan = {
 
 				b_shenwen_TEMP = {
 					province = 16342
+
+					color = { 190 130 35 }
 				}
 				b_yeliumi_TEMP = {
 					province = 7132
+
+					color = { 190 130 35 }
 				}
 				b_mincanshuai_TEMP = {
 					province = 7143
+
+					color = { 190 130 35 }
 				}
 			}
 		}
@@ -35559,12 +35594,18 @@ e_turan = {
 
 				b_karatau = {
 					province = 15916
+
+					color = { 210 145 50 }
 				}
 				b_karakur = {
 					province = 7127
+
+					color = { 210 145 50 }
 				}
 				b_arpauzen = {
 					province = 16130
+
+					color = { 210 145 50 }
 				}
 			}
 			c_taraz = {
@@ -35572,18 +35613,28 @@ e_turan = {
 
 				b_taraz = {
 					province = 15931
+
+					color = { 175 125 25 }
 				}
 				b_jambyl_taraz = {
 					province = 7133
+
+					color = { 175 125 25 }
 				}
 				b_zhushang_TEMP = {
 					province = 16140
+
+					color = { 175 125 25 }
 				}
 				b_akhyr-tash = {
 					province = 15937
+
+					color = { 175 125 25 }
 				}
 				b_juvikat = {
 					province = 15906
+
+					color = { 175 125 25 }
 				}
 			}
 			c_mirki = {
@@ -35591,15 +35642,23 @@ e_turan = {
 
 				b_mirki = {
 					province = 15553
+
+					color = { 180 155 15 }
 				}
 				b_kulan = {
 					province = 7142
+
+					color = { 180 155 15 }
 				}
 				b_aspara = {
 					province = 7144
+
+					color = { 180 155 15 }
 				}
 				b_argu = {
 					province = 7145
+
+					color = { 180 155 15 }
 				}
 			}
 			c_jamukat = {
@@ -35607,21 +35666,33 @@ e_turan = {
 
 				b_jamukat = {
 					province = 15397
+
+					color = { 190 130 35 }
 				}
 				b_sheker = {
 					province = 15350
+
+					color = { 190 130 35 }
 				}
 				b_ak-tobe = {
 					province = 7140
+
+					color = { 190 130 35 }
 				}
 				b_talas = {
 					province = 7141
+
+					color = { 190 130 35 }
 				}
 				b_tekabhet = {
 					province = 7146
+
+					color = { 190 130 35 }
 				}
 				b_taldy-sal = {
 					province = 7216
+
+					color = { 190 130 35 }
 				}
 			}
 		}
@@ -100557,26 +100628,35 @@ e_goryeo = {
 				color = { 45 245 135 }
 
 				b_Goryeo_Tamna_WestTamna = {
+					# b_jeju in early RoA
 					province = 9969
 
 					color = { 45 245 135 }
 				}
-				b_17459 = {
-					province = 17459
-				}
-				b_17503 = {
+				b_daejeong = {
 					province = 17503
-				}
-			}
-			c_east_tamna = {
-
-				b_Goryeo_Tamna_Tamna = {
-					province = 9856
 
 					color = { 45 245 135 }
 				}
-				b_17470 = {
+				b_hallasan = {
+					province = 17459
+
+					color = { 45 245 135 }
+				}
+			}
+			c_udo_tamna = { # "Right" Tamna
+				color = { 6 128 97 }
+
+				b_Goryeo_Tamna_Tamna = {
+					# b_byeolbangjin in early RoA
+					province = 9856
+
+					color = { 6 128 97 }
+				}
+				b_seogwipo = {
 					province = 17470
+
+					color = { 6 128 97 }
 				}
 			}
 		}
