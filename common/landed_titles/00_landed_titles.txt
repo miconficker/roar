@@ -25225,6 +25225,7 @@ e_caspian-pontic_steppe = {
 	}
 
 	k_pontic_steppe = {
+		# AKA Zaporizhia
 		color = { 85 40 5 }
 
 		capital = c_odessa # Odessa
@@ -25726,6 +25727,7 @@ e_caspian-pontic_steppe = {
 	}
 
 	k_caspian_steppe = {
+		# AKA Ertil
 		color = { 166 82 10 }
 
 		capital = c_itil # Itil
@@ -25736,6 +25738,94 @@ e_caspian-pontic_steppe = {
 					culture = { has_cultural_pillar = heritage_oghur }
 				}
 				add = @better_than_the_alternatives_score
+			}
+		}
+
+		d_itil = {
+			color = { 196 118 27 }
+
+			cultural_names = {
+				name_list_turkish = cn_saqsin
+			}
+
+			c_itil = {
+				color = { 145 96 39 }
+
+				cultural_names = {
+					name_list_turkish = cn_saqsin
+				}
+
+				b_itil = {
+					province = 620
+
+					color = { 145 96 39 }
+
+					cultural_names = {
+						name_list_turkish = cn_saqsin
+					}
+				}
+				b_tumak_ITIL = {
+					province = 17194
+
+					color = { 145 96 39 }
+				}
+				b_khazaran = {
+					province = 604
+
+					color = { 145 96 39 }
+				}
+			}
+			c_gulistan = {
+				color = { 227 150 61 }
+
+				b_gulistan = {
+					province = 619
+
+					color = { 227 150 61 }
+				}
+				b_yankala = {
+					province = 5345
+
+					color = { 227 150 61 }
+				}
+			}
+			c_saray = {
+				color = { 222 125 11 }
+
+				b_saray_al-qadima = {
+					province = 17361
+
+					color = { 222 125 11 }
+				}
+				b_saray_al-jadid = {
+					province = 15122
+
+					color = { 222 125 11 }
+				}
+				b_naryn_qum = {
+					province = 17245
+
+					color = { 222 125 11 }
+				}
+			}
+			c_altyn_nur = {
+				color = { 148 84 9 }
+
+				b_nikolaievsk = {
+					province = 5316
+
+					color = { 148 84 9 }
+				}
+				b_torgun = {
+					province = 15714
+
+					color = { 148 84 9 }
+				}
+				b_montokhoy = {
+					province = 15551
+
+					color = { 148 84 9 }
+				}
 			}
 		}
 
@@ -25835,94 +25925,6 @@ e_caspian-pontic_steppe = {
 					province = 15120
 
 					color = { 145 100 38 }
-				}
-			}
-		}
-
-		d_itil = {
-			color = { 196 118 27 }
-
-			cultural_names = {
-				name_list_turkish = cn_saqsin
-			}
-
-			c_itil = {
-				color = { 145 96 39 }
-
-				cultural_names = {
-					name_list_turkish = cn_saqsin
-				}
-
-				b_itil = {
-					province = 620
-
-					color = { 145 96 39 }
-
-					cultural_names = {
-						name_list_turkish = cn_saqsin
-					}
-				}
-				b_tumak_ITIL = {
-					province = 17194
-
-					color = { 145 96 39 }
-				}
-				b_khazaran = {
-					province = 604
-
-					color = { 145 96 39 }
-				}
-			}
-			c_gulistan = {
-				color = { 227 150 61 }
-
-				b_gulistan = {
-					province = 619
-
-					color = { 227 150 61 }
-				}
-				b_yankala = {
-					province = 5345
-
-					color = { 227 150 61 }
-				}
-			}
-			c_saray = {
-				color = { 222 125 11 }
-
-				b_saray_al-qadima = {
-					province = 17361
-
-					color = { 222 125 11 }
-				}
-				b_saray_al-jadid = {
-					province = 15122
-
-					color = { 222 125 11 }
-				}
-				b_naryn_qum = {
-					province = 17245
-
-					color = { 222 125 11 }
-				}
-			}
-			c_altyn_nur = {
-				color = { 148 84 9 }
-
-				b_nikolaievsk = {
-					province = 5316
-
-					color = { 148 84 9 }
-				}
-				b_torgun = {
-					province = 15714
-
-					color = { 148 84 9 }
-				}
-				b_montokhoy = {
-					province = 15551
-
-					color = { 148 84 9 }
 				}
 			}
 		}
@@ -34515,6 +34517,7 @@ e_turan = {
 
 	k_oghuz_il = {
 		color = { 235 35 35 }
+		# can_be_named_after_dynasty = no  -  up to our Steppe specialistis if this should be feature or not
 
 		capital = c_yangikent
 
@@ -34572,7 +34575,6 @@ e_turan = {
 			}
 			c_qaraustyurt = {
 				color = { 245 50 20 }
-
 
 				b_fort_novoaleksandrovkiy = {
 					province = 7077
@@ -66770,22 +66772,6 @@ e_deccan = {
 					color = { 160 75 75 }
 				}
 			}
-			c_maldives = {
-				color = { 120 75 75 }
-
-				definite_form = yes
-
-				b_mahal = {
-					province = 1360
-
-					color = { 120 75 75 }
-				}
-				b_thiladhunmathi = {
-					province = 8712
-
-					color = { 120 75 75 }
-				}
-			}
 		}
 
 		d_tondai_nadu = {
@@ -66910,6 +66896,48 @@ e_deccan = {
 					province = 7817
 
 					color = { 180 120 120 }
+				}
+			}
+		}
+
+		d_maldives = {
+			color = { 120 75 75 }
+
+			c_maldives = {
+				color = { 120 75 75 }
+
+				definite_form = yes
+
+				b_mahal = {
+					province = 1360
+
+					color = { 120 75 75 }
+				}
+				b_thiladhunmathi = {
+					province = 8712
+
+					color = { 120 75 75 }
+				}
+			}
+		}
+
+		d_lakshadvipa = {
+			color = { 161 111 76 }
+
+			c_lakshadvipa = {
+				color = { 161 111 76 }
+
+				definite_form = yes
+
+				b_androth = {
+					province = 15464
+
+					color = { 161 111 76 }
+				}
+				b_kavaratti = {
+					province = 15544
+
+					color = { 161 111 76 }
 				}
 			}
 		}
@@ -81808,19 +81836,7 @@ e_temp = {
 		}
 	}
 	k_temp = {
-
 		color = { 100 100 100 }
-
-		d_laccadives = {
-			c_15464 = {
-				b_15464 = {
-					province = 15464
-				}
-				b_15544 = {
-					province = 15544
-				}
-			}
-		}
 
 		d_15900 = {
 			c_15900 = {
