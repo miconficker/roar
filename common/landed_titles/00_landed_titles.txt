@@ -25549,8 +25549,9 @@ e_caspian-pontic_steppe = {
 					color = { 180 130 50 }
 				}
 			}
+			c_kyz-yar = {
+				color = { 183 125 94 }
 
-			c_17167 = {
 				b_kalanchak = {
 					province = 17167
 
@@ -75771,7 +75772,8 @@ e_srivijaya = {
             }
         }
     }
-k_south_sumatra = {
+
+	k_south_sumatra = {
         color = { 89 19 18 }
 
         d_lampung = {
@@ -75779,54 +75781,68 @@ k_south_sumatra = {
 
             c_tulang_bawang = {
                 color = { 105 45 25 }
+
                 b_SUM_Tulangbawang = {
                     province = 11306
+
                     color = { 105 45 25 }
                 }
                 b_menggala = {
                     province = 15257
+
                     color = { 105 45 25 }
                 }
                 b_bumi_nabung = {
                     province = 15002
+
                     color = { 105 45 25 }
                 }
                 b_mesuji = {
                     province = 15615
+
                     color = { 105 45 25 }
                 }
             }
             c_sekala_brak = {
                 color = { 147 63 31 }
+
                 b_pekon_bakhu = {
                     province = 15001
+
                     color = { 147 63 31 }
                 }
                 b_tanggamus = {
                     province = 17759
+
                     color = { 147 63 31 }
                 }
                 b_batu_brak = {
                     province = 11307
+
                     color = { 147 63 31 }
                 }
                 b_krui = {
                     province = 11310
+
                     color = { 147 63 31 }
                 }
             }
             c_sekampung = {
                 color = { 125 45 15 }
+
                 b_sekampung = {
                     province = 17864
+
                     color = { 125 45 15 }
                 }
                 b_SUM_Palas_Pasemah = {
                     province = 11308
+
                     color = { 125 45 15 }
                 }
                 b_natar = {
                     province = 11309
+
                     color = { 125 45 15 }
                 }
             }
@@ -75837,85 +75853,107 @@ k_south_sumatra = {
 
             c_palembang = {
                 color = { 110 21 15 }
+
                 b_palembang = {
                     province = 16101
+
                     color = { 110 21 15 }
                 }
                 b_sebalik = {
                     province = 16144
+
                     color = { 110 21 15 }
                 }
                 b_terlangu = {
                     province = 16143
+
                     color = { 110 21 15 }
                 }
                 b_makarti_jaya = {
                     province = 16237
+
                     color = { 110 21 15 }
                 }
                 b_SUM_Sungai_batang = {
                     province = 11303
+
                     color = { 110 21 15 }
                 }
                 b_muara_padang = {
                     province = 16221
+
                     color = { 110 21 15 }
                 }
             }
             c_indralaya = {
                 color = { 128 37 11 }
+
                 b_SUM_Purnajaya = {
                     province = 11302
+
                     color = { 128 37 11 }
                 }
                 b_mesuji_raya = {
                     province = 15791
+
                     color = { 128 37 11 }
                 }
                 b_pedamaran = {
                     province = 15974
+
                     color = { 128 37 11 }
                 }
                 b_tambangan = {
                     province = 15834
+
                     color = { 128 37 11 }
                 }
             }
             c_banyuasin = {
                 color = { 110 35 25 }
+
                 b_banyuasin = {
                     province = 16345
+
                     color = { 110 35 25 }
                 }
                 b_lubuk_bintialo = {
                     province = 11297
+
                     color = { 110 35 25 }
                 }
                 b_keluang = {
                     province = 16147
+
                     color = { 110 35 25 }
                 }
                 b_muara_merang = {
                     province = 16303
+
                     color = { 110 35 25 }
                 }
                 b_tanah_pilih = {
                     province = 16362
+
                     color = { 110 35 25 }
                 }
             }
             c_SUM_bangka-belitung = {
                 color = { 132 55 25 }
+
                 b_SUM_pangkalpinang = {
                     province = 11322
+
                     color = { 132 55 25 }
                 }
                 b_SUM_toboali = {
                     province = 11323
+
                     color = { 132 55 25 }
                 }
                 b_SUM_Belitung = {
                     province = 11324
+
                     color = { 132 55 25 }
                 }
             }
@@ -75923,18 +75961,22 @@ k_south_sumatra = {
                 color = { 114 41 20 }
                 b_Cengal = {
                     province = 15899
+
                     color = { 114 41 20 }
                 }
                 b_SUM_Sungai_Menang = {
                     province = 11305
+
                     color = { 114 41 20 }
                 }
                 b_SUM_air_sugihan = {
                     province = 11304
+
                     color = { 114 41 20 }
                 }
                 b_Tulung_selapan = {
                     province = 16043
+
                     color = { 114 41 20 }
                 }
             }
@@ -75945,16 +75987,20 @@ k_south_sumatra = {
 
             c_sum_pagaralam = {
                 color = { 100 40 30 }
+
                 b_baturaja = {
                     province = 15588
+
                     color = { 100 40 30 }
                 }
                 b_SUM_muara_dua = {
                     province = 11300
+
                     color = { 100 40 30 }
                 }
                 b_martapura_2 = {
                     province = 15318
+
                     color = { 100 40 30 }
                 }
             }
@@ -75962,18 +76008,22 @@ k_south_sumatra = {
                 color = { 130 65 35 }
                 b_rupit = {
                     province = 16177
+
                     color = { 130 65 35 }
                 }
                 b_muara_lakitan = {
                     province = 16000
+
                     color = { 130 65 35 }
                 }
                 b_lubuklinggau = {
                     province = 16022
+
                     color = { 130 65 35 }
                 }
                 b_SUM_surulangun = {
                     province = 11292
+
                     color = { 130 65 35 }
                 }
             }
@@ -75981,18 +76031,22 @@ k_south_sumatra = {
                 color = { 111 25 12 }
                 b_prabumulih = {
                     province = 15973
+
                     color = { 111 25 12 }
                 }
                 b_sanga_desa = {
                     province = 16150
+
                     color = { 111 25 12 }
                 }
                 b_pagarkaja = {
                     province = 11298
+
                     color = { 111 25 12 }
                 }
                 b_muara_enim = {
                     province = 11301
+
                     color = { 111 25 12 }
                 }
             }
@@ -76000,10 +76054,12 @@ k_south_sumatra = {
                 color = { 143 26 24 }
                 b_empat_lawang = {
                     province = 11299
+
                     color = { 143 26 24 }
                 }
                 b_lahat = {
                     province = 15666
+
                     color = { 143 26 24 }
                 }
             }
@@ -76014,68 +76070,86 @@ k_south_sumatra = {
 
             c_bengkulu = {
                 color = { 140 35 30 }
+
                 b_bengkulu = {
                     province = 15812
+
                     color = { 140 35 30 }
                 }
                 b_lebong = {
                     province = 16021
+
                     color = { 140 35 30 }
                 }
                 b_tanek_redjang = {
                     province = 16065
+
                     color = { 140 35 30 }
                 }
                 b_ketaun = {
                     province = 15999
+
                     color = { 140 35 30 }
                 }
             }
             c_SUM_minangkabau = {
                 color = { 84 19 19 }
+
                 b_SUM_Padang = {
                     province = 11315
+
                     color = { 84 19 19 }
                 }
                 b_SUM_Batan = {
                     province = 11317
+
                     color = { 84 19 19 }
                 }
                 b_SUM_Tiku = {
                     province = 11316
+
                     color = { 84 19 19 }
                 }
             }
             c_SUM_bengkulu = {
                 color = { 121 34 9 }
+
                 b_SUM_Bengkulu = {
                     province = 11312
+
                     color = { 121 34 9 }
                 }
                 b_SUM_seluma = {
                     province = 11311
+
                     color = { 121 34 9 }
                 }
                 b_bintuhan = {
                     province = 15000
+
                     color = { 121 34 9 }
                 }
             }
             c_SUM_riak_nan_berbedur = {
                 color = { 106 17 10 }
+
                 b_SUM_Inderajati = {
                     province = 11314
+
                     color = { 106 17 10 }
                 }
                 b_SUM_Muko_Muko = {
                     province = 11313
+
                     color = { 106 17 10 }
                 }
             }
-            c_17843 = {
-                color = { 130 50 40 }
-                b_17843 = {
+			c_enggano = {
+				color = { 64 119 8 }
+
+				b_enggano = {
                     province = 17843
+
                     color = { 130 50 40 }
                 }
             }
@@ -81587,15 +81661,6 @@ e_temp = {
 			c_12561 = {
 				b_12561 = {
 					province = 12561
-				}
-			}
-		}
-	}
-	k_1455 = {
-		d_1455 = {
-			c_1455 = {
-				b_1455 = {
-					province = 1455
 				}
 			}
 		}
