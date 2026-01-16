@@ -89227,6 +89227,106 @@ e_nusantara = {
             }
         }
 
+        d_bungku = {
+        	color = { 161 152 58 }
+
+            c_bungku = {
+            	color = { 179 171 86 }
+
+                b_bungku = {
+                	province = 11180
+
+            		color = { 179 171 86 }
+                }
+                b_beteleme = {
+                    province = 16252
+
+            		color = { 179 171 86 }
+                }
+                b_marsaoleh = {
+                	province = 11182
+
+            		color = { 179 171 86 }
+                }
+            }
+            c_kendari = {
+            	color = { 224 212 81 }
+
+                b_kendari = {
+                    province = 15765
+
+	            	color = { 224 212 81 }
+                }
+                b_asera = {
+                	province = 11181
+
+	            	color = { 224 212 81 }
+                }
+                b_latoma = {
+                    province = 15837
+
+	            	color = { 224 212 81 }
+                }
+            }
+            c_tinanggea = {
+            	color = { 112 105 21 }
+
+                b_tinanggea = {
+                	province = 11186
+
+	            	color = { 112 105 21 }
+                }
+                b_konda = {
+                    province = 15590
+
+	            	color = { 112 105 21 }
+                }
+                b_wowoni = {
+                    province = 15676
+
+	            	color = { 112 105 21 }
+                }
+            }
+            c_bombana = {
+            	color = { 117 111 46 }
+
+                b_bombana = {
+                	province = 11185
+
+	            	color = { 117 111 46 }
+                }
+                b_pomalaa = {
+                    province = 15336
+
+	            	color = { 117 111 46 }
+                }
+                b_kabaena = {
+                	province = 11192
+
+	            	color = { 117 111 46 }
+                }
+            }
+            c_lasusua = {
+            	color = { 196 183 27 }
+
+                b_kolaka = {
+                    province = 11184
+
+	            	color = { 196 183 27 }
+                }
+                b_lasusua = {
+                	province = 11179
+
+	            	color = { 196 183 27 }
+                }
+                b_porehu = {
+                    province = 16060
+
+	            	color = { 196 183 27 }
+                }
+            }
+        }
+
         d_butungmuna = {
             color = { 210 200 90 }
 
