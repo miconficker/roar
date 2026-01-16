@@ -25931,6 +25931,7 @@ e_caspian-pontic_steppe = {
 			color = { 120 101 44 }
 
 			c_kishi_saray = {
+				# old c_saqsin
 				color = { 117 94 26 }
 
 				b_saray_al-saghira = {
@@ -25949,7 +25950,8 @@ e_caspian-pontic_steppe = {
 					color = { 117 94 26 }
 				}
 			}
-			c_zhankala = { # c_qyzylyaitsk
+			c_zhankala = {
+				# old c_qyzylyaitsk
 				color = { 122 107 61 }
 
 				b_kalmikovsky = {
@@ -32509,6 +32511,11 @@ e_tartaria = {
 			add = @better_than_the_alternatives_score
 		}
 	}
+
+	#k_kimek = {
+		#color = { 175 55 40 }
+		#capital = c_mugodzhar_hills
+	#}
 
 	k_cuman = {	#Uly Dala
 		color = { 131 84 50 }
@@ -75839,45 +75846,52 @@ e_srivijaya = {
 		}
 
 		d_handumans = {
+			# d_hantuman in old RoA
+			color = { 137 130 233 }
+
 			capital = c_andamans
 
-			color = { 140 9 8 }
-
 			c_andamans = {
-				color = { 84 19 19 }
+				# c_hantuman in old RoA
+				color = { 177 229 196 }
 
-				b_marakele = {
+				b_yerewa = {
+					# b_marakele in vanilla
 					province = 11248
 
-					color = { 84 19 19 }
+					color = { 177 229 196 }
 				}
-				b_diglipur = {
+				b_bojigyab = {
+					# b_diglipur in vanilla
 					province = 12848
 
-					color = { 84 19 19 }
+					color = { 177 229 196 }
 				}
 			}
 			c_nakkavaram = {
-				color = { 121 34 9 }
+				color = { 177 229 196 }
 
 				b_nakkavaram = {
 					province = 12849
 
-					color = { 121 34 9 }
+					color = { 177 229 196 }
 				}
+				#b_muot = {
+					#province = 9676
+				#}
 			}
 			c_jarawa = {
-				color = { 101 24 19 }
+				color = { 214 183 107 }
 
 				b_jarawa = {
 					province = 16053
 
-					color = { 101 24 19 }
+					color = { 214 183 107 }
 				}
 				b_onge = {
 					province = 18323
 
-					color = { 101 24 19 }
+					color = { 214 183 107 }
 				}
 			}
 		}
