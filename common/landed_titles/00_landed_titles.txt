@@ -22265,11 +22265,6 @@ e_west_slavia = { # West Slavs: Polish, Polabian, Czech, etc.
 						name_list_polish = cn_brzesc
 					}
 				}
-				b_bielsk = {
-					province = 5054
-
-					color = { 165 136 68 }
-				}
 				b_kamyanyets = {
 					province = 5055
 
@@ -22279,14 +22274,20 @@ e_west_slavia = { # West Slavs: Polish, Polabian, Czech, etc.
 						name_list_polish = cn_kamieniec
 					}
 				}
-				b_simiatychi = {
-					province = 5056
+				b_kobryn = {
+					province = 5058
 
 					color = { 165 136 68 }
 
 					cultural_names = {
-						name_list_polish = cn_siemiatycze
+						name_list_polish = cn_kobryn
+						name_list_lithuanian = cn_kobrynas
 					}
+				}
+				b_blotkowo = {
+					province = 5059
+
+					color = { 165 136 68 }
 				}
 			}
 			c_dorohychyn = {
@@ -22307,20 +22308,19 @@ e_west_slavia = { # West Slavs: Polish, Polabian, Czech, etc.
 						name_list_lithuanian = cn_drohicinas
 					}
 				}
-				b_kobryn = {
-					province = 5058
+				b_bielsk = {
+					province = 5054
+
+					color = { 120 161 150 }
+				}
+				b_simiatychi = {
+					province = 5056
 
 					color = { 120 161 150 }
 
 					cultural_names = {
-						name_list_polish = cn_kobryn
-						name_list_lithuanian = cn_kobrynas
+						name_list_polish = cn_siemiatycze
 					}
-				}
-				b_blotkowo = {
-					province = 5059
-
-					color = { 120 161 150 }
 				}
 			}
 		}
@@ -25895,13 +25895,13 @@ e_caspian-pontic_steppe = {
 			c_lagan = {
 				color = { 87 60 23 }
 
-				b_sara = {
-					province = 5312
+				b_lagan = {
+					province = 5313
 
 					color = { 87 60 23 }
 				}
-				b_lagan = {
-					province = 5313
+				b_sara = {
+					province = 5312
 
 					color = { 87 60 23 }
 				}
@@ -35189,7 +35189,7 @@ e_turan = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = { has_cultural_pillar = heritage_kipchak }
+					culture = { has_cultural_pillar = heritage_on_oq }
 				}
 				add = @better_than_the_alternatives_score
 			}
@@ -65819,6 +65819,11 @@ e_bengal = {
 
 					color = { 125 150 41 }
 				}
+				b_kanker = {
+					province = 9659
+
+					color = { 125 150 41 }
+				}
 			}
 			c_suvarnapura = {
 				color = { 105 140 31 }
@@ -65953,11 +65958,6 @@ e_bengal = {
 				}
 				b_umerkote = {
 					province = 3999
-
-					color = { 58 150 70 }
-				}
-				b_kanker = {
-					province = 9659
 
 					color = { 58 150 70 }
 				}
