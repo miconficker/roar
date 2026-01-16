@@ -2952,12 +2952,18 @@ e_caucasia = {
 
 				b_zaur = {
 					province = 16018
+
+					color = { 112 88 21 }
 				}
 				b_daergaews = {
 					province = 15914
+
+					color = { 112 88 21 }
 				}
 				b_falxane = {
 					province = 15534
+
+					color = { 112 88 21 }
 				}
 			}
 		}

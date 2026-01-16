@@ -25741,55 +25741,75 @@ e_caspian-pontic_steppe = {
 		d_khazaria = {
 			color = { 143 92 21 }
 
-			c_16851 = {
-				b_naryn-khuduk = {
-					province = 16851
-				}
-				b_yashkul = {
-					province = 16978
-				}
-				b_elista = {
-					province = 5514
-				}
-			}
-			c_17073 = {
-				b_amtya-nur = {
-					province = 17073
-				}
-				b_amta = {
-					province = 17260
-				}
-				b_dzhuruk = {
-					province = 17247
-				}
-			}
-			c_17302 = {
-				b_zamyany = {
-					province = 17302
-				}
+			c_astrakhan = {
+				color = { 161 100 16 }
+
 				b_astrakhan = {
 					province = 5311
 
-					color = { 151 118 30 }
+					color = { 161 100 16 }
+				}
+				b_zamyany = {
+					province = 17302
+
+					color = { 161 100 16 }
 				}
 				b_yenotayevka = {
 					province = 5334
 
-					color = { 145 100 38 }
+					color = { 161 100 16 }
 				}
 			}
-			c_astrakhan = {
-				color = { 151 118 30 }
+			c_elista = {
+				color = { 76 32 28 }
+
+				b_elista = {
+					province = 5514
+
+					color = { 76 32 28 }
+				}
+				b_naryn-khuduk = {
+					province = 16851
+
+					color = { 76 32 28 }
+				}
+				b_yashkul = {
+					province = 16978
+
+					color = { 76 32 28 }
+				}
+			}
+			c_amtya-nur = {
+				color = { 45 32 18 }
+
+				b_amtya-nur = {
+					province = 17073
+
+					color = { 45 32 18 }
+				}
+				b_amta = {
+					province = 17260
+
+					color = { 45 32 18 }
+				}
+				b_dzhuruk = {
+					province = 17247
+
+					color = { 45 32 18 }
+				}
+			}
+			c_lagan = {
+				color = { 87 60 23 }
 
 				b_sara = {
 					province = 5312
 
-					color = { 151 118 30 }
+					color = { 87 60 23 }
 				}
 				b_lagan = {
 					province = 5313
 
-					color = { 202 125 19 }
+					color = { 87 60 23 }
 				}
 			}
 			c_beksima = {
@@ -25812,63 +25832,8 @@ e_caspian-pontic_steppe = {
 				}
 				b_tsagan_aman = {
 					province = 15120
-				}
-			}
-		}
 
-		d_17194 = {
-			c_itil = {
-				color = { 176 102 16 }
-
-				b_itil = {
-					province = 620
-
-					color = { 176 102 16 }
-				}
-				b_gulistan = {
-					province = 619
-
-					color = { 176 102 16 }
-				}
-				b_yankala = {
-					province = 5345
-
-					color = { 176 102 16 }
-				}
-			}
-			c_17194 = {
-				b_tumak_ITIL = {
-					province = 17194
-				}
-				b_khazaran = {
-					province = 604
-
-					color = { 151 118 30 }
-				}
-			}
-			c_15122 = {
-				b_saray_al-jadid = {
-					province = 15122
-				}
-				b_saray_al-qadima = {
-					province = 17361
-				}
-				b_naryn_qum = {
-					province = 17245
-				}
-			}
-
-			c_15714 = {
-				b_torgun = {
-					province = 15714
-				}
-				b_montokhoy = {
-					province = 15551
-				}
-				b_nikolaievsk = {
-					province = 5316
-
-					color = { 176 102 16 }
+					color = { 145 100 38 }
 				}
 			}
 		}
@@ -25876,37 +25841,125 @@ e_caspian-pontic_steppe = {
 		d_itil = {
 			color = { 196 118 27 }
 
-			c_qyzylyaitsk = {
-				color = { 200 120 5 }
+			cultural_names = {
+				name_list_turkish = cn_saqsin
+			}
 
-				b_zhaltyr = {
-					province = 5349
+			c_itil = {
+				color = { 145 96 39 }
 
-					color = { 200 120 5 }
+				cultural_names = {
+					name_list_turkish = cn_saqsin
 				}
-				b_kalmikovsky = {
-					province = 5318
 
-					color = { 200 120 5 }
+				b_itil = {
+					province = 620
+
+					color = { 145 96 39 }
+
+					cultural_names = {
+						name_list_turkish = cn_saqsin
+					}
+				}
+				b_tumak_ITIL = {
+					province = 17194
+
+					color = { 145 96 39 }
+				}
+				b_khazaran = {
+					province = 604
+
+					color = { 145 96 39 }
 				}
 			}
-			c_saqsin = {
-				color = { 202 125 19 }
+			c_gulistan = {
+				color = { 227 150 61 }
 
-				b_saraychiq = {
+				b_gulistan = {
+					province = 619
+
+					color = { 227 150 61 }
+				}
+				b_yankala = {
+					province = 5345
+
+					color = { 227 150 61 }
+				}
+			}
+			c_saray = {
+				color = { 222 125 11 }
+
+				b_saray_al-qadima = {
+					province = 17361
+
+					color = { 222 125 11 }
+				}
+				b_saray_al-jadid = {
+					province = 15122
+
+					color = { 222 125 11 }
+				}
+				b_naryn_qum = {
+					province = 17245
+
+					color = { 222 125 11 }
+				}
+			}
+			c_altyn_nur = {
+				color = { 148 84 9 }
+
+				b_nikolaievsk = {
+					province = 5316
+
+					color = { 148 84 9 }
+				}
+				b_torgun = {
+					province = 15714
+
+					color = { 148 84 9 }
+				}
+				b_montokhoy = {
+					province = 15551
+
+					color = { 148 84 9 }
+				}
+			}
+		}
+
+		d_ouzoy = {
+			color = { 120 101 44 }
+
+			c_kishi_saray = {
+				color = { 117 94 26 }
+
+				b_saray_al-saghira = {
 					province = 5317
 
-					color = { 202 125 19 }
+					color = { 117 94 26 }
 				}
 				b_zhanbay = {
 					province = 5346
 
-					color = { 202 125 19 }
+					color = { 117 94 26 }
 				}
 				b_almaly_CASPIAN = {
 					province = 17441
 
-					color = { 202 125 19 }
+					color = { 117 94 26 }
+				}
+			}
+			c_zhankala = { # c_qyzylyaitsk
+				color = { 122 107 61 }
+
+				b_kalmikovsky = {
+					province = 5318
+
+					color = { 122 107 61 }
+				}
+				b_zhaltyr = {
+					province = 5349
+
+					color = { 122 107 61 }
 				}
 			}
 		}
