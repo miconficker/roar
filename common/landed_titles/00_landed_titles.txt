@@ -66269,11 +66269,7 @@ e_deccan = {
 		}
 	}
 
-	k_bene_israel = {
-		color = { 255 20 20 }
-
-		capital = c_kerala
-	}
+	#k_bene_israel moved to e_dravida
 
 	k_maharastra = {
 		color = { 150 0 20 }
@@ -67038,6 +67034,216 @@ e_deccan = {
 		}
 	}
 
+	#k_andhra - moved to e_dravida
+
+	k_telingana = {
+		color = { 185 39 45 }
+
+		capital = c_orangallu # Orangallu
+
+		ai_primary_priority = {
+			if = {
+				limit = {
+					culture = culture:telugu
+				}
+				add = @correct_culture_primary_score
+			}
+		}
+
+		d_warangal = {
+			color = { 185 39 45 }
+
+			capital = c_orangallu # Orangallu
+
+			c_orangallu = {
+				color = { 185 39 45 }
+
+				b_warangal = {
+					province = 1256
+
+					color = { 185 39 45 }
+				}
+				b_medak = {
+					province = 1257
+
+					color = { 185 39 45 }
+				}
+				b_kollipake = {
+					province = 1144
+
+					color = { 185 39 45 }
+				}
+				b_kaulas = {
+					province = 7907
+
+					color = { 185 39 45 }
+				}
+			}
+			c_mahur = {
+				color = { 155 5 10 }
+
+				b_mancherial = {
+					province = 7923
+
+					color = { 155 5 10 }
+				}
+				b_mahur = {
+					province = 7921
+
+					color = { 155 5 10 }
+				}
+				b_nirmal = {
+					province = 7920
+
+					color = { 155 5 10 }
+				}
+				b_kerimeri = {
+					province = 7922
+
+					color = { 155 5 10 }
+				}
+			}
+			c_kambampet = { #Mudigonda
+				color = { 195 40 40 }
+
+
+				b_ellur = { #Mudigonda
+					province = 7912
+
+					color = { 170 25 50 }
+				}
+				b_kambampet = {
+					province = 1208
+
+					color = { 195 40 40 }
+				}
+				b_vinukonda = {
+					province = 7909
+
+					color = { 195 40 40 }
+				}
+			}
+			c_balkonda = { #Vemulavada
+				color = { 210 30 55 }
+
+				b_vemulavada = {
+					province = 1255
+
+					color = { 210 30 55 }
+				}
+				b_balkonda = {
+					province = 1157
+
+					color = { 210 30 55 }
+				}
+				b_indur = {
+					province = 7906
+
+					color = { 210 30 55 }
+				}
+			}
+			c_katukuru = {
+				color = { 195 65 65 }
+
+				b_palwancha = { #Katukuru
+					province = 7910
+
+					color = { 195 65 65 }
+				}
+				b_palampet = {
+					province = 7908
+
+					color = { 195 65 65 }
+				}
+				b_bhadracala = {
+					province = 7913
+
+					color = { 195 65 65 }
+				}
+			}
+		}
+
+		d_racakonda = {
+			color = { 190 60 60 }
+
+			capital = c_racakonda # Racakonda
+
+			c_racakonda = {
+				color = { 190 60 60 }
+
+				b_racakonda = {
+					province = 1209
+
+					color = { 190 60 60 }
+				}
+				b_golkonda = {
+					province = 7903
+
+					color = { 190 60 60 }
+				}
+				b_nalgonda = {
+					province = 7904
+
+					color = { 190 60 60 }
+				}
+			}
+			c_pannagallu = {
+				color = { 215 80 80 }
+
+				b_pannagallu = {
+					province = 1211
+
+					color = { 215 80 80 }
+				}
+				b_yetagiri = {
+					province = 7902
+
+					color = { 215 80 80 }
+				}
+				b_devarakonda = {
+					province = 7905
+
+					color = { 215 80 80 }
+				}
+			}
+		}
+	}
+
+	#k_lanka - moved to e_dravida
+
+	#k_tamilakam - moved to e_dravida
+}
+
+e_dravida = {
+	color = { 177 71 55 }
+
+	capital = c_cholamandalam # Cholamandalam
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+
+	ai_primary_priority = {
+		if = {
+			limit = {
+				culture = { has_cultural_pillar = heritage_dravidian }
+			}
+			add = @correct_culture_primary_score
+		}
+	}
+
+	k_bene_israel = {
+		color = { 255 20 20 }
+
+		capital = c_kerala
+	}
+
+	k_nasrani = {
+		color = { 255 20 20 }
+
+		capital = c_kerala
+	}
+
 	k_tamilakam = {
 		color = { 200 25 65 }
 
@@ -67467,304 +67673,6 @@ e_deccan = {
 		}
 	}
 
-	k_andhra = {
-		color = { 110 0 20 }
-
-		capital = c_palakka # Udayagiri
-
-		d_udayagiri = {
-			color = { 110 0 20 }
-
-			capital = c_palakka # Udayagiri
-
-			c_palakka = {
-				color = { 130 0 40 }
-
-				b_udayagiri = {
-					province = 1122
-
-					color = { 130 0 40 }
-				}
-				b_nilagiri = {
-					province = 1253
-
-					color = { 130 0 40 }
-				}
-				b_bhairavunikonda = {
-					province = 7845
-
-					color = { 130 0 40 }
-				}
-				b_mutfili = {
-					province = 7846
-
-					color = { 130 0 40 }
-				}
-			}
-			c_nallamala = {
-				color = { 197 20 70 }
-
-				b_amaravati = {
-					province = 1207
-
-					color = { 197 20 70 }
-				}
-				b_pondugala = {
-					province = 7839
-
-					color = { 197 20 70 }
-				}
-				b_addanki = {
-					province = 7842
-
-					color = { 197 20 70 }
-				}
-			}
-			c_cumbum = {
-				color = { 150 10 55 }
-
-				b_ittagi = {
-					province = 7840
-
-					color = { 150 10 55 }
-				}
-				b_sriparvata = {
-					province = 7841
-
-					color = { 150 10 55 }
-				}
-				b_mudivemu = {
-					province = 7843
-
-					color = { 150 10 55 }
-				}
-				b_ahobalam = {
-					province = 7844
-
-					color = { 150 10 55 }
-				}
-			}
-		}
-
-		d_vengi = {
-			color = { 170 25 50 }
-
-			capital = c_vengipura # Vijayawada
-
-			c_vengipura = {
-				color = { 170 25 50 }
-
-				b_vengipura = {
-					province = 1123
-
-					color = { 170 25 50 }
-				}
-				b_vijayawada = {
-					province = 1221
-
-					color = { 170 25 50 }
-				}
-				b_polavaram = {
-					province = 7911
-
-					color = { 170 25 50 }
-				}
-			}
-			c_mosala = {
-				color = { 185 40 65 }
-
-				b_pithapuram = {
-					province = 1415
-
-					color = { 185 40 65 }
-				}
-				b_rajamahendravaram = {
-					province = 1222
-
-					color = { 185 40 65 }
-				}
-				b_draksharama = {
-					province = 7916
-
-					color = { 185 40 65 }
-				}
-			}
-		}
-	}
-
-	k_telingana = {
-		color = { 185 39 45 }
-
-		capital = c_orangallu # Orangallu
-
-		ai_primary_priority = {
-			if = {
-				limit = {
-					culture = culture:telugu
-				}
-				add = @correct_culture_primary_score
-			}
-		}
-
-		d_warangal = {
-			color = { 185 39 45 }
-
-			capital = c_orangallu # Orangallu
-
-			c_orangallu = {
-				color = { 185 39 45 }
-
-				b_warangal = {
-					province = 1256
-
-					color = { 185 39 45 }
-				}
-				b_medak = {
-					province = 1257
-
-					color = { 185 39 45 }
-				}
-				b_kollipake = {
-					province = 1144
-
-					color = { 185 39 45 }
-				}
-				b_kaulas = {
-					province = 7907
-
-					color = { 185 39 45 }
-				}
-			}
-			c_mahur = {
-				color = { 155 5 10 }
-
-				b_mancherial = {
-					province = 7923
-
-					color = { 155 5 10 }
-				}
-				b_mahur = {
-					province = 7921
-
-					color = { 155 5 10 }
-				}
-				b_nirmal = {
-					province = 7920
-
-					color = { 155 5 10 }
-				}
-				b_kerimeri = {
-					province = 7922
-
-					color = { 155 5 10 }
-				}
-			}
-			c_kambampet = { #Mudigonda
-				color = { 195 40 40 }
-
-
-				b_ellur = { #Mudigonda
-					province = 7912
-
-					color = { 170 25 50 }
-				}
-				b_kambampet = {
-					province = 1208
-
-					color = { 195 40 40 }
-				}
-				b_vinukonda = {
-					province = 7909
-
-					color = { 195 40 40 }
-				}
-			}
-			c_balkonda = { #Vemulavada
-				color = { 210 30 55 }
-
-				b_vemulavada = {
-					province = 1255
-
-					color = { 210 30 55 }
-				}
-				b_balkonda = {
-					province = 1157
-
-					color = { 210 30 55 }
-				}
-				b_indur = {
-					province = 7906
-
-					color = { 210 30 55 }
-				}
-			}
-			c_katukuru = {
-				color = { 195 65 65 }
-
-				b_palwancha = { #Katukuru
-					province = 7910
-
-					color = { 195 65 65 }
-				}
-				b_palampet = {
-					province = 7908
-
-					color = { 195 65 65 }
-				}
-				b_bhadracala = {
-					province = 7913
-
-					color = { 195 65 65 }
-				}
-			}
-		}
-
-		d_racakonda = {
-			color = { 190 60 60 }
-
-			capital = c_racakonda # Racakonda
-
-			c_racakonda = {
-				color = { 190 60 60 }
-
-				b_racakonda = {
-					province = 1209
-
-					color = { 190 60 60 }
-				}
-				b_golkonda = {
-					province = 7903
-
-					color = { 190 60 60 }
-				}
-				b_nalgonda = {
-					province = 7904
-
-					color = { 190 60 60 }
-				}
-			}
-			c_pannagallu = {
-				color = { 215 80 80 }
-
-				b_pannagallu = {
-					province = 1211
-
-					color = { 215 80 80 }
-				}
-				b_yetagiri = {
-					province = 7902
-
-					color = { 215 80 80 }
-				}
-				b_devarakonda = {
-					province = 7905
-
-					color = { 215 80 80 }
-				}
-			}
-		}
-	}
-
 	k_lanka = {
 		color = { 221 187 80 }
 
@@ -67944,6 +67852,131 @@ e_deccan = {
 					province = 3272
 
 					color = { 181 135 55 }
+				}
+			}
+		}
+	}
+
+	k_andhra = {
+		color = { 110 0 20 }
+
+		capital = c_palakka # Udayagiri
+
+		d_udayagiri = {
+			color = { 110 0 20 }
+
+			capital = c_palakka # Udayagiri
+
+			c_palakka = {
+				color = { 130 0 40 }
+
+				b_udayagiri = {
+					province = 1122
+
+					color = { 130 0 40 }
+				}
+				b_nilagiri = {
+					province = 1253
+
+					color = { 130 0 40 }
+				}
+				b_bhairavunikonda = {
+					province = 7845
+
+					color = { 130 0 40 }
+				}
+				b_mutfili = {
+					province = 7846
+
+					color = { 130 0 40 }
+				}
+			}
+			c_nallamala = {
+				color = { 197 20 70 }
+
+				b_amaravati = {
+					province = 1207
+
+					color = { 197 20 70 }
+				}
+				b_pondugala = {
+					province = 7839
+
+					color = { 197 20 70 }
+				}
+				b_addanki = {
+					province = 7842
+
+					color = { 197 20 70 }
+				}
+			}
+			c_cumbum = {
+				color = { 150 10 55 }
+
+				b_ittagi = {
+					province = 7840
+
+					color = { 150 10 55 }
+				}
+				b_sriparvata = {
+					province = 7841
+
+					color = { 150 10 55 }
+				}
+				b_mudivemu = {
+					province = 7843
+
+					color = { 150 10 55 }
+				}
+				b_ahobalam = {
+					province = 7844
+
+					color = { 150 10 55 }
+				}
+			}
+		}
+
+		d_vengi = {
+			color = { 170 25 50 }
+
+			capital = c_vengipura # Vijayawada
+
+			c_vengipura = {
+				color = { 170 25 50 }
+
+				b_vengipura = {
+					province = 1123
+
+					color = { 170 25 50 }
+				}
+				b_vijayawada = {
+					province = 1221
+
+					color = { 170 25 50 }
+				}
+				b_polavaram = {
+					province = 7911
+
+					color = { 170 25 50 }
+				}
+			}
+			c_mosala = {
+				color = { 185 40 65 }
+
+				b_pithapuram = {
+					province = 1415
+
+					color = { 185 40 65 }
+				}
+				b_rajamahendravaram = {
+					province = 1222
+
+					color = { 185 40 65 }
+				}
+				b_draksharama = {
+					province = 7916
+
+					color = { 185 40 65 }
 				}
 			}
 		}
