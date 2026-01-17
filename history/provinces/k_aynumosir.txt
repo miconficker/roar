@@ -1,0 +1,137 @@
+# k_aynumosir
+## d_menas ###################################
+### c_simenas
+10790 = { # KUSHIRO
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+
+	900.1.1 = {
+		culture = ainu
+		religion = kamuyism_pagan
+	}
+}
+10791 = {
+	holding = none
+}
+10792 = {
+	holding = none
+}
+10793 = {
+	holding = none
+}
+
+### c_menas
+10787 = { # HIROO
+	culture = ainu
+	religion = kamuyism_pagan
+	holding = tribal_holding
+}
+10788 = {
+	holding = none
+}
+10789 = {
+	holding = none
+}
+
+### c_soya
+10794 = { # MONBETSU
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+
+	900.1.1 = {
+		culture = ainu
+		religion = kamuyism_pagan
+	}
+}
+10795 = {
+	holding = none
+}
+10796 = {
+	holding = none
+}
+10797 = {
+	holding = none
+}
+
+### c_chupka
+12819 = { # Kunasir
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+
+	900.1.1 = {
+		culture = ainu
+		religion = kamuyism_pagan
+	}
+}
+12820 = { # Iturup
+	holding = none
+}
+
+
+## d_sum ###################################
+### c_uskes
+10774 = { # MATOMAI
+	culture = ainu
+	religion = kamuyism_pagan
+	holding = tribal_holding
+}
+10775 = {
+	holding = none
+}
+10782 = {
+	holding = none
+}
+10776 = {
+	holding = none
+}
+
+### c_ioci
+10777 = { # IOCI
+	culture = ainu
+	religion = kamuyism_pagan
+	holding = tribal_holding
+}
+10779 = { # SHIMAMAKI
+	holding = none
+}
+10780 = {
+	holding = tribal_holding
+}
+10781 = {
+	holding = none
+}
+
+### c_iskar
+10801 = { # ISKAR
+	culture = ainu
+	religion = kamuyism_pagan
+	holding = tribal_holding
+}
+10798 = { # RUMOI
+	holding = none
+}
+10799 = {
+	holding = none
+}
+10800 = {
+	holding = none
+}
+
+### c_sum
+10785 = { # SAR
+	culture = ainu
+	religion = kamuyism_pagan
+	holding = tribal_holding
+}
+10784 = {  # YUFUTSU
+	holding = none
+}
+10786 = {
+	holding = none
+}
+10783 = {
+	holding = none
+}
