@@ -1,0 +1,154 @@
+﻿# k_arakan AKA Kingdom of Rakhine
+## d_chattogram ###################################
+### c_chatigama
+828 = {	# Chatigama AKA Sittagaung
+	culture = bengali
+	religion = mahayana
+
+	holding = castle_holding
+}
+18305 = {	# Kaptai
+	holding = city_holding
+}
+8722 = {	# Karnaphuli
+	holding = none
+}
+
+### c_harikela
+853 = {	# Unakoti
+	culture = tripuri
+	religion = bathouism
+
+	holding = tribal_holding
+}
+854 = {	# Tlawng
+	holding = none
+}
+
+
+## d_ramu ###################################
+### c_ramu
+9581 = {	# Ramu
+	culture = bengali
+	religion = mahayana
+
+	holding = castle_holding
+}
+9582 = {	# Dianga
+	holding = none
+}
+18171 = {	# Chakaria
+	holding = none
+}
+
+### c_thabeik_taung
+9583 = {	# Thabeik Taung
+	culture = bengali
+	religion = mahayana
+
+	holding = castle_holding
+}
+18102 = {	# Kyauktaw AKA Munhdaung
+	holding = none
+}
+
+### c_matamuhuri
+9584 = {	# Matamuhuri
+	culture = bengali
+	religion = mahayana
+
+	holding = castle_holding
+}
+18211 = {	# Paletwa
+	holding = none
+}
+
+
+## d_arakan ###################################
+### c_vaisali
+9576 = {	# Vaishali AKA Waithali
+	culture = bengali
+	religion = mahayana
+
+	holding = castle_holding
+
+	# History
+	902.1.1 = {
+		culture = rakhine
+		religion = theravada
+	}
+}
+9578 = {	# Mrauk'u
+	holding = city_holding
+}
+9579 = {	# Mahamuni
+	holding = church_holding
+}
+9580 = {	# Akyab AKA Sittwe
+	holding = city_holding
+}
+
+### c_launggyet
+9577 = {	# Launggyet
+	culture = bengali
+	religion = mahayana
+
+	holding = castle_holding
+
+	# History
+	902.1.1 = {
+		culture = rakhine
+		religion = theravada
+	}
+}
+17863 = {	# Myebon
+	holding = city_holding
+}
+17887 = {	# Thanphanbin
+	holding = none
+}
+
+
+## d_sandoway ###################################
+### c_sandoway
+9585 = { #	# Sandoway
+	culture = bengali
+	religion = mahayana
+
+	holding = castle_holding
+
+	# History
+	902.1.1 = {
+		culture = rakhine
+		religion = theravada
+	}
+}
+17709 = {	# Shwehle
+	holding = city_holding
+}
+17617 = {	# Kyeintali
+	holding = none
+}
+15669 = {	# Gwa
+	holding = none
+}
+
+### c_ramree
+9587 = {	# An
+	culture = bengali
+	religion = mahayana
+
+	holding = castle_holding
+
+	# History
+	902.1.1 = {
+		culture = rakhine
+		religion = theravada
+	}
+}
+9586 = {	# Ramree
+	holding = city_holding
+}
+17730 = {	# Toungup
+	holding = none
+}
