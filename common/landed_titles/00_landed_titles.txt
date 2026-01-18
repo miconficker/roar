@@ -71139,272 +71139,445 @@ e_andong = {
 		name_list_korean = cn_yodong
 	}
 
-	k_balhae = {
-		color = { 95 105 170 }
+    k_balhae = {
+        color = { 95 105 170 }
 
-		cultural_names = {
-			name_list_khitan = cn_dan_gur
-			name_list_korean = cn_balhae
-			name_list_balhae = cn_balhae
-			name_list_jurchen = cn_dazhen
-		}
+        cultural_names = {
+            name_list_khitan = cn_dan_gur
+            name_list_korean = cn_balhae
+            name_list_balhae = cn_balhae
+            name_list_jurchen = cn_dazhen
+        }
 
-		d_hyundeok = {
-			color = { 105 95 160 }
+        d_hyundeok = {
+            color = { 110 130 185 }
 
-			c_junggyeong = {
-				b_junggyeong = {
-					province = 15416
-				}
-				b_hyeonju = {
-					province = 15467
-				}
-				b_heungju = {
-					province = 15996
-				}
-				b_toudao = {
-					province = 15253
-				}
-				b_noju = {
-					province = 15501
-				}
-			}
-			c_yeosanju = {
-				b_tangju = {
-					province = 18164
-				}
-				b_yeongju_hyundeok = {
-					province = 15251
-				}
-				b_gaegyeong = {
-					province = 15252
-				}
-				b_cheolju = {
-					province = 15250
-				}
-			}
-			c_tong = {
-				b_tongju = {
-					province = 16046
-				}
-				b_tonggou = {
-					province = 16158
-				}
-			}
-			c_gyerubu = {
-				b_gugak = {
-					province = 16070
-				}
-				b_dongmo = {
-					province = 16125
-				}
-				b_huadian = {
-					province = 15968
-				}
-				b_jiaohe = {
-					province = 16186
-				}
-				b_ningguta = {
-					province = 16232
-				}
-			}
-		}
-		d_yongwon = {
-			color = { 195 115 205 }
+            c_junggyeong = {
+                color = { 120 145 200 }
 
-			c_bugeo = {
-				b_bugeo-ri = {
-					province = 18160
-				}
-				b_gungsim = {
-					province = 15254
-				}
-				b_haju = {
-					province = 15255
-				}
-				b_samhyang = {
-					province = 18066
-				}
-			}
-			c_dongyeong_balhae = {
-				b_dongyeong = {
-					province = 15426
-				}
-				b_gyeongju = {
-					province = 15256
-				}
-				b_yeonchu = {
-					province = 15444
-				}
-				b_mogju = {
-					province = 15907
-				}
-			}
-			c_yongmingcheng = {
-				b_yongmingcheng = {
-					province = 15953
-				}
-				b_suifun = {
-					province = 16011
-				}
-				b_sainbar = {
-					province = 15886
-				}
-			}
-			c_jeongni = {
-				b_jeonju = {
-					province = 16042
-				}
-				b_banju = {
-					province = 15537
-				}
-				b_charkir-mudun = {
-					province = 16236
-				}
-			}
-			c_anbyeon = {
-				b_gyeongju_yongwon = {
-					province = 16063
-				}
-				b_unashi = {
-					province = 15908
-				}
-				b_anju_balhae = {
-					province = 16189
-				}
-			}
-		}
-		d_yongcheon = {
-			color = { 90 90 240 }
+                b_junggyeong = {
+                    province = 15416
 
-			c_taju = {
-				b_taju = {
-					province = 16454
-				}
-				b_miju_yongcheon = {
-					province = 16447
-				}
-				b_kaul = {
-					province = 16589
-				}
-			}
-			c_beychi = {
-				b_beychi = {
-					province = 16558
-				}
-				b_su_binshui = {
-					province = 16328
-				}
-				b_sintuhe = {
-					province = 16557
-				}
-			}
-			c_ying = {
-				b_huligai = {
-					province = 16696
-				}
-				b_boli_yongcheon = {
-					province = 16879
-				}
-				b_yueliji = {
-					province = 16866
-				}
-				b_yingju = {
-					province = 16725
-				}
-			}
-			c_sanggyeong = {
-				b_sanggyeong = {
-					province = 16446
-				}
-				b_yongju_yongcheon = {
-					province = 16565
-				}
-				b_balju = {
-					province = 16540
-				}
-				b_hoju = {
-					province = 16311
-				}
-				b_moli = {
-					province = 16382
-				}
-			}
-			c_solbin = {
-				b_solbinju = {
-					province = 16397
-				}
-				b_ikju = {
-					province = 16182
-				}
-				b_geonju = {
-					province = 16151
-				}
-				b_hwaju = {
-					province = 16187
-				}
-			}
-		}
-		d_buyeo = {
-			color = { 135 35 135 }
+                    color = { 120 145 200 }
+                }
+                b_hyeonju = {
+                    province = 15467
 
-			c_buyeo = {
-				b_boduna = {
-					province = 16613
-				}
-				b_seonju = {
-					province = 16367
-				}
-				b_namso = {
-					province = 16180
-				}
-				b_sokju = {
-					province = 16453
-				}
-			}
-			c_sumo = {
-				b_sumo = {
-					province = 16270
-				}
-				b_buju = {
-					province = 16061
-				}
-				b_yongdam = {
-					province = 16154
-				}
-			}
-			c_achegu = {
-				b_ashi = {
-					province = 16826
-				}
-				b_zhaozhou = {
-					province = 16642
-				}
-				b_huining_2 = {
-					province = 16736
-				}
-			}
-			c_huhan = {
-				b_huhan = {
-					province = 16618
-				}
-				b_lalin = {
-					province = 16392
-				}
-			}
-			c_makhil_amur = {
-				b_makju = {
-					province = 16724
-				}
-				b_goju = {
-					province = 17023
-				}
-				b_qujiang_buyeo = {
-					province = 16791
-				}
-			}
-		}
-	}
+                    color = { 110 135 190 }
+                }
+                b_heungju = {
+                    province = 15996
+
+                    color = { 130 155 210 }
+                }
+                b_toudao = {
+                    province = 15253
+
+                    color = { 100 125 180 }
+                }
+                b_noju = {
+                    province = 15501
+
+                    color = { 140 165 220 }
+                }
+            }
+            c_yeosanju = {
+                color = { 95 120 175 }
+
+                b_tangju = {
+                    province = 18164
+
+                    color = { 95 120 175 }
+                }
+                b_yeongju_hyundeok = {
+                    province = 15251
+
+                    color = { 85 110 165 }
+                }
+                b_gaegyeong = {
+                    province = 15252
+
+                    color = { 105 130 185 }
+                }
+                b_cheolju = {
+                    province = 15250
+
+                    color = { 75 100 155 }
+                }
+            }
+            c_tong = {
+                color = { 130 150 190 }
+
+                b_tongju = {
+                    province = 16046
+
+                    color = { 130 150 190 }
+                }
+                b_tonggou = {
+                    province = 16158
+
+                    color = { 120 140 180 }
+                }
+            }
+            c_gyerubu = {
+                color = { 85 105 160 }
+
+                b_gugak = {
+                    province = 16070
+
+                    color = { 85 105 160 }
+                }
+                b_dongmo = {
+                    province = 16125
+
+                    color = { 75 95 150 }
+                }
+                b_huadian = {
+                    province = 15968
+
+                    color = { 95 115 170 }
+                }
+                b_jiaohe = {
+                    province = 16186
+
+                    color = { 65 85 140 }
+                }
+                b_ningguta = {
+                    province = 16232
+
+                    color = { 105 125 180 }
+                }
+            }
+        }
+        d_yongwon = {
+            color = { 80 140 160 }
+
+            c_bugeo = {
+                color = { 90 155 175 }
+
+                b_bugeo-ri = {
+                    province = 18160
+
+                    color = { 90 155 175 }
+                }
+                b_gungsim = {
+                    province = 15254
+
+                    color = { 80 145 165 }
+                }
+                b_haju = {
+                    province = 15255
+
+                    color = { 100 165 185 }
+                }
+                b_samhyang = {
+                    province = 18066
+
+                    color = { 70 135 155 }
+                }
+            }
+            c_dongyeong_balhae = {
+                color = { 65 125 145 }
+
+                b_dongyeong = {
+                    province = 15426
+
+                    color = { 65 125 145 }
+                }
+                b_gyeongju = {
+                    province = 15256
+
+                    color = { 55 115 135 }
+                }
+                b_yeonchu = {
+                    province = 15444
+
+                    color = { 75 135 155 }
+                }
+                b_mogju = {
+                    province = 15907
+
+                    color = { 45 105 125 }
+                }
+            }
+            c_yongmingcheng = {
+                color = { 100 150 160 }
+
+                b_yongmingcheng = {
+                    province = 15953
+
+                    color = { 100 150 160 }
+                }
+                b_suifun = {
+                    province = 16011
+
+                    color = { 90 140 150 }
+                }
+                b_sainbar = {
+                    province = 15886
+
+                    color = { 110 160 170 }
+                }
+            }
+            c_jeongni = {
+                color = { 70 115 130 }
+
+                b_jeonju = {
+                    province = 16042
+
+                    color = { 70 115 130 }
+                }
+                b_banju = {
+                    province = 15537
+
+                    color = { 60 105 120 }
+                }
+                b_charkir-mudun = {
+                    province = 16236
+
+                    color = { 80 125 140 }
+                }
+            }
+            c_anbyeon = {
+                color = { 115 160 175 }
+
+                b_gyeongju_yongwon = {
+                    province = 16063
+
+                    color = { 115 160 175 }
+                }
+                b_unashi = {
+                    province = 15908
+
+                    color = { 105 150 165 }
+                }
+                b_anju_balhae = {
+                    province = 16189
+
+                    color = { 125 170 185 }
+                }
+            }
+        }
+        d_yongcheon = {
+            color = { 95 105 170 }
+
+            c_taju = {
+                color = { 110 120 185 }
+
+                b_taju = {
+                    province = 16454
+
+                    color = { 110 120 185 }
+                }
+                b_miju_yongcheon = {
+                    province = 16447
+
+                    color = { 100 110 175 }
+                }
+                b_kaul = {
+                    province = 16589
+
+                    color = { 120 130 195 }
+                }
+            }
+            c_beychi = {
+                color = { 80 90 155 }
+
+                b_beychi = {
+                    province = 16558
+
+                    color = { 80 90 155 }
+                }
+                b_su_binshui = {
+                    province = 16328
+
+                    color = { 70 80 145 }
+                }
+                b_sintuhe = {
+                    province = 16557
+
+                    color = { 90 100 165 }
+                }
+            }
+            c_ying = {
+                color = { 125 135 200 }
+
+                b_huligai = {
+                    province = 16696
+
+                    color = { 125 135 200 }
+                }
+                b_boli_yongcheon = {
+                    province = 16879
+
+                    color = { 115 125 190 }
+                }
+                b_yueliji = {
+                    province = 16866
+
+                    color = { 135 145 210 }
+                }
+                b_yingju = {
+                    province = 16725
+
+                    color = { 105 115 180 }
+                }
+            }
+            c_sanggyeong = {
+                color = { 100 115 185 }
+
+                b_sanggyeong = {
+                    province = 16446
+
+                    color = { 100 115 185 }
+                }
+                b_yongju_yongcheon = {
+                    province = 16565
+
+                    color = { 90 105 175 }
+                }
+                b_balju = {
+                    province = 16540
+
+                    color = { 110 125 195 }
+                }
+                b_hoju = {
+                    province = 16311
+
+                    color = { 80 95 165 }
+                }
+                b_moli = {
+                    province = 16382
+
+                    color = { 120 135 205 }
+                }
+            }
+            c_solbin = {
+                color = { 75 85 145 }
+
+                b_solbinju = {
+                    province = 16397
+
+                    color = { 75 85 145 }
+                }
+                b_ikju = {
+                    province = 16182
+
+                    color = { 65 75 135 }
+                }
+                b_geonju = {
+                    province = 16151
+
+                    color = { 85 95 155 }
+                }
+                b_hwaju = {
+                    province = 16187
+
+                    color = { 55 65 125 }
+                }
+            }
+        }
+        d_buyeo = {
+            color = { 85 115 100 }
+
+            c_buyeo = {
+                color = { 100 135 115 }
+
+                b_boduna = {
+                    province = 16613
+
+                    color = { 100 135 115 }
+                }
+                b_seonju = {
+                    province = 16367
+
+                    color = { 90 125 105 }
+                }
+                b_namso = {
+                    province = 16180
+
+                    color = { 110 145 125 }
+                }
+                b_sokju = {
+                    province = 16453
+
+                    color = { 80 115 95 }
+                }
+            }
+            c_sumo = {
+                color = { 70 100 85 }
+
+                b_sumo = {
+                    province = 16270
+
+                    color = { 70 100 85 }
+                }
+                b_buju = {
+                    province = 16061
+
+                    color = { 60 90 75 }
+                }
+                b_yongdam = {
+                    province = 16154
+
+                    color = { 80 110 95 }
+                }
+            }
+            c_achegu = {
+                color = { 115 145 125 }
+
+                b_ashi = {
+                    province = 16826
+
+                    color = { 115 145 125 }
+                }
+                b_zhaozhou = {
+                    province = 16642
+
+                    color = { 105 135 115 }
+                }
+                b_huining_2 = {
+                    province = 16736
+
+                    color = { 125 155 135 }
+                }
+            }
+            c_huhan = {
+                color = { 80 110 90 }
+
+                b_huhan = {
+                    province = 16618
+
+                    color = { 80 110 90 }
+                }
+                b_lalin = {
+                    province = 16392
+
+                    color = { 70 100 80 }
+                }
+            }
+            c_makhil_amur = {
+                color = { 55 85 70 }
+
+                b_makju = {
+                    province = 16724
+
+                    color = { 55 85 70 }
+                }
+                b_goju = {
+                    province = 17023
+
+                    color = { 45 75 60 }
+                }
+                b_qujiang_buyeo = {
+                    province = 16791
+
+                    color = { 65 95 80 }
+                }
+            }
+        }
+    }
+
 	k_solon = {
 		color = { 88 189 87 }
 
@@ -98753,499 +98926,785 @@ h_china = {
 		}
 
 		k_dali = {
-			color = { 240 240 220 }
+            color = { 240 240 220 }
 
-			d_dali = {
-				color = { 161 255 228 }
+            d_dali = {
+                color = { 220 230 200 }
 
-				c_dali = { # c_yon_zon_mi
-					color = { 170 253 229 }
+                c_dali = { # c_yon_zon_mi
+                    color = { 240 245 225 }
 
-					b_yon_zon_mi = {
-						province = 16679
+                    b_yon_zon_mi = {
+                        province = 16679
 
-						color = { 170 253 229 }
-					}
-					b_er_guer = {
-						province = 16588
+                        color = { 240 245 225 }
+                    }
+                    b_er_guer = {
+                        province = 16588
 
-						color = { 170 253 229 }
-					}
-					b_lo_ho = {
-						province = 17072
+                        color = { 230 235 215 }
+                    }
+                    b_lo_ho = {
+                        province = 17072
 
-						color = { 170 253 229 }
-					}
-					b_dali = {
-						province = 16837
+                        color = { 250 255 235 }
+                    }
+                    b_dali = {
+                        province = 16837
 
-						color = { 170 253 229 }
-					}
-					b_deang_dam = {
-						province = 17015
+                        color = { 245 250 230 }
+                    }
+                    b_deang_dam = {
+                        province = 17015
 
-						color = { 170 253 229 }
-					}
-				}
-				c_yunnan = {
-					b_yunnan = {
-						province = 16482
-					}
-					b_bi_ge = {
-						province = 16844
-					}
-					b_ji_zu = {
-						province = 16976
-					}
-					b_shang_cheng = {
-						province = 16604
-					}
-				}
-				c_ma_shy = {
-					b_ma_shy = {
-						province = 16399
-					}
-					b_bwot_lung = {
-						province = 16289
-					}
-					b_la_ga = {
-						province = 16190
-					}
-				}
-			}
-			d_lung_dong = {
-				c_lung_dung = {
-					b_lung_dung = {
-						province = 16626
-					}
-					b_me_ddi = {
-						province = 16680
-					}
-				}
-				c_ddi_yi = {
-					b_ddi_yi = {
-						province = 16865
-					}
-					b_py_ly = {
-						province = 16926
-					}
-				}
-				c_wo_lu = {
-					b_wo_lu_dam = {
-						province = 16290
-					}
-					b_sufu = {
-						province = 16185
-					}
-					b_lu_by = {
-						province = 16302
-					}
-				}
-				c_shuangbai = {
-					b_shuangbai = {
-						province = 15995
-					}
-					b_zi_wu = {
-						province = 16155
-					}
-					b_xuchu = {
-						province = 15893
-					}
-				}
-			}
-			d_yi_du = {
-				c_yi_du = {
-					b_yi_du = {
-						province = 17209
-					}
-					b_moutong = {
-						province = 17148
-					}
-					b_yongning_2 = {
-						province = 17418
-					}
-				}
-				c_kun_ming = {
-					b_kun_ming = {
-						province = 17532
-					}
-					b_songwai = {
-						province = 17419
-					}
-				}
-				c_maso = {
-					b_maso = {
-						province = 17457
-					}
-					b_lugu = {
-						province = 17534
-					}
-					b_ngwu_dam = {
-						province = 17210
-					}
-				}
-			}
-			d_koksang = {
-				c_koksang = {
-					b_nomu = {
-						province = 17347
-					}
-					b_koksang = {
-						province = 17629
-					}
-				}
-				c_lang_kion = {
-					b_miu_lang_kion = {
-						province = 17156
-					}
-					b_lang_kion = {
-						province = 16836
-					}
-					b_kion_dam = {
-						province = 16888
-					}
-				}
-				c_deqen = {
-					b_deqen = {
-						province = 9316
-					}
-					b_balung = {
-						province = 9317
-					}
-				}
-			}
-			d_kainan = {
-				c_kainan = {
-					b_kainan = {
-						province = 16038
-					}
-					b_mengtong = {
-						province = 15777
-					}
-					b_zhenyuan = {
-						province = 15721
-					}
-					b_wenjing = {
-						province = 15868
-					}
-				}
-				c_buri_yn = {
-					b_buri_yn = {
-						province = 15062
-					}
-					b_si_mao = {
-						province = 18311
-					}
-					b_tai_dam = {
-						province = 18291
-					}
-					b_ma_lung = {
-						province = 18304
-					}
-				}
-				c_in_yuan = {
-					b_in_yuan = {
-						province = 15065
-					}
-					b_tongguan = {
-						province = 15064
-					}
-				}
-				c_mang_xie = {
-					b_mang_xie = {
-						province = 18303
-					}
-					b_mengban = {
-						province = 15056
-					}
-					b_yizhi_yn = {
-						province = 15060
-					}
-					b_weiyuan = {
-						province = 15061
-					}
-					b_mengjia = {
-						province = 15059
-					}
-				}
-			}
-			d_huichuan = {
-				color = { 208 255 255 }
+                        color = { 235 240 220 }
+                    }
+                }
+                c_yunnan = {
+                    color = { 210 225 190 }
 
-				c_DALI_huichuan = {
-					color = { 212 253 253 }
+                    b_yunnan = {
+                        province = 16482
 
-					b_huichuan = {
-						province = 17097
+                        color = { 210 225 190 }
+                    }
+                    b_bi_ge = {
+                        province = 16844
 
-						color = { 212 253 253 }
-					}
-					b_nyi_ddix = {
-						province = 17158
+                        color = { 200 215 180 }
+                    }
+                    b_ji_zu = {
+                        province = 16976
 
-						color = { 212 253 253 }
-					}
-					b_nok_dam = {
-						province = 17373
+                        color = { 220 235 200 }
+                    }
+                    b_shang_cheng = {
+                        province = 16604
 
-						color = { 212 253 253 }
-					}
-					b_huidong = {
-						province = 17374
+                        color = { 190 205 170 }
+                    }
+                }
+                c_ma_shy = {
+                    color = { 185 210 175 }
 
-						color = { 212 253 253 }
-					}
-				}
-				c_DALI_jianchang = {
-					color = { 185 225 226 }
+                    b_ma_shy = {
+                        province = 16399
 
-					b_jianchang = {
-						province = 17538
+                        color = { 185 210 175 }
+                    }
+                    b_bwot_lung = {
+                        province = 16289
 
-						color = { 185 225 226 }
-					}
-					b_taideng = {
-						province = 17667
+                        color = { 175 200 165 }
+                    }
+                    b_la_ga = {
+                        province = 16190
 
-						color = { 185 225 226 }
-					}
-					b_baozhai = {
-						province = 17782
+                        color = { 195 220 185 }
+                    }
+                }
+            }
+            d_lung_dong = {
+                color = { 160 190 180 }
 
-						color = { 185 225 226 }
-					}
-				}
-				c_DALI_a_du = {
-					b_a_du = {
-						province = 17747
-					}
-					b_phung_ba = {
-						province = 17611
-					}
-				}
-				c_DALI_khuo = {
-					b_khuo = {
-						province = 17234
-					}
-					b_pu_jjy = {
-						province = 17561
-					}
-				}
-				c_DALI_khiong = {
-					b_khiong = {
-						province = 17912
-					}
-					b_yi_hai_2 = {
-						province = 18429
-					}
-					b_yi_hai = {
-						province = 18531
-					}
-					b_18067 = {
-						province = 18067
-					}
-					b_18125 = {
-						province = 18125
-					}
-					b_18079 = {
-						province = 18079
-					}
-				}
+                c_lung_dung = {
+                    color = { 170 205 195 }
 
-				c_yanjin = {
-					color = { 171 137 33 }
+                    b_lung_dung = {
+                        province = 16626
 
-					b_yanjin_2 = {
-						province = 17790
+                        color = { 170 205 195 }
+                    }
+                    b_me_ddi = {
+                        province = 16680
 
-						color = { 153 245 111 }
-					}
-					b_qianwei_2 = {
-						province = 18013
+                        color = { 180 215 205 }
+                    }
+                }
+                c_ddi_yi = {
+                    color = { 145 175 165 }
 
-						color = { 153 245 111 }
-					}
-					b_yibin_2 = {
-						province = 17842
+                    b_ddi_yi = {
+                        province = 16865
 
-						color = { 153 245 111 }
-					}
-				}
-			}
-			d_tuodong = {
-				c_tuodong = {
-					b_si_cein = {
-						province = 16241
-					}
-					b_chang_kou = {
-						province = 16456
-					}
-					b_laphu_lung = {
-						province = 16134
-					}
-					b_shing_ma = {
-						province = 16376
-					}
-				}
-				c_dzi_khe = {
-					b_dzi_khe = {
-						province = 15948
-					}
-					b_mie_lyr = {
-						province = 15876
-					}
-					b_zhu_yuan = {
-						province = 15797
-					}
-				}
-				c_lu_nai = {
-					b_lu_nai = {
-						province = 16115
-					}
-					b_da_mo = {
-						province = 16228
-					}
-				}
-				c_anning_yn = {
-					b_anning_yn = {
-						province = 16239
-					}
-					b_xinxing_2 = {
-						province = 15925
-					}
-					b_lang_kwong = {
-						province = 15967
-					}
-					b_jinning = {
-						province = 16091
-					}
-					b_liu_jie = {
-						province = 15923
-					}
-				}
-				c_lu_khuon = {
-					b_lu_khuon = {
-						province = 16750
-					}
-					b_li_lung = {
-						province = 16496
-					}
-					b_tang_dian = {
-						province = 16730
-					}
-					b_sa_lao = {
-						province = 16993
-					}
-				}
-			}
-			d_shicheng = {
-				c_shicheng = {
-					b_zhanyi = {
-						province = 16790
-					}
-					b_malong = {
-						province = 16528
-					}
-					b_zhong_an = {
-						province = 16653
-					}
-					b_qilin_yn = {
-						province = 16497
-					}
-					b_yang_chang = {
-						province = 17055
-					}
-				}
-				c_dongchuan = {
-					b_dongchuan = {
-						province = 16959
-					}
-					b_zim_dam = {
-						province = 16702
-					}
-					b_reshui = {
-						province = 17063
-					}
-					b_lo_lu = {
-						province = 16977
-					}
-				}
-				c_u_mung = {
-					b_zhuti = {
-						province = 17541
-					}
-					b_long_tou = {
-						province = 17514
-					}
-					b_a_bang = {
-						province = 17608
-					}
-					b_tanggu = {
-						province = 17392
-					}
-				}
-				c_mo_mie = {
-					b_lai_bin = {
-						province = 17139
-					}
-					b_zhe_hai = {
-						province = 17324
-					}
-					b_majie = {
-						province = 17348
-					}
-				}
-			}
-			d_tonghai = {
-				c_tonghai = {
-					b_tonghai = {
-						province = 15805
-					}
-					b_bien_dam = {
-						province = 15733
-					}
-					b_yuanjiang = {
-						province = 15067
-					}
-					b_malong2 = {
-						province = 15778
-					}
-				}
-				c_goje = {
-					b_goje = {
-						province = 15075
-					}
-					b_ami = {
-						province = 15688
-					}
-					b_bengu = {
-						province = 15076
-					}
-					b_kayongbu = {
-						province = 18320
-					}
-				}
-				c_hohoxe = {
-					b_hohoxe = {
-						province = 15068
-					}
-					b_duo_yi_shu = {
-						province = 15069
-					}
-				}
-				c_butou = {
-					b_shipingyi = {
-						province = 15674
-					}
-					b_huili = {
-						province = 15071
-					}
-					b_qujiang_2 = {
-						province = 15766
-					}
-				}
-			}
-		}
+                        color = { 145 175 165 }
+                    }
+                    b_py_ly = {
+                        province = 16926
+
+                        color = { 135 165 155 }
+                    }
+                }
+                c_wo_lu = {
+                    color = { 180 200 170 }
+
+                    b_wo_lu_dam = {
+                        province = 16290
+
+                        color = { 180 200 170 }
+                    }
+                    b_sufu = {
+                        province = 16185
+
+                        color = { 170 190 160 }
+                    }
+                    b_lu_by = {
+                        province = 16302
+
+                        color = { 190 210 180 }
+                    }
+                }
+                c_shuangbai = {
+                    color = { 155 185 155 }
+
+                    b_shuangbai = {
+                        province = 15995
+
+                        color = { 155 185 155 }
+                    }
+                    b_zi_wu = {
+                        province = 16155
+
+                        color = { 145 175 145 }
+                    }
+                    b_xuchu = {
+                        province = 15893
+
+                        color = { 165 195 165 }
+                    }
+                }
+            }
+            d_yi_du = {
+                color = { 140 160 120 }
+
+                c_yi_du = {
+                    color = { 150 175 130 }
+
+                    b_yi_du = {
+                        province = 17209
+
+                        color = { 150 175 130 }
+                    }
+                    b_moutong = {
+                        province = 17148
+
+                        color = { 140 165 120 }
+                    }
+                    b_yongning_2 = {
+                        province = 17418
+
+                        color = { 160 185 140 }
+                    }
+                }
+                c_kun_ming = {
+                    color = { 125 150 110 }
+
+                    b_kun_ming = {
+                        province = 17532
+
+                        color = { 125 150 110 }
+                    }
+                    b_songwai = {
+                        province = 17419
+
+                        color = { 115 140 100 }
+                    }
+                }
+                c_maso = {
+                    color = { 165 185 145 }
+
+                    b_maso = {
+                        province = 17457
+
+                        color = { 165 185 145 }
+                    }
+                    b_lugu = {
+                        province = 17534
+
+                        color = { 175 195 155 }
+                    }
+                    b_ngwu_dam = {
+                        province = 17210
+
+                        color = { 155 175 135 }
+                    }
+                }
+            }
+            d_koksang = {
+                color = { 100 140 150 }
+
+                c_koksang = {
+                    color = { 110 155 165 }
+
+                    b_nomu = {
+                        province = 17347
+
+                        color = { 120 165 175 }
+                    }
+                    b_koksang = {
+                        province = 17629
+
+                        color = { 110 155 165 }
+                    }
+                }
+                c_lang_kion = {
+                    color = { 90 130 140 }
+
+                    b_miu_lang_kion = {
+                        province = 17156
+
+                        color = { 90 130 140 }
+                    }
+                    b_lang_kion = {
+                        province = 16836
+
+                        color = { 80 120 130 }
+                    }
+                    b_kion_dam = {
+                        province = 16888
+
+                        color = { 100 140 150 }
+                    }
+                }
+                c_deqen = {
+                    color = { 130 170 180 }
+
+                    b_deqen = {
+                        province = 9316
+
+                        color = { 130 170 180 }
+                    }
+                    b_balung = {
+                        province = 9317
+
+                        color = { 140 180 190 }
+                    }
+                }
+            }
+            d_kainan = {
+                color = { 180 160 100 }
+
+                c_kainan = {
+                    color = { 195 175 115 }
+
+                    b_kainan = {
+                        province = 16038
+
+                        color = { 195 175 115 }
+                    }
+                    b_mengtong = {
+                        province = 15777
+
+                        color = { 185 165 105 }
+                    }
+                    b_zhenyuan = {
+                        province = 15721
+
+                        color = { 205 185 125 }
+                    }
+                    b_wenjing = {
+                        province = 15868
+
+                        color = { 175 155 95 }
+                    }
+                }
+                c_buri_yn = {
+                    color = { 165 145 85 }
+
+                    b_buri_yn = {
+                        province = 15062
+
+                        color = { 165 145 85 }
+                    }
+                    b_si_mao = {
+                        province = 18311
+
+                        color = { 155 135 75 }
+                    }
+                    b_tai_dam = {
+                        province = 18291
+
+                        color = { 175 155 95 }
+                    }
+                    b_ma_lung = {
+                        province = 18304
+
+                        color = { 145 125 65 }
+                    }
+                }
+                c_in_yuan = {
+                    color = { 190 170 130 }
+
+                    b_in_yuan = {
+                        province = 15065
+
+                        color = { 190 170 130 }
+                    }
+                    b_tongguan = {
+                        province = 15064
+
+                        color = { 200 180 140 }
+                    }
+                }
+                c_mang_xie = {
+                    color = { 150 130 70 }
+
+                    b_mang_xie = {
+                        province = 18303
+
+                        color = { 150 130 70 }
+                    }
+                    b_mengban = {
+                        province = 15056
+
+                        color = { 140 120 60 }
+                    }
+                    b_yizhi_yn = {
+                        province = 15060
+
+                        color = { 160 140 80 }
+                    }
+                    b_weiyuan = {
+                        province = 15061
+
+                        color = { 130 110 50 }
+                    }
+                    b_mengjia = {
+                        province = 15059
+
+                        color = { 170 150 90 }
+                    }
+                }
+            }
+            d_huichuan = {
+                color = { 110 110 130 }
+
+                c_DALI_huichuan = {
+                    color = { 125 125 145 }
+
+                    b_huichuan = {
+                        province = 17097
+
+                        color = { 125 125 145 }
+                    }
+                    b_nyi_ddix = {
+                        province = 17158
+
+                        color = { 115 115 135 }
+                    }
+                    b_nok_dam = {
+                        province = 17373
+
+                        color = { 135 135 155 }
+                    }
+                    b_huidong = {
+                        province = 17374
+
+                        color = { 105 105 125 }
+                    }
+                }
+                c_DALI_jianchang = {
+                    color = { 90 90 110 }
+
+                    b_jianchang = {
+                        province = 17538
+
+                        color = { 90 90 110 }
+                    }
+                    b_taideng = {
+                        province = 17667
+
+                        color = { 80 80 100 }
+                    }
+                    b_baozhai = {
+                        province = 17782
+
+                        color = { 100 100 120 }
+                    }
+                }
+                c_DALI_a_du = {
+                    color = { 110 100 120 }
+
+                    b_a_du = {
+                        province = 17747
+
+                        color = { 110 100 120 }
+                    }
+                    b_phung_ba = {
+                        province = 17611
+
+                        color = { 100 90 110 }
+                    }
+                }
+                c_DALI_khuo = {
+                    color = { 130 115 135 }
+
+                    b_khuo = {
+                        province = 17234
+
+                        color = { 130 115 135 }
+                    }
+                    b_pu_jjy = {
+                        province = 17561
+
+                        color = { 140 125 145 }
+                    }
+                }
+                c_DALI_khiong = {
+                    color = { 100 110 140 }
+
+                    b_khiong = {
+                        province = 17912
+
+                        color = { 100 110 140 }
+                    }
+                    b_yi_hai_2 = {
+                        province = 18429
+
+                        color = { 90 100 130 }
+                    }
+                    b_yi_hai = {
+                        province = 18531
+
+                        color = { 110 120 150 }
+                    }
+                    b_18067 = {
+                        province = 18067
+
+                        color = { 80 90 120 }
+                    }
+                    b_18125 = {
+                        province = 18125
+
+                        color = { 120 130 160 }
+                    }
+                    b_18079 = {
+                        province = 18079
+
+                        color = { 70 80 110 }
+                    }
+                }
+                c_yanjin = {
+                    color = { 145 145 165 }
+
+                    b_yanjin_2 = {
+                        province = 17790
+
+                        color = { 145 145 165 }
+                    }
+                    b_qianwei_2 = {
+                        province = 18013
+
+                        color = { 135 135 155 }
+                    }
+                    b_yibin_2 = {
+                        province = 17842
+
+                        color = { 155 155 175 }
+                    }
+                }
+            }
+            d_tuodong = {
+                color = { 70 90 110 }
+
+                c_tuodong = {
+                    color = { 85 105 125 }
+
+                    b_si_cein = {
+                        province = 16241
+
+                        color = { 85 105 125 }
+                    }
+                    b_chang_kou = {
+                        province = 16456
+
+                        color = { 75 95 115 }
+                    }
+                    b_laphu_lung = {
+                        province = 16134
+
+                        color = { 95 115 135 }
+                    }
+                    b_shing_ma = {
+                        province = 16376
+
+                        color = { 65 85 105 }
+                    }
+                }
+                c_dzi_khe = {
+                    color = { 55 75 95 }
+
+                    b_dzi_khe = {
+                        province = 15948
+
+                        color = { 55 75 95 }
+                    }
+                    b_mie_lyr = {
+                        province = 15876
+
+                        color = { 45 65 85 }
+                    }
+                    b_zhu_yuan = {
+                        province = 15797
+
+                        color = { 65 85 105 }
+                    }
+                }
+                c_lu_nai = {
+                    color = { 80 100 110 }
+
+                    b_lu_nai = {
+                        province = 16115
+
+                        color = { 80 100 110 }
+                    }
+                    b_da_mo = {
+                        province = 16228
+
+                        color = { 90 110 120 }
+                    }
+                }
+                c_anning_yn = {
+                    color = { 100 120 130 }
+
+                    b_anning_yn = {
+                        province = 16239
+
+                        color = { 100 120 130 }
+                    }
+                    b_xinxing_2 = {
+                        province = 15925
+
+                        color = { 90 110 120 }
+                    }
+                    b_lang_kwong = {
+                        province = 15967
+
+                        color = { 110 130 140 }
+                    }
+                    b_jinning = {
+                        province = 16091
+
+                        color = { 80 100 110 }
+                    }
+                    b_liu_jie = {
+                        province = 15923
+
+                        color = { 120 140 150 }
+                    }
+                }
+                c_lu_khuon = {
+                    color = { 60 85 105 }
+
+                    b_lu_khuon = {
+                        province = 16750
+
+                        color = { 60 85 105 }
+                    }
+                    b_li_lung = {
+                        province = 16496
+
+                        color = { 50 75 95 }
+                    }
+                    b_tang_dian = {
+                        province = 16730
+
+                        color = { 70 95 115 }
+                    }
+                    b_sa_lao = {
+                        province = 16993
+
+                        color = { 40 65 85 }
+                    }
+                }
+            }
+            d_shicheng = {
+                color = { 140 130 150 }
+
+                c_shicheng = {
+                    color = { 155 145 165 }
+
+                    b_zhanyi = {
+                        province = 16790
+
+                        color = { 155 145 165 }
+                    }
+                    b_malong = {
+                        province = 16528
+
+                        color = { 145 135 155 }
+                    }
+                    b_zhong_an = {
+                        province = 16653
+
+                        color = { 165 155 175 }
+                    }
+                    b_qilin_yn = {
+                        province = 16497
+
+                        color = { 135 125 145 }
+                    }
+                    b_yang_chang = {
+                        province = 17055
+
+                        color = { 175 165 185 }
+                    }
+                }
+                c_dongchuan = {
+                    color = { 120 110 130 }
+
+                    b_dongchuan = {
+                        province = 16959
+
+                        color = { 120 110 130 }
+                    }
+                    b_zim_dam = {
+                        province = 16702
+
+                        color = { 110 100 120 }
+                    }
+                    b_reshui = {
+                        province = 17063
+
+                        color = { 130 120 140 }
+                    }
+                    b_lo_lu = {
+                        province = 16977
+
+                        color = { 100 90 110 }
+                    }
+                }
+                c_u_mung = {
+                    color = { 165 155 180 }
+
+                    b_zhuti = {
+                        province = 17541
+
+                        color = { 165 155 180 }
+                    }
+                    b_long_tou = {
+                        province = 17514
+
+                        color = { 155 145 170 }
+                    }
+                    b_a_bang = {
+                        province = 17608
+
+                        color = { 175 165 190 }
+                    }
+                    b_tanggu = {
+                        province = 17392
+
+                        color = { 145 135 160 }
+                    }
+                }
+                c_mo_mie = {
+                    color = { 105 95 125 }
+
+                    b_lai_bin = {
+                        province = 17139
+
+                        color = { 105 95 125 }
+                    }
+                    b_zhe_hai = {
+                        province = 17324
+
+                        color = { 95 85 115 }
+                    }
+                    b_majie = {
+                        province = 17348
+
+                        color = { 115 105 135 }
+                    }
+                }
+            }
+            d_tonghai = {
+                color = { 130 140 100 }
+
+                c_tonghai = {
+                    color = { 145 155 115 }
+
+                    b_tonghai = {
+                        province = 15805
+
+                        color = { 145 155 115 }
+                    }
+                    b_bien_dam = {
+                        province = 15733
+
+                        color = { 135 145 105 }
+                    }
+                    b_yuanjiang = {
+                        province = 15067
+
+                        color = { 155 165 125 }
+                    }
+                    b_malong2 = {
+                        province = 15778
+
+                        color = { 125 135 95 }
+                    }
+                }
+                c_goje = {
+                    color = { 115 125 85 }
+
+                    b_goje = {
+                        province = 15075
+
+                        color = { 115 125 85 }
+                    }
+                    b_ami = {
+                        province = 15688
+
+                        color = { 105 115 75 }
+                    }
+                    b_bengu = {
+                        province = 15076
+
+                        color = { 125 135 95 }
+                    }
+                    b_kayongbu = {
+                        province = 18320
+
+                        color = { 95 105 65 }
+                    }
+                }
+                c_hohoxe = {
+                    color = { 150 160 130 }
+
+                    b_hohoxe = {
+                        province = 15068
+
+                        color = { 150 160 130 }
+                    }
+                    b_duo_yi_shu = {
+                        province = 15069
+
+                        color = { 140 150 120 }
+                    }
+                }
+                c_butou = {
+                    color = { 100 110 70 }
+
+                    b_shipingyi = {
+                        province = 15674
+
+                        color = { 100 110 70 }
+                    }
+                    b_huili = {
+                        province = 15071
+
+                        color = { 90 100 60 }
+                    }
+                    b_qujiang_2 = {
+                        province = 15766
+
+                        color = { 110 120 80 }
+                    }
+                }
+            }
+        }
+
 	}
 
 	e_lingnan = {
