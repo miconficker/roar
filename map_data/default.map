@@ -262,7 +262,7 @@ impassable_mountains = RANGE { 7452 7454 }
 
 #Tarim Basin
 impassable_mountains = LIST { 1347 12923 12924 } #Taklamakan
-impassable_mountains = LIST { 1408 9621 9665 9667 9668 9670 } #Gobi Desert
+impassable_mountains = LIST { 1408 9621 9665 9667 9668 } #Gobi Desert
 
 #Tartaria Mountains
 #impassable_mountains = RANGE { 8704 8708 }	#Altaishan
@@ -378,7 +378,7 @@ impassable_mountains = LIST { 9672 }
 impassable_mountains = LIST { 15102 15361 15383 15431 15542 15623 15934 16110 17539 17636 17896 17903 18032 18189 18196 15476 }
 
 # China
-impassable_mountains = LIST { 8540 8543 17530 }
+impassable_mountains = LIST { 8540 8543 17530 18476 17816 }
 
 # Kurils
 impassable_mountains = LIST { 16332 15972 15574 15356 17024 }
@@ -394,3 +394,6 @@ impassable_mountains = LIST { 12881 15920 15348 15031 15033 17622 17824 15027 17
 
 # Mainland SEA
 impassable_mountains = LIST { 15369 16017 17080 18153 18331 18339 18387 18394 18404 }
+
+# Central Asia
+impassable_mountains = LIST { 18511 }
