@@ -96,10 +96,6 @@ mpo_867_tributary_setup_effect = {
 		character:188852 = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
-	}
-
-	character:188834 = {
-		save_scope_as = suzerain
 		character:fictional_karluks_16 = {
 			break_subject_contract_and_establish_tributary_effect = { SUZERAIN = scope:suzerain TRIBUTARY = this }
 		}
